@@ -25,4 +25,20 @@ with open("dataset\\response.txt", 'r', encoding='utf-8') as file:
 response = format_json_string(response)
 print(response)
 
+# Extract the sentences with REGEX
+sentences_regex = extract_reference(pdf_text, response['references'][9]['id'])
+print(f"Sentences with REGEX:\n{sentences_regex}")
+
+
+# Extract the sentences with LLM
+prompt_refs = f"""
+Extract the sentences that contains the reference [{response['references'][0]['id']}] in provide text and response with a list of sentences.
+If the reference is not explicitly found, return "not found".
+
+Use the next text to search the reference:
+
+"""
+sentences_llm = call_gpt(prompt_refs, pdf_text)
+print(f"Sentences with LLM:\n{sentences_llm}")
+
 print('End of the program')
