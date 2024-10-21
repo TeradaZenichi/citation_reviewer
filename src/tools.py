@@ -45,3 +45,14 @@ def identify_reference_section(text):
         reference_text = reference_text[:end_pos]
 
     return reference_text.strip()
+
+
+def extract_reference(text, reference_number):
+    # Find sentences containing the reference number
+    pattern = r'([^.]*?\[' + str(reference_number) + r'\][^.]*\.)'
+    matches = re.findall(pattern, text)
+    # If no matches found, return "not found"
+    if not matches:
+        return "not found"
+
+    return matches
