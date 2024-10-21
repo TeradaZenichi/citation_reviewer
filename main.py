@@ -18,6 +18,13 @@ response = format_json_string(response)
 
 metadata = apis.crossref(response['title'])
 
+references_metadata = []
+
+for reference in response['references']:
+    reference_metadata = apis.crossref(reference['title'])
+    references_metadata.append(reference_metadata)
+
+
 doi = metadata['doi']
 
 print('End of the program')
