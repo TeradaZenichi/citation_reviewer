@@ -1,0 +1,361 @@
+Here's a JSON file structure that organizes the references based on the details provided:
+
+```json
+{
+  "references": [
+    {
+      "id": 1,
+      "authors": ["P. P. Ray"],
+      "title": "ChatGPT: A comprehensive review on background, applications, key challenges, bias, ethics, limitations and future scope",
+      "year": 2023,
+      "journal": "Internet of Things and Cyber -Physical Systems",
+      "volume": 3,
+      "pages": "121-154",
+      "doi": "10.1016/j.iotcps.2023.04.003"
+    },
+    {
+      "id": 2,
+      "authors": ["R. Gozalo -Brizuela", "E. C. Garrido -Merchan"],
+      "title": "ChatGPT is not all you need. A State of the Art Review of large Generative AI models.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "Jan. 11, 2023",
+      "doi": "10.48550/arXiv.2301.04655"
+    },
+    {
+      "id": 3,
+      "authors": ["J. Kocoń", "et al."],
+      "title": "ChatGPT: Jack of all trades, master of none",
+      "year": 2023,
+      "journal": "Information Fusion",
+      "volume": 99,
+      "pages": "101861",
+      "doi": "10.1016/j.inffus.2023.101861"
+    },
+    {
+      "id": 4,
+      "authors": ["B. Bembi"],
+      "title": "The Brilliance and Weirdness of ChatGPT",
+      "year": 2023,
+      "journal": "Medium",
+      "date": "May 18, 2023",
+      "url": "https://ai.plainenglish.io/the-brilliance-and-weirdness-of-chatgpt-67ee118b046c"
+    },
+    {
+      "id": 5,
+      "authors": ["M. U. Haque", "I. Dharmadasa", "Z. T. Sworna", "R. N. Rajapakse", "H. Ahmad"],
+      "title": "'I think this is the most disruptive technology': Exploring Sentiments of ChatGPT Early Adopters using Twitter 
+Data.",
+      "year": 2022,
+      "journal": "arXiv",
+      "date": "Dec. 12, 2022",
+      "doi": "10.48550/arXiv.2212.05856"
+    },
+    {
+      "id": 6,
+      "authors": ["B. Gordijn", "H. ten Have"],
+      "title": "ChatGPT: evolution or revolution?",
+      "year": 2023,
+      "journal": "Med Health Care and Philos",
+      "volume": 26,
+      "issue": 1,
+      "pages": "1-2",
+      "doi": "10.1007/s11019-023-10136-0"
+    },
+    {
+      "id": 7,
+      "authors": ["V. Taecharungroj"],
+      "title": "'What Can ChatGPT Do?' Analyzing Early Reactions to the Innovative AI Chatbot on Twitter",
+      "year": 2023,
+      "journal": "Big Data and Cognitive Computing",
+      "volume": 7,
+      "issue": 1,
+      "art_no": "1",
+      "doi": "10.3390/bdcc7010035"
+    },
+    {
+      "id": 8,
+      "authors": ["G. Cooper"],
+      "title": "Examining Science Education in ChatGPT: An Exploratory Study of Generative Artificial Intelligence",
+      "year": 2023,
+      "journal": "J Sci Educ Technol",
+      "volume": 32,
+      "issue": 3,
+      "pages": "444-452",
+      "doi": "10.1007/s10956-023-10039-y"
+    },
+    {
+      "id": 9,
+      "authors": ["J. Wang", "et al."],
+      "title": "On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "Mar. 29, 2023",
+      "doi": "10.48550/arXiv.2302.12095"
+    },
+    {
+      "id": 10,
+      "authors": ["J. Deng", "Y. Lin"],
+      "title": "The Benefits and Challenges of ChatGPT: An Overview",
+      "year": 2022,
+      "journal": "Frontiers in Computing and Intelligent Systems",
+      "volume": 2,
+      "issue": 2,
+      "art_no": "2",
+      "doi": "10.54097/fcis.v2i2.4465"
+    },
+    {
+      "id": 11,
+      "authors": ["A. Borji"],
+      "title": "A Categorical Archive of ChatGPT Failures.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "Apr. 03, 2023",
+      "doi": "10.48550/arXiv.2302.03494"
+    },
+    {
+      "id": 12,
+      "authors": ["A. M. A. Ausat", "B. Massang", "M. Efendi", "N. Nofirman", "Y. Riady"],
+      "title": "Can Chat GPT Replace the Role of the Teacher in the Classroom: A Fundamental Analysis",
+      "year": 2023,
+      "journal": "Journal on Education",
+      "volume": 5,
+      "issue": 4,
+      "art_no": "4",
+      "doi": "10.31004/joe.v5i4.2745"
+    },
+    {
+      "id": 13,
+      "authors": ["B. D. Lund", "T. Wang"],
+      "title": "Chatting about ChatGPT: how may AI and GPT impact academia and libraries?",
+      "year": 2023,
+      "journal": "Library Hi Tech News",
+      "volume": 40,
+      "issue": 3,
+      "pages": "26-29",
+      "doi": "10.1108/LHTN-01-2023-0009"
+    },
+    {
+      "id": 14,
+      "authors": ["S. Biswas"],
+      "title": "Role of Chat GPT in Education.",
+      "year": 2023,
+      "journal": "Rochester, NY",
+      "date": "Feb. 25, 2023",
+      "url": "https://papers.ssrn.com/abstract=4369981"
+    },
+    {
+      "id": 15,
+      "authors": ["M. Shidiq"],
+      "title": "The use of artificial intelligence-based Chat-GPT and its challenges for the world of education: from the viewpoint of the development of creative writing skills",
+      "year": 2023,
+      "journal": "Proceedings of International Conference on Education, Society and Humanity",
+      "volume": 1,
+      "issue": 1,
+      "art_no": "1",
+      "date": "May 2023"
+    },
+    {
+      "id": 16,
+      "authors": ["C. Macdonald", "D. Adeloye", "A. Sheikh", "I. Rudan"],
+      "title": "Can ChatGPT draft a research article? An example of population-level vaccine effectiveness analysis",
+      "year": 2023,
+      "journal": "J Glob Health",
+      "volume": 13,
+      "pages": "01003",
+      "doi": "10.7189/jogh.13.01003"
+    },
+    {
+      "id": 17,
+      "authors": ["N. Curtis", "ChatGPT"],
+      "title": "To ChatGPT or not to ChatGPT? The Impact of Artificial Intelligence on Academic Publishing",
+      "year": 2023,
+      "journal": "The Pediatric Infectious Disease Journal",
+      "volume": 42,
+      "issue": 4,
+      "pages": "275",
+      "doi": "10.1097/INF.0000000000003852"
+    },
+    {
+      "id": 18,
+      "authors": ["A. Tlili", "et al."],
+      "title": "What if the devil is my guardian angel: ChatGPT as a case study of using chatbots in education",
+      "year": 2023,
+      "journal": "Smart Learn. Environ.",
+      "volume": 10,
+      "issue": 1,
+      "pages": "15",
+      "doi": "10.1186/s40561-023-00237-x"
+    },
+    {
+      "id": 19,
+      "authors": ["X. Zhai"],
+      "title": "ChatGPT User Experience: Implications for Education.",
+      "year": 2022,
+      "journal": "Rochester, NY",
+      "date": "Dec. 27, 2022",
+      "doi": "10.2139/ssrn.4312418"
+    },
+    {
+      "id": 20,
+      "authors": ["C. Wu", "S. Yin", "W. Qi", "X. Wang", "Z. Tang", "N. Duan"],
+      "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "Mar. 08, 2023",
+      "doi": "10.48550/arXiv.2303.04671"
+    },
+    {
+      "id": 21,
+      "authors": ["B. D. Lund", "T. Wang", "N. R. Mannuru", "B. Nie", "S. Shimray", "Z. Wang"],
+      "title": "ChatGPT and a new academic reality: Artificial Intelligence-written research papers and the ethics of the large language models in scholarly publishing",
+      "year": 2023,
+      "journal": "Journal of the Association for Information Science and Technology",
+      "volume": 74,
+      "issue": 5,
+      "pages": "570-581",
+      "doi": "10.1002/asi.24750"
+    },
+    {
+      "id": 22,
+      "authors": ["H. H. Thorp"],
+      "title": "ChatGPT is fun, but not an author",
+      "year": 2023,
+      "journal": "Science",
+      "volume": 379,
+      "issue": 6630,
+      "pages": "313-313",
+      "doi": "10.1126/science.adg7879"
+    },
+    {
+      "id": 23,
+      "authors": ["C. A. Gao", "et al."],
+      "title": "Comparing scientific abstracts generated by ChatGPT to original abstracts using an artificial intelligence output detector, plagiarism detector, and blinded human reviewers.",
+      "year": 2022,
+      "journal": "bioRxiv",
+      "pages": "2022.12.23.521610",
+      "date": "Dec. 27, 2022",
+      "doi": "10.1101/2022.12.23.521610"
+    },
+    {
+      "id": 24,
+      "authors": ["S. B. Patel", "K. Lam"],
+      "title": "ChatGPT: the future of discharge summaries?",
+      "year": 2023,
+      "journal": "The Lancet Digital Health",
+      "volume": 5,
+      "issue": 3,
+      "pages": "e107-e108",
+      "doi": "10.1016/S2589-7500(23)00021-3"
+    },
+    {
+      "id": 25,
+      "authors": ["M. Khalil", "E. Er"],
+      "title": "Will ChatGPT get you caught? Rethinking of Plagiarism Detection.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "Feb. 08, 2023",
+      "doi": "10.48550/arXiv.2302.04335"
+    },
+    {
+      "id": 26,
+      "authors": ["N. Fijačko", "L. Gosak", "G. Štiglic", "C. T. Picard", "M. J. Douma"],
+      "title": "Can ChatGPT pass the life support exams without entering the American heart association course?",
+      "year": 2023,
+      "journal": "Resuscitation",
+      "volume": 185,
+      "doi": "10.1016/j.resuscitation.2023.109732"
+    },
+    {
+      "id": 27,
+      "authors": ["A. Haleem", "M. Javaid", "R. P. Singh"],
+      "title": "An era of ChatGPT as a significant futuristic support tool: A study on features, abilities, and challenges",   
+      "year": 2022,
+      "journal": "BenchCouncil Transactions on Benchmarks, Standards and Evaluations",
+      "volume": 2,
+      "issue": 4,
+      "pages": "100089",
+      "doi": "10.1016/j.tbench.2023.100089"
+    },
+    {
+      "id": 28,
+      "authors": ["E. L. Hill -Yardin", "M. R. Hutchinson", "R. Laycock", "S. J. Spencer"],
+      "title": "A Chat(GPT) about the future of scientific publishing",
+      "year": 2023,
+      "journal": "Brain Behav Immun",
+      "volume": 110,
+      "pages": "152-154",
+      "doi": "10.1016/j.bbi.2023.02.022"
+    },
+    {
+      "id": 29,
+      "authors": ["H. Hassani", "E. S. Silva"],
+      "title": "The Role of ChatGPT in Data Science: How AI-Assisted Conversational Interfaces Are Revolutionizing the Field", 
+      "year": 2023,
+      "journal": "Big Data and Cognitive Computing",
+      "volume": 7,
+      "issue": 2,
+      "art_no": "2",
+      "doi": "10.3390/bdcc7020062"
+    },
+    {
+      "id": 30,
+      "authors": ["D. Mhlanga"],
+      "title": "Open AI in Education, the Responsible and Ethical Use of ChatGPT Towards Lifelong Learning.",
+      "year": 2023,
+      "journal": "Rochester, NY",
+      "date": "Feb. 11, 2023",
+      "doi": "10.2139/ssrn.4354422"
+    },
+    {
+      "id": 31,
+      "authors": ["M. J. Ali", "A. Djalilian"],
+      "title": "Readership Awareness Series – Paper 4: Chatbots and ChatGPT - Ethical Considerations in Scientific Publications",
+      "year": 2023,
+      "journal": "Seminars in Ophthalmology",
+      "volume": 38,
+      "issue": 5,
+      "pages": "403-404",
+      "doi": "10.1080/08820538.2023.2193444"
+    },
+    {
+      "id": 32,
+      "authors": ["T. Y. Zhuo", "Y. Huang", "C. Chen", "Z. Xing"],
+      "title": "Red teaming ChatGPT via Jailbreaking: Bias, Robustness, Reliability and Toxicity.",
+      "year": 2023,
+      "journal": "arXiv",
+      "date": "May 29, 2023",
+      "doi": "10.48550/arXiv.2301.12867"
+    },
+    {
+      "id": 33,
+      "authors": ["R. W. McGee"],
+      "title": "Is Chat Gpt Biased Against Conservatives? An Empirical Study.",
+      "year": 2023,
+      "journal": "Rochester, NY",
+      "date": "Feb. 15, 2023",
+      "doi": "10.2139/ssrn.4359405"
+    },
+    {
+      "id": 34,
+      "authors": ["S. Biswas"],
+      "title": "The Function of chat GPT in Social Media: According to chat GPT.",
+      "year": 2023,
+      "journal": "Rochester, NY",
+      "date": "Mar. 30, 2023",
+      "doi": "10.2139/ssrn.4405389"
+    },
+    {
+      "id": 35,
+      "authors": ["M. G. Southern"],
+      "title": "Massive Leak Of ChatGPT Credentials: Over 100,000 Accounts Affected",
+      "year": 2023,
+      "journal": "Search Engine Journal",
+      "date": "Jun. 20, 2023",
+      "url": "https://www.searchenginejournal.com/massive-leak-of-chatgpt-credentials-over-100000-accounts-affected/489801/"   
+    }
+  ]
+}
+```
+
+This structure provides a comprehensive and organized representation of the references, making it easy to access key details for each one.
