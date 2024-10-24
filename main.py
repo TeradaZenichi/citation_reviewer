@@ -1,6 +1,7 @@
 from src.string2json import format_json_string
 from src.tools import pdf_to_text
 from src.llm import call_gpt
+import src.apis as apis
 
 
 
@@ -14,5 +15,21 @@ if pdf_text:
     print(response)
 
 response = format_json_string(response)
+
+metadata = apis.crossref(response['title'])
+
+references_metadata = []
+
+for reference in response['references']:
+    reference_metadata = apis.crossref(reference['title'])
+    references_metadata.append(reference_metadata)
+    prompt = f"Return the sentence where the refence {reference['title']} is cited in the paper. If you don't find the reference, return an empty string."
+    response = call_gpt(prompt, pdf_text)
+    print('stop')
+
+
+
+
+doi = metadata['doi']
 
 print('End of the program')
