@@ -7,7 +7,7 @@ def call_gpt(prompt, context):
     
     # Fazer a chamada para a API
     completion = client.chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=[
             {"role": "system", "content": context},
             {"role": "user", "content": prompt}
