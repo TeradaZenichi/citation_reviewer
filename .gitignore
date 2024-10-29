@@ -135,6 +135,9 @@ cython_debug/
 
 PeerRead/
 
+<<<<<<< HEAD
 dataset\rejected_papers.json
 dataset\accepted_papers.json
 dataset\combined_papers.json
+=======
+>>>>>>> 2b0bb57 (change apis folde, and improve crossref search)
