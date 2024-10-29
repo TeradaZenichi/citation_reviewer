@@ -1,3 +1,0 @@
-dataset/accepted_papers.json filter=lfs diff=lfs merge=lfs -text
-dataset/combined_papers.json filter=lfs diff=lfs merge=lfs -text
-dataset/rejected_papers.json filter=lfs diff=lfs merge=lfs -text
