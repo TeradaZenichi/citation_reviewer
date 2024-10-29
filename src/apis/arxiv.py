@@ -20,9 +20,12 @@ def arxiv(title, max_results=1):
                 "pdf_url": entry.find('{http://www.w3.org/2005/Atom}link[@title="pdf"]').attrib['href']
             }
             results.append(article)
-        return results
+        if len(results) == 0:
+            print("arXiv: Nenhum artigo encontrado.")
+            return None
+        return results[0]
     else:
-        print(f"Erro na requisição: {response.status_code}")
+        print(f"arXiv: Erro na requisição: {response.status_code}")
         return None
 
 def download_pdf(pdf_url, filename="paper.pdf"):
@@ -30,10 +33,10 @@ def download_pdf(pdf_url, filename="paper.pdf"):
     if response.status_code == 200:
         with open(filename, "wb") as f:
             f.write(response.content)
-        print(f"PDF baixado com sucesso: {filename}")
+        print(f"arXiv: PDF baixado com sucesso: {filename}")
         return filename
     else:
-        print(f"Erro ao baixar o PDF: {response.status_code}")
+        print(f"arXiv: Erro ao baixar o PDF: {response.status_code}")
         return None
 
 def extract_text_from_pdf(pdf_path):
@@ -48,10 +51,10 @@ def extract_text_from_pdf(pdf_path):
 def get_paper_content(title):
     articles = arxiv(title)
     if not articles:
-        print("Artigo não encontrado.")
+        print("arXiv: Artigo não encontrado.")
         return None
     
-    article = articles[0]  # Assume que o primeiro resultado é o correto
+    article = articles  # Assume que o primeiro resultado é o correto
     
     # Passo 1: Obtenha o abstract via metadados
     paper_data = {
@@ -66,13 +69,15 @@ def get_paper_content(title):
         
         # Remove o PDF após a extração do texto
         os.remove(pdf_path)
-        print(f"PDF removido: {pdf_path}")
+        print(f"arXiv: PDF removido: {pdf_path}")
     
     return paper_data
 
-# # Exemplo de uso
-# title = "Supervised Feature Selection via Dependence Estimation"
-# paper_content = get_paper_content(title)
-# if paper_content:
-#     print("Abstract:", paper_content["abstract"])
-#     print("Texto completo (primeiros 1000 caracteres):", paper_content["full_text"][:1000])
+if __name__ == "__main__":
+    title = "Very deep convolutional networks for large-scale image recognition"
+    paper_content = get_paper_content(title)
+    if paper_content:
+        print("Abstract:", paper_content["abstract"])
+        print("Texto completo (primeiros 1000 caracteres):", paper_content["full_text"][:1000])
+
+        print("Fim do programa")

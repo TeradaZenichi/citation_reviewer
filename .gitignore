@@ -135,6 +135,7 @@ cython_debug/
 
 PeerRead/
 
-dataset\rejected_papers.json
-dataset\accepted_papers.json
-dataset\combined_papers.json
+dataset/rejected_papers.json
+dataset/accepted_papers.json
+dataset/combined_papers.json
+report.csv

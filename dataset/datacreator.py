@@ -18,6 +18,17 @@ for pdf_file in os.listdir(pdf_dir):
         with open(os.path.join(pdf_dir, pdf_file), 'r', encoding='utf-8') as f:
             paper_info = json.load(f)
         
+        # Converte sections em texto corrido se for uma lista
+        sections = paper_info["metadata"].get("sections")
+        if isinstance(sections, list):
+            full_text = " ".join(
+                f"{section.get('heading', '')} {section.get('text', '')}".strip()
+                for section in sections
+            )
+            paper_info["metadata"]["sections"] = full_text
+        else:
+            paper_info["metadata"]["sections"] = ""
+
         # Extrai o ID do paper
         paper_id = paper_info['name'].replace('.pdf', '')
 
