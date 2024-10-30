@@ -1,9 +1,79 @@
 import xml.etree.ElementTree as ET
 import requests
+import arxiv
 import fitz  # PyMuPDF
 import os
 
-def arxiv(title, max_results=1):
+
+def search_by_library(title):
+    client = arxiv.Client()
+    # Perform an exact title search
+    search = arxiv.Search(
+        query=f"ti:\"{title}\"",
+        max_results=1
+    )
+    try:
+        # Get the first result found
+        article = next(client.results(search))
+        print(f"Article found: {article.title}")
+
+        # Extract metadata
+        metadata = {
+            "title": article.title,
+            "authors": article.authors,
+            "year": article.published.year,
+            "summary": article.summary,
+            "id": article.entry_id,
+            "url": article.pdf_url
+        }
+        return metadata
+    except StopIteration:
+        print("Article not found.")
+        return None
+
+
+
+def download_by_library(article_id, filename="downloaded_article.pdf", directory="./"):
+    # Remove o prefixo "http://arxiv.org/abs/" do ID, se presente
+    if "http" in article_id:
+        article_id = article_id.split("/")[-1]
+    
+    if article_id:
+        # Define a busca pelo ID do artigo
+        search = arxiv.Search(id_list=[article_id])
+        article = next(arxiv.Client().results(search), None)
+        
+        if article is None:
+            print("Article not found.")
+            return None
+        
+        # Define o caminho completo para o arquivo PDF
+        pdf_path = os.path.join(directory, filename)
+        
+        # Baixa o PDF
+        article.download_pdf(dirpath=directory, filename=filename)
+        print(f"Article downloaded as '{filename}' in directory '{directory}'.")
+
+        # Extrai o texto do PDF
+        with fitz.open(pdf_path) as pdf:
+            text = ""
+            for page in pdf:
+                text += page.get_text()
+
+        # Remove o PDF após a extração
+        os.remove(pdf_path)
+        print("PDF removed after text extraction.")
+        return text
+    else:
+        print("No article ID provided.")
+        return None
+
+
+
+
+
+
+def arxivref(title, max_results=1):
     base_url = "http://export.arxiv.org/api/query?"
     query = f"search_query=ti:\"{title}\"&max_results={max_results}"
     response = requests.get(base_url + query)
@@ -73,6 +143,10 @@ def get_paper_content(title):
     
     return paper_data
 
+
+
+
+
 if __name__ == "__main__":
     title = "Very deep convolutional networks for large-scale image recognition"
     paper_content = get_paper_content(title)
@@ -81,3 +155,4 @@ if __name__ == "__main__":
         print("Texto completo (primeiros 1000 caracteres):", paper_content["full_text"][:1000])
 
         print("Fim do programa")
+
