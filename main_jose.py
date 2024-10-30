@@ -3,6 +3,7 @@ from src.sentences.extract import *
 import pandas as pd
 import json
 
+"""
 filename = "dataset/combined_papers.json"
 
 # read data in dataset\combined_papers.json
@@ -24,7 +25,17 @@ for refs in references:
 
 print(references)
 
-# references, report = check.fill(references)
+references, report = check.fill(references)
+
+#Save the references to a file
+with open("references.json", "w", encoding="utf-8") as f:
+    json.dump(references, f, ensure_ascii=False, indent=4)
+"""
+
+# Load the references from a file
+with open("references.json", "r", encoding="utf-8") as f:
+    references = json.load(f)
+
 
 # convert report dict to DataFrame
 # report_df = pd.DataFrame(report)
