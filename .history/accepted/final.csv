@@ -1,0 +1,23 @@
+,Unnamed: 0,abstract,pdf,Unnamed: 0,context_recall,factual_correctness,faithfulness,semantic_similarity
+0,ImageNet Large Scale Visual Recognition Challenge,arxiv Library,arxiv Library,0,1.0,,,0.856805612969177
+1,Imagenet classification with deep convolutional neural networks,crossref,,1,,0.43,,0.8589967071121247
+2,Very deep convolutional networks for large-scale image recognition,,,2,1.0,,0.0,0.6910901921933139
+3,Deep residual learning for image recognition,arxiv Library,arxiv Library,3,,0.2,,0.8339916706645394
+4,Visualizing higher-layer features of a deep network,,,4,1.0,,0.0,0.6723455334105475
+5,Deep inside convolutional networks: Visualising image classification models and saliency maps,arxiv Library,arxiv Library,5,1.0,0.2,0.4285714285714285,0.8641958625655146
+6,Understanding deep image representations by inverting them,arxiv Library,arxiv Library,6,1.0,0.0,0.0,0.8217210628469493
+7,Texture synthesis using convolutional neural networks,arxiv Library,arxiv Library,7,1.0,,,0.8750418694617361
+8,Understanding neural networks through deep visualization,arxiv Library,arxiv Library,8,1.0,,0.4285714285714285,0.8931216304862546
+9,Inverting visual representations with convolutional networks,arxiv Library,arxiv Library,9,1.0,0.13,0.4285714285714285,0.8621194554680458
+10,Deep neural networks are easily fooled: High confidence predictions for unrecognizable images,arxiv Library,arxiv Library,10,,0.0,,0.807342838716328
+11,Texture synthesis and the controlled generation of natural stimuli using convolutional neural networks,,,11,1.0,,0.0,0.6710957215465371
+12,A neural algorithm of artistic style,arxiv Library,arxiv Library,12,,0.0,0.0625,0.8548951690187288
+13,Exploring the neural algorithm of artistic style,arxiv Library,arxiv Library,13,1.0,0.0,0.0,0.8335982410609087
+14,Perceptual losses for real-time style transfer and superresolution,,,14,1.0,,0.0,0.6780113296904071
+15,Multifaceted feature visualization: Uncovering the different types of features learned by each neuron in deep neural networks,arxiv Library,arxiv Library,15,1.0,0.18,0.5,0.8604430777001966
+16,Understanding intra-class knowledge inside CNN,,,16,1.0,,0.0,0.6867787692321815
+17,Generating images with perceptual similarity metrics based on deep networks,arxiv Library,arxiv Library,17,1.0,0.14,0.0,0.8296665384250304
+18,Texture networks: Feedforward synthesis of textures and stylized images,,,18,1.0,,0.0,0.690954778166431
+19,Generative adversarial nets,crossref,,19,,,0.0,0.6969143227829968
+20,Caffe: Convolutional architecture for fast feature embedding,arxiv Library,arxiv Library,20,1.0,0.0,0.0,0.8487045219649607
+21,Deep manifold traversal: Changing labels with convolutional features,arxiv Library,arxiv Library,21,1.0,0.0,0.0,0.7841193421808299

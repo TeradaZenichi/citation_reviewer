@@ -20,7 +20,7 @@ def evaluation(references):
             reference=ref['abstract'] if ref['abstract'] else "Abstract não disponível",
             retrieved_contexts=[ref['abstract']] if ref['abstract'] else ["Abstract não disponível"]
         )
-        for ref in references if ref['abstract']  # Ignorar referências sem abstract
+        for ref in references  # Ignorar referências sem abstract
     ]
     
     # Verificação para evitar dataset vazio

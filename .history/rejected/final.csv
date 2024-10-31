@@ -1,0 +1,16 @@
+,Unnamed: 0,abstract,pdf,Unnamed: 0,context_recall,factual_correctness,faithfulness,semantic_similarity
+0,Representation learning: A review and new perspectives,arxiv Library,arxiv Library,0,1.0,0.0,,0.8089297508130873
+1,A committee of neural networks for traffic sign classification,crossref,,1,1.0,,,0.7019992364069709
+2,Learning to forget: Continual prediction with LSTM,crossref,,2,1.0,0.0,0.0,0.8395602249508846
+3,Understanding the difficulty of training deep feedforward neural networks,,,3,1.0,,,0.7019992364069709
+4,Computational limitations of small-depth circuits,,,4,1.0,,,0.7019992364069709
+5,On the power of small-depth threshold circuits,crossref,,5,1.0,,,0.7019992364069709
+6,Delving deep into rectifiers: Surpassing human-level performance on ImageNet classification,crossref,,6,1.0,,0.0,0.6724637278516504
+7,Long short term memory,,,7,1.0,,,0.7019992364069709
+8,Imagenet classification with deep convolutional neural networks,crossref,,8,1.0,0.15,0.5,0.8556291838999172
+9,URL http://jmlr.org/ proceedings/papers/v38/lee15a.html,,,9,1.0,,0.0,0.7034563326348927
+10,FitNets: Hints for thin deep nets,arxiv Library,arxiv Library,10,1.0,0.0,0.0,0.8606850108651661
+11,Exact solutions to the nonlinear dynamics of learning in deep linear neural networks,arxiv Library,arxiv Library,11,1.0,0.24,0.0,0.8422435190673105
+12,Very deep convolutional networks for large-scale image recognition,,,12,1.0,,,0.7019992364069709
+13,Understanding locally competitive networks,arxiv Library,arxiv Library,13,1.0,0.31,0.0,0.8131862528740597
+14,Going deeper with convolutions,arxiv Library,arxiv Library,14,1.0,0.13,0.0,0.8429157654858612
