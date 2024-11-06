@@ -1,5 +1,5 @@
 from ragas import SingleTurnSample, EvaluationDataset
-from ragas.metrics import Faithfulness
+from ragas.metrics import Faithfulness, SemanticSimilarity
 from ragas.llms import LangchainLLMWrapper
 from ragas.embeddings import LangchainEmbeddingsWrapper
 from langchain_openai import ChatOpenAI
@@ -28,14 +28,16 @@ def citations_dataset(references):
     samples = []
     for ref in references:
         # Joint the sentences that contain the citation
-        sentences = "\n".join(ref["sentences"])
+        # sentences = "\n".join(ref["sentence"])
+        sentences = ref["sentence"]
         abstract = ref["abstract"]
         # Create a SingleTurnSample object
         sample = SingleTurnSample(
-            # response=sentences,
-            user_input=sentences,
+            response=sentences,
+            # user_input=sentences,
             # retrieved_contexts=[abstract],
-            response=abstract,
+            # response=abstract,
+            reference=abstract,
         )
         samples.append(sample)
 
@@ -43,12 +45,15 @@ def citations_dataset(references):
 
 
 def calculate_metrics(references):
-    os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+    # os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY")
+    os.environ["OPENAI_API_KEY"] = os.getenv("OPENAI_API_KEY_EMB")
 
     evaluator_llm = LangchainLLMWrapper(ChatOpenAI(model="gpt-4o"))
+    evaluator_embeddings = LangchainEmbeddingsWrapper(OpenAIEmbeddings())
 
     metrics = [
-        Faithfulness(llm=evaluator_llm)
+        # Faithfulness(llm=evaluator_llm),
+        SemanticSimilarity(embeddings=evaluator_embeddings)
     ]
 
     eval_dataset = citations_dataset(references)
@@ -68,5 +73,8 @@ if __name__ == "__main__":
 
     results = calculate_metrics(references)
     print(results)
+
+    # save the results to a csv file
+    results.to_csv("results.csv")
 
     print("end of program")
