@@ -1,0 +1,217 @@
+[{
+    "name": "gpt",
+    "metadata": {
+      "source": "CRF",
+      "title": "Efficient Online Learning Algorithms for High-Dimensional Data",
+      "authors": ["John Langford", "Lihong Li", "Tong Zhang"],
+      "emails": ["jl@yahoo-inc.com", "lihong@cs.rutgers.edu", "tongz@rci.rutgers.edu"],
+      "sections": "In the era of big data, high-dimensional datasets pose significant challenges for online learning algorithms, particularly in terms of computational efficiency and scalability. We introduce an efficient online learning framework that leverages dimensionality reduction and sparse representations to handle high-dimensional data effectively. Our approach maintains prediction accuracy while significantly reducing computational overhead. We validate our method on several large-scale datasets, demonstrating its superiority over traditional online learning algorithms in both speed and accuracy.\n\n1 Introduction\n\nThe proliferation of high-dimensional data in fields such as text processing, bioinformatics, and computer vision necessitates the development of online learning algorithms that are both efficient and scalable. Traditional online learning methods, like the Perceptron and Gradient Descent (GD) [2], struggle with computational and memory demands when applied to datasets with millions of features.\n\nTwo primary challenges arise in this context:\n\n1. Computational Efficiency: High-dimensional data increases the computational burden for updating models in online learning settings. Each update step may involve operations proportional to the number of features, which is infeasible for real-time applications.\n\n2. Memory Constraints: Storing and updating weight vectors for all features becomes impractical as the dimensionality grows, especially when many features are irrelevant or redundant.\n\nTo address these challenges, we propose an online learning framework that incorporates dimensionality reduction techniques and leverages the sparsity of high-dimensional data. Our method draws inspiration from the concept of feature selection and regularization [12], but adapts it to the online setting without compromising computational efficiency.\n\n2 Related Work\n\nSeveral approaches have been proposed to handle high-dimensional data in online learning:\n\n- Dimensionality Reduction: Techniques like Random Projection and Principal Component Analysis (PCA) reduce the number of features before learning [3]. However, these methods are typically batch processes and not suitable for online updates.\n\n- Sparse Representations: Algorithms like the Lasso [12] introduce L1 regularization to promote sparsity in the model weights. While effective, traditional implementations are computationally intensive for online learning.\n\n- Efficient Online Algorithms: The Forgetron [4] and algorithms based on the Pegasos framework [10] aim to improve efficiency but may not scale well with extremely high-dimensional data.\n\nOur work builds upon these approaches by integrating efficient dimensionality reduction into the online learning process and exploiting feature sparsity to reduce computational demands.\n\n3 Efficient Online Learning Framework\n\n3.1 Overview\n\nOur framework combines feature hashing [6] with an online learning algorithm that updates a compact representation of the weight vector. Feature hashing reduces the dimensionality by mapping features to a lower-dimensional space using a hash function, which preserves sparsity and allows for efficient computation.\n\n3.2 Feature Hashing\n\nFeature hashing, also known as the hashing trick [6], maps high-dimensional feature vectors to a lower-dimensional space, where collisions are minimized. This is achieved using a hash function that assigns each feature to an index in the reduced space, potentially combining multiple features into one.\n\n3.3 Online Learning Algorithm\n\nWe adopt an online gradient descent algorithm tailored to the hashed feature space. At each time step:\n\n1. Prediction: Compute the predicted output using the current weight vector and the hashed feature vector.\n\n2. Loss Computation: Evaluate the loss between the predicted output and the true label.\n\n3. Gradient Update: Update the weights using the gradient of the loss function with respect to the weights.\n\nBy operating in the reduced feature space, each update is computationally efficient.\n\n4 Theoretical Analysis\n\n4.1 Convergence Guarantee\n\nUnder standard assumptions of convexity and Lipschitz continuity [5], our algorithm inherits the convergence properties of traditional online gradient descent methods.\n\n**Theorem 1**: Assuming the loss function is convex and has a Lipschitz constant, and the hashed feature vectors have bounded norms, the regret after T steps is bounded.\n\n4.2 Impact of Dimensionality Reduction\n\nFeature hashing introduces variance due to collisions. However, prior work [14] has shown that the impact on the learning algorithm is minimal if the hash dimension is sufficiently large.\n\n5 Experimental Results\n\n5.1 Datasets\n\nWe evaluated our method on several high-dimensional datasets:\n\n- **RCV1** [7]: A text categorization dataset with over 47,000 features.\n\n- **Synthetic High-Dimensional Data**: Generated to simulate datasets with up to 10^9 features.\n\n5.2 Baseline Methods\n\nWe compared our approach with:\n\n- Standard Online Gradient Descent [2]: Without dimensionality reduction.\n\n- Online Lasso Regression [12]: Using stochastic gradient descent [13].\n\n5.3 Metrics\n\nPerformance was measured using:\n\n- Prediction Accuracy: Classification accuracy or regression error.\n\n- Computational Time: Time per update step.\n\n- Memory Usage: Total memory required to store model parameters.\n\n5.4 Results\n\nOur method achieved comparable prediction accuracy to the baselines while significantly reducing computational time and memory usage.\n\n- Efficiency: Update time per instance was reduced by up to 90%.\n\n- Scalability: Successfully handled datasets with up to 10^9 features.\n\n- Accuracy: Maintained prediction performance within 1% of baselines.\n\n6 Discussion\n\n6.1 Trade-offs\n\nWhile feature hashing introduces some loss of information due to collisions, the trade-off is acceptable given the substantial gains in efficiency.\n\n6.2 Extensions\n\nOur framework can be extended to kernel methods using techniques like Random Kitchen Sinks [15], enabling efficient approximation of nonlinear models.\n\n7 Conclusion\n\nWe presented an efficient online learning framework for high-dimensional data that leverages feature hashing and sparse representations. Our method addresses the computational and memory challenges inherent in high-dimensional online learning, making it suitable for real-world applications that require rapid and scalable model updates.\n\nAppendix\n\nA. Implementation Details\n\nOur algorithm was implemented in the Vowpal Wabbit framework [6], which is optimized for online learning with sparse data representations. Feature hashing was incorporated using a lightweight hash function to ensure minimal computational overhead.\n\nB. Parameter Settings\n\n- Learning Rate (η): Set based on cross-validation.\n\n- Hash Dimension (d): Chosen to balance the trade-off between computational efficiency and collision rate.\n\n- Regularization: L2 regularization was applied to prevent overfitting.",
+      "references": [
+        {
+          "referenceID": 0,
+          "title": "UCI Machine Learning Repository",
+          "author": ["Arthur Asuncion", "David J. Newman"],
+          "venue": "University of California, Irvine, School of Information and Computer Sciences",
+          "year": 2007
+        },
+        {
+          "referenceID": 1,
+          "title": "Worst-case quadratic loss bounds for prediction using linear functions and gradient descent",
+          "author": ["Nicolò Cesa-Bianchi", "Philip M. Long", "Manfred K. Warmuth"],
+          "venue": "IEEE Transactions on Neural Networks",
+          "year": 1996
+        },
+        {
+          "referenceID": 2,
+          "title": "Map-Reduce for Machine Learning on Multicore",
+          "author": ["Cheng-Tao Chu", "Sang Kyun Kim", "Yi-An Lin", "YuanYuan Yu", "Gary Bradski", "Andrew Y. Ng", "Kunle Olukotun"],
+          "venue": "In Advances in Neural Information Processing Systems",
+          "year": 2008
+        },
+        {
+          "referenceID": 3,
+          "title": "The Forgetron: A kernel-based perceptron on a budget",
+          "author": ["Koby Crammer", "Ofer Dekel", "Shai Shalev-Shwartz", "Yoram Singer"],
+          "venue": "SIAM Journal on Computing",
+          "year": 2009
+        },
+        {
+          "referenceID": 4,
+          "title": "Exponentiated gradient versus gradient descent for linear predictors",
+          "author": ["Jyrki Kivinen", "Manfred K. Warmuth"],
+          "venue": "Information and Computation",
+          "year": 1997
+        },
+        {
+          "referenceID": 5,
+          "title": "Vowpal Wabbit",
+          "author": ["John Langford", "Lihong Li", "Alex Strehl"],
+          "venue": "Online Learning Software",
+          "year": 2007
+        },
+        {
+          "referenceID": 6,
+          "title": "RCV1: A new benchmark collection for text categorization research",
+          "author": ["David D. Lewis", "Yiming Yang", "Tony G. Rose", "Fan Li"],
+          "venue": "Journal of Machine Learning Research",
+          "year": 2004
+        },
+        {
+          "referenceID": 7,
+          "title": "Learning quickly when irrelevant attributes abound: A new linear-threshold algorithm",
+          "author": ["Nick Littlestone"],
+          "venue": "Machine Learning",
+          "year": 1988
+        },
+        {
+          "referenceID": 8,
+          "title": "On-line learning of linear functions",
+          "author": ["Nick Littlestone", "Philip M. Long", "Manfred K. Warmuth"],
+          "venue": "Computational Complexity",
+          "year": 1995
+        },
+        {
+          "referenceID": 9,
+          "title": "Pegasos: Primal Estimated sub-GrAdient SOlver for SVM",
+          "author": ["Shai Shalev-Shwartz", "Yoram Singer", "Nathan Srebro"],
+          "venue": "In Proceedings of the Twenty-Fourth International Conference on Machine Learning",
+          "year": 2007
+        },
+        {
+          "referenceID": 10,
+          "title": "Matlab implementation of LASSO, LARS, the elastic net and SPCA",
+          "author": ["Karl Sjöstrand"],
+          "venue": "Version 2.0",
+          "year": 2005
+        },
+        {
+          "referenceID": 11,
+          "title": "Regression shrinkage and selection via the lasso",
+          "author": ["Robert Tibshirani"],
+          "venue": "Journal of the Royal Statistical Society",
+          "year": 1996
+        },
+        {
+          "referenceID": 12,
+          "title": "Solving large scale linear prediction problems using stochastic gradient descent algorithms",
+          "author": ["Tong Zhang"],
+          "venue": "In Proceedings of the Twenty-First International Conference on Machine Learning",
+          "year": 2004
+        },
+        {
+          "referenceID": 13,
+          "title": "Very sparse random projections",
+          "author": ["Ping Li", "Trevor J. Hastie", "Kenneth W. Church"],
+          "venue": "In Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining",
+          "year": 2006
+        },
+        {
+          "referenceID": 14,
+          "title": "Random features for large-scale kernel machines",
+          "author": ["Ali Rahimi", "Benjamin Recht"],
+          "venue": "In Advances in Neural Information Processing Systems",
+          "year": 2007
+        }
+      ],
+      "referenceMentions": [
+        {
+          "referenceID": 1,
+          "context": "Traditional online learning methods, like the Perceptron and Gradient Descent (GD) [2], struggle with computational and memory demands when applied to datasets with millions of features.",
+          "startOffset": 79,
+          "endOffset": 82
+        },
+        {
+          "referenceID": 11,
+          "context": "Our method draws inspiration from the concept of feature selection and regularization [12], but adapts it to the online setting without compromising computational efficiency.",
+          "startOffset": 89,
+          "endOffset": 93
+        },
+        {
+          "referenceID": 2,
+          "context": "Techniques like Random Projection and Principal Component Analysis (PCA) reduce the number of features before learning [3]. However, these methods are typically batch processes and not suitable for online updates.",
+          "startOffset": 121,
+          "endOffset": 124
+        },
+        {
+          "referenceID": 11,
+          "context": "Algorithms like the Lasso [12] introduce L1 regularization to promote sparsity in the model weights.",
+          "startOffset": 25,
+          "endOffset": 29
+        },
+        {
+          "referenceID": 3,
+          "context": "The Forgetron [4] and algorithms based on the Pegasos framework [10] aim to improve efficiency but may not scale well with extremely high-dimensional data.",
+          "startOffset": 14,
+          "endOffset": 17
+        },
+        {
+          "referenceID": 9,
+          "context": "The Forgetron [4] and algorithms based on the Pegasos framework [10] aim to improve efficiency but may not scale well with extremely high-dimensional data.",
+          "startOffset": 61,
+          "endOffset": 65
+        },
+        {
+          "referenceID": 5,
+          "context": "Our framework combines feature hashing [6] with an online learning algorithm that updates a compact representation of the weight vector.",
+          "startOffset": 42,
+          "endOffset": 45
+        },
+        {
+          "referenceID": 5,
+          "context": "Feature hashing, also known as the hashing trick [6], maps high-dimensional feature vectors to a lower-dimensional space, where collisions are minimized.",
+          "startOffset": 53,
+          "endOffset": 56
+        },
+        {
+          "referenceID": 4,
+          "context": "Under standard assumptions of convexity and Lipschitz continuity [5], our algorithm inherits the convergence properties of traditional online gradient descent methods.",
+          "startOffset": 68,
+          "endOffset": 71
+        },
+        {
+          "referenceID": 13,
+          "context": "However, prior work [14] has shown that the impact on the learning algorithm is minimal if the hash dimension is sufficiently large.",
+          "startOffset": 19,
+          "endOffset": 23
+        },
+        {
+          "referenceID": 6,
+          "context": "RCV1 [7]: A text categorization dataset with over 47,000 features.",
+          "startOffset": 5,
+          "endOffset": 8
+        },
+        {
+          "referenceID": 1,
+          "context": "Standard Online Gradient Descent [2]: Without dimensionality reduction.",
+          "startOffset": 34,
+          "endOffset": 37
+        },
+        {
+          "referenceID": 11,
+          "context": "Online Lasso Regression [12]: Using stochastic gradient descent [13].",
+          "startOffset": 24,
+          "endOffset": 28
+        },
+        {
+          "referenceID": 12,
+          "context": "Online Lasso Regression [12]: Using stochastic gradient descent [13].",
+          "startOffset": 65,
+          "endOffset": 69
+        },
+        {
+          "referenceID": 14,
+          "context": "Our framework can be extended to kernel methods using techniques like Random Kitchen Sinks [15], enabling efficient approximation of nonlinear models.",
+          "startOffset": 93,
+          "endOffset": 97
+        },
+        {
+          "referenceID": 5,
+          "context": "Our algorithm was implemented in the Vowpal Wabbit framework [6], which is optimized for online learning with sparse data representations.",
+          "startOffset": 62,
+          "endOffset": 65
+        }
+      ]
+    },
+    "status": "accepted"
+  }
+]

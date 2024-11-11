@@ -37,10 +37,13 @@ def fill(references):
         
         crossref_metadata = crossref.crossref(ref["title"])
         if crossref_metadata:
-            if crossref_metadata["title"].lower() == ref["title"].lower():
-                references[n]["abstract"] = crossref_metadata["abstract"]
-                report[ref["title"]]["abstract"] = "crossref"
-                continue
+            try:
+                if crossref_metadata["title"].lower() == ref["title"].lower():
+                    references[n]["abstract"] = crossref_metadata["abstract"]
+                    report[ref["title"]]["abstract"] = "crossref"
+                    continue
+            except:
+                pass
         
         # semantic_metadata = semantic_scholar.semantic_scholar(ref["title"])
         # if semantic_metadata:

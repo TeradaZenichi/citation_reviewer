@@ -41,7 +41,10 @@ def download_by_library(article_id, filename="downloaded_article.pdf", directory
     if article_id:
         # Define a busca pelo ID do artigo
         search = arxiv.Search(id_list=[article_id])
-        article = next(arxiv.Client().results(search), None)
+        try:
+            article = next(arxiv.Client().results(search), None)
+        except:
+            article = None
         
         if article is None:
             print("Article not found.")
@@ -51,9 +54,12 @@ def download_by_library(article_id, filename="downloaded_article.pdf", directory
         pdf_path = os.path.join(directory, filename)
         
         # Baixa o PDF
-        article.download_pdf(dirpath=directory, filename=filename)
-        print(f"Article downloaded as '{filename}' in directory '{directory}'.")
-
+        try:
+            article.download_pdf(dirpath=directory, filename=filename)
+            print(f"Article downloaded as '{filename}' in directory '{directory}'.")
+        except:
+            print("Error downloading the article.")
+            return None
         # Extrai o texto do PDF
         with fitz.open(pdf_path) as pdf:
             text = ""
@@ -76,7 +82,11 @@ def download_by_library(article_id, filename="downloaded_article.pdf", directory
 def arxivref(title, max_results=1):
     base_url = "http://export.arxiv.org/api/query?"
     query = f"search_query=ti:\"{title}\"&max_results={max_results}"
-    response = requests.get(base_url + query)
+    try:
+        response = requests.get(base_url + query)
+    except:
+        print("Error in the request.")
+        return None
     
     if response.status_code == 200:
         root = ET.fromstring(response.content)

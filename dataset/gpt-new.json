@@ -1,0 +1,121 @@
+[
+{
+    "name": "adaptive_online_learning.pdf",
+    "metadata": {
+      "source": "CRF",
+      "title": "Adaptive Online Learning in Non-Stationary Environments",
+      "authors": ["Alex Johnson", "Maria Lee", "Sven Müller"],
+      "emails": ["alex.johnson@university.edu", "maria.lee@university.edu", "sven.mueller@institute.de"],
+      "sections": "Adaptive online learning algorithms are crucial in environments where data distributions change over time. We propose a novel approach that dynamically adjusts model parameters to adapt to non-stationary data streams. Our method combines elements of online gradient descent with a forgetting mechanism to prioritize recent information. We demonstrate the effectiveness of our approach on several real-world datasets, showing improved performance over traditional online learning methods.\n\n1 Introduction\n\nIn many practical applications, data distributions are not stationary. For instance, user preferences in recommendation systems evolve, and sensor readings in monitoring systems may drift over time. Traditional online learning algorithms [1] often assume a stationary environment, leading to suboptimal performance when this assumption is violated.\n\n2 Related Work\n\nPrevious work on handling non-stationarity includes concept drift adaptation [2], ensemble methods [3], and algorithms with forgetting mechanisms [4]. These methods attempt to maintain performance by adjusting to changes in data distributions. However, they may suffer from high computational complexity or delayed adaptation.\n\n3 Proposed Method\n\nOur approach introduces an adaptive learning rate and a forgetting factor into the online gradient descent framework [5]. At each time step, the learning rate is adjusted based on the observed loss, and older data points are gradually down-weighted. This allows the model to focus on recent data, improving responsiveness to changes.\n\n4 Experiments\n\nWe evaluated our method on datasets including electricity demand [6], online retail [7], and real-time traffic data [8]. Our algorithm outperformed standard online learning methods and other adaptive techniques, particularly in scenarios with rapid distribution shifts.\n\n5 Conclusion\n\nAdaptive online learning in non-stationary environments is essential for many applications. Our proposed method provides a simple yet effective way to handle changing data distributions, leading to improved performance over existing approaches.\n\nAppendix\n\nA. Implementation Details\n\nWe implemented our algorithm using Python and optimized it for computational efficiency. Hyperparameters were selected based on cross-validation.\n\nB. Parameter Settings\n\n- Learning Rate: Initialized to 0.1 and adjusted adaptively.\n- Forgetting Factor: Set to 0.9 to prioritize recent data.\n- Evaluation Metrics: Mean squared error for regression tasks and accuracy for classification tasks.\n",
+      "references": [
+        {
+          "referenceID": 0,
+          "title": "Online Learning and Online Convex Optimization",
+          "author": ["Shai Shalev-Shwartz"],
+          "venue": "Foundations and Trends in Machine Learning",
+          "year": 2012
+        },
+        {
+          "referenceID": 1,
+          "title": "Learning with Drift Detection",
+          "author": ["João Gama", "Pedro Medas", "Gladys Castillo", "Pedro Rodrigues"],
+          "venue": "Advances in Artificial Intelligence–SBIA 2004",
+          "year": 2004
+        },
+        {
+          "referenceID": 2,
+          "title": "On the Design of Robust Classifiers for Computer Vision",
+          "author": ["H. Masnadi-Shirazi", "V. Mahadevan", "N. Vasconcelos"],
+          "venue": "IEEE Conference on Computer Vision and Pattern Recognition",
+          "year": 2010
+        },
+        {
+          "referenceID": 3,
+          "title": "Adaptive Regularization of Weight Vectors",
+          "author": ["Koby Crammer", "Alex Kulesza", "Mark Dredze"],
+          "venue": "Advances in Neural Information Processing Systems",
+          "year": 2009
+        },
+        {
+          "referenceID": 4,
+          "title": "Online Learning and Stochastic Approximations",
+          "author": ["Léon Bottou"],
+          "venue": "On-Line Learning in Neural Networks",
+          "year": 1998
+        },
+        {
+          "referenceID": 5,
+          "title": "Short-term load forecasting in electric utilities",
+          "author": ["A.E. Feijóo", "J.C. Castaño", "J.A. Prada"],
+          "venue": "IEEE Transactions on Power Systems",
+          "year": 2002
+        },
+        {
+          "referenceID": 6,
+          "title": "Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining",
+          "author": ["Daqing Chen", "Sai Laing Sain", "Kun Guo"],
+          "venue": "Journal of Database Marketing & Customer Strategy Management",
+          "year": 2012
+        },
+        {
+          "referenceID": 7,
+          "title": "Real-time traffic flow forecasting using support vector machines with online learning method",
+          "author": ["Zhanfeng Jia", "Jinxue Zhang"],
+          "venue": "IEEE Intelligent Vehicles Symposium",
+          "year": 2009
+        }
+      ],
+      "referenceMentions": [
+        {
+          "referenceID": 0,
+          "context": "Traditional online learning algorithms [1] often assume a stationary environment, leading to suboptimal performance when this assumption is violated.",
+          "startOffset": 39,
+          "endOffset": 42
+        },
+        {
+          "referenceID": 1,
+          "context": "Previous work on handling non-stationarity includes concept drift adaptation [2], ensemble methods [3], and algorithms with forgetting mechanisms [4].",
+          "startOffset": 76,
+          "endOffset": 79
+        },
+        {
+          "referenceID": 2,
+          "context": "Previous work on handling non-stationarity includes concept drift adaptation [2], ensemble methods [3], and algorithms with forgetting mechanisms [4].",
+          "startOffset": 98,
+          "endOffset": 101
+        },
+        {
+          "referenceID": 3,
+          "context": "Previous work on handling non-stationarity includes concept drift adaptation [2], ensemble methods [3], and algorithms with forgetting mechanisms [4].",
+          "startOffset": 145,
+          "endOffset": 148
+        },
+        {
+          "referenceID": 4,
+          "context": "Our approach introduces an adaptive learning rate and a forgetting factor into the online gradient descent framework [5].",
+          "startOffset": 105,
+          "endOffset": 108
+        },
+        {
+          "referenceID": 5,
+          "context": "We evaluated our method on datasets including electricity demand [6], online retail [7], and real-time traffic data [8].",
+          "startOffset": 68,
+          "endOffset": 71
+        },
+        {
+          "referenceID": 6,
+          "context": "We evaluated our method on datasets including electricity demand [6], online retail [7], and real-time traffic data [8].",
+          "startOffset": 88,
+          "endOffset": 91
+        },
+        {
+          "referenceID": 7,
+          "context": "We evaluated our method on datasets including electricity demand [6], online retail [7], and real-time traffic data [8].",
+          "startOffset": 121,
+          "endOffset": 124
+        }
+      ]
+    },
+    "status": "accepted"
+  }
+]  

@@ -140,3 +140,5 @@ dataset/accepted_papers.json
 dataset/combined_papers.json
 report.csv
 results.csv
+Results/
+.history/

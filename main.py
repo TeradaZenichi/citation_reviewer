@@ -2,58 +2,84 @@ import src.evaluation.evaluation as evaluation
 import src.sentences.get_dataset as dataset_sentences
 import src.sentences.dataset as sentences
 import src.sentences.get_llm as llm_sentences
+from src.evaluation import calculate
 from src.apis import check
 import pandas as pd
 import json
 
-filename = "dataset/combined_papers.json"
+# Função para calcular estatísticas
+def calculate_statistics(df, column_name):
+    try:
+        column = df[column_name].dropna()  # Remove valores None/NaN para os cálculos
+        mean_val = column.mean()
+        median_val = column.median()
+        std_dev = column.std()
+        non_none_percentage = (len(column) / len(df)) * 100  # Percentual de elementos não None
+        
+        return {
+            "mean": mean_val,
+            "median": median_val,
+            "std_dev": std_dev,
+            "non_none_percentage": non_none_percentage
+        }
+    except:
+        return {
+            "mean": None,
+            "median": None,
+            "std_dev": None,
+            "non_none_percentage": None
+        }
+
+filename = "dataset/gpt-4o.json"
 
 #read data in dataset\combined_papers.json
 with open(filename, "r", encoding="utf-8") as f:
     papers = json.load(f)
 
-#extract the first paper
-paper = papers[0]
+#read analisys
+try:
+    with open("Results/analisys.json", "r", encoding="utf-8") as f:
+        analisys = json.load(f)
+except:
+    analisys = {}
 
-text = paper["metadata"]["sections"]           # Texto completo do paper que vamos analisar
-references = paper["metadata"]["references"]   # dicionário de referências do paper
+for n, paper in enumerate(papers):
+    print(f"Paper {n + 1} of {len(papers)}")
+    # if n < 45:
+    #     continue
+    statistics = {}
+    text = paper["metadata"]["sections"]           # Texto completo do paper que vamos analisar
+    references = paper["metadata"]["references"]   # dicionário de referências do paper
+    refefences, report = check.fill(references)
+    references = dataset_sentences.extract(paper["metadata"]["referenceMentions"], references)
+    results = calculate.fill(references, report)
 
-references, report = check.fill(references)
+    #save references in a json file
+    with open(f"Results/{paper['name']}_references.json", "w", encoding="utf-8") as f:
+        json.dump(references, f, indent=4)
 
-# #convert report dict to DataFrame
-report_df = pd.DataFrame(report)
+    #convert results dict to DataFrame trasposed
+    final_df = pd.DataFrame(results).T
+    final_df.to_csv(f"Results/{paper['name']}.csv")
 
-# # save the report to a csv file - transposed
-report_df.T.to_csv("report.csv")
+    # Calcula estatísticas para cada coluna relevante
+    columns_to_analyze = ['faithfulness', 'precision', 'recall', 'semantic_similarity']
+    statistics = {col: calculate_statistics(final_df, col) for col in columns_to_analyze}
+    for col in columns_to_analyze:
+        try:
+            statistics[col]["non_none_percentage"] = statistics[col]["non_none_percentage"]
+        except:
+            statistics[col]["non_none_percentage"] = None
+    statistics["status"] = paper["status"]
+    analisys[paper["name"]] = statistics
 
-# data = sentences.extract_sentences_with_citations(text)
+    # Salva as estatísticas em um arquivo JSON
+    with open(f"Results/statistics_{paper['name']}.json", "w", encoding="utf-8") as f:
+        json.dump(statistics, f, indent=4)
 
-references = dataset_sentences.extract(paper["metadata"]["referenceMentions"], references)
-
-
-# save the references to a json file
-with open("references.json", "w", encoding="utf-8") as f:
-    json.dump(references, f, ensure_ascii=False, indent=4)
-
-# open the references json file
-with open("references.json", "r", encoding="utf-8") as f:
-    references = json.load(f)
+    # save analisys in a json file
+    with open(f"Results/analisys.json", "w", encoding="utf-8") as f:
+        json.dump(analisys, f, indent=4)
 
 
-resuls = evaluation.evaluation(references)
-
-#how to remove some columns?
-resuls_clean = resuls
-resuls_clean.drop(columns=["user_input", "response", "reference", "retrieved_contexts"], inplace=True) 
-resuls.to_csv("results.csv")
-resuls_clean.to_csv("results_clean.csv")
-
-# join the results_clean with report csv
-report_df = pd.read_csv("report.csv")
-results_df = pd.read_csv("results_clean.csv")
-
-# use concat to join the two dataframes
-final_df = pd.concat([report_df, results_df], axis=1)
-
-final_df.to_csv("final.csv")
 print("end of program")
