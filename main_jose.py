@@ -24,31 +24,12 @@ references = paper["metadata"]["references"]
 references = dataset_sentences.extract(
     paper["metadata"]["referenceMentions"], references)
 
-# extrair as sentenças que contêm a citação
-# for refs in references:
-#    refs["sentences"] = extract_sentences_with_citation(
-#        text, refs['shortCiteRegEx'])
+#exemplo de uso da sentença
+ref = references[0]
+sentence = ref['sentence']
 
-references, report = check.fill(references)
+# fazer uma função que cria chunks de text
+chunks = create_chunks(text)
+# fazer uma função que busca o chunk mais perto da sentence
+chunk = faiss(sentence, chunks)
 
-# Save the references to a file
-# with open("references.json", "w", encoding="utf-8") as f:
-#    json.dump(references, f, ensure_ascii=False, indent=4)
-
-# Load the references from a file
-# with open("references.json", "r", encoding="utf-8") as f:
-#    references = json.load(f)
-
-
-# convert report dict to DataFrame
-report_df = pd.DataFrame(report)
-
-# save the report to a csv file - transposed
-report_df.T.to_csv("report.csv")
-
-results = calculate_metrics(references)
-
-# save the results to a csv file
-results.to_csv("metrics.csv")
-
-print("end of program")
