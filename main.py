@@ -30,23 +30,17 @@ def calculate_statistics(df, column_name):
             "non_none_percentage": None
         }
 
-filename = "dataset/gpt-4o.json"
+filename = "dataset/combined_papers.json"
+
+analisys = {}
 
 #read data in dataset\combined_papers.json
 with open(filename, "r", encoding="utf-8") as f:
     papers = json.load(f)
 
-#read analisys
-try:
-    with open("Results/analisys.json", "r", encoding="utf-8") as f:
-        analisys = json.load(f)
-except:
-    analisys = {}
 
 for n, paper in enumerate(papers):
     print(f"Paper {n + 1} of {len(papers)}")
-    # if n < 45:
-    #     continue
     statistics = {}
     text = paper["metadata"]["sections"]           # Texto completo do paper que vamos analisar
     references = paper["metadata"]["references"]   # dicionário de referências do paper
