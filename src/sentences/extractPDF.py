@@ -147,7 +147,7 @@ def extract_references_metadata(path_pdf: str):
 
 
 if __name__ == "__main__":
-    path_pdf = "F:\\IA024_Projeto\\citation_reviewer\\dataset\\1-s2.0-S0360544224031608-main.pdf"
+    path_pdf = "F:\\IA024_Projeto\\citation_reviewer\\dataset\\terceira_entrega\\1-s2.0-S0360544224031608-main.pdf"
     # paper = paper_extraction(path_pdf)
     # print(f"\n\nTitle:{paper.title} Abstract: {paper.abstract} \n\nBody: {paper.body} ")
 
