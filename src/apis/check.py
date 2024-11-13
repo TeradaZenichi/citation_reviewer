@@ -53,3 +53,11 @@ def fill(references):
                 # continue
             
     return references, report
+
+
+def doi(references ):
+    report = {}
+    references = []
+    references.append({"title": doi})
+    references, report = fill(references)
+    return references[0], report

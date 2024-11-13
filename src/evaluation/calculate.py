@@ -27,22 +27,22 @@ def fill(references, report):
                 ref['abstract'], ref['sentence']
             )
             
-        results[title]["pdf"] = None
-        if report[title]['pdf'] == None:
-            results[title]["pdf-faithfulness"] = None
-            results[title]["pdf-precision_recall"] = None
-            results[title]["pdf-semantic_similarity"] = None
-        else:
-            results[title]['pdf'] = report[title]['pdf']
-            results[title]["pdf-faithfulness"] = faithfulness.calculate_faithfulness(
-                ref['full_text'], ref['sentence']
-            )
-            results[title]["pdf-precision"], results[title]['pdf-recall'] = precision_recall.calculate_precision_recall(
-                ref['full_text'], ref['sentence']
-            )
-            results[title]["pdf-semantic_similarity"] = semantic_similarity.calculate_semantic_similarity(
-                ref['full_text'], ref['sentence']
-            )
+        # results[title]["pdf"] = None
+        # if report[title]['pdf'] == None:
+        #     results[title]["pdf-faithfulness"] = None
+        #     results[title]["pdf-precision_recall"] = None
+        #     results[title]["pdf-semantic_similarity"] = None
+        # else:
+        #     results[title]['pdf'] = report[title]['pdf']
+        #     results[title]["pdf-faithfulness"] = faithfulness.calculate_faithfulness(
+        #         ref['full_text'], ref['sentence']
+        #     )
+        #     results[title]["pdf-precision"], results[title]['pdf-recall'] = precision_recall.calculate_precision_recall(
+        #         ref['full_text'], ref['sentence']
+        #     )
+        #     results[title]["pdf-semantic_similarity"] = semantic_similarity.calculate_semantic_similarity(
+        #         ref['full_text'], ref['sentence']
+        #     )
         
   
     return results

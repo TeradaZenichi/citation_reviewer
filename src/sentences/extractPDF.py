@@ -137,6 +137,7 @@ def extract_references_metadata(path_pdf: str):
 
     # Merge references with sentences
     for ref in my_references:
+        ref["sentence"] = [""]
         for sentence in sentences.sentences:
             if ref['id'] == sentence.id or ref['in_text_citation'] == sentence.in_text_citation:
                 # Add sentences field to references
