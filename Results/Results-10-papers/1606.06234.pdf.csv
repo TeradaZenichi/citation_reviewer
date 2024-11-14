@@ -1,0 +1,25 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Deep leaning,,,,,,,,,,,,
+Optimizing fpga-based accelerator design for deep convolutional neural networks,crossref,0.0,,0.6925648255537589,,,,,0.0,0.0,,
+Diannao: A small-footprint high-throughput accelerator for ubiquitous machine-learning,,,,,,,,,,,,
+Neural acceleration for gpu throughput processors,crossref,0.0,,0.7061750741591681,,,,,0.0,0.0,,
+"Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding",arxiv Library,0.0,,0.7623679270338077,arxiv Library,0.0,,0.8038993845974237,0.38461538461538464,0.03597122302158273,0.38461538461538464,0.0684931506849315
+Building high-level features using large scale unsupervised learning,crossref,0.0,,0.7055775137144977,,,,,0.0,0.0,,
+Project adam: Building an efficient and scalable deep learning training system,,,,,,,,,,,,
+Singa: A distributed deep learning platform,,,,,,,,,,,,
+Large scale distributed deep networks,,,,,,,,,,,,
+Deep learning with cots hpc systems,,,,,,,,,,,,
+Large scale recurrent neural network on gpu,crossref,0.0,,0.6910891359483174,,,,,0.0,0.0,,
+Fast convolutional nets with fbfft: A gpu performance evaluation,arxiv Library,0.9,,0.856393269436671,arxiv Library,1.0,,0.8709227760883993,0.7857142857142857,0.12941176470588237,0.7857142857142857,0.14102564102564102
+Optimized deep belief networks on cuda gpus,crossref,0.0,,0.6782454912358767,,,,,0.0,0.0,,
+Geeps: Scalable deep learning on distributed gpus with a gpu-specialized parameter server,,,,,,,,,,,,
+14.1 a 126.1mw real-time natural ui/ux processor with embedded deep-learning core for low-power smart glasses,crossref,0.0,,0.6889038512904512,,,,,0.0,0.0,,
+14.5 eyeriss: An energy-efficient reconfigurable accelerator for deep convolutional neural networks,,,,,,,,,,,,
+14.6 a 1.42tops/w deep convolutional neural network recognition processor for intelligent ioe systems,crossref,0.0,,0.6889038512904512,,,,,0.0,0.0,,
+Origami: A convolutional network accelerator,,,,,,,,,,,,
+"Deep learning on fpgas: Past, present, and future",arxiv Library,1.0,,0.7694835995682985,arxiv Library,0.0,,0.8103814829053775,0.3076923076923077,0.022222222222222223,0.3076923076923077,0.046511627906976744
+fpgaconvnet: A framework for mapping convolutional neural networks on fpgas,crossref,0.0,,0.6924673415059729,,,,,0.0,0.0,,
+Throughput-optimized opencl-based fpga accelerator for large-scale convolutional neural networks,crossref,0.0,,0.7053079248314422,,,,,0.0,0.0,,
+Memristive boltzmann machine: A hardware accelerator for combinatorial optimization and deep learning,crossref,0.0,,0.6710243455991064,,,,,0.0,0.0,,
+A reconfigurable digital neuromorphic processor with memristive synaptic crossbar for cognitive computing,crossref,0.6,,0.78664323846422,,,,,0.2222222222222222,0.0425531914893617,,
+Eie: Efficient inference engine on compressed deep neural network,arxiv Library,1.0,,0.8876335469940377,arxiv Library,1.0,,0.8985193548772481,0.8947368421052632,0.1118421052631579,0.8421052631578947,0.20512820512820512

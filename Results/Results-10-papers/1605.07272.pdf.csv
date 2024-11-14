@@ -1,0 +1,27 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision_recall,pdf-precision,pdf-recall
+Uncovering shared structures in multiclass classification,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+On the low-rank approach for semidefinite programs arising in synchronization and community detection,,,,,,,,,,,,
+A nonlinear programming algorithm for solving semidefinite programs via low-rank factorization,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Do we need good initialization for low rank matrix recovery,,,,,,,,,,,,
+Robust principal component analysis,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Exact matrix completion via convex optimization,arxiv Library,0.9,1.0,0.0,0.6379880039264384,arxiv Library,0.0,,0.6915282756967283,,1.0,0.0
+The power of convex relaxation: Near-optimal matrix completion,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Fast low-rank estimation by projected gradient descent: General statistical and algorithmic guarantees,,,,,,,,,,,,
+1-bit matrix completion,arxiv Library,1.0,1.0,0.0,0.6458838560466053,arxiv Library,0.0,,0.6788246859564632,,1.0,0.0
+Escaping from saddle points—online stochastic gradient for tensor decomposition,,,,,,,,,,,,
+Understanding alternating minimization for matrix completion,arxiv Library,1.0,1.0,0.0,0.6282181101426882,arxiv Library,0.0,,0.6783110394288947,,1.0,0.0
+A tail inequality for quadratic forms of subgaussian random vectors,arxiv Library,0.0,1.0,0.0,0.647811245809363,arxiv Library,0.5,,0.6647379577417445,,1.0,0.0
+Fast matrix completion without the condition number,arxiv Library,0.0,1.0,0.0,0.6345650203179297,arxiv Library,0.0,,0.6720322166328947,,1.0,0.0
+Sums of random Hermitian matrices and an inequality by Rudelson,arxiv Library,1.0,1.0,0.0,0.6514446888793871,arxiv Library,0.0,,0.672985466371848,,1.0,0.0
+Low-rank matrix completion using alternating minimization,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Matrix completion from a few entries,arxiv Library,1.0,1.0,0.0,0.6191309384799593,arxiv Library,0.0,,0.6837113940663933,,1.0,0.0
+The bellkor solution to the netflix grand prize,,,,,,,,,,,,
+Recovery guarantee of weighted low-rank approximation via alternating minimization,,,,,,,,,,,,
+Gradient descent converges to minimizers,arxiv Library,1.0,1.0,0.0,0.6554499869078779,arxiv Library,0.0,,0.6806324263451732,,1.0,0.0
+Cubic regularization of Newton method and its global performance,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Nonconvergence to unstable points in urn models and stochastic approximations,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+A simpler approach to matrix completion,arxiv Library,1.0,1.0,0.0,0.6537476787495781,arxiv Library,0.0,,0.6732818758404275,,1.0,0.0
+Fast maximum margin matrix factorization for collaborative prediction,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Guaranteed matrix completion via nonconvex factorization,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+When are nonconvex problems not scary,,,,,,,,,,,,
+A nonconvex optimization framework for low rank matrix estimation,,,,,,,,,,,,

@@ -1,0 +1,578 @@
+[
+    {
+        "title": "Mechanisms and Games for Dynamic Spectrum Allocation",
+        "author": [
+            "T. Alpcan",
+            "H. Boche",
+            "M.L. Honig",
+            "H.V. Poor"
+        ],
+        "venue": null,
+        "citeRegEx": "1",
+        "shortCiteRegEx": "1",
+        "year": 2013,
+        "abstract": "Presenting state-of-the-art research into methods of wireless spectrum allocation based on game theory and mechanism design, this innovative and comprehensive book provides a strong foundation for the design of future wireless mechanisms and spectrum markets. Prominent researchers showcase a diverse range of novel insights and approaches to the increasing demand for limited spectrum resources, with a consistent emphasis on theoretical methods, analytical results and practical examples. Covering fundamental underlying principles, licensed spectrum sharing, opportunistic spectrum sharing, and wider technical and economic considerations, this singular book will be of interest to academic and industrial researchers, wireless industry practitioners, and regulators interested in the foundations of cutting-edge spectrum management.",
+        "full_text": "",
+        "sentence": " Game theory, which has its roots in economics, has recently become a mainstream approach to a multitude of engineering problems in communications [1], electricity grids [2]\u2013[4], and network security [5]\u2013[7].",
+        "context": null
+    },
+    {
+        "title": "A Game-Theoretic Analysis of Wind Generation Variability on Electricity Markets",
+        "author": [
+            "D. Chattopadhyay",
+            "T. Alpcan"
+        ],
+        "venue": "IEEE Trans. on Power Systems, vol. 29, no. 5, pp. 2069\u20132077, September 2014.",
+        "citeRegEx": "2",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Game theory, which has its roots in economics, has recently become a mainstream approach to a multitude of engineering problems in communications [1], electricity grids [2]\u2013[4], and network security [5]\u2013[7].",
+        "context": null
+    },
+    {
+        "title": "Game-Theoretic Methods for the Smart Grid: An Overview of Microgrid Systems, Demand-Side Management, and Smart Grid Communications",
+        "author": [
+            "W. Saad",
+            "Zhu Han",
+            "H.V. Poor",
+            "T. Basar"
+        ],
+        "venue": "IEEE Signal Proc. Magazine, vol. 29, no. 5, pp. 86\u2013105, September 2012.",
+        "citeRegEx": "3",
+        "shortCiteRegEx": null,
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Security Games for Risk Minimization in Automatic Generation Control",
+        "author": [
+            "Y.W. Law",
+            "T. Alpcan",
+            "M. Palaniswami"
+        ],
+        "venue": "IEEE Trans. on Power Systems, vol. 30, no. 1, pp. 223\u2013232, January 2015.",
+        "citeRegEx": "4",
+        "shortCiteRegEx": null,
+        "year": 2015,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Game theory, which has its roots in economics, has recently become a mainstream approach to a multitude of engineering problems in communications [1], electricity grids [2]\u2013[4], and network security [5]\u2013[7].",
+        "context": null
+    },
+    {
+        "title": "Security and Game Theory: Algorithms, Deployed Systems, Lessons Learned",
+        "author": [
+            "M. Tambe"
+        ],
+        "venue": null,
+        "citeRegEx": "6",
+        "shortCiteRegEx": "6",
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "A Learning- Based Approach to Reactive Security",
+        "author": [
+            "Adam Barth",
+            "Benjamin I.P. Rubinstein",
+            "Mukund Sundararajan",
+            "John C. Mitchell",
+            "Dawn Song",
+            "Peter L. Bartlett"
+        ],
+        "venue": "IEEE Trans. Dependable and Secure Comp., vol. 9, no. 4, pp. 482\u2013493, 2012, Special Issue on Learning, Games and Security.",
+        "citeRegEx": "7",
+        "shortCiteRegEx": null,
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Game theory, which has its roots in economics, has recently become a mainstream approach to a multitude of engineering problems in communications [1], electricity grids [2]\u2013[4], and network security [5]\u2013[7]. Regret minimizing learners [29] have been used in security settings [7], [30] but not with popular \u201cbatch\u201d While there have been applications in security [7], [26], [30], neither framework has so far had a large impact on research in security. Security games have been used increasingly to model decision making in network and real-life problems with resource constraints [5]\u2013[7].",
+        "context": null
+    },
+    {
+        "title": "Game-Theoretic Methods for Robustness, Security, and Resilience of Cyberphysical Control Systems: Games-in- Games Principle for Optimal Cross-Layer Resilient Control Systems",
+        "author": [
+            "Quanyan Zhu",
+            "T. Basar"
+        ],
+        "venue": "IEEE Control Systems, vol. 35, no. 1, pp. 46\u201365, February 2015.",
+        "citeRegEx": "8",
+        "shortCiteRegEx": null,
+        "year": 2015,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Providing a solid mathematical foundation for multi-agent decision making, game theory has also been used extensively in optimization and control of networked and cyber-physical systems [8].",
+        "context": null
+    },
+    {
+        "title": "Convex Optimization for Big Data: Scalable, randomized, and parallel algorithms for big data analytics",
+        "author": [
+            "V. Cevher",
+            "S. Becker",
+            "M. Schmidt"
+        ],
+        "venue": "IEEE Signal Proc. Magazine, vol. 31, no. 5, pp. 32\u201343, 2014.",
+        "citeRegEx": "9",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Linear Programs with thousands of variables are now common-place; and convex optimization on largescale data, aiming to overcome computational, storage and communication bottlenecks [9], has emerged as a major area of study.",
+        "context": null
+    },
+    {
+        "title": "Abstraction for Solving Large Incomplete- Information Games",
+        "author": [
+            "Tuomas Sandholm"
+        ],
+        "venue": "AAAI, 2015.",
+        "citeRegEx": "10",
+        "shortCiteRegEx": null,
+        "year": 2015,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " research challenges with those involving large number of finite states and/or actions [10]. Hence, it can be seen as complementary to the existing literature on game abstraction which shares similar aims [10]. [10] presents an excellent survey of abstraction of information or actions in games, motivated by incomplete information or scalability.",
+        "context": null
+    },
+    {
+        "title": "Combining Compact Representation and Incremental Generation in Large Games with Sequential Strategies",
+        "author": [
+            "B. Bosansky",
+            "A. Jiang",
+            "M. Tambe",
+            "C. Kiekintveld"
+        ],
+        "venue": "AAAI, January 2015, pp. 812\u2013818.",
+        "citeRegEx": "12",
+        "shortCiteRegEx": null,
+        "year": 2015,
+        "abstract": "\n      \n        Many search and security games played on a graph can be modeled as normal-form zero-sum games with strategies consisting of sequences of actions. The size of the strategy space provides a computational challenge when solving these games. This complexity is tackled either by using the compact representation of sequential strategies and linear programming, or by incremental strategy generation of iterative double-oracle methods. In this paper, we present novel hybrid of these two approaches: compact-strategy double-oracle (CS-DO) algorithm that combines the advantages of the compact representation with incremental strategy generation. We experimentally compare CS-DO with the standard approaches and analyze the impact of the size of the support on the performance of the algorithms. Results show that CS-DO dramatically improves the convergence rate in games with non-trivial support\n      \n    ",
+        "full_text": "",
+        "sentence": " There have recently been efforts to address these computational issues using active-set or similar methods [12]. [12] consider strategic games with sequential strategies,",
+        "context": null
+    },
+    {
+        "title": "On the relationship between Nash\u2014 Cournot and Wardrop equilibria",
+        "author": [
+            "A. Haurie",
+            "P. Marcotte"
+        ],
+        "venue": "Networks, vol. 15, no. 3, pp. 295\u2013 308, 1985.",
+        "citeRegEx": "13",
+        "shortCiteRegEx": null,
+        "year": 1985,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " librium [13].",
+        "context": null
+    },
+    {
+        "title": "Nonasymptotic Mean-Field Games",
+        "author": [
+            "H. Tembine"
+        ],
+        "venue": "IEEE Trans. on Cybernetics, vol. 44, no. 12, pp. 2744\u20132756, December 2014.",
+        "citeRegEx": "14",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The basic idea behind mean-field games is approximating large games by a stylized model with a continuum of players [14].",
+        "context": null
+    },
+    {
+        "title": "Satisficing the Masses: Applying Game Theory to Large-Scale, Democratic Decision Problems",
+        "author": [
+            "Kshanti A. Greene",
+            "Joe Michael Kniss",
+            "George F. Luger",
+            "Carl R. Stern"
+        ],
+        "venue": "12th IEEE Intl. Conf. Comp Sci. Eng. (CSE), Vancouver, BC, Canada, August 2009, pp. 1156\u20131162.",
+        "citeRegEx": "15",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " For example, in cooperative decisionmaking among a large population of agents whose opinions must be considered, [15] propose a Bayesian belief aggrega-",
+        "context": null
+    },
+    {
+        "title": "Give a Hard Problem to a Diverse Team: Exploring Large Action Spaces",
+        "author": [
+            "Leandro Soriano Marcolino",
+            "Haifeng Xu",
+            "Albert Xin Jiang",
+            "Milind Tambe",
+            "Emma Bowring"
+        ],
+        "venue": "AAAI, 2014, pp. 1485\u2013 1491.",
+        "citeRegEx": "16",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "\n      \n        Recent work has shown that diverse teams can outperform a uniform team made of copies of the best agent. However, there are fundamental questions that were not asked before. When should we use diverse or uniform teams? How does the performance change as the action space or the teams get larger? Hence, we present a new model of diversity for teams, that is more general than previous models. We prove that the performance of a diverse team improves as the size of the action space gets larger. Concerning the size of the diverse team, we show that the performance converges exponentially fast to the optimal one as we increase the number of agents. We present synthetic experiments that allow us to gain further insights: even though a diverse team outperforms a uniform team when the size of the action space increases, the uniform team will eventually again play better than the diverse team for a large enough action space. We verify our predictions in a system of Go playing agents, where we show a diverse team that improves in performance as the board size increases, and eventually overcomes a uniform team.\n      \n    ",
+        "full_text": "",
+        "sentence": " [16] examine how the performance of a team of diverse agents improves in cooperative games, as the number of agents or possible actions increases.",
+        "context": null
+    },
+    {
+        "title": "Scaling-up Security Games with Boundedly Rational Adversaries: A Cutting-plane Approach",
+        "author": [
+            "Rong Yang",
+            "Albert Xin Jiang",
+            "Milind Tambe",
+            "Fernando Ord\u00f3\u00f1ez"
+        ],
+        "venue": "IJCAI, August 2013, pp. 404\u2013410.",
+        "citeRegEx": "17",
+        "shortCiteRegEx": null,
+        "year": 2013,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " [17] address",
+        "context": null
+    },
+    {
+        "title": "The Security of Machine Learning",
+        "author": [
+            "Marco Barreno",
+            "Blaine Nelson",
+            "Anthony D. Joseph",
+            "J.D. Tygar"
+        ],
+        "venue": "Machine Learning, vol. 81, no. 2, pp. 121\u2013148, November 2010.",
+        "citeRegEx": "18",
+        "shortCiteRegEx": null,
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " A number of threat models fall under this umbrella [18].",
+        "context": null
+    },
+    {
+        "title": "Privacy preserving data mining",
+        "author": [
+            "Yehuda Lindell",
+            "Benny Pinkas"
+        ],
+        "venue": "CRYPTO, 2000, pp. 36\u201354.",
+        "citeRegEx": "19",
+        "shortCiteRegEx": null,
+        "year": 2000,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " While privacy-preserving learning has been met successfully by the theoretical frameworks of secure multi-party computation [19] and differential privacy [20], less is known about how to learn or predict on poisoned data.",
+        "context": null
+    },
+    {
+        "title": "Calibrating Noise to Sensitivity in Private Data Analysis",
+        "author": [
+            "Cynthia Dwork",
+            "Frank McSherry",
+            "Kobbi Nissim",
+            "Adam Smith"
+        ],
+        "venue": "TCC, 2006, pp. 265\u2013284.",
+        "citeRegEx": "20",
+        "shortCiteRegEx": null,
+        "year": 2006,
+        "abstract": "We continue a line of research initiated in Dinur and Nissim (2003); Dwork and Nissim (2004); and Blum et al. (2005) on privacy-preserving statistical databases.&#x0D;\nConsider a trusted server that holds a database of sensitive information. Given a query function $f$ mapping databases to reals, the so-called {\\em true answer} is the result of applying $f$ to the database. To protect privacy, the true answer is perturbed by the addition of random noise generated according to a carefully chosen distribution, and this response, the true answer plus noise, is returned to the user.&#x0D;\nPrevious work focused on the case of noisy sums, in which $f = \\sum_i g(x_i)$, where $x_i$ denotes the $i$th row of the database and $g$ maps database rows to $[0,1]$. We extend the study to general functions $f$, proving that privacy can be preserved by calibrating the standard deviation of the noise according to the {\\em sensitivity} of the function $f$. Roughly speaking, this is the amount that any single argument to $f$ can change its output. The new analysis shows that for several particular applications substantially less noise is needed than was previously understood to be the case.&#x0D;\nThe first step is a very clean definition of privacy---now known as differential privacy---and measure of its loss. We also provide a set of tools for designing and combining differentially private algorithms, permitting the construction of complex differentially private analytical tools from simple differentially private primitives.&#x0D;\nFinally, we obtain separation results showing the increased value of interactive statistical release mechanisms over non-interactive ones.",
+        "full_text": "",
+        "sentence": " While privacy-preserving learning has been met successfully by the theoretical frameworks of secure multi-party computation [19] and differential privacy [20], less is known about how to learn or predict on poisoned data.",
+        "context": null
+    },
+    {
+        "title": "On Attacking Statistical Spam Filters",
+        "author": [
+            "Gregory L. Wittel",
+            "S. Felix Wu"
+        ],
+        "venue": "CEAS, 2004.",
+        "citeRegEx": "21",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Related case studies include attacks on spam detection [21]\u2013[23], polymorphic worm detectors [24], and on network anomaly detectors [25], [26].",
+        "context": null
+    },
+    {
+        "title": "Good Word Attacks on Statistical Spam Filters",
+        "author": [
+            "Daniel Lowd",
+            "Christopher Meek"
+        ],
+        "venue": "CEAS, 2005.",
+        "citeRegEx": "22",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Exploiting machine learning to subvert your spam filter",
+        "author": [
+            "Blaine Nelson",
+            "Marco Barreno",
+            "Fuching Jack Chi",
+            "Anthony D. Joseph",
+            "Benjamin I.P. Rubinstein",
+            "Udam Saini",
+            "Charles Sutton",
+            "J.D. Tygar",
+            "Kai Xia"
+        ],
+        "venue": "Proc. 1st USENIX Work. Large-Scale Exploits and Emergent Threats (LEET). 2008, pp. 1\u20139, USENIX Association.",
+        "citeRegEx": "23",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Related case studies include attacks on spam detection [21]\u2013[23], polymorphic worm detectors [24], and on network anomaly detectors [25], [26].",
+        "context": null
+    },
+    {
+        "title": "Paragraph: Thwarting Signature Learning by Training Maliciously",
+        "author": [
+            "James Newsome",
+            "Brad Karp",
+            "Dawn Song"
+        ],
+        "venue": "RAID, 2006, pp. 81\u2013 105.",
+        "citeRegEx": "24",
+        "shortCiteRegEx": null,
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Related case studies include attacks on spam detection [21]\u2013[23], polymorphic worm detectors [24], and on network anomaly detectors [25], [26].",
+        "context": null
+    },
+    {
+        "title": "Evading Network Anomaly Detection Systems: Formal Reasoning and Practical Techniques",
+        "author": [
+            "Prahlad Fogla",
+            "Wenke Lee"
+        ],
+        "venue": "CCS, 2006, pp. 59\u201368.",
+        "citeRegEx": "25",
+        "shortCiteRegEx": null,
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Related case studies include attacks on spam detection [21]\u2013[23], polymorphic worm detectors [24], and on network anomaly detectors [25], [26].",
+        "context": null
+    },
+    {
+        "title": "ANTIDOTE: Understanding and Defending against Poisoning of Anomaly Detectors",
+        "author": [
+            "Benjamin I.P. Rubinstein",
+            "Blaine Nelson",
+            "Ling Huang",
+            "Anthony D. Joseph",
+            "Shing-hon Lau",
+            "Satish Rao",
+            "Nina Taft",
+            "J.D. Tygar"
+        ],
+        "venue": "IMC, 2009, pp. 1\u201314.",
+        "citeRegEx": "26",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Related case studies include attacks on spam detection [21]\u2013[23], polymorphic worm detectors [24], and on network anomaly detectors [25], [26]. While there have been applications in security [7], [26], [30], neither framework has so far had a large impact on research in security.",
+        "context": null
+    },
+    {
+        "title": "Adversarial Classification",
+        "author": [
+            "Nilesh Dalvi",
+            "Pedro Domingos",
+            "Mausam",
+            "Sumit Sanghai",
+            "Deepak Verma"
+        ],
+        "venue": "KDD, 2004, pp. 99\u2013108.",
+        "citeRegEx": "27",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [27] considered patching of simple classifier\u2019s \u2018blind spots\u2019 to attack by instances that optimize an attacker cost function in a one-shot game-theoretic setting.",
+        "context": null
+    },
+    {
+        "title": "Nash Equilibria of Static Prediction Games",
+        "author": [
+            "Michael Br\u00fcckner",
+            "Tobias Scheffer"
+        ],
+        "venue": "NIPS, 2009, pp. 171\u2013179.",
+        "citeRegEx": "28",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " [28] identify conditions for the existence of unique Nash equilibria for static games for learning.",
+        "context": null
+    },
+    {
+        "title": "Prediction, Learning, and Games",
+        "author": [
+            "Nicol\u00f2 Cesa-Bianchi",
+            "G\u00e1bor Lugosi"
+        ],
+        "venue": null,
+        "citeRegEx": "29",
+        "shortCiteRegEx": "29",
+        "year": 2006,
+        "abstract": "This important text and reference for researchers and students in machine learning, game theory, statistics and information theory offers a comprehensive treatment of the problem of predicting individual sequences. Unlike standard statistical approaches to forecasting, prediction of individual sequences does not impose any probabilistic assumption on the data-generating mechanism. Yet, prediction algorithms can be constructed that work well for all possible sequences, in the sense that their performance is always nearly as good as the best forecasting strategy in a given reference class. The central theme is the model of prediction using expert advice, a general framework within which many related problems can be cast and discussed. Repeated game playing, adaptive data compression, sequential investment in the stock market, sequential pattern analysis, and several other problems are viewed as instances of the experts' framework and analyzed from a common nonstochastic standpoint that often reveals new and intriguing connections.",
+        "full_text": "",
+        "sentence": " Regret minimizing learners [29] have been used in security settings [7], [30] but not with popular \u201cbatch\u201d The adversarial learning setting relates to robust statistics [31] and online learning theory or the theory of regret minimization [29].",
+        "context": null
+    },
+    {
+        "title": "Regret Minimizing Audits: A Learning-Theoretic Basis for Privacy Protection",
+        "author": [
+            "Jeremiah Blocki",
+            "Nicolas Christin",
+            "Anupam Datta",
+            "Arunesh Sinha"
+        ],
+        "venue": "CSF, 2011, pp. 312\u2013327.",
+        "citeRegEx": "30",
+        "shortCiteRegEx": null,
+        "year": 2011,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Regret minimizing learners [29] have been used in security settings [7], [30] but not with popular \u201cbatch\u201d While there have been applications in security [7], [26], [30], neither framework has so far had a large impact on research in security.",
+        "context": null
+    },
+    {
+        "title": "Robust Statistics, Probability and Mathematical Statistics",
+        "author": [
+            "Peter J. Huber"
+        ],
+        "venue": null,
+        "citeRegEx": "31",
+        "shortCiteRegEx": "31",
+        "year": 1981,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The adversarial learning setting relates to robust statistics [31] and online learning theory or the theory of regret minimization [29].",
+        "context": null
+    },
+    {
+        "title": "Extensions of Lipschitz mappings into a Hilbert space",
+        "author": [
+            "William B Johnson",
+            "Joram Lindenstrauss"
+        ],
+        "venue": "Contemporary Mathematics, vol. 26, no. 189-206, pp. 189\u2013206, 1984.",
+        "citeRegEx": "32",
+        "shortCiteRegEx": null,
+        "year": 1984,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The Johnson-Lindenstrauss Lemma [32] established the existence of low-dimensional linear projections that approximately preserve inter-point distances, a key characteristic used by many learning algorithms. The well-known Johnson-Lindenstrauss Lemma [32] formalizes this idea.",
+        "context": null
+    },
+    {
+        "title": "An algorithmic theory of learning: Robust concepts and random projection",
+        "author": [
+            "Rosa I Arriaga",
+            "Santosh Vempala"
+        ],
+        "venue": "FOCS, 1999, pp. 616\u2013623.",
+        "citeRegEx": "33",
+        "shortCiteRegEx": null,
+        "year": 1999,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In their landmark paper, [33] built on this property of random projections to show that model classes (that are robust, with some margin) are still PAC learnable [34] when randomly projected by data-independent mappings. Random projections are extremely popular techniques in machine learning for dealing with the curse-ofdimensionality [33], [35].",
+        "context": null
+    },
+    {
+        "title": "A theory of the learnable",
+        "author": [
+            "Leslie Valiant"
+        ],
+        "venue": "Communications of the ACM, vol. 27, pp. 1134\u20131142, 1984.",
+        "citeRegEx": "34",
+        "shortCiteRegEx": null,
+        "year": 1984,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In their landmark paper, [33] built on this property of random projections to show that model classes (that are robust, with some margin) are still PAC learnable [34] when randomly projected by data-independent mappings.",
+        "context": null
+    },
+    {
+        "title": "Random features for large-scale kernel machines",
+        "author": [
+            "Ali Rahimi",
+            "Benjamin Recht"
+        ],
+        "venue": "Advances in neural information processing systems, 2007, pp. 1177\u20131184.",
+        "citeRegEx": "35",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " More recently, Rahimi & Recht [35] use random projections to reduce the computational complexity of training support vector machine (SVM) classifiers on large data sets. Random projections are extremely popular techniques in machine learning for dealing with the curse-ofdimensionality [33], [35]. the inner product of projected points can approximate their original kernel evaluation if the transformation is carefully selected [35].",
+        "context": null
+    },
+    {
+        "title": "Learning with kernels: support vector machines, regularization, optimization, and beyond",
+        "author": [
+            "Bernhard Scholkopf",
+            "Alexander J Smola"
+        ],
+        "venue": "MIT press,",
+        "citeRegEx": "36",
+        "shortCiteRegEx": "36",
+        "year": 2001,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " SVM learning involves solving a quadratically-constrained quadratic program [36] whose dual involves the data only via inner-products\u2014a kernel matrix.",
+        "context": null
+    },
+    {
+        "title": "The Matrix Cookbook",
+        "author": [
+            "K.B. Petersen",
+            "M.S. Pedersen"
+        ],
+        "venue": "October 2008.",
+        "citeRegEx": "40",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " If the matrices Q1 and Q2 are positive definite and hence invertible [40], then the cost functions J1 and J2 are both quadratic and strictly convex.",
+        "context": null
+    },
+    {
+        "title": "Random Projections for Linear Support Vector Machines",
+        "author": [
+            "C. Boutsidis M. Magdon-Ismail P. Drineas S. Paul"
+        ],
+        "venue": "ACM Transactions on Knowledge Discovery from Data, vol. 8, no. 4, pp. 22:1\u201322:25, Oct. 2014.",
+        "citeRegEx": "41",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Let X be a data matrix of rank \\rho, whose rows represent n points in\nd-dimensional space. The linear support vector machine constructs a hyperplane\nseparator that maximizes the 1-norm soft margin. We develop a new oblivious\ndimension reduction technique which is precomputed and can be applied to any\ninput matrix X. We prove that, with high probability, the margin and minimum\nenclosing ball in the feature space are preserved to within \\epsilon-relative\nerror, ensuring comparable generalization as in the original space in the case\nof classification. For regression, we show that the margin is preserved to\n\\epsilon-relative error with high probability. We present extensive experiments\nwith real and synthetic data to support our theory.",
+        "full_text": "arXiv:1211.6085v5  [cs.LG]  17 Apr 2014\nRandom Projections for Linear Support Vector Machines\nSAURABH PAUL, Rensselaer Polytechnic Institute\nCHRISTOS BOUTSIDIS, IBM T.J. Watson Research Center\nMALIK MAGDON-ISMAIL, Rensselaer Polytechnic Institute\nPETROS DRINEAS, Rensselaer Polytechnic Institute\nLet X be a data matrix of rank \u03c1, whose rows represent n points in d-dimensional space. The linear support vector machine\nconstructs a hyperplane separator that maximizes the 1-norm soft margin. We develop a new oblivious dimension reduction\ntechnique which is precomputed and can be applied to any input matrix X. We prove that, with high probability, the margin\nand minimum enclosing ball in the feature space are preserved to within \u01eb-relative error, ensuring comparable generalization\nas in the original space in the case of classi\ufb01cation. For regression, we show that the margin is preserved to \u01eb-relative error with\nhigh probability. We present extensive experiments with real and synthetic data to support our theory.\nCategories and Subject Descriptors: I.5.2 [Design Methodology]: Classi\ufb01er Design and evaluation; Feature evaluation and\nselection; G.1.6 [Optimization]: Quadratic programming models; G.1.0 [General]: Numerical Algorithms\nGeneral Terms: Algorithms, Experimentation, Theory\nAdditional Key Words and Phrases: Classi\ufb01cation, Dimensionality Reduction, Support Vector Machines\nACM Reference Format:\nSaurabh Paul, Christos Boutsidis, Malik Magdon-Ismail, Petros Drineas, 2013. Random Projections for Linear Support Vector\nMachines. ACM Trans. Knowl. Discov. Data. , , Article (December 2013), 20 pages.\nDOI:http://dx.doi.org/10.1145/0000000.0000000\n1. INTRODUCTION\nSupport Vector Machines (SVM) [Cristianini and Shawe-Taylor 2000] are extremely popular in ma-\nchine learning today. They have been used in both classi\ufb01cation and regression. For classi\ufb01cation, the\ntraining data set consists of n points xi \u2208Rd, with respective labels yi \u2208{\u22121, +1} for i = 1 . . . n. For\nlinearly separable data, the primal form of the SVM learning problem is to construct a hyperplane\nw\u2217which maximizes the geometric margin (the minimum distance of a data point to the hyperplane),\nwhile separating the data. For non-separable data the \u201csoft\u201d 1-norm margin is maximized. The dual\nlagrangian formulation of the classi\ufb01cation problem leads to the following quadratic program:\nmax\n{\u03b1i}\nn\nX\ni=1\n\u03b1i \u22121\n2\nn\nX\ni,j=1\n\u03b1i\u03b1jyiyjxT\ni xj\nsubject to\nn\nX\ni=1\nyi\u03b1i = 0,\n0 \u2264\u03b1i \u2264C,\ni = 1 . . . n.\n(1)\nIn the above formulation, the unknown lagrange multipliers {\u03b1i}n\ni=1 are constrained to lie inside the\n\u201cbox constraint\u201d [0, C]n, where C is part of the input. In order to measure the out-of-sample perfor-\nmance of the SVM classi\ufb01er, we can use the VC-dimension of fat-separators. Assuming that the data\nlie in a ball of radius B, and that the hypothesis set consists of hyperplanes of width \u03b3 (corresponding\nto the margin), then the V C-dimension of this hypothesis set is O(B2/\u03b32) [Vapnik 1998]. Now, given\nA short version of this paper appeared in the 16th International Conference on Arti\ufb01cial Intelligence and Statistics (AISTATS\n2013) [Paul et al. 2013]. Note, that the short version of our paper [Paul et al. 2013] does not include the details of the proofs,\ncomparison of random projections with principal component analysis, extension of random projections for SVM regression in\nterms of both theory and experiments and experiments with fast SVM solver on RCV1 and Hapmap-HGDP datasets.\nChristos Boutsidis acknowledges the support from XDATA program of the Defense Advanced Research Projects Agency\n(DARPA), administered through Air Force Research Laboratory contract FA8750-12-C-0323; Petros Drineas and Malik Magdon-\nIsmail are supported by NSF CCF-1016501 and NSF DMS-1008983; Saurabh Paul is supported by NSF CCF-916415.\nAuthor\u2019s addresses: S. Paul and M. Magdon-Ismail and P. Drineas, Computer Science Department, Rensselaer Polytechnic\nInstitute, pauls2@rpi.edu and {magdon, drinep}@cs.rpi.edu ; C. Boutsidis, Mathematical Sciences Department, IBM T.J. Watson\nResearch Center, cboutsi@us.ibm.com.\nPermission to make digital or hard copies of part or all of this work for personal or classroom use is granted without fee provided\nthat copies are not made or distributed for pro\ufb01t or commercial advantage and that copies show this notice on the \ufb01rst page\nor initial screen of a display along with the full citation. Copyrights for components of this work owned by others than ACM\nmust be honored. Abstracting with credit is permitted. To copy otherwise, to republish, to post on servers, to redistribute to\nlists, or to use any component of this work in other works requires prior speci\ufb01c permission and/or a fee. Permissions may be\nrequested from Publications Dept., ACM, Inc., 2 Penn Plaza, Suite 701, New York, NY 10121-0701 USA, fax +1 (212) 869-0481,\nor permissions@acm.org.\nc\u20dd2013 ACM 1556-4681/2013/12-ART $15.00\nDOI:http://dx.doi.org/10.1145/0000000.0000000\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:2\nPaul et al.\nthe in-sample error, we can obtain a bound for the out-of-sample error, which is monotonic in the\nVC-dimension [Vapnik and Chervonenkis 1971].\nAnalogous to the 1-norm soft margin formulation for SVM classi\ufb01cation, we have a similar formula-\ntion for regression called the linear \u03b5-insensitive loss SVM [Cristianini and Shawe-Taylor 2000]. The\ndual problem for \u03b5-insensitive loss SVM regression is formulated as:\nmax\nn\nX\ni=1\n\u03b1iyi \u2212\u03b5\nn\nX\ni=1\n|\u03b1i| \u22121\n2\nn\nX\ni,j=1\n\u03b1i\u03b1jxT\ni xj\nsubject to\nn\nX\ni=1\n\u03b1i = 0,\n\u2212C \u2264\u03b1i \u2264C,\ni = 1 . . . n.\n(2)\nHere, {\u03b1}n\ni=1 are the Lagrange multipliers and they lie in the interval [\u2212C, C]n.\nIntuitively, if one can preserve the subspace geometry, then one should be able to preserve the per-\nformance of a distance-based algorithm. We construct dimension reduction matrices R \u2208Rd\u00d7r which\nproduce r-dimensional feature vectors \u02dcxi = RT xi; the matrices R do not depend on the data. We\nshow that for the data in the dimension-reduced space, the margin of separability and the minimum\nenclosing ball radius are preserved, since the subspace geometry is preserved. So, an SVM with an ap-\npropriate structure de\ufb01ned by the margin (width) of the hyperplanes [Vapnik and Chervonenkis 1971]\nwill have comparable VC-dimension and, thus, generalization error. This is true for classi\ufb01cation. The\n\u03b5-insensitive loss SVM regression problem is an unbounded problem and as such, we are not able to\ninfer anything related to the generalization error bounds: we can only infer the preservation of margin.\n1.1. Notation and SVM Basics\nA, B, . . . denote matrices and \u03b1, ,\n\u00af\n. . . denote column vectors; ei (for all i = 1 . . . n) is the standard basis,\nwhose dimensionality will be clear from context; and In is the n \u00d7 n identity matrix. The Singular\nValue Decomposition (SVD) of a matrix A \u2208Rn\u00d7d of rank \u03c1 \u2264min {n, d} is equal to A = U\u03a3VT , where\nU \u2208Rn\u00d7\u03c1 is an orthogonal matrix containing the left singular vectors, \u03a3 \u2208R\u03c1\u00d7\u03c1 is a diagonal matrix\ncontaining the singular values \u03c31 \u2265\u03c32 \u2265. . . \u03c3\u03c1 > 0, and V \u2208Rd\u00d7\u03c1 is a matrix containing the right\nsingular vectors. The spectral norm of A is \u2225A\u22252 = \u03c31.\n1.1.1. SVM Classi\ufb01cation. Let X \u2208Rn\u00d7d be the matrix whose rows are the vectors xT\ni , Y \u2208Rn\u00d7n be\nthe diagonal matrix with entries Yii = yi, and \u03b1 = [\u03b11, \u03b12, . . . , \u03b1n] \u2208Rn be the vector of lagrange\nmultipliers to be determined by solving eqn. \u02daeqn:svm1. The SVM optimization problem is\nmax\n\u03b1 1T \u03b1 \u22121\n2\u03b1T YXXT Y\u03b1\nsubject to 1T Y\u03b1 = 0;\nand\n0 \u2264\u03b1 \u2264C.\n(3)\n(In the above, 1, 0, C are vectors with the implied constant entry.) Let \u03b1\u2217be an optimal solution\nof the above problem. The optimal separating hyperplane is given by w\u2217= XT Y\u03b1\u2217= Pn\ni=1 yi\u03b1\u2217\ni xi,\nand the points xi for which \u03b1\u2217\ni > 0, i.e., the points which appear in the expansion w\u2217, are the sup-\nport vectors. The geometric margin, \u03b3\u2217, of this canonical optimal hyperplane is \u03b3\u2217= 1/ \u2225w\u2217\u22252, where\n\u2225w\u2217\u22252\n2 = Pn\ni=1 \u03b1\u2217\ni . The data radius is B = minx\u2217maxxi \u2225xi \u2212x\u2217\u22252. It is this \u03b3\u2217and B that factor into\nthe generalization performance of the SVM through the ratio B/\u03b3\u2217. It is worth noting, that our results\nhold for the separable case as well, which amounts to setting C to a large value.\n1.1.2. SVM Regression. Let X \u2208Rn\u00d7d be the matrix whose rows are the vectors xT\ni , y be the n-\ndimensional vector with the target entries, and \u03b1 = [\u03b11, \u03b12, . . . , \u03b1n] \u2208Rn be the vector of lagrange\nmultipliers to be determined by solving eqn. \u02daeqn:svm4. The SVM optimization problem is\nmax\n\u03b1 yT \u03b1 \u2212\u03b51T\u03b1 \u22121\n2\u03b1T XXT \u03b1\nsubject to 1T \u03b1 = 0;\nand\n\u2212C \u2264\u03b1 \u2264C.\n(4)\n1, 0, C are vectors with the implied constant entry. Let \u03b1\u2217be an optimal solution of the above problem.\nThe optimal separating hyperplane is given by w\u2217= \u03b1\u2217T X = Pn\ni=1 \u03b1\u2217\ni xi and the points xi for which\n\u03b1\u2217\ni > 0, i.e., the points which appear in the expansion w\u2217, are the support vectors. The geometric\nmargin for regression is de\ufb01ned in the same way as it was done for classi\ufb01cation.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:3\n1.2. Dimension Reduction\nOur goal is to study how the SVM performs under (linear) dimensionality reduction transformations\nin the feature space. Let R \u2208Rd\u00d7r be the dimension reduction matrix that reduces the dimensionality\nof the input from d to r \u226ad. We will choose R to be a random projection matrix (see Section 2). The\ntransformed dataset into r dimensions is given by \u02dcX = XR, and the SVM optimization problem for\nclassi\ufb01cation becomes\nmax\n\u02dc\u03b1 1T \u02dc\u03b1 \u22121\n2 \u02dc\u03b1T YXRRT XT Y \u02dc\u03b1,\nsubject to 1T Y \u02dc\u03b1 = 0,\nand\n0 \u2264\u02dc\u03b1 \u2264C.\n(5)\nFor regression, the SVM optimization problem becomes\nmax\n\u02dc\u03b1 yT \u02dc\u03b1 \u2212\u03b51T \u02dc\u03b1 \u22121\n2 \u02dc\u03b1T XRRT XT \u02dc\u03b1\nsubject to 1T \u02dc\u03b1 = 0;\nand\n\u2212C \u2264\u02dc\u03b1 \u2264C.\n(6)\nWe will present a construction for R that leverages the fast Hadamard transform. The running\ntime needed to apply this construction to the original data matrix is O (nd log r). Notice that while\nthis running time is nearly linear on the size of the original data, it does not take advantage\nof any sparsity in the input. In order to address this de\ufb01ciency, we leverage the recent work of\nClarkson and Woodruff [2013], Meng and Mahoney [2013] and Nelson and Nguyen [2013], which pro-\nposes a construction for R that can be applied to X in O\n\u0000nnz(X) + poly\n\u0000n\u01eb\u22121\u0001\u0001\ntime; here nnz (X)\ndenotes the number of non-zero entries of X and \u03c1 is the rank of X. To the best of our knowledge, this\nis the \ufb01rst independent implementation and evaluation of this potentially ground-breaking random\nprojection technique (a few experimental results were presented by Clarkson and Woodruff [2013],\nMeng and Mahoney [2013] and Nelson and Nguyen [2013]). All constructions for R are oblivious of\nthe data and hence they can be precomputed. Also, the generalization bounds that depend on the \ufb01nal\nmargin and radius of the data will continue to hold for classi\ufb01cation, while the bound on the margin\nholds for regression.\nThe pratical intent of using linear SVM after random projections is to reduce computational com-\nplexity of training SVM and memory. For large-scale datasets, that are too big to \ufb01t into memory (see\nSection 4.1.3 for details), random projections serve as a possible way to estimate out-of-sample error.\nRandom projections reduce the computational complexity of training SVM which is evident from the\nexperiments described in Section 4.\n1.3. Our Contribution\nOur main theoretical results are to show that by solving the SVM optimization problem in the pro-\njected space, we get relative-error generalization performance for SVM classi\ufb01cation and that, we\npreserve the margin upto relative error for SVM regression. We brie\ufb02y discuss the appropriate val-\nues of r, namely the dimensionality of the dimensionally-reduced problem. If R is the matrix of the\nrandomized Hadamard transform (see Section 2 for details), then given \u01eb \u2208(0, 1/2] and \u03b4 \u2208(0, 1) we\nset\nr = O\n\u0000\u03c1\u01eb\u22122 \u00b7 log\n\u0000\u03c1d\u03b4\u22121\u0001\n\u00b7 log\n\u0000\u03c1\u01eb\u22122\u03b4\u22121 log\n\u0000\u03c1d\u03b4\u22121\u0001\u0001\u0001\n.\n(7)\nThe running time needed to apply the randomized Hadamard transform is O (nd log r). If\nR is constructed as described in Clarkson and Woodruff [2013], Meng and Mahoney [2013] and\nNelson and Nguyen [2013], then given \u01eb \u2208(0, 1) and \u03b4 \u2208(0, 1) we set\nr = O\n\u0000\u03c1\u01eb\u22124 log (\u03c1/\u03b4\u01eb) (\u03c1 + log (1/\u03b4\u01eb))\n\u0001\n.\n(8)\nThe running time needed to apply this transform is O\n\u0000nnz(X) + poly\n\u0000n\u01eb\u22121\u0001\u0001\n. If R is a random sign-\nmatrix, then given \u01eb \u2208(0, 1/2] and we set\nr = O\n\u0000\u03c1\u01eb\u22122 log \u03c1 log d\n\u0001\n.\n(9)\nThe running time needed to apply this transform is equal to O (ndr). Finally if R is a random gaussian\nmatrix, then given \u01eb \u2208(0, 1/2] and \u03b4 \u2208(0, 1) we set,\nr = O\n\u0000\u03c1\u01eb\u22122 log (\u03c1/\u03b4)\n\u0001\n.\n(10)\nOur main theorem will be stated in terms of the randomized Hadamard Transform, but similar\nstatements can be obtained for the other three transforms.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:4\nPaul et al.\nTHEOREM 1.1.\nLet \u01eb \u2208(0, 1/2] be an accuracy paramater and let \u03b4 \u2208(0, 1) be a failure probability.\nLet R \u2208Rd\u00d7r be the matrix of the randomized Hadamard Transform, with r as in eqn. (7). Let \u03b3\u2217and\n\u02dc\u03b3\u2217be the margins obtained by solving the SVM problems using data matrices X and XR respectively\n(eqns. (3) and (5)). Let B be the radius of the minimum ball enclosing all points in the full-dimensional\nspace (rows of X) and let \u02dcB be the radius of the ball enclosing all points in the dimensionally-reduced\nspace (rows of XR). Then, with probability at least 1 \u22122\u03b4,\n\u02dcB2\n\u02dc\u03b3\u22172 \u2264(1 + \u01eb)\n(1 \u2212\u01eb)\nB2\n\u03b3\u22172 .\nSimilar theorems can be stated for the other two constructions of R by setting the value of r as in\neqns. (8), (9) and (10). For the case of SVM regression, we can only show that the margin is preserved\nup to relative error with probability at least 1 \u2212\u03b4, namely\n\u02dc\u03b3\u22172 \u2265(1 \u2212\u01eb) \u03b3\u22172.\n1.4. Prior work\nThe work most closely related to our results is that of Krishnan et al. [2008], which improved upon\nBalcazar et al. [2001]. Balcazar et al. [2001] and Balczar et al. [2002] used random sampling tech-\nniques for solving the SVM classi\ufb01cation and \u03b5-insensitive loss SVM regression problem respec-\ntively, but they were not able to implement their algorithms in practice. Krishnan et al. [2008] and\nJethava et al. [2009] showed that by using sub-problems based on Gaussian random projections, one\ncan obtain a solution to the SVM classi\ufb01cation and regression problem with a margin that is relative-\nerror close to the optimal. Their sampling complexity (the parameter r in our parlance) depends on\nB4, and, most importantly, on 1/\u03b3\u22172. This bound is not directly comparable to our result, which only\ndepends on the rank of the data manifold, and holds regardless of the margin of the original problem\n(which could be arbitrarily small). Our results dramatically improve the running time needed to apply\nthe random projections; our running times are (theoretically) linear in the number of non-zero entries\nin X, whereas Krishnan et al. [2008] necessitates O(ndr) time to apply R on X.\nBlum [2006] showed relative error margin preservation for linearly separable data by angle preser-\nvation between points when using random orthogonal matrix, standard gaussian matrix and the ran-\ndom sign matrix. We show relative-error margin preservation for non-separable data and use methods\nthat improve running time to compute random projections. Shi et al. [2012] establish the conditions\nunder which margins are preserved after random projection and show that error free margins are\npreserved for both binary and multi-class problems if these conditions are met. They discuss the the-\nory of margin and angle preservation after random projections using Gaussian matrices. They show\nthat margin preservation is closely related to acute angle preservation and inner product preserva-\ntion. Smaller acute angle leads to better preservation of the angle and the inner product. When the\nangle is well preserved, the margin is well-preserved too. There are two main differences between\ntheir result and ours. They show margin preservation to within additive error, whereas we give mar-\ngin preservation to within relative error. This is a big difference especially when the margin is small.\nMoreover, they analyze only the separable case. We analyze the general non-separable dual problem\nand give a result in terms of the norm of the weight vector. For the separable case, the norm of the\nweight vector directly relates to the margin. For the non-separable case, one has to analyze the actual\nquadratic program, and our result essentially claims that the solution in the transformed space will\nhave comparably regularized weights as the solution in the original space.\nShi et al. [2009] used hash kernels which approximately preserved inner product to design a\nbiased approximation of the kernel matrix. The hash kernels can be computed in the num-\nber of non-zero terms of a data matrix similar to the method of Clarkson and Woodruff [2013],\nMeng and Mahoney [2013] and Nelson and Nguyen [2013] that we employed. Shi et al. [2009] used\nrandom sign matrices to compute random projections which typically increase the number\nof non-zero terms of the data matrix. However, the method of Clarkson and Woodruff [2013],\nMeng and Mahoney [2013]\nand\nNelson and Nguyen [2013]\ntakes\nadvantage\nof\ninput\nsparsity.\nShi et al. [2009] showed that their generalization bounds on the hash kernel and the original kernel\ndiffered by the inverse of the product of the margin and number of datapoints. For smaller margins,\nthis difference will be high. Our generalization bounds are independent of the original margin and\nhold for arbitrarily small margins.\nZhang et al. [2013] developed algorithms to accurately recover the optimal solution to the original\nSVM optimization problem using a Gaussian random projection. They compute the dual solution pro-\nvided that the data matrix has low rank. This is different from our work since we analyze the ratio of\nradius of the minimum enclosing ball to the margin using random projections and do not try to recover\nthe solution.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:5\nFinally, it is worth noting that random projection techniques have been applied extensively in the\ncompressed sensing literature, and our theorems have the same \ufb02avor to a number of results in that\narea. However, to the best of our knowledge, the compressed sensing literature has not investigated\nthe 1-norm soft-margin SVM optimization problem.\n2. RANDOM PROJECTION MATRICES\nRandom projections are extremely popular techniques in order to\ndeal with the curse-of-\ndimensionality. Let the data matrix be X \u2208Rn\u00d7d (n data points in Rd) and let R \u2208Rd\u00d7r (with r \u226ad)\nbe a random projection matrix. Then, the projected data matrix is \u02dcX = XR \u2208Rn\u00d7r (n points in Rr).\nIf R is carefully chosen, then all pairwise Euclidean distances are preserved with high probability.\nThus, the geometry of the set of points in preserved, and it is reasonable to hope that an optimization\nobjective such as the one that appears in SVMs will be only mildly perturbed.\nThere are many possible constructions for the matrix R that preserve pairwise distances. The\nmost common one is a matrix R whose entries are i.i.d. standard Gaussian random variables\n[Dasgupta and Gupta 2003; Indyk and Motwani 1998] \u2013RG for short. Achlioptas [2003] argued that\nthe random sign matrix \u2013 RS for short \u2013 e.g., a matrix whose entries are set to +1 or \u22121 with equal\nprobability, also works. Li et al. [2006] used the sparse random projection matrix whose entries were\nset to +1 or \u22121 with probability 1/2\n\u221a\nd and 0 with probability (1 \u22121/\n\u221a\nd). These constructions take\nO (ndr) time to compute \u02dcX.\nMore recently, faster methods of constructing random projections have been developed, using, for\nexample, the Fast Hadamard Transform [Ailon and Chazelle 2006] \u2013 FHT for short. The Hadamard-\nWalsh matrix for any d that is a power of two is de\ufb01ned as\nHd =\n\u0014 Hd/2\nHd/2\nHd/2 \u2212Hd/2\n\u0015\n\u2208Rd\u00d7d,\nwith H1 = +1. The normalized Hadamard-Walsh matrix is\nq\n1\ndHd, which we simply denote by H. We\nset:\nRSRHT =\nr\nd\nr DHS,\n(11)\na rescaled product of three matrices. D \u2208Rd\u00d7d is a random diagonal matrix with Dii equal to \u00b11\nwith probability 1\n2. H \u2208Rd\u00d7d is the normalized Hadamard transform matrix. S \u2208Rd\u00d7r is a random\nsampling matrix which randomly samples columns of DH; speci\ufb01cally, each of the r columns of S is\nindependent and selected uniformly at random (with replacement) from the columns of Id, the identity\nmatrix. This construction assumes that d is a power of two. If not, we just pad X with columns of\nzeros (affecting run times by at most a factor of two). The important property of this transform is that\nthe projected features \u02dcX = XR can be computed ef\ufb01ciently in O (nd log r) time (see Theorem 2.1 of\nAilon and Liberty [2008] for details). An important property of R (that follows from prior work) is that\nit preserves orthogonality.\nWhile the randomized Hadamard transform is a major improvement over prior work, it\ndoes not take advantage of any sparsity in the input matrix. To \ufb01x this, very recent work\n[Clarkson and Woodruff 2013] shows that carefully constructed random projection matrices can\nbe applied in input sparsity time by making use of generalized sparse embedding matri-\nces. Meng and Mahoney [2013], Nelson and Nguyen [2013] also use a similar construction which\nruns in input sparsity time. Here we describe the construction of Clarkson and Woodruff [2013].\nTo\nunderstand their construction\nof R,\nassume\nthat\nthe\nrank\nof X\nis\n\u03c1\nand\nlet\nr\n=\nO\n\u0000\u03c1\u01eb\u22124 log (\u03c1/\u03b4\u01eb) (\u03c1 + log (1/\u01eb\u03b4))\n\u0001\n. Then, let a\n=\n\u0398\n\u0000\u01eb\u22121 log (\u03c1/\u01eb\u03b4)\n\u0001\n, v\n=\n\u0398\n\u0000\u01eb\u22121\u0001\n, and let q\n=\nO\n\u0000\u03c1\u01eb\u22122 (\u03c1 + log (1/\u01eb\u03b4))\n\u0001\nbe an integer (by appropriately choosing the constants). The construction\nstarts by letting h : 1 . . . d \u21921 . . . q be a random hash function; then, for i = 1 . . . q, let ai =\n\f\fh\u22121(i)\n\f\f\nand let d = Pq\ni=1 ai. The construction proceeds by creating q independent matrices B1 . . . Bq, such\nthat Bi \u2208Rva\u00d7ai. Each Bi is the concatenation (stacking the rows of matrices on top of each other)\nof the following matrices:\nq\n1\na\u03a61D1 . . .\nq\n1\na\u03a6aDa. The matrix \u03a6iDi \u2208Rv\u00d7ai is de\ufb01ned as follows: for\neach m \u2208{1 . . .v}, h(m) = g\u2032, where g\u2032 is selected from {1 . . . ai} uniformly at random. \u03a6i is a v \u00d7 ai\nbinary matrix with \u03a6h(m),m = 1 and all remaining entries set to zero. D is an ai \u00d7 ai random diagonal\nmatrix, with each diagonal entry independently set to be +1 or \u22121 with probability 1/2. Finally, let S\nbe the block diagonal matrix constructed by stacking the Bi\u2019s across its diagonal and let P be a d \u00d7 d\npermutation matrix; then, R = (SP)T . The running time is O\n\u0000nnz(X) + poly\n\u0000n\u01eb\u22121\u0001\u0001\n. We will call the\nmethod of Clarkson and Woodruff [2013] to construct a sparse embedding matrix CW.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:6\nPaul et al.\n3. GEOMETRY OF SVM IS PRESERVED UNDER RANDOM PROJECTION\nWe now state and prove our main result, namely that solving the SVM optimization problem in the\nprojected space results in comparable margin and data radius as in the original space. The following\nlemma will be crucial in our proof.\nLEMMA 3.1. Fix \u01eb \u2208(0, 1\n2], \u03b4 \u2208(0, 1]. Let V \u2208Rd\u00d7\u03c1 be any matrix with orthonormal columns and let\nR = RSRHT as in eqn. (11), with r = O(\u03c1\u01eb\u22122 \u00b7 log(\u03c1d\u03b4\u22121) \u00b7 log(\u03c1\u01eb\u22122\u03b4\u22121 log(\u03c1d\u03b4\u22121))). Then, with probability\nat least 1 \u2212\u03b4,\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb.\nPROOF. Consider the matrix VT R = VT DHS. Using Lemma 3 of [Drineas et al. 2011],\n\r\r\r(HDV)(i)\n\r\r\r\n2\n2 \u22642\u03c1 ln(40d\u03c1)\nd\n\u21d2(2 ln (40d\u03c1))\u22121\n\r\r\r(HDV)(i)\n\r\r\r\n2\n2\n\u03c1\n\u22641\nd\nholds for all i = 1, . . . , d with probability at least 1 \u2212\u03b4. In the above, the notation A(i) denotes the\ni-th row of A as a row vector. Applying Theorem 4 with \u03b2 = (2 ln (40d\u03c1))\u22121 ( [Drineas et al. 2011],\nAppendix) concludes the lemma.\nWe now state two similar lemmas that cover two additional constructions for R.\nLEMMA 3.2. Let \u01eb \u2208(0, 1\n2] and let V \u2208Rd\u00d7\u03c1 be any matrix with orthonormal columns. Let R \u2208Rd\u00d7r\nbe a (rescaled) random sign matrix. If r = O\n\u0000\u03c1\u01eb\u22122 log \u03c1 log d\n\u0001\n, then with probability at least 1 \u22121/n,\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb.\nPROOF. The\nproof\nof\nthis\nresult\nis\na\nsimple\napplication\nof\nTheorem\n3.1(i)\nof Magen and Zouzias [2011].\nLEMMA 3.3.\nLet \u01eb\n\u2208\n(0, 1\n2], \u03b4\n\u2208\n(0, 1), and let V\n\u2208\nRd\u00d7\u03c1 be any matrix with orthonor-\nmal columns. Let R\n\u2208\nRd\u00d7r be the CW random projection matrix (see Section 2) with r\n=\nO\n\u0000\u03c1\u01eb\u22124 log (\u03c1/\u03b4\u01eb) (\u03c1 + log (1/\u01eb\u03b4))\n\u0001\n. Then, with probability at least 1 \u2212\u03b4,\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb.\nPROOF. The proof of this result follows from Theorem 1 of Meng and Mahoney [2013].\nLEMMA 3.4. Let \u01eb \u2208(0, 1\n2], \u03b4 \u2208(0, 1), and let V \u2208Rd\u00d7\u03c1 be any matrix with orthonormal columns. Let\nR \u2208Rd\u00d7r be the Gaussian random projection matrix with r = O\n\u0000\u03c1\u01eb\u22122 log (\u03c1/\u03b4)\n\u0001\n. Then with probability\nat least 1 \u2212\u03b4,\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb.\nPROOF. The proof of this result follows from Corollary 6 of Zhang et al. [2013].\nLemma 3.4 does not have the log factors as in Lemma 3.1, but Gaussian projections are slower\nsince they require full matrix-matrix multiplications.\nTHEOREM 3.5.\nLet \u01eb be an accuracy parameter and let R\n\u2208\nRd\u00d7r be a matrix satisfying\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb. Let \u03b3\u2217and \u02dc\u03b3\u2217be the margins obtained by solving the SVM problems us-\ning data matrices X and XR respectively (eqns. (3) and (5)). Then,\n\u02dc\u03b3\u22172 \u2265(1 \u2212\u01eb) \u00b7 \u03b3\u22172.\nPROOF. Let E = VT V \u2212VT RRT V, and \u03b1\u2217= [\u03b1\u2217\n1, \u03b1\u2217\n2, . . . , \u03b1\u2217\nn]T \u2208Rn be the vector achieving the\noptimal solution for the problem of eqn. (3) in Section 1. Then,\nZopt =\nn\nX\ni=1\n\u03b1\u2217\ni \u22121\n2\u03b1\u2217T YXXT Y\u03b1\u2217\n=\nn\nX\ni=1\n\u03b1\u2217\ni \u22121\n2\u03b1\u2217T YU\u03a3VT V\u03a3UT Y\u03b1\u2217\n=\nn\nX\ni=1\n\u03b1\u2217\ni \u22121\n2\u03b1\u2217T YU\u03a3VT RRT V\u03a3UT Y\u03b1\u2217\n\u22121\n2\u03b1\u2217T YU\u03a3E\u03a3UT Y\u03b1\u2217.\n(12)\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:7\nLet \u02dc\u03b1\u2217= [\u02dc\u03b1\u2217\n1, \u02dc\u03b1\u2217\n2, . . . , \u02dc\u03b1\u2217\nn]T \u2208Rn be the vector achieving the optimal solution for the dimensionally-\nreduced SVM problem of eqn. (5) using \u02dcX = XR. Using the SVD of X, we get\n\u02dcZopt =\nn\nX\ni=1\n\u02dc\u03b1\u2217\ni \u22121\n2 \u02dc\u03b1\u2217T YU\u03a3VT RRT V\u03a3UT Y \u02dc\u03b1\u2217.\n(13)\nSince the constraints on \u03b1\u2217, \u02dc\u03b1\u2217do not depend on the data (see eqns. (3) and (5)), it is clear that \u02dc\u03b1\u2217is\na feasible solution for the problem of eqn. (3). Thus, from the optimality of \u03b1\u2217, and using eqn. (13), it\nfollows that\nZopt =\nn\nX\ni=1\n\u03b1\u2217\ni \u22121\n2\u03b1\u2217T YU\u03a3VT RRT V\u03a3UT Y\u03b1\u2217\n\u22121\n2\u03b1\u2217T YU\u03a3E\u03a3UT Y\u03b1\u2217\n\u2265\nn\nX\ni=1\n\u02dc\u03b1\u2217\ni \u22121\n2 \u02dc\u03b1\u2217T YU\u03a3VT RRT V\u03a3UT Y \u02dc\u03b1\u2217\n\u22121\n2 \u02dc\u03b1\u2217T YU\u03a3E\u03a3UT Y \u02dc\u03b1\u2217\n= \u02dcZopt \u22121\n2 \u02dc\u03b1\u2217T YU\u03a3E\u03a3UT Y \u02dc\u03b1\u2217.\n(14)\nWe now analyze the second term using standard sub-multiplicativity properties and VT V = I. Taking\nQ = \u02dc\u03b1\u2217T YU\u03a3\n1\n2 \u02dc\u03b1\u2217T YU\u03a3E\u03a3UT Y \u02dc\u03b1\u2217\u22641\n2 \u2225Q\u22252 \u2225E\u22252\n\r\r\rQT \r\r\r\n2\n= 1\n2 \u2225E\u22252 \u2225Q\u22252\n2\n= 1\n2 \u2225E\u22252\n\r\r\r \u02dc\u03b1\u2217T YU\u03a3VT \r\r\r\n2\n2\n= 1\n2 \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\n(15)\nCombining eqns. (14) and (15), we get\nZopt \u2265\u02dcZopt \u22121\n2 \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\n(16)\nWe now proceed to bound the second term in the right-hand side of the above equation. Towards that\nend, we bound the difference:\n\f\f\f \u02dc\u03b1\u2217T YXRRT XT Y \u02dc\u03b1\u2217\u2212\u02dc\u03b1\u2217T YXXT Y \u02dc\u03b1\u2217\f\f\f\n=\n\f\f\f \u02dc\u03b1\u2217T YU\u03a3\n\u0010\nVT RRT V \u2212VT V\n\u0011\n\u03a3UT Y \u02dc\u03b1\u2217\f\f\f\n=\n\f\f\f \u02dc\u03b1\u2217T YU\u03a3 (\u2212E) \u03a3UT Y \u02dc\u03b1\u2217\f\f\f\n\u2264\u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YU\u03a3\n\r\r2\n2\n= \u2225E\u22252\n\r\r\r \u02dc\u03b1\u2217T YU\u03a3VT \r\r\r\n2\n2\n= \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\nWe can rewrite the above inequality as\n\f\f\f\n\r\r \u02dc\u03b1\u2217T YXR\n\r\r2\n2 \u2212\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2\n\f\f\f \u2264\u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2; thus,\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 \u2264\n1\n1 \u2212\u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YXR\n\r\r2\n2 .\nCombining with eqn. (16), we get\nZopt \u2265\u02dcZopt \u22121\n2\n\u0012\n\u2225E\u22252\n1 \u2212\u2225E\u22252\n\u0013 \r\r \u02dc\u03b1\u2217T YXR\n\r\r2\n2 .\n(17)\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:8\nPaul et al.\nNow recall from our discussion in Section 1 that w\u2217T = \u03b1\u2217T YX, \u02dcw\u2217T = \u02dc\u03b1\u2217T YXR, \u2225w\u2217\u22252\n2 = Pn\ni=1 \u03b1\u2217\ni ,\nand \u2225\u02dcw\u2217\u22252\n2 = Pn\ni=1 \u02dc\u03b1\u2217\ni . Then, the optimal solutions Zopt and \u02dcZopt can be expressed as follows:\nZopt = \u2225w\u2217\u22252\n2 \u22121\n2 \u2225w\u2217\u22252\n2 = 1\n2 \u2225w\u2217\u22252\n2 ,\n(18)\n\u02dcZopt = \u2225\u02dcw\u2217\u22252\n2 \u22121\n2 \u2225\u02dcw\u2217\u22252\n2 = 1\n2 \u2225\u02dcw\u2217\u22252\n2 .\n(19)\nCombining eqns. (17), (18), and (19), we get\n\u2225w\u2217\u22252\n2 \u2265\u2225\u02dcw\u2217\u22252\n2 \u2212\n\u0012\n\u2225E\u22252\n1 \u2212\u2225E\u22252\n\u0013\n\u2225\u02dcw\u2217\u22252\n2\n=\n\u0012\n1 \u2212\n\u2225E\u22252\n1 \u2212\u2225E\u22252\n\u0013\n\u2225\u02dcw\u2217\u22252\n2 .\n(20)\nLet \u03b3\u2217= \u2225w\u2217\u2225\u22121\n2\nbe the geometric margin of the problem of eqn. (3) and let \u02dc\u03b3\u2217= \u2225\u02dcw\u2217\u2225\u22121\n2\nbe the\ngeometric margin of the problem of eqn. (5). Then, the above equation implies:\n\u03b3\u22172 \u2264\n\u0012\n1 \u2212\n\u2225E\u22252\n1 \u2212\u2225E\u22252\n\u0013\u22121\n\u02dc\u03b3\u22172\n\u21d2\u02dc\u03b3\u22172 \u2265\n\u0012\n1 \u2212\n\u2225E\u22252\n1 \u2212\u2225E\u22252\n\u0013\n\u03b3\u22172.\n(21)\nOur second theorem argues that the radius of the minimum ball enclosing all projected points (the\nrows of the matrix XR) is very close to the radius of the minimum ball enclosing all original points\n(the rows of the matrix X). We will prove this theorem for R = RSRHT as in eqn. (11), but similar results\ncan be proven for the other two constructions for R.\nTHEOREM 3.6.\nFix \u01eb \u2208(0, 1\n2], \u03b4 \u2208(0, 1]. Let B be the radius of the minimum ball enclosing all\npoints in the full-dimensional space (the rows of the matrix X), and let \u02dcB be the radius of the ball\nenclosing all points in the dimensionally reduced space (the rows of the matrix XR). Then, if r =\nO(\u03c1\u01eb\u22122 \u00b7 log(\u03c1d\u03b4\u22121) \u00b7 log(\u03c1\u01eb\u22122\u03b4\u22121 log(\u03c1d\u03b4\u22121))), with probability at least 1 \u2212\u03b4,\n\u02dcB2 \u2264(1 + \u01eb)B2.\nPROOF. We consider the matrix XB \u2208R(n+1)\u00d7d whose \ufb01rst n rows are the rows of X and whose\nlast row is the vector xT\nB; here xB denotes the center of the minimum radius ball enclosing all n\npoints. Then, the SVD of XB is equal to XB = UB\u03a3BVT\nB, where UB \u2208R(n+1)\u00d7\u03c1B, \u03a3B \u2208R\u03c1B\u00d7\u03c1B, and\nV \u2208Rd\u00d7\u03c1B. Here \u03c1B is the rank of the matrix XB and clearly \u03c1B \u2264\u03c1 + 1. (Recall that \u03c1 is the rank\nof the matrix X.) Let B be the radius of the minimal radius ball enclosing all n points in the original\nspace. Then, for any i = 1, . . . , n,\nB2 \u2265\u2225xi \u2212xB\u22252\n2 =\n\r\r\r(ei \u2212en+1)T XB\n\r\r\r\n2\n2 .\n(22)\nNow consider the matrix XBR and notice that\n\f\f\f\f\n\r\r\r(ei \u2212en+1)T XB\n\r\r\r\n2\n2 \u2212\n\r\r\r(ei \u2212en+1)T XBR\n\r\r\r\n2\n2\n\f\f\f\f\n=\n\f\f\f(ei \u2212en+1)T \u0010\nXBXT\nB \u2212XBRRT XT\nB\n\u0011\n(ei \u2212en+1)\n\f\f\f\n=\n\f\f\f(ei \u2212en+1)T UB\u03a3BEB\u03a3BUT\nB (ei \u2212en+1)\n\f\f\f\n\u2264\u2225EB\u22252\n\r\r\r(ei \u2212en+1)T UB\u03a3B\n\r\r\r\n2\n2\n= \u2225EB\u22252\n\r\r\r(ei \u2212en+1)T UB\u03a3BVT\nB\n\r\r\r\n2\n2\n= \u2225EB\u22252\n\r\r\r(ei \u2212en+1)T XB\n\r\r\r\n2\n2 .\nIn the above, we let EB \u2208R\u03c1B\u00d7\u03c1B be the matrix that satis\ufb01es VT\nBVB = VT\nBRRT VB + EB, and we\nalso used VT\nBVB = I. Now consider the ball whose center is the (n + 1)-st row of the matrix XBR\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:9\n(essentially, the projection of the center of the minimal radius enclosing ball for the original points).\nLet \u02dci = arg maxi=1...n\n\r\r\r(ei \u2212en+1)T XBR\n\r\r\r\n2\n2; then, using the above bound and eqn. (22), we get\n\r\r\r(e\u02dci \u2212en+1)T XBR\n\r\r\r\n2\n2 \u2264(1 + \u2225EB\u22252)\n\r\r\r(e\u02dci \u2212en+1)T XB\n\r\r\r\n2\n2\n\u2264(1 + \u2225EB\u22252) B2.\nThus, there exists a ball centered at eT\nn+1XBR (the projected center of the minimal radius ball in the\noriginal space) with radius at most\np\n1 + \u2225EB\u22252B that encloses all the projected points. Recall that\n\u02dcB is de\ufb01ned as the radius of the minimal radius ball that encloses all points in projected subspace;\nclearly,\n\u02dcB2 \u2264(1 + \u2225EB\u22252) B2.\nWe can now use Lemma 3.1 on VB to conclude that (using \u03c1B \u2264\u03c1 + 1) \u2225EB\u22252 \u2264\u01eb\nSimilar theorems can be proven for the two other constructions of R by using appropriate values for\nr. We are now ready to conclude the proof of Theorem 1.1.\nPROOF. (of Theorem 1.1) The proof of Theorem 1.1 follows by combining Theorem 3.5, Lemma 3.1,\nand Theorem 3.6. The failure probability is at most 2\u03b4, by a simple application of the union bound.\nFinally, we state the margin preservation theorem for SVM regression, which is analogous to The-\norem 3.5. This theorem holds for all four choices of the random projection matrix R \u2208Rd\u00d7r and is\nidentical to the proof of Theorem 3.5.\nTHEOREM 3.7.\nLet \u01eb be an accuracy parameter and let R\n\u2208\nRd\u00d7r be a matrix satisfying\n\u2225VT V \u2212VT RRT V\u22252 \u2264\u01eb. Let \u03b3\u2217and \u02dc\u03b3\u2217be the margins obtained by solving the SVM regression prob-\nlems using data matrices X and XR respectively (eqns. (4) and (6)). Then,\n\u02dc\u03b3\u22172 \u2265(1 \u2212\u01eb) \u00b7 \u03b3\u22172.\n4. EXPERIMENTS\nIn our experimental evaluations, we implemented random projections using four different methods:\nRG, RS, FHT, and CW (see Section 2 for de\ufb01nitions) in MATLAB version 7.13.0.564 (R2011b). We ran\nthe algorithms using the same values of r (the dimension of the projected feature space) for all algo-\nrithms, but we varied r across different datasets. We used LIBLINEAR [Fan et al. 2008] and LIBSVM\n[Chang and Lin 2011] as our linear SVM solver with default settings. In all cases, we ran our exper-\niments on the original full data (referred to as \u201cfull\u201d in the results), as well as on the projected data.\nFor large-scale datasets, we use LIBLINEAR which is a faster SVM solver than LIBSVM, while for\nmedium-scale datasets we use LIBSVM. We partitioned the data randomly for ten-fold cross-validation\nin order to estimate out-of-sample error. We repeated this partitioning ten times to get ten ten-fold\ncross-validation experiments. In the case where the dataset is already available in the form of a train-\ning and test-set, we do not perform ten-fold cross validation and use the given training and test set\ninstead. In order to estimate the effect of the randomness in the construction of the random pro-\njection matrices, we repeated our cross-validation experiments ten times using ten different random\nprojection matrices for all datasets. For classi\ufb01cation experiments, we report in-sample error (\u01ebin),\nout-of-sample error (\u01ebout), the time to compute random projections (trp), the total time needed to both\ncompute random projections and run SVMs on the lower-dimensional problem (trun), and the margin\n(\u03b3). For regression experiments, we report the margin, the combined running-time of random projec-\ntions and SVM, mean-squared error (mse) and the squared correlation-coef\ufb01cient (\u03b2) of \u01ebin. All results\nare averaged over the ten cross-validation experiments and the ten choices of random projection ma-\ntrices. For each of the aforementioned quantities, we report both its mean value \u00b5 and its standard\ndeviation \u03c3.\n4.1. Experiments on SVM Classi\ufb01cation\nWe describe experimental evaluations on three real-world datasets, namely a collection of document-\nterm matrices (the TechTC-300 dataset [Davidov et al. 2004]), a subset of the Reuters Corpus dataset\n(RCV1 Dataset [Lewis et al. 2004]) and a population genetics dataset (the joint Human Genome Di-\nversity Panel or HGDP [Li et al. 2008] and the HapMap Phase 3 data [Paschou et al. 2010]) and also\non three synthetic datasets. The synthetic datasets, a subset of the RCV1 dataset and the TechTC-300\ndataset correspond to binary classi\ufb01cation tasks while the joint HapMap-HGDP dataset and a sub-\nset of the RCV1 dataset correspond to multi-class classi\ufb01cation tasks; our algorithms perform well in\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:10\nPaul et al.\nmulti-class classi\ufb01cation as well. For the multi-class experiments of Section 4.1.3, we do not report a\nmargin. We use LIBLINEAR as our SVM solver for Hapmap-HGDP 1 and the RCV1 datasets, while for\nthe remaining datasets we use LIBSVM as our solver. For multi-class experiments, we use the method\nof Crammer and Singer [Crammer and Singer 2000] implemented in LIBLINEAR.\nTable I. \u01ebout and \u03b3 of Synthetic Data\n\u01ebout\nProjected Dimension r\n256\n512\n1024\nfull\nD1\nCW (\u00b5)\n24.08\n19.45\n16.66\n15.10\n(\u03c3)\n4.52\n4.15\n3.52\n2.60\nRS (\u00b5)\n24.1.0\n19.46\n16.36\n15.10\n(\u03c3)\n4.45\n3.79\n3.22\n2.60\nFHT (\u00b5)\n23.52\n19.59\n16.67\n15.10\n(\u03c3)\n4.21\n4.05\n3.37\n2.60\nRG (\u00b5)\n24.34\n19.73\n16.69\n15.10\n(\u03c3)\n4.44\n3.86\n3.28\n2.60\nD2\nCW (\u00b5)\n25.94\n21.07\n17.33\n15.44\n(\u03c3)\n4.13\n4.16\n3.45\n2.54\nRS (\u00b5)\n25.80\n20.80\n17.47\n15.44\n(\u03c3)\n4.40\n3.93\n3.42\n2.54\nFHT (\u00b5)\n25.33\n21.23\n17.58\n15.44\n(\u03c3)\n3.69\n4.24\n3.53\n2.54\nRG (\u00b5)\n25.43\n20.54\n17.25\n15.44\n(\u03c3)\n4.03\n3.65\n3.38\n2.54\nD3\nCW (\u00b5)\n27.62\n22.97\n18.93\n15.83\n(\u03c3)\n3.46\n3.22\n3.32\n2.00\nRS (\u00b5)\n28.15\n23.00\n18.72\n15.83\n(\u03c3)\n3.02\n3.48\n2.78\n2.00\nFHT (\u00b5)\n27.92\n23.41\n18.73\n15.83\n(\u03c3)\n3.46\n3.60\n3.02\n2.00\nRG (\u00b5)\n27.71\n22.85\n18.96\n15.83\n(\u03c3)\n3.38\n3.29\n3.33\n2.00\n\u03b3\nProjected Dimension r\n256\n512\n1024\nfull\nD1\nCW (\u00b5)\n5.72\n6.67\n7.16\n7.74\n(\u03c3)\n0.58\n0.58\n0.59\n0.59\nRS (\u00b5)\n5.73\n6.66\n7.18\n7.74\n(\u03c3)\n0.57\n0.55\n0.55\n0.59\nFHT (\u00b5)\n5.76\n6.64\n7.15\n7.74\n(\u03c3)\n0.56\n0.58\n0.56\n0.59\nRG (\u00b5)\n5.67\n6.60\n7.13\n7.74\n(\u03c3)\n0.57\n0.51\n0.54\n0.59\nD2\nCW (\u00b5)\n6.62\n8.09\n8.88\n9.78\n(\u03c3)\n0.64\n0.62\n0.59\n0.66\nRS (\u00b5)\n6.65\n8.10\n8.88\n9.78\n(\u03c3)\n0.64\n0.60\n0.63\n0.66\nFHT (\u00b5)\n6.66\n8.06\n8.84\n9.78\n(\u03c3)\n0.63\n0.65\n0.63\n0.66\nRG (\u00b5)\n6.66\n8.13\n8.90\n9.78\n(\u03c3)\n0.65\n0.60\n0.63\n0.66\nD3\nCW (\u00b5)\n7.69\n9.84\n11.07\n12.46\n(\u03c3)\n0.67\n0.60\n0.71\n0.69\nRS (\u00b5)\n7.61\n9.85\n11.05\n12.46\n(\u03c3)\n0.59\n0.6212\n0.62\n0.69\nFHT (\u00b5)\n7.63\n9.83\n11.11\n12.46\n(\u03c3)\n0.67\n0.64\n0.64\n0.69\nRG (\u00b5)\n7.69\n9.85\n11.04\n12.46\n(\u03c3)\n0.67\n0.61\n0.7\n0.69\nSynthetic data: \u01ebout decreases and \u03b3 increases as a function of r in all three families of matrices, using any of the\nfour random projection methods. \u00b5 and \u03c3 indicate the mean and the standard deviation of \u01ebout over ten matrices\nin each family D1, D2, and D3, ten ten-fold cross-validation experiments, and ten choices of random projection\nmatrices for the four methods that we investigated (a total of 1,000 experiments for each family of matrices).\n4.1.1. Synthetic datasets. The synthetic datasets are separable by construction. More speci\ufb01cally, we\n\ufb01rst constructed a weight vector w \u2208Rd, whose entries were selected in i.i.d. trials from a Gaussian\ndistribution N(\u00b5, \u03c3) of mean \u00b5 and standard-deviation \u03c3. We experimented with the following three\ndistributions: N(0, 1), N(1, 1.5), and N(2, 2). Then, we normalized w to create \u02c6w = w/ \u2225w\u22252. Let Xij =\nN(0, 1); then, we set xi to be equal to the i-th row of X, while yi = sign\n\u0000\u02c6wT xi\n\u0001\n. We generated families of\nmatrices of different dimensions. More speci\ufb01cally, family D1 contained matrices in R200\u00d75,000; family\nD2 contained matrices in R250\u00d710,000; and family D3 contained matrices in R300\u00d720,000. We generated\nten datasets for each of the families D1, D2, and D3, and we report average results over the ten\ndatasets. We set r to 256, 512, and 1024 and set C to 1,000 in LIBSVM for all the experiments. Tables\nI shows \u01ebout and \u03b3 for the three datasets D1, D2, and D3. \u01ebin is zero for all three data families. As\nexpected, \u01ebout and \u03b3 improve as r grows for all four random projection methods. Also, the time needed\nto compute random projections is very small compared to the time needed to run SVMs on the projected\ndata. Figure 1 shows the combined running time of random projections and SVMs, which is nearly the\nsame for all four random projection methods. It is obvious that this combined running time is much\nsmaller that the time needed to run SVMs on the full dataset (without any dimensionality reduction).\nFor instance, for r = 1024, trun for D1, D2, and D3 is (respectively) 6, 9, and 25 times smaller than trun\non the full-data.\n4.1.2. The TechTC-300 dataset. For our \ufb01rst real dataset, we use the TechTC-300 data, consisting of a\nfamily of 295 document-term data matrices. The TechTC-300 dataset comes from the Open Directory\nProject (ODP), which is a large, comprehensive directory of the web, maintained by volunteer editors.\nEach matrix in the TechTC-300 dataset contains a pair of categories from the ODP. Each category\ncorresponds to a label, and thus the resulting classi\ufb01cation task is binary. The documents that are\n1In Paul et al. [2013], the experiments on Hapmap-HGDP dataset were done using LIBSVM\u2019s one-against-one multi-class clas-\nsi\ufb01cation method. LIBLINEAR does not have the one-against-one method implemented in the package. So we use the Crammer\nand Singer method [Crammer and Singer 2000].\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:11\nCW\nRS\nFHT\nRG\n0\n10\n20\n30\n40\n50\n60\n70\ntrun\n \n \nr=256\nr=512\nr=1024\nfull\nD1\nCW\nRS\nFHT\nRG\n0\n20\n40\n60\n80\n100\n120\n140\n160\n180\ntrun\n \n \nr=256\nr=512\nr=1024\nfull\nD2\nCW\nRS\nFHT\nRG\n0\n50\n100\n150\n200\n250\n300\n350\n400\n450\n500\ntrun\n \n \nr=256\nr=512\nr=1024\nfull\nD3\nFig. 1.\nTotal (average) running times, in seconds, of random projections and SVMs on the lower-dimensional data\nfor each of the three families of synthetic data. Vertical bars indicate the, relatively small, standard deviation (see\nthe caption of Table I).\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:12\nPaul et al.\ncollected from the union of all the subcategories within each category are represented in the bag-of-\nwords model, with the words constituting the features of the data [Davidov et al. 2004]. Each data\nmatrix consists of 150-280 documents (the rows of the data matrix X), and each document is described\nwith respect to 10,000-40,000 words (features, columns of the matrix X). Thus, TechTC-300 provides\na diverse collection of data sets for a systematic study of the performance of the SVM on the projected\nversus full data. We set the parameter C to 500 in LIBSVM for all 295 document-term matrices and\nTable II. TechTC-300 Dataset\nProjected Dimension r\n128\n256\n512\nfull\n\u01ebout\nCW(\u00b5)\n24.63\n22.84\n21.26\n17.35\n(\u03c3)\n10.57\n10.37\n10.17\n9.45\nRS(\u00b5)\n24.58\n22.90\n21.38\n17.35\n(\u03c3)\n10.57\n10.39\n10.23\n9.45\nFHT (\u00b5)\n24.63\n22.93\n21.35\n17.35\n(\u03c3)\n10.66\n10.39\n10.2\n9.45\nRG (\u00b5)\n24.59\n22.96\n21.36\n17.35\n(\u03c3)\n10.54\n10.5\n10.18\n9.45\n\u03b3\nCW (\u00b5)\n1.66\n1.88\n1.99\n2.09\n(\u03c3)\n3.68\n3.79\n3.92\n4.00\nRS (\u00b5)\n1.66\n1.88\n1.99\n2.09\n(\u03c3)\n3.65\n3.80\n3.91\n4.00\nFHT (\u00b5)\n1.66\n1.88\n1.98\n2.09\n(\u03c3)\n3.65\n3.81\n3.88\n4.00\nRG (\u00b5)\n1.66\n1.88\n1.99\n2.09\n(\u03c3)\n3.70\n3.83\n3.91\n4.00\ntrp\nCW (\u00b5)\n0.0046\n0.0059\n0.0075\n\u2212\u2212\n(\u03c3)\n0.0019\n0.0026\n0.0033\n\u2212\u2212\nRS (\u00b5)\n0.0429\n0.0855\n0.1719\n\u2212\u2212\n(\u03c3)\n0.0178\n0.0356\n0.072\n\u2212\u2212\nFHT (\u00b5)\n0.0443\n0.0882\n0.1764\n\u2212\u2212\n(\u03c3)\n0.0206\n0.0413\n0.0825\n\u2212\u2212\nRG (\u00b5)\n0.039\n0.078\n0.1567\n\u2212\u2212\n(\u03c3)\n0.0159\n0.0318\n0.0642\n\u2212\u2212\ntrun\nCW (\u00b5)\n1.23\n2.22\n4.63\n4.85\n(\u03c3)\n0.87\n0.93\n1.93\n2.12\nRS (\u00b5)\n0.99\n1.53\n3.02\n4.85\n(\u03c3)\n0.97\n0.59\n1.12\n2.12\nFHT (\u00b5)\n0.95\n1.46\n2.83\n4.85\n(\u03c3)\n0.96\n0.55\n1.02\n2.12\nRG (\u00b5)\n0.82\n1.23\n2.48\n4.85\n(\u03c3)\n0.83\n0.45\n0.84\n2.12\nTechTC300: Results on the TechTC300 dataset, averaged\nover 295 data matrices using four different random projec-\ntion methods. The table shows how \u01ebout, \u03b3, trp (in seconds),\nand trun (in seconds) depend on r. \u00b5 and \u03c3 indicate the\nmean and the standard deviation of each quantity over 295\nmatrices, ten ten-fold cross-validation experiments, and ten\nchoices of random projection matrices for the four methods\nthat we investigated.\nset r to 128, 256, and 512. We use a lower value of C than for the other data sets for computational\nreasons: larger C is less ef\ufb01cient. We note that our classi\ufb01cation accuracy is slightly worse (on the full\ndata) than the accuracy presented in Section 4.4 of Davidov et al. [2004], because we did not \ufb01ne-tune\nthe SVM parameters as they did, since that is not the focus of this study. For every dataset and every\nvalue of r we tried, the in-sample error on the projected data matched the in-sample error on the full\ndata. We thus focus on \u01ebout, the margin \u03b3, the time needed to compute random projections trp, and the\ntotal running time trun. We report our results averaged over 295 data matrices. Table II shows the\nbehavior of these parameters for different choices of r. As expected, \u01ebout and the margin \u03b3 improve as\nr increases, and they are nearly identical for all four random projection methods. The time needed to\ncompute random projections is smallest for CW, followed by RG, RS and FHT. As a matter of fact, trp\nfor CW is ten to 20 times faster than RG, RS and FHT for different values of r. This is predicted by the\ntheory in Clarkson and Woodruff [2013], since CW is optimized to take advantage of input sparsity.\nHowever, this advantage is lost when SVMs are applied on the dimensionally-reduced data. Indeed,\nthe combined running time trun is fastest for RG, followed by FHT, RS and CW. In all cases, the total\nrunning time is smaller than the SVM running time on full dataset. For example, in the case of RG or\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:13\nFHT, setting r = 512 achieves a running time trun which is about twice as fast as running SVMs on\nthe full dataset; \u01ebout increases by less than 4%.\n512 \n1024\n2048\n0\n2\n4\n6\n8\n10\nProjections\nEout\nRegion\u2212level Classification\n \n \nCW\nFHT\nRS\nRG\n512 \n1024\n2048\n0\n5\n10\n15\n20\n25\n30\n35\nProjections\nEout\nPopulation\u2212level Classification\n \n \nCW\nFHT\nRS\nRG\nFig. 2.\n\u01ebout as a function of r in the Hapmap-HGDP dataset for four different random projection methods and two\ndifferent classi\ufb01cation tasks. Vertical bars indicate the standard-deviation over the ten ten-fold cross-validation\nexperiments and the ten choices of the random projection matrices for each of the four methods.\n4.1.3. The HapMap-HGDP dataset. Predicting ancestry of individuals using a set of genetic markers is\na well-studied classi\ufb01cation problem. We use a population genetics dataset from the Human Genome\nDiversity Panel (HGDP) and the HapMap Phase 3 dataset (see Paschou et al. [2010] for details), in\norder to classify individuals into broad geographic regions, as well as into (\ufb01ner-scale) populations.\nWe study a total of 2,250 individuals from approximately 50 populations and \ufb01ve broad geographic\nregions (Asia, Africa, Europe, the Americas, and Oceania). The features in this dataset correspond\nto 492, 516 Single Nucleotide Polymorphisms (SNPs), which are well-known biallelic loci of genetic\nvariation across the human genome. Each entry in the resulting 2, 250 \u00d7 492, 516 matrix is set to +1\n(homozygotic in one allele), \u22121 (homozygotic in the other allele), or 0 (heterozygotic), depending on the\ngenotype of the respective SNP for a particular sample. Missing entries were \ufb01lled in with \u22121, +1, or\n0, with probability 1/3. Each sample has a known population and region of origin, which constitute its\nlabel. We set r to 256, 512, 1024, and 2048 in our experiments. Since this task is a multi-class classi\ufb01-\ncation problem, we used LIBLINEAR\u2019s Crammer and Singer technique for classi\ufb01cation. We ran two\nsets of experiments: in the \ufb01rst set, the classi\ufb01cation problem is to assign samples to broad regions of\norigin, while in the second experiment, our goal is to classify samples into (\ufb01ne-scale) populations. We\nset C to 1,000 in LIBLINEAR for all the experiments. The in-sample error is zero in all cases. Figure 2\nshows the out-of-sample error for regions and populations classi\ufb01cation, which are nearly identical for\nall four random projection methods. For regional classi\ufb01cation, we estimated \u01ebout to be close to 2%, and\nfor population-level classi\ufb01cation, \u01ebout is close to 20%. This experiment strongly supports the compu-\ntational bene\ufb01ts of our methods in terms of main memory. X is a 2, 250\u00d7492, 516 matrix, which is too\nlarge to \ufb01t into memory in order to run SVMs. Figure 3 shows that the combined running time for four\ndifferent random projection methods are nearly identical for both regions and population classi\ufb01cation\ntasks. However, the time needed to compute the random projections is different from one method to\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:14\nPaul et al.\n512 \n1024\n2048\n0\n50\n100\n150\n200\n250\nProjections\nRunning time in secs\n \n \nCW\nFHT\nRS\nRG\nTotal running time: regional classi\ufb01cation\n512 \n1024\n2048\n0\n50\n100\n150\n200\n250\n300\nProjections\nRunning time in secs\n \n \nCW\nFHT\nRS\nRG\nTotal running time: population-level classi\ufb01cation\n512 \n1024\n2048\n0\n20\n40\n60\n80\n100\n120\nProjections\ntrp\n \n \nCW\nFHT\nRS\nRG\nTime needed to compute random projections\nFig. 3.\nTotal running time in seconds (random projections and SVM classi\ufb01cation on the dimensionally-reduced\ndata) for Hapmap-HGDP dataset for four different projection methods using both regional and population-level\nlabels. Notice that the time needed to compute random projection is independent of the classi\ufb01cation labels.\nVertical bars indicate standard-deviation, as in Figure 2.\nthe next. FHT is fastest, followed by RS, RG and CW. In this particular case, the input matrix is dense,\nand CW seems to be outperformed by the other methods as the running time of CW depends on the\nnumber of non-zeros of the matrix.\n4.1.4. The RCV1 dataset. The RCV1 dataset [Lewis et al. 2004]2 is a benchmark dataset on text cate-\ngorization. We use the RCV1 dataset for both binary and multi-class classi\ufb01cation tasks. The RCV1\n2 The RCV1 dataset is available publicly at http://www.csie.ntu.edu.tw/ cjlin/libsvmtools/datasets and contains a training-set\nand a test-set of predesignated size.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:15\n2048\n4096\n8192\n0.3\n20\n40\n60\n80\n100\n120\nnnz(XR)/nnz(X)\nProjections\nRCV1 binary\u2212class\n \n \nCW\nFHT\nRS\nRG\n2048\n4096\n8192\n0.3\n20\n40\n60\n80\n100\n120\n140\nnnz(XR)/nnz(X)\nProjections\nRCV1 Multi\u2212class\n \n \nCW\nFHT\nRS\nRG\nFig. 4.\nRatio of number of non-zero entries of projected data and full-data for RCV1 dataset.\nbinary classi\ufb01cation dataset had one training set containing 20,242 data-points and 47,236 features.\nWe generate ten different test-sets each containing 20,000 points and 47,236 features from the avail-\nable test-set for the binary classi\ufb01cation task. The RCV1 binary classi\ufb01cation dataset contains CCAT\nand ECAT as the positive classes and GCAT and MCAT as the negative classes. Instances in both\npositive and negative classes are absent. The RCV1 multi-class dataset had one training set 15,564\ntraining points with 47,236 features and ten different test-sets each containing 16,000 data points\nand 47,236 features were generated from the available test-set. There are 53 classes in the RCV1\nmulti-class dataset. We set r to 2048, 4096 and 8192. We use LIBLINEAR as our SVM solver. We use\nthe L2-regularized L2-loss support vector classi\ufb01cation in the primal mode with default settings for\nbinary classi\ufb01cation and the method of Crammer and Singer [Crammer and Singer 2000] for multi-\nclass classi\ufb01cation. We set C = 10 for both multi-class classi\ufb01cation and binary classi\ufb01cation. The\nRCV1 dataset is very sparse with 0.16% non-zero entries in the binary-class dataset and 0.14% non-\nzero entries in the multi-class dataset.\nTables III and IV show the results for RCV1 binary and multi class datasets.tsvm denotes the SVM-\ntraining time on the projected data. For both binary and multi-class tasks, we observe that \u01ebout is close\nto that of full dataset and \u01ebout decreases with increase in number of projections. The SVM training\ntime is smaller than that of full dataset for CW method only. For the other methods like FHT, RS and\nRG, the number of non-zeros in the projected data increases which increases the SVM training time.\nThis is evident from Figure 4 which shows the ratio of number of non-zeros of projected data and full\ndata. For all methods except CW, the number of non-zeros increases with increase in value of r. This\nfollows from the theory predicted in Clarkson and Woodruff [2013], since CW method takes advantage\nof input sparsity. The combined running time is smaller than that of full-dataset for CW method. The\nmargin of the projected data is close to that of full data for RCV1 binary class dataset.\n4.2. PCA vs Random Projections\nPrincipal Components Analysis (PCA) constructs a small number of linear features that summarize\nthe input data. PCA is computed by \ufb01rst mean-centering the features of the original data and then\ncomputing a low-rank approximation of the data matrix using SVD. Thus the PCA feature matrix is\ngiven by Z = XcVk, where Xc represents the centered data matrix X and Vk represents the top k\nright singular vectors of Xc. To the best of our knowledge, there is no known theoretical framework\nconnecting PCA with margin or generalization error of SVM, so we only provide empirical evidence of\nthe comparison.\nOur goal is to evaluate if the data matrix represented by a small number of principal components\ncan give the same or better performance than random projections when combined with SVMs, in terms\nof both running time and out-of-sample error. Note that the number of random projections is always\ngreater than the rank of the matrix. For PCA we retain a number of principal components that is less\nthan or equal to the rank of the matrix in order to compare its performance to random projections.\nWe used the TechTC300 dataset for experimental evaluation and used MATLAB\u2019s SVD solver in\n\u201cecon\u201d mode to compute PCA. We kept k equal to 32, 64, and \u03c1 (where \u03c1 is the rank of the matrix)\nprincipal components. The results corresponding to a number of principal components equal to the\nrank of the data matrices are referred to as \u201cfull-rank\u201d, while \u201cfull\u201d refers to the results on the full-\ndimensional dataset. We ran PCA experiments on 294 datasets with k = 64, since one of them had\nrank less than 64. For k = 32, we used the entire set of 295 TechTC300 matrices. tpca denotes the time\nto compute PCA on the dataset and we set C = 500 and C = 1 in our experiments. The out-of-sample\nerror for PCA is equal to or sometimes slightly better compared to the error on the full-dimensional\ndatasets. Even though a smaller number of principal components achieve better out-of-sample error\nwhen compared to random projections, the combined running time of SVMs and PCA is typically\nhigher than that of random projections. The combined running time of SVMs and PCA is sensitive\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:16\nPaul et al.\nTable III. RCV1 Dataset (Multi-class)\nProjected Dimension r\n2048\n4096\n8192\nfull\n\u01ebout\nCW(\u00b5)\n18.30\n15.15\n13.50\n11.83\n(\u03c3)\n0.157\n0.117\n0.079\n0.18\nRS(\u00b5)\n17.57\n14.66\n13.21\n11.83\n(\u03c3)\n0.172\n0.134\n0.1094\n0.18\nFHT (\u00b5)\n17.50\n14.58\n13.2\n11.83\n(\u03c3)\n0.2033\n0.0905\n0.0597\n0.18\nRG (\u00b5)\n17.47\n14.61\n13.21\n11.83\n(\u03c3)\n0.101\n0.146\n0.036\n0.18\ntrp\nCW (\u00b5)\n0.0093\n0.0189\n0.0357\n\u2212\u2212\n(\u03c3)\n0.0005\n0.0007\n0.0010\n\u2212\u2212\nRS (\u00b5)\n2.412\n4.782\n9.49\n\u2212\u2212\n(\u03c3)\n0.0323\n0.0847\n0.0636\n\u2212\u2212\nFHT (\u00b5)\n2.484\n4.85\n9.966\n\u2212\u2212\n(\u03c3)\n0.1621\n0.023\n0.23\n\u2212\u2212\nRG (\u00b5)\n13.559\n28.875\n55.05\n\u2212\u2212\n(\u03c3)\n0.0715\n1.9801\n1.4315\n\u2212\u2212\ntsvm\nCW (\u00b5)\n1.99\n2.23\n2.80\n2.96\n(\u03c3)\n0.2309\n0.4030\n0.2929\n\u2212\u2212\nRS (\u00b5)\n45.103\n94.652\n207.278\n2.96\n(\u03c3)\n2.82\n5.705\n15.084\n\u2212\u2212\nFHT (\u00b5)\n45.468\n98.287\n201.558\n2.96\n(\u03c3)\n3.143\n6.689\n10.765\n\u2212\u2212\nRG (\u00b5)\n47.458\n121.208\n263.392\n2.96\n(\u03c3)\n7.222\n23.393\n45.814\n\u2212\u2212\nRCV1 Multi-class: \u00b5 and \u03c3 represents the mean and standard\ndeviation of the results which have been averaged over ten dif-\nferent random projection matrices. Since there was one training\nset, there is no standard deviation for tsvm of \u201cfull\u201d data.\nto the value of C, while the running time for random projections and SVM do not vary greatly, like\nPCA, by change of C.3 Random projections are therefore a faster and more stable method than PCA.\nHowever, PCA appears to perform better than random projections when the number of components is\nequal to the rank of the matrix. Table V shows the results of PCA experiments; note that the standard\ndeviation of trun for C = 500 is quite high because of the varied running times of SVMs on the various\nTechTC300 matrices.\nFor a comparison of PCA to random projections, we consider the case of r = 512 and the random\ngaussian matrix and randomized Hadamard Transform (see Table II for C = 500), which has the best\ncombined running time for random projections and SVMs. The combined running time of SVMs and\n\u201cfull-rank\u201d PCA is smaller than that of RG (FHT) and SVMs by 0.19 (0.16) seconds, while the out-of-\nsample error of the former is only 4% better. However, the time needed to compute PCA is 1.73 seconds,\nwhile random projections take negligible time to be computed; applying SVMs on the dimensionally-\nreduced matrix is the bottleneck of the computation. If PCA retains only 32 or 64 principal components,\nthe running time of our method is smaller by factors of 30 and 5 respectively.\nFor C = 1 and r = 512, SVMs and \u201cfull-rank\u201d PCA is smaller than that of RG (FHT) and SVMs\nby 0.43 (0.15) seconds, while the out-of-sample error of the former is again 4% better. For C = 1, if\nPCA retains only 32 or 64 principal components, the running time of our method is smaller by a few\nseconds.\nThese clearly show the advantage of using random projections over PCA, especially when a small\nnumber of principal components is desired. The PCA feature matrix is sensitive to the value of C. For\na higher value of C, SVM takes a longer time to train the inseparable data of the PCA feature matrix.\n4.3. Experiments on SVM regression\nWe\ndescribe\nexperimental\nevaluations\non\nreal\nworld\ndatasets,\nnamely\nYalefaces\ndataset\n[Cai et al. 2006] and a gene expression dataset (NCI60 [Ross et al. 2000]). We convert the multi-label\nclassi\ufb01cation tasks into a regression problem. We use LIBSVM with default settings and use C = 1 in\nall our experiments. The general observations from our experiments are as follows: (i) the combined\nruntime of random projections and SVM is smaller than the runtime of SVM on full dataset, (ii) the\nmargin increases with an increase in the number of projections.\n3 We repeated all experiments on TechTC-300 using C = 1 and noticed the same pattern in the results as we did for C = 500.\nRG and FHT are faster than the remaining two methods.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:17\nTable IV. RCV1 Dataset (binary-class)\nProjected Dimension r\n2048\n4096\n8192\nfull\n\u01ebout\nCW(\u00b5)\n12.90\n9.57\n6.54\n4.51\n(\u03c3)\n1.234\n0.619\n0.190\n0.1161\nRS(\u00b5)\n9.26\n7.82\n6.22\n4.51\n(\u03c3)\n0.134\n0.116\n0.077\n0.1161\nFHT (\u00b5)\n9.23\n7.94\n6.29\n4.51\n(\u03c3)\n0.166\n0.145\n0.150\n0.1161\nRG (\u00b5)\n9.24\n7.75\n6.20\n4.51\n(\u03c3)\n0.255\n0.113\n0.109\n0.1161\n\u03b3\nCW (\u00b5)\n0.0123\n0.0094\n0.0125\n0.0152\n(\u03c3)\n0.0002\n0.0002\n0.0003\n\u2212\u2212\nRS (\u00b5)\n0.0158\n0.0105\n0.0127\n0.0152\n(\u03c3)\n0.0005\n0.00009\n0.0001\n\u2212\u2212\nFHT (\u00b5)\n0.0160\n0.0105\n0.0127\n0.0152\n(\u03c3)\n0.0003\n0.0001\n0.0001\n\u2212\u2212\nRG (\u00b5)\n0.0158\n0.0106\n0.0127\n0.0152\n(\u03c3)\n0.0004\n0.0001\n0.00009\n\u2212\u2212\ntrp\nCW (\u00b5)\n0.0112\n0.0231\n0.0456\n\u2212\u2212\n(\u03c3)\n0.0008\n0.0014\n0.0008\n\u2212\u2212\nRS (\u00b5)\n4.34\n8.94\n18.89\n\u2212\u2212\n(\u03c3)\n0.48\n1.33\n3.48\n\u2212\u2212\nFHT (\u00b5)\n4.29\n8.21\n16.37\n\u2212\u2212\n(\u03c3)\n0.577\n1.003\n1.484\n\u2212\u2212\nRG (\u00b5)\n20.52\n48.18\n86.384\n\u2212\u2212\n(\u03c3)\n0.248\n3.32\n6.15\n\u2212\u2212\ntsvm\nCW (\u00b5)\n0.0726\n0.1512\n0.2909\n0.368\n(\u03c3)\n0.0082\n0.0113\n0.009\n\u2212\u2212\nRS (\u00b5)\n9.22\n20.11\n41.29\n0.368\n(\u03c3)\n0.9396\n3.245\n7.3966\n\u2212\u2212\nFHT (\u00b5)\n8.78\n18.95\n37.18\n0.368\n(\u03c3)\n1.29\n2.79\n4.76\n\u2212\u2212\nRG (\u00b5)\n11.17\n30.17\n44.76\n0.368\n(\u03c3)\n0.364\n4.204\n2.079\n\u2212\u2212\nRCV1 Binary-class: \u00b5 and \u03c3 represents the mean and standard\ndeviation of the results which have been averaged over ten differ-\nent random projection matrices. Since there was one training set,\nthere is no standard deviation for tsvm and \u03b3 of \u201cfull\u201d data.\nTable V. TechTC300 PCA Experiments\nC=500\nProjected Dimension k\n32\n64\nfull-rank\nfull\n\u01ebout\nPCA (\u00b5)\n15.02\n17.35\n17.35\n17.35\n(\u03c3)\n9.32\n9.53\n9.45\n9.45\ntpca\nPCA (\u00b5)\n1.73\n1.73\n1.73\n\u2212\u2212\n(\u03c3)\n1.15\n1.15\n1.15\n\u2212\u2212\ntrun\nPCA (\u00b5)\n86.73\n14.04\n2.67\n4.85\n(\u03c3)\n174.35\n81.12\n1.56\n2.12\nC=1\nProjected Dimension k\n32\n64\nfull-rank\nfull\n\u01ebout\nPCA (\u00b5)\n13.33\n15.72\n17.21\n17.21\n(\u03c3)\n8.10\n9.20\n9.44\n9.44\ntpca\nPCA (\u00b5)\n1.73\n1.73\n1.73\n\u2212\u2212\n(\u03c3)\n1.15\n1.15\n1.15\n\u2212\u2212\ntrun\nPCA (\u00b5)\n5.70\n2.99\n2.80\n4.92\n(\u03c3)\n10.68\n5.83\n1.62\n2.16\nPCA Experiments: Results on the TechTC300 dataset, averaged over all data matrices using PCA. The table shows how \u01ebout,\ntpca (in seconds), and trun (in seconds) depend on r. \u00b5 and \u03c3 indicate the mean and the standard deviation of each quantity\nover the data matrices and ten ten-fold cross-validation experiments.\n4.3.1. Yalefaces Dataset. The Yalefaces dataset [Cai et al. 2006] consists of 165 grayscale images of 15\nindividuals. There were eleven images per subject, one per different facial expression (happy, sad, etc)\nor con\ufb01guration (center-light, left-light, etc). The dataset has 165 datapoints and 4,096 features with\n15 classes. The classes were used as the labels for regression. We set the value of r to 256, 512, and\n1024. trun for SVM and random projections is approximately 9, 7 and 4 times smaller than that of\nfull-dataset. The margin increases as the number of random projections increases. The mean-squared\nin-sample error decreases with an increase in the number of random projections.\n4.3.2. NCI60 Dataset. The NCI60 dataset [Ross et al. 2000] consists of 1375 gene expression pro\ufb01les of\n60 human cancer cell lines. The dataset contains 1375 features and 60 datapoints with ten classes. The\nfeatures contain the log-ratio of the expression levels. The classes were used as labels for regression.\nWe set the value of r to 128, 256, and 512. The running time of the four methods are nearly the\nsame. The squared correlation-coef\ufb01cient is very close to one and is not in\ufb02uenced by the number of\nprojections, r. The mean squared \u01ebin remains the same for all values of r.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:18\nPaul et al.\nTable VI. Yalefaces Dataset\nProjected Dimension r\n256\n512\n1024\nfull\n\u01ebin\nCW(mse)\n0.2697\n0.0257\n0.0103\n0.0098\n(\u03b2)\n0.9859\n0.9987\n0.9995\n0.9995\nRS(mse)\n0.2201\n0.0187\n0.0107\n0.0098\n(\u03b2)\n0.9886\n0.9991\n0.9995\n0.9995\nFHT (mse)\n0.2533\n0.0233\n0.0102\n0.0098\n(\u03b2)\n0.9868\n0.9988\n0.9995\n0.9995\nRG (mse)\n0.281\n0.0174\n0.0105\n0.0098\n(\u03b2)\n0.9853\n0.9991\n0.9995\n0.9995\n\u03b3\nCW (\u00b5)\n0.11\n0.12\n0.13\n0.14\n(\u03c3)\n0.0032\n0.0028\n0.0020\n0.0031\nRS (\u00b5)\n0.11\n0.12\n0.13\n0.14\n(\u03c3)\n0.0043\n0.0024\n0.0018\n0.0031\nFHT (\u00b5)\n0.11\n0.12\n0.13\n0.14\n(\u03c3)\n0.0026\n0.0022\n0.0031\n0.0031\nRG (\u00b5)\n0.11\n0.12\n0.13\n0.14\n(\u03c3)\n0.0034\n0.0030\n0.0025\n0.0031\ntrun\nCW (\u00b5)\n4.14\n5.06\n8.62\n34.93\n(\u03c3)\n0.17\n0.12\n0.24\n0.02\nRS (\u00b5)\n3.92\n4.81\n8.45\n34.93\n(\u03c3)\n0.17\n0.10\n0.19\n0.02\nFHT (\u00b5)\n4.12\n5.09\n8.69\n34.93\n(\u03c3)\n0.23\n0.17\n0.25\n0.02\nRG (\u00b5)\n4.37\n5.49\n9.43\n34.93\n(\u03c3)\n0.15\n0.09\n0.06\n0.02\nYalefaces Dataset: Results on the Yalefaces dataset using four\ndifferent random projection methods. The table shows how \u01ebin, \u03b3\nand trun (in seconds) depend on r. mse and \u03b2 indicate the mean-\nsquared error and the squared correlation coef\ufb01cient, while \u00b5\nand \u03c3 represent the mean and standard deviation over ten ten-\nfold cross-validation experiments, and ten choices of random\nprojection matrices for the four methods that we investigated.\nTable VII. NCI60 Dataset\nProjected Dimension r\n128\n256\n512\nfull\n\u01ebin\nCW(mse)\n0.0098\n0.0097\n0.0097\n0.0097\n(\u03b2)\n0.9987\n0.9989\n0.9989\n0.9990\nRS(mse)\n0.0098\n0.0097\n0.0097\n0.0097\n(\u03b2)\n0.9987\n0.9988\n0.9990\n0.9990\nFHT (mse)\n0.0097\n0.0098\n0.0097\n0.0097\n(\u03b2)\n0.9987\n0.9988\n0.9989\n0.9990\nRG (mse)\n0.0098\n0.0098\n0.0097\n0.0097\n(\u03b2)\n0.9987\n0.9988\n0.9989\n0.9990\n\u03b3\nCW (\u00b5)\n1.89\n2.12\n2.22\n2.33\n(\u03c3)\n0.05\n0.07\n0.07\n0.12\nRS (\u00b5)\n1.90\n2.09\n2.25\n2.33\n(\u03c3)\n0.10\n0.06\n0.07\n0.12\nFHT (\u00b5)\n1.88\n2.10\n2.22\n2.33\n(\u03c3)\n0.10\n0.09\n0.05\n0.12\nRG (\u00b5)\n1.87\n2.12\n2.20\n2.33\n(\u03c3)\n0.10\n0.10\n0.06\n0.12\ntrun\nCW (\u00b5)\n0.26\n0.39\n0.76\n2.19\n(\u03c3)\n0.01\n0.01\n0.01\n0.003\nRS (\u00b5)\n0.27\n0.40\n0.78\n2.19\n(\u03c3)\n0.02\n0.01\n0.01\n0.003\nFHT (\u00b5)\n0.29\n0.43\n0.85\n2.19\n(\u03c3)\n0.04\n0.05\n0.10\n0.003\nRG (\u00b5)\n0.26\n0.38\n0.74\n2.19\n(\u03c3)\n0.02\n0.04\n0.05\n0.003\nNCI60 Dataset: Results on the NCI60 dataset using four differ-\nent random projection methods. The table shows how \u01ebin, \u03b3 and\ntrun (in seconds) depend on r. See caption of Table VI for an\nexplanation of mse, \u03b2, \u00b5 and \u03c3.\n5. CONCLUSIONS AND OPEN PROBLEMS\nWe present theoretical and empirical results indicating that random projections are a useful dimen-\nsionality reduction technique for SVM classi\ufb01cation and regression problems that handle sparse or\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\nRandom Projections for Linear Support Vector Machines\n:19\ndense data in high-dimensional feature spaces. Our theory predicts that the dimensionality of the pro-\njected space (denoted by r) has to grow essentially linearly (up to logarithmic factors) in \u03c1 (the rank of\nthe data matrix) in order to achieve relative error approximations to the margin and the radius of the\nminimum ball enclosing the data. Such relative-error approximations imply excellent generalization\nperformance. However, our experiments show that considerably smaller values for r results in clas-\nsi\ufb01cation that is essentially as accurate as running SVMs on all available features, despite the fact\nthat the matrices have full numerical rank. This seems to imply that our theoretical results can be\nimproved. We implemented and tested random projection methods that work well on dense matrices\n(the RS and FHT methods of Section 2), as well as a very recent random projection method that works\nwell with sparse matrices (the CW method of Section 2). We also experimented with different SVM\nsolvers for lage and medium-scale datasets. As expected, FHT, RG and RS work well on dense data\nwhile CW is an excellent choice for sparse data, as indicated by the SVM classi\ufb01cation experiments.\nFor large-scale sparse data, CW is the method of choice as the other methods outweigh the bene-\n\ufb01ts of performing random projections. For SVM regression experiments, the combined running times\nusing the four methods are the same for dense datasets. The mean squared error and the squared\ncorrelation-coef\ufb01cient of \u01ebin of the projected data are non-zero as opposed to the SVM classi\ufb01cation\nexperiments. Finally, we compare random projections with a popular method of dimensionality reduc-\ntion, namely PCA and see that the combined running time of random projection and SVM is faster\nthan that of SVM and PCA, with a slightly worse out-of-sample error. All our experiments are on\nmatrices of approximately low-rank, while the theory holds for matrices of exactly low-rank. It is not\nknown if the theory extends to matrices of approximately low rank. This is an open problem and needs\nfurther investigation.\nREFERENCES\nD. Achlioptas. 2003. Database-friendly random projections: Johnson-Lindenstrauss with binary coins. J. Comput. System Sci.\n66, 4 (2003), 671\u2013687.\nN. Ailon and B. Chazelle. 2006. Approximate nearest neighbors and the fast Johnson-Lindenstrauss transform. In Proceedings\nof the 38th Annual ACM Symposium on Theory of Computing. 557\u2013563.\nN. Ailon and E. Liberty. 2008. Fast dimension reduction using Rademacher series on dual BCH codes. In Proceedings of the 19th\nAnnual ACM-SIAM Symposium on Discrete Algorithms. 1\u20139.\nJ.L. Balcazar, Y. Dai, and O. Watanabe. 2001. A Random Sampling Technique for Training Support Vector Machines. In Pro-\nceedings of the 12th International Conference on Algorithmic Learning Theory. 119\u2013134.\nJ.L. Balczar, Y. Dai, and O. Watanabe. 2002. Provably Fast Support Vector Regression using Random Sampling. In In Proceed-\nings of SIAM Workshop in Discrete Mathematics and Data Mining.\nA. Blum. 2006. Random Projection, Margins, Kernels, and Feature-Selection. In In Proceedings of the International Conference\non Subspace, Latent Structure and Feature Selection. 52\u201368.\nD. Cai, X. He, J. Han, and H-J. Zhang. 2006. Orthogonal Laplacianfaces for Face Recognition. IEEE Transactions on Image\nProcessing 15, 11 (2006), 3608\u20133614.\nC-C. Chang and C-J. Lin. 2011. LIBSVM: A library for support vector machines. ACM Transactions on Intelligent Systems and\nTechnology 2 (2011), 27:1\u201327:27. Issue 3. Software available at http://www.csie.ntu.edu.tw/\u223ccjlin/libsvm.\nK.L. Clarkson and D.W. Woodruff. 2013. Low Rank Approximation and Regression in Input Sparsity Time. In Proceedings of\nthe 45th ACM Symposium on the Theory of Computing.\nK. Crammer and Y. Singer. 2000. On the learnability and design of output codes for multi-class problems.. In In Computational\nLearning Theory. 35\u201346.\nN. Cristianini and J. Shawe-Taylor. 2000. Support Vector Machines and other kernel-based learning methods. Cambridge Uni-\nversity Press.\nS. Dasgupta and A. Gupta. 2003. An elementary proof of a theorem of Johnson and Lindenstrauss. Random Structures and\nAlgorithms 22, 1 (2003), 60\u201365.\nD. Davidov, E. Gabrilovich, and S. Markovitch. 2004. Parameterized generation of labeled datasets for text categorization based\non a hierarchical directory. In Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Devel-\nopment in Information Retrieval. 250\u2013257. http://techtc.cs.technion.ac.il/techtc300/techtc300.html.\nP. Drineas, M.W. Mahoney, S. Muthukrishnan, and T. Sarlos. 2011. Faster least squares approximation. Numerische. Math. 117,\n2 (2011), 219\u2013249.\nR.-E. Fan, K.-W. Chang, C.-J. Hsieh, X.-R. Wang, and C.-J. Lin. 2008. LIBLINEAR: A library for large linear classi\ufb01cation.\nJournal of Machine Learning Research (2008), 1871 \u20131874.\nP. Indyk and R. Motwani. 1998. Approximate nearest neighbors: towards removing the curse of dimensionality. In Proceedings\nof the 30th Annual ACM Symposium on Theory of Computing. 604\u2013613.\nV. Jethava, K. Suresh, C. Bhattacharyya, and R. Hariharan. 2009. Randomized Algorithms for Large scale SVMs. CoRR\nabs/0909.3609 (2009). http://arxiv.org/abs/0909.3609.\nS. Krishnan, C. Bhattacharyya, and R. Hariharan. 2008. A Randomized Algorithm for Large Scale Support Vector Learning. In\nAdvances in 20th Neural Information Processing Systems. 793\u2013800.\nD. D. Lewis, Y. Yang, T. G. Rose, and F. Li. 2004. RCV1: A new benchmark collection for text categorization research. Journal of\nMachine Learning Research (2004), 361\u2013397.\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n:20\nPaul et al.\nJ.Z. Li, D.M. Absher, H. Tang, A.M. Southwick, A.M. Casto, S. Ramachandran, H.M. Cann, G.S. Barsh, M. Feldman, L.L. Cavalli-\nSforza, and R.M. Myers. 2008. Worldwide human relationships inferred from genome-wide patterns of variation. Science\n319, 5866 (2008), 1100\u20131104.\nP. Li, T.J. Hastie, and W.K. Church. 2006. Very sparse random projections. In Proceedings of the 12th ACM SIGKDD Interna-\ntional Conference on Knowledge Discovery and Data Mining. 287\u2013296.\nA. Magen and A. Zouzias. 2011. Low rank matrix-valued Chernoff bounds and approximate matrix multiplication. In Proceed-\nings of the 22nd Annual ACM-SIAM Symposium on Discrete Algorithms. 1422\u20131436.\nX. Meng and M.W. Mahoney. 2013. Low-distortion Subspace Embeddings in Input-Sparsity Time and Applications to Robust\nLinear Regression. In Proceedings of the 45th ACM Symposium on the Theory of Computing.\nJ. Nelson and H.L. Nguyen. 2013. OSNAP: Faster numerical linear algebra algorithms via sparser subspace embeddings. In\nProceedings of the 54th Annual IEEE Symposium on Foundations of Computer Science (FOCS).\nP. Paschou, J. Lewis, A. Javed, and P. Drineas. 2010. Ancestry informative markers for \ufb01ne-scale individual assignment to\nworldwide populations. Journal of Medical Genetics 47, 12 (2010), 835\u201347.\nS. Paul, C. Boutsidis, M. Magdon-Ismail, and P. Drineas. 2013. Random Projections for Support Vector Machines. In Proceedings\nof the 16th International Conference on Arti\ufb01cial Intelligence & Statistics, JMLR W& CP. 498 \u2013506.\nD.T. Ross, U. Scherf, M.B. Eisen, C.M. Perou, P. Spellman, V. Iyer, S.S. Jeffrey, M. Van de Rijn, M. Waltham, A. Pergamenschikov,\nJ.C.F Lee, D. Lashkari, D. Shalon, T.G. Myers, J.N. Weinstein, D. Botstein, and P.O. Brown. 2000. Systematic Variation in\nGene Expression Patterns in Human Cancer Cell Lines. Nature Genetics 24, 3 (2000), 227\u2013234.\nQ. Shi, J. Petterson, G. Dror, J. Langford, A. Smola, and S.V.N. Vishwanathan. 2009. Hash Kernels for Structured Data. Journal\nof Machine Learning Research 10 (2009), 2615\u20132637.\nQ. Shi, C. Shen, R. Hill, and A.V.D Hengel. 2012. Is margin preserved after random projection ?. In Proceedings of 29th Interna-\ntional Conference on Machine Learning. 591\u2013598.\nV.N. Vapnik and A. Chervonenkis. 1971. On the Uniform Convergence of Relative Frequencies of Events to their Probabilities.\nTheory of Probability and its Applications 16 (1971), 264\u2013280.\nV. N. Vapnik. 1998. Statistical Learning Theory. Theory of Probability and its Applications 16 (1998), 264\u2013280.\nL. Zhang, M. Mahdavi, R. Jin, and T. Yang. 2013. Recovering Optimal Solution by Dual Random Projection. In Conference on\nLearning Theory (COLT) JMLR W & CP, Vol. 30. 135\u2013157. http://arxiv.org/abs/1211.3046.\nReceived April 2013; revised October 2013; accepted December 2013\nACM Transactions on Knowledge Discovery from Data, Vol. , No. , Article , Publication date: December 2013.\n",
+        "sentence": " The rest of the analysis closely follows the one in [41]. It is shown in [41] that \u2225\u2225\u2225\u03b1?,T pd Y X\u2225\u2225\u222522 \u2264 1 1\u2212\u2016E\u20162 \u2225\u2225\u2225\u03b1?,T pd Y XAR\u2225\u2225\u222522 .",
+        "context": "2\n2\n= \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\nWe can rewrite the above inequality as\n\f\f\f\n\r\r \u02dc\u03b1\u2217T YXR\n\r\r2\n2 \u2212\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2\n\f\f\f \u2264\u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2; thus,\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 \u2264\n1\n1 \u2212\u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YXR\n\r\r2\n2 .\nCombining with eqn. (16), we get\nZopt \u2265\u02dcZopt \u22121\n2\n\u0012\n\u2225E\u22252\n2\n2\n= 1\n2 \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\n(15)\nCombining eqns. (14) and (15), we get\nZopt \u2265\u02dcZopt \u22121\n2 \u2225E\u22252\n\r\r \u02dc\u03b1\u2217T YX\n\r\r2\n2 .\n(16)\nWe now proceed to bound the second term in the right-hand side of the above equation. Towards that\nend, we bound the difference:\n:8\nPaul et al.\nNow recall from our discussion in Section 1 that w\u2217T = \u03b1\u2217T YX, \u02dcw\u2217T = \u02dc\u03b1\u2217T YXR, \u2225w\u2217\u22252\n2 = Pn\ni=1 \u03b1\u2217\ni ,\nand \u2225\u02dcw\u2217\u22252\n2 = Pn\ni=1 \u02dc\u03b1\u2217\ni . Then, the optimal solutions Zopt and \u02dcZopt can be expressed as follows:\nZopt = \u2225w\u2217\u22252\n2 \u22121\n2 \u2225w\u2217\u22252\n2 = 1"
+    }
+]

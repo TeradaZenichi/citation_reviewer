@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Efficient Large-Scale distributed training of conditional maximum entropy models",
+        "author": [
+            "Mann",
+            "Gideon",
+            "McDonald",
+            "Ryan",
+            "Mohri",
+            "Mehryar",
+            "Silberman",
+            "Nathan",
+            "Walker",
+            "Dan"
+        ],
+        "venue": "In Advances in Neural Information Processing Systems",
+        "citeRegEx": "Mann et al\\.,? \\Q2009\\E",
+        "shortCiteRegEx": "Mann et al\\.",
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " It was advocated by practitioners and has been analyzed in (Zhang et al., 2012; Mann et al., 2009; Zinkevich et al., 2010) for least square regression, conditional maximum entropy models and stochastic gradient descent. Similar results have been reported in previous works (Zhang et al., 2012; Mann et al., 2009), where they have established the statistical convergence of the final averaged solution as well.",
+        "context": null
+    },
+    {
+        "title": "Trading computation for communication: Distributed stochastic dual coordinate ascent",
+        "author": [
+            "Yang",
+            "Tianbao"
+        ],
+        "venue": null,
+        "citeRegEx": "Yang and Tianbao.,? \\Q2013\\E",
+        "shortCiteRegEx": "Yang and Tianbao.",
+        "year": 2013,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Communication-Efficient algorithms for statistical optimization",
+        "author": [
+            "Zhang",
+            "Yuchen",
+            "Duchi",
+            "John",
+            "Wainwright",
+            "Martin"
+        ],
+        "venue": "In dvances in Neural Information Processing Systems",
+        "citeRegEx": "Zhang et al\\.,? \\Q2012\\E",
+        "shortCiteRegEx": "Zhang et al\\.",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " It was advocated by practitioners and has been analyzed in (Zhang et al., 2012; Mann et al., 2009; Zinkevich et al., 2010) for least square regression, conditional maximum entropy models and stochastic gradient descent. The data is generated similarly as in (Zhang et al., 2012) with extra concern. Similar results have been reported in previous works (Zhang et al., 2012; Mann et al., 2009), where they have established the statistical convergence of the final averaged solution as well.",
+        "context": null
+    },
+    {
+        "title": "Parallelized stochastic gradient descent",
+        "author": [
+            "Zinkevich",
+            "Martin",
+            "Weimer",
+            "Markus",
+            "Smola",
+            "Alexander J",
+            "Li",
+            "Lihong"
+        ],
+        "venue": "In Advances in Neural Information Processing Systems",
+        "citeRegEx": "Zinkevich et al\\.,? \\Q2010\\E",
+        "shortCiteRegEx": "Zinkevich et al\\.",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " It was advocated by practitioners and has been analyzed in (Zhang et al., 2012; Mann et al., 2009; Zinkevich et al., 2010) for least square regression, conditional maximum entropy models and stochastic gradient descent.",
+        "context": null
+    }
+]

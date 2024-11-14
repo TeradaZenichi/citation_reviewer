@@ -1,0 +1,67 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Joint language and translation modeling with recurrent neural networks,,,,,,,,,,,,
+The principled design of large-scale recursive neural network architectures–DAG-RNNs and the protein structure prediction problem,,,,,,,,,,,,
+METEOR: An automatic metric for MT evaluation with improved correlation with human judgments. In Proceedings of the acl workshop on intrinsic and extrinsic evaluation measures for machine translation and/or summarization,,,,,,,,,,,,
+Evolving memory cell structures for sequence learning,crossref,0.0,,0.6892797569628026,,,,,0.0,0.0,,
+Evolving networks: Using the genetic algorithm with connectionist learning,,,,,,,,,,,,
+Advances in optimizing recurrent networks,arxiv Library,0.0,,0.835623763419508,arxiv Library,0.8,,0.8561547709350225,0.4666666666666667,0.12612612612612611,0.5666666666666667,0.2463768115942029
+A neural probabilistic language model,,,,,,,,,,,,
+Learning long-term dependencies with gradient descent is difficult,crossref,0.0,,0.6651790606381817,,,,,0.0,0.0,,
+Theano: a CPU and GPU math expression compiler,,,,,,,,,,,,
+Training a 3-node neural network is NP-complete,crossref,0.0,,0.6764709753758216,,,,,0.0,0.0,,
+Lazy sparse stochastic gradient descent for regularized multinomial logistic regression,,,,,,,,,,,,
+Torch7: A matlab-like environment for machine learning,,,,,,,,,,,,
+Identifying and attacking the saddle point problem in high-dimensional non-convex optimization,,,,,,,,,,,,
+A survey on the application of recurrent neural networks to statistical language modeling,crossref,0.0,,0.673802887422605,,,,,0.0,0.0,,
+Adaptive subgradient methods for online learning and stochastic optimization,,,,,,,,,,,,
+Finding structure in time,crossref,0.0,,0.6620623504353157,,,,,0.0,0.0,,
+Long short-term memory in recurrent neural networks,,,,,,,,,,,,
+Recurrent nets that time and count,crossref,0.0,,0.697554878227421,,,,,0.0,0.0,,
+Learning to forget: Continual prediction with LSTM,crossref,0.0,,0.6804218797447303,,,,,0.0,0.0,,
+Deep sparse rectifier networks,,,,,,,,,,,,
+word2vec explained: deriving mikolov et al.’s negative-sampling word-embedding method,,,,,,,,,,,,
+"Supervised sequence labelling with recurrent neural networks, volume 385",,,,,,,,,,,,
+A novel connectionist system for unconstrained handwriting recognition,crossref,0.0,,0.7007851660502182,,,,,0.0,0.0,,
+Framewise phoneme classification with bidirectional LSTM and other neural network architectures,crossref,0.0,,0.6908678130912005,,,,,0.0,0.0,,
+Neural network synthesis using cellular encoding and the genetic algorithm,,,,,,,,,,,,
+Optimizing neural networks with genetic algorithms,,,,,,,,,,,,
+Long short-term memory,,,,,,,,,,,,
+Neural networks and physical systems with emergent collective computational abilities,crossref,0.0,,0.6706438198651101,,,,,0.0,0.0,,
+Serial order: A parallel distributed processing approach,crossref,0.0,,0.6852365130988902,,,,,0.0,0.0,,
+Deep visual-semantic alignments for generating image descriptions,crossref,0.0,,0.6786260544356529,,,,,0.0,0.0,,
+Imagenet classification with deep convolutional neural networks. In Advances in neural information processing,,,,,,,,,,,,
+Sparse online learning via truncated gradient,arxiv Library,0.5,,0.8413444072325827,arxiv Library,0.6,,0.8311774524790057,0.3055555555555556,0.14473684210526316,0.3055555555555556,0.14864864864864866
+Handwritten digit recognition with a backpropagation network. In Advances in neural information processing systems,,,,,,,,,,,,
+Efficient elastic net regularization for sparse linear models,arxiv Library,0.5,,0.7983105486066752,arxiv Library,0.2,,0.8455402041227376,0.3055555555555556,0.10185185185185185,0.2777777777777778,0.11904761904761904
+Optimal thresholding of classifiers to maximize F1 measure,crossref,0.0,,0.6765676521319479,,,,,0.0,0.0,,
+A novel approach to on-line handwriting recognition based on bidirectional long short-term memory networks,,,,,,,,,,,,
+Recurrent neural networks for noise reduction in robust ASR,crossref,0.0,,0.6809203379493585,,,,,0.0,0.0,,
+Deep captioning with multimodal recurrent neural networks (m-RNN),arxiv Library,0.0,,0.8633124628949931,arxiv Library,0.0,,0.8779808093551065,0.35714285714285715,0.10309278350515463,0.32142857142857145,0.10227272727272728
+Learning recurrent neural networks with hessian-free optimization,,,,,,,,,,,,
+Efficient estimation of word representations in vector space,arxiv Library,0.0,,0.7099743424512917,arxiv Library,0.0,,0.7466904048223946,0.0,0.0,0.0,0.0
+Rectified linear units improve restricted boltzmann machines,,,,,,,,,,,,
+"BLEU: a method for automatic evaluation of machine translation. In Proceedings of the 40th annual meeting on association for computational linguistics, pages 311–318",,,,,,,,,,,,
+On the difficulty of training recurrent neural networks,arxiv Library,0.5,,0.7202716496418052,arxiv Library,0.0,,0.7668545176726054,0.6,0.043478260869565216,0.2,0.014285714285714285
+Gradient calculations for dynamic recurrent neural networks: A survey,crossref,0.0,,0.675420459373983,,,,,0.0,0.0,,
+Glove: Global vectors for word representation,crossref,0.0,,0.6645661242124136,,,,,0.0,0.0,,
+Learning internal representations by error propagation,crossref,0.0,,0.6956334663807009,,,,,0.0,0.0,,
+Bidirectional recurrent neural networks,crossref,0.0,,0.6739908650050302,,,,,0.0,0.0,,
+Turing computability with neural nets,crossref,0.0,,0.6799444093832305,,,,,0.0,0.0,,
+Efficient learning using forward-backward splitting,,,,,,,,,,,,
+Dynamic pooling and unfolding recursive autoencoders for paraphrase detection,,,,,,,,,,,,
+Grounded compositional semantics for finding and describing images with sentences,,,,,,,,,,,,
+Parsing natural scenes and natural language with recursive neural networks,,,,,,,,,,,,
+Learning continuous phrase representations and syntactic parsing with recursive neural networks,,,,,,,,,,,,
+Semi-supervised recursive autoencoders for predicting sentiment distributions,,,,,,,,,,,,
+Unsupervised learning of video representations using LSTMs,arxiv Library,0.0,,0.7967583080588208,arxiv Library,0.3,,0.8338553499369742,0.2777777777777778,0.03759398496240601,0.2777777777777778,0.06172839506172839
+On the importance of initialization and momentum in deep learning,,,,,,,,,,,,
+Generating text with recurrent neural networks,,,,,,,,,,,,
+Sequence to sequence learning with neural networks,arxiv Library,0.0,,0.8297202474990595,arxiv Library,0.5,,0.8601766974009406,0.3333333333333333,0.08609271523178808,0.3333333333333333,0.20634920634920634
+Computing machinery and intelligence,crossref,0.0,,0.6777598322939127,,,,,0.0,0.0,,
+Sequence to sequence–video to text,,,,,,,,,,,,
+Show and tell: A neural image caption generator,arxiv Library,0.7,,0.8397486630655829,arxiv Library,0.5,,0.8626590190224238,0.2857142857142857,0.03773584905660377,0.5714285714285714,0.10256410256410256
+Backpropagation through time: what it does and how to do it,crossref,0.0,,0.6777065268214865,,,,,0.0,0.0,,
+A learning algorithm for continually running fully recurrent neural networks,crossref,0.0,,0.8387071142064684,,,,,0.375,0.08955223880597014,,
+Learning to execute,arxiv Library,0.8,,0.7962868489558945,arxiv Library,0.5,,0.8382823918689559,0.3220338983050847,0.1743119266055046,0.2542372881355932,0.2459016393442623
+Adadelta: an adaptive learning rate method,arxiv Library,0.5,,0.8489973164195828,arxiv Library,0.5,,0.8864832406328377,0.3157894736842105,0.08571428571428572,0.47368421052631576,0.1125
+On rectified linear units for speech processing,crossref,0.0,,0.6979321576683062,,,,,0.0,0.0,,

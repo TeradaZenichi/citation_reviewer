@@ -1,0 +1,5 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall
+Efficient Large-Scale distributed training of conditional maximum entropy models,,,,,,,,,,
+Trading computation for communication: Distributed stochastic dual coordinate ascent,,,,,,,,,,
+Communication-Efficient algorithms for statistical optimization,crossref,0.0,,0.6643458317198153,,,,,0.0,0.0
+Parallelized stochastic gradient descent,,,,,,,,,,

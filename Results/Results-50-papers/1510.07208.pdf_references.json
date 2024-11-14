@@ -1,0 +1,89 @@
+[
+    {
+        "title": "Traffic Flow Prediction With Big Data: A Deep Learning Approach",
+        "author": [
+            "Y. Lv",
+            "Y. Duan",
+            "W. Kang",
+            "Z. Li",
+            "F.-Y. Wang"
+        ],
+        "venue": "IEEE Trans. Intell. Transp. Syst., vol. PP, no. 99, pp. 1\u20139, 2014.",
+        "citeRegEx": "1",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In [1], SAEs were used to predict the flow of traffic using the Caltrans Performance Measurement System (PeMS) database.",
+        "context": null
+    },
+    {
+        "title": "Deep Architecture for Traffic Flow Prediction: Deep Belief Networks With Multitask Learning",
+        "author": [
+            "W. Huang",
+            "G. Song",
+            "H. Hong",
+            "K. Xie"
+        ],
+        "venue": "IEEE Trans. Intell. Transp. Syst., vol. PP, no. 99, pp. 1\u201311, 2014.",
+        "citeRegEx": "2",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " used DBN for traffic flow prediction combined with Multitask Learning [2].",
+        "context": null
+    },
+    {
+        "title": "Building High-level Features Using Large Scale Unsupervised Learning",
+        "author": [
+            "Q. Le",
+            "M. Ranzato",
+            "R. Monga",
+            "M. Devin",
+            "K. Chen",
+            "G. Corrado",
+            "J. Doan",
+            "A. Ng"
+        ],
+        "venue": "Proceedings of the 29 International Conference on Machine Learning,",
+        "citeRegEx": "3",
+        "shortCiteRegEx": "3",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Another example of an SAE used to define high level features is shown in [3], where unlabeled images are used to learn high level features that could then be input into a classifier, although this step was not performed.",
+        "context": null
+    },
+    {
+        "title": "A fast learning algorithm for deep belief nets",
+        "author": [
+            "G.E. Hinton",
+            "S. Osindero",
+            "Y.-W. Teh"
+        ],
+        "venue": "Neural Comput., vol. 18, no. 7, pp. 1527\u20131554, May, 2006.",
+        "citeRegEx": "4",
+        "shortCiteRegEx": null,
+        "year": 2006,
+        "abstract": " We show how to use \u201ccomplementary priors\u201d to eliminate the explaining-away effects that make inference difficult in densely connected belief nets that have many hidden layers. Using complementary priors, we derive a fast, greedy algorithm that can learn deep, directed belief networks one layer at a time, provided the top two layers form an undirected associative memory. The fast, greedy algorithm is used to initialize a slower learning procedure that fine-tunes the weights using a contrastive version of the wake-sleep algorithm. After fine-tuning, a network with three hidden layers forms a very good generative model of the joint distribution of handwritten digit images and their labels. This generative model gives better digit classification than the best discriminative learning algorithms. The low-dimensional manifolds on which the digits lie are modeled by long ravines in the free-energy landscape of the top-level associative memory, and it is easy to explore these ravines by using the directed connections to display what the associative memory has in mind. ",
+        "full_text": "",
+        "sentence": " proposed a way to perform fast greedy learning of a DBN, which learns one layer at a time [4].",
+        "context": null
+    },
+    {
+        "title": "Prediction as a candidate for learning deep hierarchical models of data.",
+        "author": [
+            "Palm",
+            "Rasmus Berg"
+        ],
+        "venue": "Technical University of Denmark,",
+        "citeRegEx": "6",
+        "shortCiteRegEx": "6",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    }
+]

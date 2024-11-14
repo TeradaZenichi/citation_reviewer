@@ -1,0 +1,279 @@
+[
+    {
+        "title": "A probabilistic interpretation of canonical correlation analysis",
+        "author": [
+            "F.R. Bach",
+            "M.I. Jordan"
+        ],
+        "venue": "Technical report 688,",
+        "citeRegEx": "Bach and Jordan,? \\Q2005\\E",
+        "shortCiteRegEx": "Bach and Jordan",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Modeling covariance matrices in terms of standard deviations and correlations, with application to shrinkage",
+        "author": [
+            "J. Barnard",
+            "R. McCulloch",
+            "X. Meng"
+        ],
+        "venue": "Statistica Sinica,",
+        "citeRegEx": "Barnard et al\\.,? \\Q2000\\E",
+        "shortCiteRegEx": "Barnard et al\\.",
+        "year": 2000,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " and Py we choose the marginally uniform prior given in Barnard et al. (2000). This prior is a multivariate distribution on the space of correlation matrices with uniform margins, i.",
+        "context": null
+    },
+    {
+        "title": "GOrilla: a tool for discovery and visualization of enriched go terms in ranked gene",
+        "author": [
+            "E. Eden",
+            "R. Navon",
+            "I. Steinfeld",
+            "D. Lipson",
+            "Z. Yakhini"
+        ],
+        "venue": "lists. BMC Bioinformatics,",
+        "citeRegEx": "Eden et al\\.,? \\Q2009\\E",
+        "shortCiteRegEx": "Eden et al\\.",
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " To test if this phenomenon is present here, we perform a gene ontology enrichment analysis (GOEA) using GOrilla (Eden et al., 2009).",
+        "context": null
+    },
+    {
+        "title": "A Bayesian analysis of some nonparametric problems",
+        "author": [
+            "T. Ferguson"
+        ],
+        "venue": "Annals of Statistics,",
+        "citeRegEx": "Ferguson,? \\Q1973\\E",
+        "shortCiteRegEx": "Ferguson",
+        "year": 1973,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " where \u03bcG is the distribution of a Dirichlet process (Ferguson, 1973) with base distribution G0 and concentration parameter \u03bb.",
+        "context": null
+    },
+    {
+        "title": "Correlation clustering for learning mixture of canonical correlation models",
+        "author": [
+            "X.Z. Fern",
+            "C.E. Brodley",
+            "M.A. Friedl"
+        ],
+        "venue": "Accepted for SIAM International Conference on Data Mining,",
+        "citeRegEx": "Fern et al\\.,? \\Q2005\\E",
+        "shortCiteRegEx": "Fern et al\\.",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Fern et al. (2005) introduces a mixture of local CCA model which groups pairs of points expressing together a particular linear dependency between the two views. We compared the copula mixture (CM) with three other methods: a Dirichlet prior Gaussian mixture for dependency-seeking clustering (GM) as derived in Klami & Kaski (2007), a non-Bayesian mixture of canonical correlation models (CCM) (Vrac, 2010) (Fern et al., 2005) and a variational Bayesian mixture of robust CCA models (RCCA) (Viinikanoja et al.",
+        "context": null
+    },
+    {
+        "title": "Genomic expression programs in the response of yeast cells to environmental changes",
+        "author": [
+            "A.P. Gasch",
+            "P.T. Spellman",
+            "C.M. Kao"
+        ],
+        "venue": "Molecular Biology of the Cell,",
+        "citeRegEx": "Gasch et al\\.,? \\Q2000\\E",
+        "shortCiteRegEx": "Gasch et al\\.",
+        "year": 2000,
+        "abstract": "We explored genomic expression patterns in the yeastSaccharomyces cerevisiae responding to diverse environmental transitions. DNA microarrays were used to measure changes in transcript levels over time for almost every yeast gene, as cells responded to temperature shocks, hydrogen peroxide, the superoxide-generating drug menadione, the sulfhydryl-oxidizing agent diamide, the disulfide-reducing agent dithiothreitol, hyper- and hypo-osmotic shock, amino acid starvation, nitrogen source depletion, and progression into stationary phase. A large set of genes (\u223c\u2009900) showed a similar drastic response to almost all of these environmental changes. Additional features of the genomic responses were specialized for specific conditions. Promoter analysis and subsequent characterization of the responses of mutant strains implicated the transcription factors Yap1p, as well as Msn2p and Msn4p, in mediating specific features of the transcriptional response, while the identification of novel sequence elements provided clues to novel regulators. Physiological themes in the genomic responses to specific environmental stresses provided insights into the effects of those stresses on the cell.",
+        "full_text": "",
+        "sentence": " The first data set (published in Gasch et al. (2000)) provides genes expression values measured at 4 time points.",
+        "context": null
+    },
+    {
+        "title": "Transcriptional regulatory code of a eukaryotic",
+        "author": [
+            "C.T. Harbison",
+            "D.B. Gordon",
+            "T.I. Lee"
+        ],
+        "venue": "genome. Nature,",
+        "citeRegEx": "Harbison et al\\.,? \\Q2004\\E",
+        "shortCiteRegEx": "Harbison et al\\.",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " data set (given in Harbison et al. (2004)) contains binding affinity scores for interactions between these genes and 6 different binding factors. data set (given in Harbison et al. (2004)) contains binding affinity scores for interactions between these genes and 6 different binding factors. Similar data have already been analysed in Klami & Kaski (2007). 5360 genes present in both views are clustered using a Gaussian dependency-seeking clustering model (GM) and using the copula mixture (CM).",
+        "context": null
+    },
+    {
+        "title": "Extending the rank likelihood for semiparametric copula estimation",
+        "author": [
+            "Hoff",
+            "Peter D"
+        ],
+        "venue": "Annals of Applied Statistics,",
+        "citeRegEx": "Hoff and D.,? \\Q2007\\E",
+        "shortCiteRegEx": "Hoff and D.",
+        "year": 2007,
+        "abstract": "Quantitative studies in many fields involve the analysis of multivariate data\nof diverse types, including measurements that we may consider binary, ordinal\nand continuous. One approach to the analysis of such mixed data is to use a\ncopula model, in which the associations among the variables are parameterized\nseparately from their univariate marginal distributions. The purpose of this\narticle is to provide a method of semiparametric inference for copula models\nvia the construction of what we call a marginal set likelihood function for the\nassociation parameters. The proposed method of inference can be viewed as a\ngeneralization of marginal likelihood estimation, in which inference for a\nparameter of interest is based on a summary statistic whose sampling\ndistribution is not a function of any nuisance parameters. In the context of\ncopula estimation, the marginal set likelihood is a function of the association\nparameters only and its applicability does not depend on any assumptions about\nthe marginal distributions of the data, thus making it appropriate for the\nanalysis of mixed continuous and discrete data with arbitrary margins.\nEstimation and inference for parameters of the Gaussian copula are available\nvia a straightforward Markov chain Monte Carlo algorithm based on Gibbs\nsampling.",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Yeast Stress Responses",
+        "author": [
+            "S. Hohmann",
+            "W.H. Mager"
+        ],
+        "venue": "Topics in Current Genetics,",
+        "citeRegEx": "Hohmann and Mager,? \\Q2003\\E",
+        "shortCiteRegEx": "Hohmann and Mager",
+        "year": 2003,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Local dependent components",
+        "author": [
+            "A. Klami",
+            "S. Kaski"
+        ],
+        "venue": "Proceedings of the 24th International Conference on Machine Learning,",
+        "citeRegEx": "Klami and Kaski,? \\Q2007\\E",
+        "shortCiteRegEx": "Klami and Kaski",
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Probabilistic approach to detecting dependencies between data",
+        "author": [
+            "A. Klami",
+            "S. Kaski"
+        ],
+        "venue": "sets. Neurocomputing,",
+        "citeRegEx": "Klami and Kaski,? \\Q2008\\E",
+        "shortCiteRegEx": "Klami and Kaski",
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Bayesian exponential family projections for coupled data sources",
+        "author": [
+            "A. Klami",
+            "S. Virtanen",
+            "S. Kaski"
+        ],
+        "venue": "Uncertainty in Artificial Intelligence,",
+        "citeRegEx": "Klami et al\\.,? \\Q2010\\E",
+        "shortCiteRegEx": "Klami et al\\.",
+        "year": 2010,
+        "abstract": "Exponential family extensions of principal component analysis (EPCA) have\nreceived a considerable amount of attention in recent years, demonstrating the\ngrowing need for basic modeling tools that do not assume the squared loss or\nGaussian distribution. We extend the EPCA model toolbox by presenting the first\nexponential family multi-view learning methods of the partial least squares and\ncanonical correlation analysis, based on a unified representation of EPCA as\nmatrix factorization of the natural parameters of exponential family. The\nmodels are based on a new family of priors that are generally usable for all\nsuch factorizations. We also introduce new inference strategies, and\ndemonstrate how the methods outperform earlier ones when the Gaussianity\nassumption does not hold.",
+        "full_text": "Bayesian exponential family projections for coupled data sources\nArto Klami, Seppo Virtanen, Samuel Kaski\nAalto University School of Science and Engineering\nDepartment of Information and Computer Science\nHelsinki Institute for Information Technology HIIT\nP.O.Box 15400, FI-00076 Aalto, Finland\nAbstract\nExponential family extensions of principal\ncomponent analysis (EPCA) have received a\nconsiderable amount of attention in recent\nyears, demonstrating the growing need for\nbasic modeling tools that do not assume the\nsquared loss or Gaussian distribution.\nWe\nextend the EPCA model toolbox by present-\ning the \ufb01rst exponential family multi-view\nlearning methods of the partial least squares\nand canonical correlation analysis, based on\na uni\ufb01ed representation of EPCA as matrix\nfactorization of the natural parameters of ex-\nponential family. The models are based on\na new family of priors that are generally us-\nable for all such factorizations. We also in-\ntroduce new inference strategies, and demon-\nstrate how the methods outperform earlier\nones when the Gaussianity assumption does\nnot hold.\n1\nINTRODUCTION\nPrincipal component analysis (PCA) is arguably the\nmost popular machine learning algorithm, used for ex-\nample as the standard choice for dimensionality re-\nduction.\nWhen PCA is interpreted as a probabilis-\ntic latent-variable model (Tipping and Bishop, 1999),\nit becomes obvious that it assumes both the latent\nvariables and the observations to be Gaussian. This\nassumption is ultimately rather restrictive, which ex-\nplains the recent renewed interest in PCA.\nOne of the main research directions has been to re-\nlax the Gaussianity assumption to better \ufb01t domains\nwhere data is not continuous-valued. The exponential\nfamily variant of PCA (EPCA; Collins et al., 2002)\nintroduced a way of taking the data distribution into\naccount. It was followed by a semi-parametric formula-\ntion applicable to even more \ufb02exible distributions (Sa-\njama and Orlitsky, 2004), by more e\ufb03cient algorithms\nconverging into the global optimum (Guo and Schu-\nurmans, 2008), and supervised PCA (both exponen-\ntial family and standard; Yu et al. 2006; Guo 2009).\nBayesian exponential family PCA takes the approach\nto the next level, by including a fully probabilistic\nmodel that needs not assume deterministic latent vari-\nables. Mohamed et al. (2009) made a straightforward\nassumption of Gaussian priors which is suboptimal but\nhard to remove in practice since the latent variables\ndo not follow any standard distribution for general ex-\nponential families. We introduce a novel regularizing\nprior for EPCA models that removes some of the prob-\nlems of the Gaussianity assumption, and present infer-\nence solutions compatible with the prior.\nIn an abstract and compact form, the PCA problem is\nsimply a matrix decomposition. The N \u00d7 D data ma-\ntrix X is decomposed as X = UV, where U and V are\nof low rank and the scales have been incorporated into\neither matrix. EPCA makes this decomposition in the\nspace of the natural parameters of element-wise expo-\nnential family distributions. That is, we assume that\neach element of X has been generated independently\nfrom an exponential family distribution with param-\neters collected into \u0398, while \u0398 itself is factorized as\n\u0398 = UV.\nThe resulting model family contains as special cases\nextensions of several useful projection methods, in ad-\ndition to standard PCA. We consider joint analysis\nof two (or in general more) data sources, demonstrat-\ning how Bayesian exponential family variants of super-\nvised EPCA (Guo, 2009), partial least squares, and\ncanonical correlation analysis can be obtained using\nthe same basic formulation.\nThe proposed methods\nextend naturally the recent literature on probabilis-\ntic variants of these methods (PLS: Gustafsson, 2001;\nNounou et al., 2002; CCA: Bach and Jordan, 2005;\nKlami and Kaski, 2007) in the same way as the EPCA\napproaches extend probabilistic PCA. Moving from\nEPCA to models of coupled sources poses some techni-\ncal challenges for the inference. We introduce a prac-\ntical approximative Bayesian inference technique that\ne\ufb00ectively solves many of those for our proposed prior.\nWe will \ufb01rst recap the general form of exponential fam-\nily projection models, and proceed to introduce in de-\ntail the assumptions that result in the multi-view mod-\nels of coupled data sources. Then we introduce ways\nof de\ufb01ning priors for the models, and present inference\nalgorithms. Finally, the models are demonstrated to\noutperform their rivals in a number of experiments us-\ning both arti\ufb01cial and real data.\n2\nEXPONENTIAL FAMILY PCA\nA vectorial random variable x \u2208KD (where K is a\nsuitable subset of the real-space, such as Z or R+) in\nthe exponential family follows the distribution\np(x|\u03b8) = exp(s(x)T \u03b8 + h(x) \u2212g(\u03b8)),\n(1)\nwhere the elements of x are assumed independent of\neach other. Here \u03b8 \u2208KD represents the natural pa-\nrameters of the distribution, g(\u00b7) is the log cumulant\nfunction that normalizes p(x|\u03b8) to be a valid distri-\nbution, s(\u00b7) are the su\ufb03cient statistics, and h(\u00b7) is a\nfunction of the data alone. We choose the natural ex-\nponential family by assuming s(x) = x. The function\ng(\u00b7) then de\ufb01nes the distribution: di\ufb00erent choices lead\nto di\ufb00erent exponential family distributions including\nGaussian with unit variance, Bernoulli, Poisson, and\nexponential to name a few. For every member of the\nexponential family there exists a conjugate prior dis-\ntribution for \u03b8:\np(\u03b8) \u221dexp(\u03bbT \u03b8 \u2212\u03bdg(\u03b8)).\nExponential family PCA is computed in the natu-\nral parameter space of the element-wise exponential\nfamily.\nThe element Xnd is assumed to come from\np(Xnd|\u0398nd), independently for all elements.\nThus\nthe matrix X is assumed to come from distribution\np(X|\u0398), where we further assume \u0398 = UV is of low\nrank; U and V have a low pre-speci\ufb01ed number K of\ncolumns and rows, respectively1. Essentially, we make\nthe conditional independence assumption between el-\nements of X given \u0398, assuming that \u0398 is \ufb02exible\nenough to capture the relevant structure in data. The\nrows of U can be interpreted as latent variables gen-\nerating the data, and V as projections transforming\nthe latent variables. With Gaussian distribution and\nGaussian latent variables this would result in proba-\nbilistic PCA.\n1For non-centered data one can include a separate rank-\none mean parameter in the factorization, controlling the\nmean of each feature. We leave the mean parameter out\nto simplify the formulas.\nBayesian treatment of EPCA (Mohamed et al., 2009)\nrequires prior distributions for the model parameters\nU and V. We will discuss the priors in more detail\nin Section 4 after introducing a set of coupled data\nanalysis models obtained as special cases of EPCA.\n3\nMODELS FOR COUPLED DATA\n3.1\nGENERAL FORM\nTwo data sets, Y1 \u2208KN\u00d7D1 and Y2 \u2208KN\u00d7D2, are\ncoupled if the samples co-occur; each row of Y1 is\npaired with the corresponding row in Y2.\nBy con-\ncatenating the two sources as X =\n\u0000 Y1\nY2\n\u0001\nwe\ncan write several projection methods for coupled data\nsources as EPCA of X, that is, as factorizations of\nthe form \u0398 = UV, where certain elements of V are\nrestricted to be zero. Many of the decisions in practi-\ncal modeling, such as the choice of prior distributions\nand inference algorithm, are independent of such re-\nstrictions imposed on V, and hence the uni\ufb01ed frame-\nwork helps in developing practical algorithms for var-\nious coupled data analysis tools.\n3.2\nSUPERVISED EPCA\nSupervised PCA is the simplest model for coupled\ndata. One of the sources, say Y1, is treated as the tar-\nget variable, and the task is to \ufb01nd a low-dimensional\nrepresentation of Y2 that helps in predicting the tar-\nget. In the simplest case one obtains the solution di-\nrectly as the EPCA of X. The original SPCA formula-\ntion (Yu et al., 2006) as well as the supervised EPCA\n(Guo, 2009) follow this idea, the crucial di\ufb00erence be-\ning that the latter makes a suitable distributional as-\nsumption for discrete target variables. Due to the ba-\nsic assumption of independence over the features, the\nmodel is written as\np(Y1, Y2, U, V) =p(Y1|U, V1)p(Y2|U, V2)\np(U)p(V1)p(V2),\nwhere V =\n\u0000 V1\nV2\n\u0001\nso that the columns are split\naccording to the features in X. No distinction is made\nbetween the features in Y1 and Y2, and hence the\nsupervision is weak.\nThe predictive performance improves if one does not\nattempt to model Y2 perfectly; the ultimate task is\nto predict Y1 and the covariates Y2 should be mod-\neled only to the degree they help in that. Rish et al.\n(2008) solved this by introducing a weighting for the\ngenerative parts,\np(Y1, Y2, U, V) =p(Y1|U, V1)p(Y2|U, V2)\u03b1\np(U)p(V1)p(V2),\nwhere \u03b1 controls the relative importance of modeling\nthe two sources. A small value for \u03b1 equals spending\nless modeling power on the covariates, resulting in in-\ncreased predictive performance. The value is chosen\nfor instance by cross-validation.\n3.3\nEXPONENTIAL FAMILY PLS\nAn alternative way of improving the predictive per-\nformance in supervised learning tasks is to allow the\ncovariates to have structured noise that is independent\nof the target variable. This leads naturally to a classi-\ncal linear supervised dimensionality reduction method\nof partial least squares (PLS) and its probabilistic vari-\nants (Gustafsson, 2001; Nounou et al., 2002). We ex-\ntend the idea to the exponential family distributions.\nThe key idea in EPLS is that not all variation in Y2\nis relevant for predicting Y1. As a generative model\nwe restrict some of the components to only model Y2.\nBy factoring U =\n\u0000US\nU2\n\u0001\nand V as\nV =\n\u0012 VS1\nVS2\n0\nV2\n\u0013\n,\nwhere S indicates shared variables, we can still write\nthe model as \u0398 = UV. The model complexity is gov-\nerned by setting the ranks of the various parts. Denot-\ning the rank of US by KS and the rank of U2 by K2,\nthe zeroes in V the make sure the last K2 columns of\nU will have no e\ufb00ect on Y1. In more intuitive terms\nwe have \u0398 =\n\u0000 \u03981\n\u03982\n\u0001\n, where the parameters can\nequivalently be written as\n\u03981 = USVS1\n\u03982 = USVS2 + U2V2.\n(2)\nThis makes explicit the assumption that all variation\nin the target variable must come from the shared latent\nsources, while the covariates are created as an additive\nsum of the shared and source-speci\ufb01c variation.\nWe will later show in the experiments how EPLS re-\nquires less shared components for predicting Y1 than\nsupervised PCA, which makes the model easier to in-\nterpret.\n3.4\nEXPONENTIAL FAMILY CCA\nGoing beyond mere prediction problems, a common\ntask in analysis of coupled data is \ufb01nding what is\nshared between the two data sources. This is a kind\nof data fusion task; the goal is to compress two data\nsources into a representation that captures the com-\nmonality between the two.\nThe problem has tradi-\ntionally been solved by canonical correlation analysis,\nor its kernelized variant, that have been applied to a\nrange of practical problems such as extracting shared\nFigure 1: Graphical model for Bayesian exponential\nfamily CCA.\nsemantics of document translations (Vinokourov et al.,\n2003) and discovering dependencies between images\nand associated text to be used as preprocessing for\nclassi\ufb01cation (Farquhar et al., 2006). The probabilistic\ninterpretation of CCA (Bach and Jordan, 2005) shows\nthat the classical CCA implicitly assumes normal dis-\ntribution. We remove this assumption and present a\nnovel generalization of CCA to the exponential fam-\nily that is useful, e.g., for analysis of text documents\ndescribed as binary word occurrences or counts.\nIn\nthe\nexponential\nfamily\nprojection\nframework,\nECCA is obtained by factoring the parameters as\nU =\n\u0000 US\nU1\nU2\n\u0001\nand\nV =\n\uf8eb\n\uf8ed\nVS1\nVS2\nV1\n0\n0\nV2\n\uf8f6\n\uf8f8,\nfollowing the presentation of Archambeau and Bach\n(2009).\nThe notation is equivalent to (Klami and\nKaski, 2008)\n\u03981 = USVS1 + U1V1\n\u03982 = USVS2 + U2V2.\nDepending on the task we then analyze either the\nshared variables US, implicitly marginalizing out the\nother parts, or either one of the source-speci\ufb01c ones.\nThe full model is illustrated in Figure 1, to clarify the\nrole of the various parts of V.\n4\nPRIORS FOR EXPONENTIAL\nFAMILY PROJECTIONS\nWe will now turn our focus to the prior distributions\ngiven for the model parameters, which is an open\nproblem for exponential family models in general and\ncoupled-data models in particular. We propose a fam-\nily of prior distributions that incorporates certain com-\nmon choices as special cases, while being an e\ufb03cient\nway of altering a compromise between conjugacy and\n\ufb02exibility in practical models.\nMohamed et al. (2009) extended the EPCA to a full\nBayesian model, specifying priors directly for U and\nV. This approach is conceptually simple and straight-\nforward, but it is hard to determine which distribu-\ntions to use.\nMohamed et al. (2009) borrowed the\nassumption of normally distributed latent variables U\nfrom the Gaussian case, while taking V conjugate to\nthe speci\ufb01c exponential family.\nUnfortunately that\nchoice is poor for some exponential family distribu-\ntions. For example, for the exponential distribution\nthe domain of \u0398 is the set of positive real numbers,\nwhich does not comply with the normal distribution.\nAnother intuitive alternative is to impose the prior on\nthe product UV, instead of formulating separate pri-\nors for each variable. For UV we can easily choose a\nprior conjugate to the speci\ufb01c distribution of X, which\nmakes the estimation of \u0398 easy.\nHowever, we then\nlose the connection to the actual factorization; while\nthe model is still parameterized through the low-rank\nmatrices U and V, they become unidenti\ufb01able.\nIn\npractice, the model can still be useful: If the goal is\nnot to analyze the components but to \ufb01nd a low-rank\napproximation of X (which is su\ufb03cient e.g. for recon-\nstructing the original data from a compressed version),\nthen it is feasible to place the prior directly on \u0398.\nTo combine the advantages of the above two formula-\ntions, we introduce the general prior family\np(U, V) =\n1\nZ(\u03c8)a(UV)\u03b2b(U)\u03b3c(V)\u03b3,\n(3)\nwhere \u03b2 and \u03b3 are control parameters.\nThe func-\ntions a(\u00b7), b(\u00b7), and c(\u00b7) can be arbitrary non-negative\nfunctions over the domain of the parameters, and \u03c8\ndenotes collectively the parameters of all of them.\nThe entire normalization is done with Z(\u03c8) so the\nfunctions a(\u00b7), b(\u00b7) and c(\u00b7) need not be normalized.\nIn practice, however, one would typically use simple\nstandard distributions.\nThen (\u03b2 = 0, \u03b3 = 1) and\n(\u03b2 = 1, \u03b3 = 0) reduce the prior into the simpler al-\nternatives discussed above, and setting \u03b3 = 1 \u2212\u03b2 pro-\nvides a single-parameter family for interpolating be-\ntween the two.\nA useful property of the prior is that if a(\u00b7) is set to give\nzero for values outside the domain of \u0398, then already a\nsmall \u03b2 will be su\ufb03cient to restrict b(U)\u03b3c(V)\u03b3 to be\na valid prior. More generally, a(UV) can be thought\nof as a regularization term, making the model less sen-\nsitive for the speci\ufb01c choice of the distributions b(U)\nand c(V). In practice we simply use component-wise\nGaussian priors,\nb(U) =\nN\nY\nn=1\nb(Un,:) =\nN\nY\nn=1\nN(0, \u03a3U)\nc(V) =\nK\nY\nk=1\nc(Vk,:) =\nK\nY\nk=1\nN(0, \u03a3Vk)\n(4)\nfor both, which would not work in general without the\nregularizing a(UV) term which we choose conjugate.\nA practical challenge is that the prior is known only up\nto the normalization constant Z. While it cancels out\nwhen inferring the parameters, the unknown constant\nmakes inference on hyper-parameters \u03c8 of the prior\ndi\ufb03cult. We will discuss the solutions for this in the\nnext section, separately for each inference algorithm.\n5\nINFERENCE\nIn principle the inference process for models of cou-\npled data is identical to that of standard EPCA. The\nonly di\ufb00erence between the models is the set of ze-\nros in V, which requires only trivial modi\ufb01cations for\nmost algorithms. In practice, however, there are cer-\ntain challenges that need addressing. We will \ufb01rst re-\ncap standard inference methods for EPCA models in\ngeneral, including details on how our new prior a\ufb00ects\nthem, and then present a novel two-level sampling ap-\nproach that solves some of the challenges. The details\nare given for the CCA variant; the other models are\nspecial cases of that.\nIn the experiment section we\nprovide examples for each of the inference algorithms.\n5.1\nPOINT ESTIMATES\nPoint estimates of U and V can be inferred from data\nby maximizing the log likelihood that essentially mea-\nsures the similarity between the data and the low-\nrank approximation.\nMAP estimation is conceptu-\nally equally simple; the priors only result in addi-\ntive terms in the log-likelihood. Guo and Schuurmans\n(2008) proposed a convex optimization algorithm for\nthe maximum-likelihood case, while MAP estimation\nrequires more generic optimization algorithms.\nFol-\nlowing Srebro and Jaakkola (2003), we use conjugate\ngradients, which has in our experiments turned out to\nbe su\ufb03ciently robust.\nFor MAP inference the hyperparameters of the prior\np(U, V) are chosen by cross-validation. To avoid need-\ning to validate over the Cartesian product of all of the\nparameters we choose \u03b3 = 1 \u2212\u03b2 and use a simple ap-\nproach where the hyperparameters of a(UV) are cho-\nsen by assuming \u03b2 = 1 and the hyperparameters of\nb(U) and c(V) by assuming \u03b2 = 0. We show in the\nexperiments section that already this simple approach\nleads to a better generalization ability than using ei-\nther of the extremes, for a wide range of \u03b2.\n5.2\nHMC SAMPLER\nFor full Bayesian analysis Mohamed et al. (2009) ap-\nplied a Hybrid Monte Carlo (HMC) sampler. Com-\npared to standard Metropolis-Hastings (MH) sam-\nplers, the HMC typically converges faster in large state\nspaces due to utilizing the gradient information.\nInferring the hyperparameters is di\ufb03cult since the\nprior has an intractable normalization constant. We\napply the exchange algorithm of Murray et al. (2006).\nThe algorithm works with standard MH proposals for\nthe hyperparameters \u03c8 but multiplies the acceptance\nprobability by f(U\u2217, V\u2217|\u03c8t)/f(U\u2217, V\u2217|\u03c8t+1), where\nU\u2217and V\u2217are auxiliary variables or \u201creplacement\ndata\u201d drawn from the prior using a separate MCMC\nchain for each posterior sample \u03c8t, and f(U, V) equals\n(3) without the normalization term Z(\u03c8). The algo-\nrithm was originally proposed for exact samples; we\nuse randomly initialized MCMC chains sampled until\nconvergence, resulting in an approximative variant.\n5.3\nALTERNATING SAMPLER\nWithout further measures the ECCA model su\ufb00ers\nfrom two kinds of unidenti\ufb01ability problems, which\nmakes inference di\ufb03cult. First, the solution is de\ufb01ned\nonly up to a rotation of U (as for EPCA in general).\nSecond, it is hard to make sure the modeling power is\ndivided correctly between the US, U1, and U2. For\nGaussian BCCA both problems can be solved, by an-\nalytically marginalizing the source-speci\ufb01c noise out\nand \ufb01nding the right rotation (Klami and Kaski, 2007).\nUnfortunately, analytic marginalization is not possi-\nble for other exponential family distributions, which\nresults in less e\ufb03cient inference.\nWe next introduce a novel sampler that utilizes the\nmore e\ufb03cient solutions for Gaussian models as part\nof the sampler for general exponential families. The\napproach is similar to how Ho\ufb00(2007) made inference\nfor binary PCA. The intuitive idea is to alternate be-\ntween two sampling stages. In one stage, we treat the\nparameters \u0398 as data that a priori follows normal dis-\ntribution, and learn a factorization \u0398 = UV for that.\nThe other stage then updates \u0398, taking into account\nboth the exponential family likelihood and the conju-\ngate prior a(UV).\nThe practical sampling algorithm, coined GiBECCA,\nproceeds by alternating between two separate sam-\npling steps implementing the above idea. Given the\ncurrent sample for \u0398 we apply the Gibbs sampler for\nGaussian BCCA (Klami and Kaski, 2007), treating \u0398\nas data.\nThis gives a new posterior sample for US\nand V, as well as a block-diagonal noise covariance\n\u03a3 = [V1VT\n1 , 0; 0, V2VT\n2 ] obtained by marginalizing\nout U1 and U2. During this step, we can also eas-\nily infer the hyperparameters of b(U) and c(V), since\nthe full prior is the product of them and hence the\nnormalization constant is tractable.\nNext, we sample a new parameter matrix \u0398\u2217given\nthe data and the current values for the model param-\neters, using MH. The trick is to use the predictive\ndistribution of the Gaussian BCCA as the proposal\ndistribution for \u0398. It produces parameters that are\napproximately normal and for which the factorization\ncan e\ufb00ectively be found, yet the likelihood part takes\nthe true distribution correctly into account. In detail,\nthe proposals are drawn independently for each data\npoint n from N(U(n,:)\nS\nV, \u03a3). For each element \u0398\u2217\nnd\nthe new value is then accepted with probability\nmin\n\u0012\n1, p(Xnd|\u0398\u2217\nnd)a(\u0398\u2217\nnd)\u03b2\np(Xnd|\u0398nd)a(\u0398nd)\u03b2\n\u0013\n,\nwhich takes into account both the likelihood and the\nremaining part of the prior.\nPossible domain con-\nstraints are taken into account by always rejecting pro-\nposals leading to a(\u0398\u2217) = 0. The a(\u0398) part can be\ninterpreted directly as a regularizing term for which\n\ufb01xing the hyperparameters manually is the right solu-\ntion. For example, for binary data we can choose a(\u0398)\nas the symmetric beta distribution, which enables in-\nterpreting \u03b2 directly as the strength of the prior. Sim-\nilarly, for count data we can use a gamma prior, where\n\u03b2 controls the variance of the counts.\n6\nEXPERIMENTS\n6.1\nSUPERVISED EPCA\nThe \ufb01rst empirical experiment shows the importance\nof separately modeling the data-speci\ufb01c noise in su-\npervised learning.\nUsing arti\ufb01cial toy data,\nwe\ndemonstrate the di\ufb00erence between supervised EPCA\n(SEPCA) and EPLS.\nWe created binary data from the model (2) with\nKS = 1, K2 = 5, D1 = 1, and D2 = 20. We used 50\nsamples for training and 950 for testing. We found the\nMAP estimate of the parameters with \u03b2 = 0 and \u03b3 = 1\nfor the prior, and compared the models in the task of\npredicting Y1 for the left-out testing samples, using\nprediction error as the performance measure. The re-\nsults were averaged over 80 random data sets.\nAs the shared source is only one-dimensional, it is\npossible to reach maximal prediction accuracy already\nwith one component. However, SEPCA with just one\ncomponent did not \ufb01nd the true solution as it is con-\nfused by the noise speci\ufb01c to Y2. The model will still\nreach the optimal prediction accuracy, but requires 6\ncomponents for it (Figure 2). The trick of Rish et al.\n(2008), lowering the importance of modeling Y2, helps\nby improving the predictive performance for low num-\nbers of components, but still as many components are\nneeded for optimal performance.\nComponents\nPrediction error\n1\n2\n3\n4\n5\n6\n0.20\n0.30\n0.40\nFigure 2: Prediction errors (lower is better) for the\nsupervised EPCA experiment. The solid line depicts\nthe error for a one-component EPLS-solution, while\nthe other two curves are classical SEPCA models. The\ndashed line assumed equal modeling power for the tar-\nget and covariates, while the dotted line weights the\ncovariate modeling part with \u03b1 = 10\u22123. A wide range\nof values result in similar performance (not shown).\nEPLS, instead, found the true one-dimensional shared\nspace, while modeling all the source-speci\ufb01c noise with\nseparate components. Hence, it achieved the same pre-\ndictive performance already with a single component,\nand for 1 \u22125 components it was signi\ufb01cantly more ac-\ncurate (p < 0.05, t-test with Bonferroni correction).\nIt is worth noting, however, that the computational\nload for optimal prediction is comparable; SEPCA re-\nquired 6 components, while EPLS required 1 shared\nand 5 noise components. The added bene\ufb01t of EPLS\nis primarily in interpretation.\n6.2\nTHE EFFECT OF THE PRIOR\nIn Section 4 we presented a family of prior distribu-\ntions controlled by the regularization parameter \u03b2 (we\nset here \u03b3 = 1 \u2212\u03b2). Here we illustrate how the com-\nbination improves the predictive performance of the\nmodel on the UCI SPECT data (http://archive.\nics.uci.edu/ml/datasets/SPECT+Heart). We solve\nthe standard PCA task of missing value imputation\nwith one component for 100 values of the regulariza-\ntion parameter, and measure the performance as the\nreconstruction quality (log-likelihood).\nAs the data is binary, we choose the Bernoulli distri-\nbution and prior\na(UV) =\nN\nY\nn=1\nD\nY\nd=1\nBeta(\u03bb + 1, \u03bd \u2212\u03bb + 1).\nwith the computationally simple assumption of indi-\nvidual Gaussian priors for U and V as in (4) with\n\u03a3U = \u03c32\nUI and \u03a3Vk = \u03c32\nVI \u2200k.\nWe then \ufb01nd the\n0.0\n0.4\n0.8\nTrain log likelihood\n \u03b2\n0.0\n0.4\n0.8\nTest log likelihood\n \u03b2\n(a)\n(b)\nFigure 3:\nIllustration of the reconstruction quality\nwith di\ufb00erent values of the regularization parameter.\nFor each \u03b2 we used 10 random initializations and in-\ncluded all of the results in the plot to illustrate that al-\nready the simple conjugate gradient algorithm always\nconverges to the global optimum. The best generaliza-\ntion ability is obtained with \u03b2 \u22480.4, and the smooth\ncurve indicates that the choice is robust and general-\nizes for further independent test sets (not shown).\nMAP solution with conjugate gradients.\nThe main purpose of the experiment is to illustrate\nthe e\ufb00ect of the regularization parameter \u03b2. We \ufb01rst\nlearn suitable values for the hyperparameters for \u03b2 = 0\nand \u03b2 = 1 separately with simple cross-validation, re-\nsulting in values \u03c32\nV = 100, \u03c32\nU = 0.001, \u03bb = 0.1,\nand \u03bd = 0.2. We then vary the \u03b2 parameter, keeping\nthe hyperparameters \ufb01xed, and show (Figure 3) that\nthe optimal predictive performance is obtained with \u03b2\naround 0.4. That is, regularizing a model with sep-\narate priors for U and V by conjugate prior on UV\nimproves the predictive performance.\n6.3\nEXPONENTIAL FAMILY CCA\n6.3.1\nClassi\ufb01cation in the joint space\nCCA \ufb01nds a shared representation that contains the\nvariation to both data sources. The ability to do that\ncan be indirectly measured by attempting to classify\nthe samples given the shared representation. On an\narti\ufb01cial data where the shared variation is known to\nbe relevant (i.e., predictive of the class labels), a model\nextracting the true shared variation should have the\nbest performance.\nWe created two collections of toy data sets from the\nmodel in Figure 1 with KS = 1, K1 = 2 and K2 =\n2. The \ufb01rst collection was binary and the second was\ncount data. We chose N = 50 and D1 = D2 = 20, and\nlearned four di\ufb00erent variants of CCA for 10 randomly\ncreated data sets to study the e\ufb00ect of the link function\nand inference algorithm. First, we applied standard\nlinear CCA to obtain a baseline. Bayesian Gaussian\nCCA (Klami and Kaski, 2007), which has an incorrect\nCCA\nBCCA\nGiBECCA\nHMC\n0.20\n0.35\nClassification\u00a0error\u00a0\nCCA\nBCCA\nGiBECCA\nHMC\n0.1\n0.3\nClassification\u00a0error\u00a0\n(a) Bernoulli\n(b) Poisson\nBCCA\nGiBECCA\nHMC\nBernoulli\n0.54s\n0.70s\n6.85s\nPoisson\n0.73s\n0.88s\n9.02s\n(c) Time between non-correlated samples\nFigure 4:\nPerformance of CCA variants, measured\nas the classi\ufb01cation error of a K-nearest neighbor\nclassi\ufb01er (K = 9) in the shared latent space.\nFor\nboth Bernoulli (a) and Poisson (b) observations the\ntwo inference algorithms for exponential family CCA\n(GiBECCA and HMC) outperformed the Gaussian\nvariant (BCCA) and standard CCA baseline (the box-\nplots show the 25%, 50% and 75% quantiles). The dif-\nference is particularly clear for the skewed Poisson dis-\ntribution (b), where making the incorrect Gaussianity\nassumption even decreases the performance compared\nto classical CCA. GiBECCA and HMC have compara-\nble accuracy for both data types, but the former is an\norder of magnitude faster, having only a small over-\nhead over the Gaussian Gibbs sampler (c). The num-\nbers show the mean CPU time between non-correlated\nposterior samples (autocorrelation below 0.1).\nlink function here (namely the identity function), is\ncomparable with CCA on the binary data, but worse\non the skewed count data (Figure 4).\nThe exponential family CCA with correct distribu-\ntional assumptions outperformed the alternatives for\nboth data sets. For binary data the standard mod-\nels are reasonable but still worse than the exponential\nfamily variants, whereas for the count data the dif-\nference is considerable. We show results for both the\nHMC sampler and GiBECCA, using mild regulariza-\ntion with \u03b2 = 0.1 for both.\nThe accuracy of both\ninference methods is comparable for both data types,\nbut GiBECCA is an order of magnitude more e\ufb03cient,\nlargely due to the ine\ufb03ciency caused by inference of\nthe hyperparameters in the HMC sampler.\n6.3.2\nMovie data\nTo demonstrate the data analysis capabilities of\nBayesian ECCA, we analyze a small collection of\nmovies described with two views, selected from in-\nformation available in the Allmovie database (http:\n//www.allmovie.com/). The \ufb01rst view is the binary\nbag-of-words representation of a brief description of\nthe movie, while the other is a multivariate genre clas-\nsi\ufb01cation in binary format. Each movie may belong to\na subset of 10 genres, which extends the task beyond\nsupervised visualization or SPCA.\nOur main interest is in demonstrating the capability of\nECCA to separate shared information from structured\n\u201cnoise\u201d present in only one of the views. Hence, we\nmanually construct the representation of the content\ndescriptions to contain both. We manually choose a\nsubset of terms (total of 32 terms) for the bag-of-words\nrepresentation, so that half of the terms were chosen\nas genre-related and half were other terms chosen near\nthe genre-related terms in frequency order to provide\na contrast group. As an example, the most frequent\nterms in the genre-related set are love, comedy and\ndrama, while the corresponding words in the noise set\nare two, woman, some, chosen because their frequency\nmatched best the genre-related words.\nWe apply GiBECCA on this data, aiming to extract\nthe components that best capture the genre variation.\nFigure 5 shows the \ufb01rst two shared projection vectors,\nthat is, the \ufb01rst two rows of V. We immediately see\nthat the part covering the noise-terms in VS2 is close\nto zero for all terms, showing that the shared com-\nponents do not capture description-speci\ufb01c noise. At\nthe same time, each projection picks a subset of genre-\nrelated terms and actual genre memberships. Closer\ninspection of the features reveals that the \ufb01rst com-\nponent separates romantic movies from action movies,\nwhile the second component mainly separates family-\ntargeted genres (cartoons, family movies) from drama.\n7\nDISCUSSION\nWe presented a general framework for matrix factor-\nizations or projection methods in the exponential fam-\nily, and derived methods for analyzing coupled data\nsources. We also introduced a new family of prior dis-\ntributions for the Bayesian analysis of EPCA models.\nWe combine separate priors on the latent variables and\nprojections, needed to make the solution identi\ufb01able\nand interpretable, with a regularizing prior speci\ufb01ed\ndirectly for the natural parameters of the exponen-\ntial family. As a result we can make computationally\ntractable assumptions for the latent variables while\nstill getting a valid prior.\nThe prior is known only\nup to a normalization constraint, but we show how\nit it still possible to infer even the hyperparameters\nof the prior. This is particularly e\ufb03cient in our new\nsampler that uses a Gibbs sampler for the Gaussian\naction\nthriller\nviolent\nescape\nthriller\nromance\nromantic\nmarriage\nart foreign\ndrama\ndrama\nanimation\nfamily\ncomedy\n(a)\n(b)\nFigure 5: Illustration of the \ufb01rst two CCA compo-\nnents of the movie data. In both \ufb01gures the top 10\nbars represent the 10 genre membership indicators,\nthe next 16 bars the genre-related words in the tex-\ntual description of the movie, and the bottom 16 bars\nthe genre-independent terms. Genre-related terms are\npresent in the projections much more strongly than the\ngenre-independent \u2019noise\u2019-terms, as they should. The\n\ufb01rst shared component (a) picks most genre-related\nterms, detecting a strong link between the genre mem-\nberships and descriptions. The second shared compo-\nnent (b) extracts a more detailed relationship: fam-\nily/comedy/animation movies are separated from the\nrest by absence of the word drama in the descriptions.\ndistribution to create proposals for the CCA model in\nany exponential family.\nHowever, there is still work to be done, especially for\nthe most \ufb02exible model corresponding to CCA. The\nnovel e\ufb03cient sampler explicitly marginalizes out the\ncomponents speci\ufb01c to the individual data sources,\nbut needs to use a normality assumption for that.\nWith more \ufb02exible distributions for latent variables\nwe need to represent also those components explicitly,\nwhich results in identi\ufb01ability problems and requires\na heavy exchange algorithm for hyperparameter in-\nference. Computationally e\ufb03cient algorithms for the\nmost general case are hence still missing, but the ex-\nperiments in this article suggest that the GiBECCA\nalgorithm, making a partial assumption of normality,\nis a practical learning tool for exponential family CCA.\nAcknowledgements\nThe authors belong to Adaptive Information Research\nCentre, a CoE of Academy of Finland. The work was\nsupported by Academy of Finland decision number\n133818, and in part by the PASCAL2 EU NoE.\nReferences\nArchambeau, C. and Bach, F. (2009). Sparse probabilistic\nprojections. In NIPS 21, pp. 73\u201380. MIT Press.\nBach, F. R. and Jordan, M. I. (2005). A probabilistic in-\nterpretation of canonical correlation analysis. Technical\nReport 688, Department of Statistics, University of Cal-\nifornia, Berkeley.\nCollins, M., Dasgupta, S., and Schapire, R. E. (2002). A\ngeneralization of principal components analysis to the\nexponential family.\nIn NIPS 14, pp. 617\u2013624. Cam-\nbridge, MA, MIT Press.\nFarquhar, J. D. R., Hardoon, D. R., Meng, H., Shawe-\nTaylor, J., and Szedmak, S. (2006). Two view learning:\nSVM-2K, theory and practice. In NIPS 18, pp. 355\u2013362,\nCambridge, MA, MIT Press.\nGuo, Y. (2009). Supervised exponential family principal\ncomponent analysis via convex optimization. In NIPS\n21, pp. 569\u2013576. Cambridge, MA, MIT Press.\nGuo, Y. and Schuurmans, D. (2008). E\ufb03cient global opti-\nmization for exponential family PCA and low-rank ma-\ntrix factorization. In Allerton Conference on Communi-\ncations, Control, and Computing, pp. 1100\u20131107. IEEE.\nGustafsson, M. G. (2001).\nA probabilistic derivation of\nthe partial least-squares algorithm. Journal of Chemical\nInformation and Modeling, 41:288\u2013294.\nHo\ufb00, P. D. (2007). Model averaging and dimension selec-\ntion for the singular value decomposition. Journal of the\nAmerican Statistical Association, 102:674\u2013685.\nKlami, A. and Kaski, S. (2007). Local dependent compo-\nnents. In ICML 2007, pp. 425\u2013432. Omnipress.\nKlami, A. and Kaski, S. (2008). Probabilistic approach to\ndetecting dependencies between data sets.\nNeurocom-\nputing, 72:39\u201346.\nMohamed, S., Heller, K., and Ghahramani, Z. (2009).\nBayesian exponential family PCA.\nIn NIPS 21, pp.\n1089\u20131096. Cambridge, MA, MIT Press.\nMurray, I., Ghahramani, Z, and MacKay, D. (2006).\nMCMC for doubly-intractable distributions. UAI 2006,\npp. 359\u2013366. AUAI press.\nNounou, M., Bakshi, B., Goel, P., and Shen, X. (2002).\nProcess modeling by Bayesian latent variable regression.\nAIChE Journal, 48:1775\u20131793.\nRish, I., Grabarnik, G., Cecchi, G., Pereira, F., and Gor-\ndon, G. J. (2008). Closed-form supervised dimensional-\nity reduction with generalized linear models. In ICML\n2008, pp. 832\u2013839, New York, NY, ACM.\nRoweis, S. and Ghahramani, Z. (1999). A unifying review\nof linear gaussian models. Neural Computation, 11:305\u2013\n345.\nSajama and Orlitsky, A. (2004). Semi-parametric exponen-\ntial family PCA. In NIPS 17, pp. 1177\u20131184, Cambridge,\nMA, MIT Press.\nSrebro, N. and Jaakkola, T. (2003). Weighted low-rank ap-\nproximations. In ICML 2003, pp. 720-727. AAAI Press.\nTipping, M. and Bishop, C. (1999). Mixtures of probabilis-\ntic principal component analysers. Neural Computation,\n11:443\u2013482.\nVinokourov, A., Christianini, N., and Shawe-Taylor, J.\n(2003). Inferring a semantic representation of text via\ncross-language correlation analysis.\nIn NIPS 15, pp.\n1473\u20131480. Cambridge, MA, MIT Press.\nYu, S., Yu, K., Tresp, V., Kriegel, H.-P., and Wu, M.\n(2006).\nSupervised probabilistic principal component\nanalysis. In KDD 2006, pp. 464\u2013473. New York, NY,\nACM Press.\n",
+        "sentence": " However, as pointed out in Klami et al. (2010), when the data are not normally distributed, this method can suffer from a severe model mismatch problem. An exponential family dependency-seeking method is proposed in Klami et al. (2010) to overcome this problem.",
+        "context": "3.3\nEXPONENTIAL FAMILY PLS\nAn alternative way of improving the predictive per-\nformance in supervised learning tasks is to allow the\ncovariates to have structured noise that is independent\nof the target variable. This leads naturally to a classi-\ncal linear supervised dimensionality reduction method\nof partial least squares (PLS) and its probabilistic vari-\nants (Gustafsson, 2001; Nounou et al., 2002). We ex-\ntend the idea to the exponential family distributions.\nbasic modeling tools that do not assume the\nsquared loss or Gaussian distribution.\nWe\nextend the EPCA model toolbox by present-\ning the \ufb01rst exponential family multi-view\nlearning methods of the partial least squares"
+    },
+    {
+        "title": "Quantitative Risk Management",
+        "author": [
+            "A.J. McNeil",
+            "R. Frey",
+            "P. Embrechts"
+        ],
+        "venue": null,
+        "citeRegEx": "McNeil et al\\.,? \\Q2005\\E",
+        "shortCiteRegEx": "McNeil et al\\.",
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Since Gaussian copulas are invariant to strictly increasing transformations, the copula of Nd (\u03bc,\u03a3) is the same as the copula of Nd (0, P ) as mentioned in McNeil et al. (2005), where P is the correlation matrix corresponding to the covariance matrix \u03a3.",
+        "context": null
+    },
+    {
+        "title": "Markov chain sampling methods for Dirichlet process mixture models",
+        "author": [
+            "R.M. Neal"
+        ],
+        "venue": "Technical report 9815,",
+        "citeRegEx": "Neal,? \\Q2011\\E",
+        "shortCiteRegEx": "Neal",
+        "year": 2011,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We use a sampling scheme for models with non-conjugate prior given in Neal (2011). The method, detailed in Algorithm 1, is composed of three steps: a modified Metropolis-Hastings step, partial Gibbs sampling updates and an update of the parameters \u03b8, P. We use a sampling scheme for models with non-conjugate prior given in Neal (2011). The method, detailed in Algorithm 1, is composed of three steps: a modified Metropolis-Hastings step, partial Gibbs sampling updates and an update of the parameters \u03b8, P. In the third step we need to update the parameters of every cluster according to their posterior distribution. Since we cannot sample directly from this conditional posterior we developed a sampling scheme similar to the algorithm proposed in Hoff (2007). The main idea is to overparametrize the model by introducing a normally distributed latent vector (X\u0303, \u1ef8 ).",
+        "context": null
+    },
+    {
+        "title": "Dirichlet process Gaussian mixture models: Choice of the base distribution",
+        "author": [
+            "C.E. Rasmussen",
+            "D. G\u00f6r\u00fcr"
+        ],
+        "venue": "Journal of Computer Science and Technology,",
+        "citeRegEx": "Rasmussen and G\u00f6r\u00fcr,? \\Q2010\\E",
+        "shortCiteRegEx": "Rasmussen and G\u00f6r\u00fcr",
+        "year": 2010,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Fonctions de r\u00e9partition \u00e0 n dimensions et leurs marges",
+        "author": [
+            "A. Sklar"
+        ],
+        "venue": "Publications de l\u2019Institut de Statistique de l\u2019Universite\u0301 de Paris,",
+        "citeRegEx": "Sklar,? \\Q1959\\E",
+        "shortCiteRegEx": "Sklar",
+        "year": 1959,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The following theorem Sklar (1959) states the relationship between copulas and multivariate distributions.",
+        "context": null
+    },
+    {
+        "title": "Variational Bayesian mixture of robust CCA models. Principles of Data Mining and Knowledge Discovery",
+        "author": [
+            "J. Viinikanoja",
+            "A. Klami",
+            "S. Kaski"
+        ],
+        "venue": null,
+        "citeRegEx": "Viinikanoja et al\\.,? \\Q2010\\E",
+        "shortCiteRegEx": "Viinikanoja et al\\.",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " , 2005) and a variational Bayesian mixture of robust CCA models (RCCA) (Viinikanoja et al., 2010). CCM and RCCA both assume that the number of clusters is known or can be determined as explained in (Viinikanoja et al., 2010).",
+        "context": null
+    },
+    {
+        "title": "CCMtools: Clustering through \u201dCorrelation Clustering Model",
+        "author": [
+            "Vrac",
+            "Mathieu"
+        ],
+        "venue": "(CCM) and cluster analysis tools.,",
+        "citeRegEx": "Vrac and Mathieu.,? \\Q2010\\E",
+        "shortCiteRegEx": "Vrac and Mathieu.",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    }
+]

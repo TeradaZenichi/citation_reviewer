@@ -1,0 +1,24 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision_recall,pdf-precision,pdf-recall
+A fast learning algorithm for deep belief nets,crossref,0.6,0.43243243243243246,0.14285714285714285,0.8095646471393916,,,,,,,
+Learning deep architectures for AI,crossref,0.0,0.0,0.0,0.6916372569178058,,,,,,,
+The wake-sleep algorithm for unsupervised neural networks,,,,,,,,,,,,
+The Helmholtz machine,crossref,1.0,0.34615384615384615,0.10227272727272728,0.8187574130379947,,,,,,,
+Varieties of helmholtz machine,crossref,0.0,0.0,0.0,0.6765779006812993,,,,,,,
+Auto-encoding variational bayes,crossref,0.5,0.3142857142857143,0.171875,0.8346047438167203,,,,,,,
+Stochastic backpropagation and approximate inference in deep generative models,arxiv Library,1.0,0.37142857142857144,0.1780821917808219,0.8408297546352704,arxiv Library,0.4,,0.8672430613207038,,0.2857142857142857,0.1388888888888889
+Neural variational inference and learning in belief networks,arxiv Library,0.5,0.4,0.1414141414141414,0.8418872195636261,arxiv Library,0.5,,0.8598097970164853,,0.3142857142857143,0.14473684210526316
+Reweighted wake-sleep,,,,,,,,,,,,
+Deep unsupervised learning using nonequilibrium thermodynamics,arxiv Library,0.0,0.46153846153846156,0.0625,0.7845667813407731,arxiv Library,0.3,,0.8148040940551164,,0.38461538461538464,0.06097560975609756
+Deep boltzmann machines,,,,,,,,,,,,
+Unit tests for stochastic optimization,arxiv Library,0.0,0.3333333333333333,0.03260869565217391,0.731373387003088,arxiv Library,0.0,,0.7972297535284419,,0.4444444444444444,0.05714285714285714
+Understanding the difficulty of training deep feedforward neural networks,,,,,,,,,,,,
+The Neural Autoregressive Distribution Estimator,,,,,,,,,,,,
+A deep and tractable density estimator,arxiv Library,0.0,0.0,0.0,0.7300767542857818,arxiv Library,0.0,,0.7947648086402626,,0.5,0.028169014084507043
+Deep autoregressive networks,arxiv Library,0.0,0.0,0.0,0.7120838944839551,arxiv Library,0.0,,0.7901394951497528,,1.0,0.0425531914893617
+Evaluating probabilities under high-dimensional latent variable models,,,,,,,,,,,,
+"Binarized mnist dataset. http://www.cs.toronto.edu/ ̃larocheh/ public/datasets/binarized_mnist/binarized_mnist_[train|valid|test] .amat, 2011. URL http://www.cs.toronto.edu/ ̃larocheh/public/datasets/ binarized_mnist/binarized_mnist_train.amat",,,,,,,,,,,,
+The Toronto face dataset,,,,,,,,,,,,
+Annealed importance sampling,arxiv Library,0.5,0.16666666666666666,0.017094017094017096,0.7111468144733475,,,,,,,
+Accurate and conservative estimates of MRF log-likelihood using reverse annealing,,,,,,,,,,,,
+Theano: a CPU and GPU math expression compiler,,,,,,,,,,,,
+Blocks and Fuel: Frameworks for deep learning,arxiv Library,0.5,0.5,0.10294117647058823,0.8144988246186524,arxiv Library,1.0,,0.8210541178012299,,0.42857142857142855,0.08955223880597014

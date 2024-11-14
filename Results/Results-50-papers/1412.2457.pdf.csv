@@ -1,0 +1,63 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision_recall,pdf-precision,pdf-recall
+A fast and simple randomized parallel algorithm for the maximal independent set problem,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Quantum lower bounds for the collision and the element distinctness problems,arxiv Library,1.0,1.0,0.0,0.6441020369617023,,,,,,,
+Polylogarithmic independence can fool DNF formulas,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Quantum lower bounds by polynomials,arxiv Library,1.0,1.0,0.0,0.648055869011875,,,,,,,
+"The polynomial method in circuit complexity. In Structure in Complexity Theory Conference, pages 82–95",,,,,,,,,,,,
+"Perceptrons, PP, and the polynomial hierarchy",crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Le problème de l’approximation des fonctions continues sur tout l’axe,,,,,,,,,,,,
+Weakly learning DNF and characterizing statistical query learning using Fourier analysis,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Étude des coefficients de fourier des fonctions de lp(g),,,,,,,,,,,,
+Polynomial regression under arbitrary product distributions,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Randomness-efficient oblivious sampling,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Pseudorandom generators for regular branching programs,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+The coin problem and pseudorandomness for branching programs,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Bernstein’s approximation problem,,,,,,,,,,,,
+Introduction to Approximation Theory,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Improved pseudorandom generators for depth 2 circuits,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+"Approximate resilience, monotonicity, and the complexity of agnostic learning",arxiv Library,1.0,1.0,0.0,0.6350761660809567,arxiv Library,0.0,,0.6823700628561387,,1.0,0.0
+Bounded independence fools halfspaces,arxiv Library,1.0,1.0,0.0,0.6069236189295315,arxiv Library,0.5,,0.6842208817033402,,1.0,0.0
+The complexity of learning halfspaces using generalized linear methods,arxiv Library,1.0,1.0,0.0,0.6477951161501978,arxiv Library,0.0,,0.6907905828040053,,1.0,0.0
+"A regularity lemma, and low-weight approximators, for low-degree polynomial threshold functions",crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Schwankung von polynomen zwischen gitterpunkten,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+New results for learning noisy parities and halfspaces,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Agnostic learning of disjunctions on symmetric distributions,arxiv Library,0.0,1.0,0.0,0.6318584783596819,arxiv Library,0.0,,0.6728986463016671,,1.0,0.0
+Lower bounds and hardness amplification for learning shallow monotone formulas,,,,,,,,,,,,
+Agnostically learning decision trees,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Pseudorandomness for concentration bounds and signed majorities,arxiv Library,1.0,1.0,0.0,0.628134217580705,arxiv Library,0.0,,0.6774349295488198,,1.0,0.0
+Fooling functions of halfspaces under product distributions,arxiv Library,1.0,1.0,0.0,0.6280068040183351,arxiv Library,0.0,,0.6776348755214778,,1.0,0.0
+Hardness of learning halfspaces with noise,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Sketching and streaming entropy via approximation theory,arxiv Library,1.0,1.0,0.0,0.6431650782366946,arxiv Library,0.0,,0.6863715163443908,,1.0,0.0
+"Quasi-analytic class and closure of {tn} in the interval (−∞,∞)",,,,,,,,,,,,
+Pseudorandomness for network algorithms,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Efficient noise-tolerant learning from statistical queries,crossref,1.0,1.0,0.0,0.642404547528815,,,,,,,
+Learning halfspaces under logconcave densities: Polynomial approximations and moment matching,,,,,,,,,,,,
+Agnostically learning halfspaces,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Pseudorandom generators for group products,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Learning geometric concepts via gaussian surface area,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Learning DNF in time 2õ(n 1/3),,,,,,,,,,,,
+Unconditional lower bounds for learning intersections of halfspaces,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Cryptographic hardness for learning intersections of halfspaces,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Lower bounds for agnostic learning via approximate rank,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Toward efficient agnostic learning,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+On efficient agnostic learning of linear combinations of basis functions,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+A survey of weighted polynomial approximation with exponential weights,,,,,,,,,,,,
+Perceptrons: An Introduction to Computational Geometry,,,,,,,,,,,,
+Pseudorandom generators for polynomial threshold functions,arxiv Library,1.0,1.0,0.0,0.6357305805534916,arxiv Library,0.0,,0.6815630466636285,,1.0,0.0
+"Géza Freud, orthogonal polynomials and Christoffel functions. A case study",crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Small-bias probability spaces: Efficient constructions and applications,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+On the degree of boolean functions as real polynomials,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Weighted polynomial inequalities,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Sharp Nikolskii inequalities with exponential weights,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Analysis of Boolean Functions,arxiv Library,0.0,1.0,0.0,0.6840742597312945,arxiv Library,0.0,,0.6797154509584663,,1.0,0.0
+On the degree of polynomials that approximate symmetric boolean functions (preliminary version),crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+A comparison of uniform approximations on an interval and a finite subset thereof,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Undirected connectivity in log-space,crossref,0.0,1.0,0.0,0.6143572531622963,,,,,,,
+Pseudorandomness for regular branching programs via fourier analysis,arxiv Library,0.0,1.0,0.0,0.6386847154402069,arxiv Library,0.0,,0.696281688103364,,1.0,0.0
+Communication lower bounds using dual polynomials,arxiv Library,1.0,1.0,0.0,0.6373435425329047,arxiv Library,0.0,,0.6838425742203684,,1.0,0.0
+Separating AC0 from depth-2 majority circuits,,,,,,,,,,,,
+Chernoff–Hoeffding bounds for applications with limited independence,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Learning kernel-based halfspaces with the 0-1 loss,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Faster algorithms via approximation theory,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+A theory of the learnable,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Agnostically learning under permutation invariant distributions,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,

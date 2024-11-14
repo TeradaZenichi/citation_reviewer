@@ -1,0 +1,27 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Understanding dropout,,,,,,,,,,,,
+Dropout training for support vector machines,arxiv Library,0.0,,0.7950491953695169,arxiv Library,0.0,,0.84190124770343,0.3225806451612903,0.09615384615384616,0.3548387096774194,0.15714285714285714
+Efficient batchwise dropout training using submatrices,arxiv Library,1.0,,0.650896731852937,arxiv Library,0.0,,0.6851832508048161,1.0,0.0,1.0,0.0
+On the inductive bias of dropout,arxiv Library,0.0,,0.6568442998658752,arxiv Library,0.0,,0.6836376471745654,1.0,0.0,1.0,0.0
+Improving neural networks by preventing co-adaptation of feature detectors,,,,,,,,,,,,
+Batch normalization: Accelerating deep network training by reducing internal covariate shift,arxiv Library,1.0,,0.6574850234214036,arxiv Library,0.0,,0.6781211746586541,1.0,0.0,1.0,0.0
+Adam: A method for stochastic optimization,arxiv Library,1.0,,0.6448025889274219,arxiv Library,0.0,,0.6809795911207228,1.0,0.0,1.0,0.0
+Variational dropout and the local reparameterization trick,arxiv Library,0.5,,0.8207947339900235,arxiv Library,0.7,,0.8414956663842402,0.3125,0.1111111111111111,0.1875,0.09375
+Learning multiple layers of features from tiny,,,,,,,,,,,,
+Imagenet classification with deep convolutional neural networks. In Advances in neural information processing,,,,,,,,,,,,
+Attribute efficient linear regression with distribution-dependent sampling,,,,,,,,,,,,
+Gradient-based learning applied to document recognition,crossref,0.0,,0.6545655981278267,,,,,0.0,0.0,,
+Optimizing neural networks with kronecker-factored approximate curvature,,,,,,,,,,,,
+Path-sgd: Path-normalized optimization in deep neural networks,,,,,,,,,,,,
+Factored 3-way restricted boltzmann machines for modeling natural images,,,,,,,,,,,,
+Stochastic convex optimization,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Dropout: A simple way to prevent neural networks from overfitting,,,,,,,,,,,,
+On the importance of initialization and momentum in deep learning,,,,,,,,,,,,
+Dropout training as adaptive regularization,arxiv Library,0.7,,0.8722686829041464,arxiv Library,0.7,,0.8883964818486839,0.2727272727272727,0.16853932584269662,0.2727272727272727,0.23076923076923078
+Altitude training: Strong bounds for singlelayer dropout,,,,,,,,,,,,
+Regularization of neural networks using dropconnect,,,,,,,,,,,,
+Fast dropout training,,,,,,,,,,,,
+An explicit sampling dependent spectral error bound for column subset selection,arxiv Library,0.5,,0.8696603329418882,arxiv Library,0.5,,0.8995940851224449,0.47058823529411764,0.16161616161616163,0.5294117647058824,0.21686746987951808
+Deep learning with elastic averaging sgd,arxiv Library,0.3,,0.7871069972479354,arxiv Library,0.3,,0.8355743502050417,0.2903225806451613,0.06923076923076923,0.3870967741935484,0.18461538461538463
+Adaptive dropout rates for learning with corrupted features,,,,,,,,,,,,
+Online convex programming and generalized infinitesimal gradient ascent,,,,,,,,,,,,

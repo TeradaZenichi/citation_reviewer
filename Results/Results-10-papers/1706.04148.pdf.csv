@@ -1,0 +1,20 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Random search for hyperparameter optimization,,,,,,,,,,,,
+On the properties of neural machine translation: Encoder–decoder approaches,crossref,0.0,,0.6818559590535392,,,,,0.0,0.0,,
+Collaborative filtering with recurrent neural networks,arxiv Library,0.0,,0.8789980715312102,arxiv Library,0.5,,0.8945412994439152,0.35135135135135137,0.22807017543859648,0.40540540540540543,0.2112676056338028
+Adaptive subgradient methods for online learning and stochastic optimization,,,,,,,,,,,,
+Fast ALS-based tensor factorization for context-aware recommendation from implicit feedback. In ECML- PKDD’12,,,,,,,,,,,,
+Session-based recommendations with recurrent neural networks,,,,,,,,,,,,
+Parallel recurrent neural network architectures for feature-rich session-based recommendations,crossref,0.0,,0.6626742702155668,,,,,0.0,0.0,,
+Long short-term memory,,,,,,,,,,,,
+Towards scalable and accurate item-oriented recommendations,crossref,0.0,,0.7005374694823367,,,,,0.0,0.0,,
+Amazon.com recommendations: Item-to-item collaborative filtering,crossref,0.0,,0.7182679415465274,,,,,0.0,0.0,,
+A critical review of recurrent neural networks for sequence learning,arxiv Library,0.5,,0.8563699456226914,arxiv Library,0.5,,0.8631299259547782,0.7692307692307693,0.06535947712418301,0.5384615384615384,0.09333333333333334
+Improving pairwise learning for item recommendation from implicit feedback,crossref,0.0,,0.6901712019179647,,,,,0.0,0.0,,
+Bpr: Bayesian personalized ranking from implicit feedback,arxiv Library,0.5,,0.7898987344711725,arxiv Library,0.5,,0.8349868529983593,0.2777777777777778,0.05102040816326531,0.3888888888888889,0.1
+"Neurocomputing: Foundations of research. chapter Learning Internal Representations by Error Propagation, pages 673–695",,,,,,,,,,,,
+Item-based collaborative filtering recommendation algorithms,crossref,0.0,,0.7182679415465274,,,,,0.0,0.0,,
+A hierarchical recurrent encoder-decoder for generative context-aware query suggestion,crossref,0.0,,0.6756007997126265,,,,,0.0,0.0,,
+Dropout: A simple way to prevent neural networks from overfitting,,,,,,,,,,,,
+Improved recurrent neural networks for session-based recommendations,crossref,0.0,,0.6826897729660013,,,,,0.0,0.0,,
+Recurrent recommender networks,crossref,0.0,,0.6721781416101529,,,,,0.0,0.0,,

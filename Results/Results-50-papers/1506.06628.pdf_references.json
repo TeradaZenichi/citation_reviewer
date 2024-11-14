@@ -1,0 +1,451 @@
+[
+    {
+        "title": "Latent dirichlet allocation",
+        "author": [
+            "D.M. Blei",
+            "A.Y. Ng",
+            "M.I. Jordan."
+        ],
+        "venue": "Journal of Machine Learning Research",
+        "citeRegEx": "Blei et al\\.,? 2003",
+        "shortCiteRegEx": "Blei et al\\.",
+        "year": 2003,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Besides, we also present the cross-media retrieval results based on the 4,096 dimensional CNN visual features3 and the 100 dimensional Latent Dirichlet Allocation model (LDA) [Blei et al. 2003] textual features (we firstly obtain the textual feature vector based on 500 tokens and then LDA model is used to compute the probability of each document under 100 topics).",
+        "context": null
+    },
+    {
+        "title": "A Multi-View Embedding Space for Modeling Internet Images, Tags, and Their Semantics",
+        "author": [
+            "Yunchao Gong",
+            "Qifa Ke",
+            "Michael Isard",
+            "Svetlana Lazebnik."
+        ],
+        "venue": "International Journal of Computer Vision (2013), 1\u201324.",
+        "citeRegEx": "Gong et al\\.,? 2013",
+        "shortCiteRegEx": "Gong et al\\.",
+        "year": 2013,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We observe that most exiting works [Hardoon et al. 2004; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013] focus on learning one couple of mapping matrices to project high-dimensional features from different modalities into a common latent space. 2012] and [Gong et al. 2013] have proposed to use supervised information to cluster the multi-modal data with the same semantics, learning one couple of projections may only lead to compromised results for each retrieval task. Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data. Based on CCA, a number of successful algorithms have been developed for cross-media retrieval tasks [Rashtchian et al. 2010; Hwang and Grauman 2010; Sharma et al. 2012; Gong et al. 2013]. More recently, the work [Gong et al. 2013] proposed a three-view CCA model by introducing a semantic view to produce a better separation for multi-modal data of different classes in the learned latent subspace. Different from [Gong et al. 2013] which incorporates the semantic information as a third view, in this paper, semantic information is employed to determine a common latent space with a fixed dimension where samples with the same label can be clustered. 2010], Three-View CCA (T-V CCA) [Gong et al. 2013], Generalized Multiview Marginal Fisher Analysis (GMMFA) [Sharma et al.",
+        "context": null
+    },
+    {
+        "title": "Canonical correlation analysis: An overview with application to learning methods",
+        "author": [
+            "D.R. Hardoon",
+            "S. Szedmak",
+            "J. Shawe-Taylor."
+        ],
+        "venue": "Neural Computation 16, 12 (2004), 2639\u20132664.",
+        "citeRegEx": "Hardoon et al\\.,? 2004",
+        "shortCiteRegEx": "Hardoon et al\\.",
+        "year": 2004,
+        "abstract": " We present a general method using kernel canonical correlation analysis to learn a semantic representation to web images and their associated text. The semantic space provides a common representation and enables a comparison between the text and images. In the experiments, we look at two approaches of retrieving images based on only their content from a text query. We compare orthogonalization approaches against a standard cross-representation retrieval technique known as the generalized vector space model. ",
+        "full_text": "",
+        "sentence": " We observe that most exiting works [Hardoon et al. 2004; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013] focus on learning one couple of mapping matrices to project high-dimensional features from different modalities into a common latent space. However, only considering pair-wise closeness [Hardoon et al. 2004] is not sufficient for cross-media retrieval tasks, since it is required that multi-modal data from the same semantics should be united in the common latent subspace. Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data. Two popular approaches, Canonical Correlation Analysis (CCA) [Hardoon et al. 2004] and Partial Least Squares (PLS) [Rosipal and Kr\u00e4mer 2006; Sharma and Jacobs 2011], are usually employed to find a couple of mappings to maximize the correlations between two variables.",
+        "context": null
+    },
+    {
+        "title": "Accounting for the Relative Importance of Objects in Image Retrieval",
+        "author": [
+            "Sung Ju Hwang",
+            "Kristen Grauman."
+        ],
+        "venue": "British Machine Vision Conference. 1\u201312.",
+        "citeRegEx": "Hwang and Grauman.,? 2010",
+        "shortCiteRegEx": "Hwang and Grauman.",
+        "year": 2010,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "CrossModal Similarity Learning: A Low Rank Bilinear Formulation",
+        "author": [
+            "Cuicui Kang",
+            "Shengcai Liao",
+            "Yonghao He",
+            "Jian Wang",
+            "Shiming Xiang",
+            "Chunhong Pan."
+        ],
+        "venue": "arXiv preprint arXiv:1411.4738 (2014).",
+        "citeRegEx": "Kang et al\\.,? 2014",
+        "shortCiteRegEx": "Kang et al\\.",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems. Most recently, [Kang et al. 2014] presented a heterogeneous similarity learning approach based on metric learning for cross-media retrieval. With the convolutional neural network (CNN) visual feature, some new state-of-the-art cross-media retrieval results have been achieved in [Kang et al. 2014]. In addition, we also compare our method with the recent work [Kang et al. 2014], which utilizes 4,096-CNN for images and 200-LDA for text, in Table III. Cross-media retrieval comparition with results of four methods reported by [Kang et al. 2014] on the Wikipedia dataset.",
+        "context": null
+    },
+    {
+        "title": "Improving web-image search results using query-relative classifiers",
+        "author": [
+            "Josip Krapac",
+            "Moray Allan",
+            "Jakob Verbeek",
+            "Fr\u00e9d\u00e9ric Jurie."
+        ],
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition. 1094\u2013 1101. http://lear.inrialpes.fr/pubs/2010/KAVJ10",
+        "citeRegEx": "Krapac et al\\.,? 2010",
+        "shortCiteRegEx": "Krapac et al\\.",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " \u2022Based on the INRIA-Websearch dataset [Krapac et al. 2010], we construct a new dataset for cross-media retrieval evaluation. 2010] and a subset of INRIA-Websearch [Krapac et al. 2010].",
+        "context": null
+    },
+    {
+        "title": "Imagenet classification with deep convolutional neural networks",
+        "author": [
+            "Alex Krizhevsky",
+            "Ilya Sutskever",
+            "Geoff Hinton."
+        ],
+        "venue": "Advances in Neural Information Processing Systems. 1106\u20131114.",
+        "citeRegEx": "Krizhevsky et al\\.,? 2012",
+        "shortCiteRegEx": "Krizhevsky et al\\.",
+        "year": 2012,
+        "abstract": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5% and 17.0%, respectively, which is considerably better than the previous state-of-the-art. The neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully connected layers with a final 1000-way softmax. To make training faster, we used non-saturating neurons and a very efficient GPU implementation of the convolution operation. To reduce overfitting in the fully connected layers we employed a recently developed regularization method called \"dropout\" that proved to be very effective. We also entered a variant of this model in the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%, compared to 26.2% achieved by the second-best entry.",
+        "full_text": "",
+        "sentence": " For more details, please refer to [Krizhevsky et al. 2012].",
+        "context": null
+    },
+    {
+        "title": "Learning hash functions for cross-view similarity search",
+        "author": [
+            "Shaishav Kumar",
+            "Raghavendra Udupa."
+        ],
+        "venue": "IJCAI Proceedings-International Joint Conference on Artificial Intelligence, Vol. 22. 1360.",
+        "citeRegEx": "Kumar and Udupa.,? 2011",
+        "shortCiteRegEx": "Kumar and Udupa.",
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Learning Multimodal Neural Network with Ranking Examples",
+        "author": [
+            "Xinyan Lu",
+            "Fei Wu",
+            "Xi Li",
+            "Yin Zhang",
+            "Weiming Lu",
+            "Donghui Wang",
+            "Yueting Zhuang."
+        ],
+        "venue": "Proceedings of the international conference on Multimedia. 985\u2013988.",
+        "citeRegEx": "Lu et al\\.,? 2014",
+        "shortCiteRegEx": "Lu et al\\.",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Besides, with the development of deep learning, some deep models [Frome et al. 2013; Wang et al. 2014; Lu et al. 2014; Zhuang et al. 2014] have also been proposed to address cross-media problems.",
+        "context": null
+    },
+    {
+        "title": "Collecting image annotations using Amazon\u2019s Mechanical Turk",
+        "author": [
+            "C. Rashtchian",
+            "P. Young",
+            "M. Hodosh",
+            "J. Hockenmaier."
+        ],
+        "venue": "Workshop on Creating Speech and Language Data with Amazon\u2019s Mechanical Turk. 139\u2013147.",
+        "citeRegEx": "Rashtchian et al\\.,? 2010",
+        "shortCiteRegEx": "Rashtchian et al\\.",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Based on CCA, a number of successful algorithms have been developed for cross-media retrieval tasks [Rashtchian et al. 2010; Hwang and Grauman 2010; Sharma et al. 2012; Gong et al. 2013]. The work [Rashtchian et al. 2010] investigated the cross-media retrieval problem in terms of correlation hypothesis and abstraction hypothesis. 2010], Pascal Sentence [Rashtchian et al. 2010] and a subset of INRIA-Websearch [Krapac et al.",
+        "context": null
+    },
+    {
+        "title": "A new approach to cross-modal multimedia retrieval",
+        "author": [
+            "N. Rasiwasia",
+            "J. Costa Pereira",
+            "E. Coviello",
+            "G. Doyle",
+            "G.R.G. Lanckriet",
+            "R. Levy",
+            "N. Vasconcelos."
+        ],
+        "venue": "Proceedings of the international conference on Multimedia. 251\u2013260.",
+        "citeRegEx": "Rasiwasia et al\\.,? 2010",
+        "shortCiteRegEx": "Rasiwasia et al\\.",
+        "year": 2010,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We observe that most exiting works [Hardoon et al. 2004; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013] focus on learning one couple of mapping matrices to project high-dimensional features from different modalities into a common latent space. Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data. , Wikipedia [Rasiwasia et al. 2010], Pascal Sentence [Rashtchian et al. We utilize the publicly available features provided by [Rasiwasia et al. 2010] i. Results In the experiments, we mainly compare the proposed MDCR with six algorithms, including CCA, Semantic Matching (SM) [Rasiwasia et al. 2010], Semantic Correlation Matching (SCM) [Rasiwasia et al. 2010], Semantic Correlation Matching (SCM) [Rasiwasia et al. 2010], Three-View CCA (T-V CCA) [Gong et al. For the Wikipedia dataset, we firstly compare the proposed MDCR with other methods based on the publicly available features [Rasiwasia et al. 2010], i.",
+        "context": null
+    },
+    {
+        "title": "Overview and recent advances in partial least squares",
+        "author": [
+            "Roman Rosipal",
+            "Nicole Kr\u00e4mer."
+        ],
+        "venue": "Subspace, Latent Structure and Feature Selection. Springer, 34\u201351.",
+        "citeRegEx": "Rosipal and Kr\u00e4mer.,? 2006",
+        "shortCiteRegEx": "Rosipal and Kr\u00e4mer.",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Bypassing synthesis: PLS for face recognition with pose, lowresolution and sketch",
+        "author": [
+            "Abhishek Sharma",
+            "David W Jacobs."
+        ],
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition. 593\u2013600.",
+        "citeRegEx": "Sharma and Jacobs.,? 2011",
+        "shortCiteRegEx": "Sharma and Jacobs.",
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Generalized multiview analysis: A discriminative latent space",
+        "author": [
+            "Abhishek Sharma",
+            "Abhishek Kumar",
+            "H Daume",
+            "David W Jacobs."
+        ],
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition. 2160\u2013 2167.",
+        "citeRegEx": "Sharma et al\\.,? 2012",
+        "shortCiteRegEx": "Sharma et al\\.",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We observe that most exiting works [Hardoon et al. 2004; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013] focus on learning one couple of mapping matrices to project high-dimensional features from different modalities into a common latent space. Although [Sharma et al. 2012] and [Gong et al. Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data. Based on CCA, a number of successful algorithms have been developed for cross-media retrieval tasks [Rashtchian et al. 2010; Hwang and Grauman 2010; Sharma et al. 2012; Gong et al. 2013]. 2013], Generalized Multiview Marginal Fisher Analysis (GMMFA) [Sharma et al. 2012] and Generalized Multiview Linear Discriminant Analysis (GMLDA) [Sharma et al. 2012] and Generalized Multiview Linear Discriminant Analysis (GMLDA) [Sharma et al. 2012].",
+        "context": null
+    },
+    {
+        "title": "Separating style and content with bilinear models",
+        "author": [
+            "Joshua B Tenenbaum",
+            "William T Freeman."
+        ],
+        "venue": "Neural computation 12, 6 (2000), 1247\u20131283.",
+        "citeRegEx": "Tenenbaum and Freeman.,? 2000",
+        "shortCiteRegEx": "Tenenbaum and Freeman.",
+        "year": 2000,
+        "abstract": " Perceptual systems routinely separate \u201ccontent\u201d from \u201cstyle,\u201d classifying familiar words spoken in an unfamiliar accent, identifying a font or handwriting style across letters, or recognizing a familiar face or object seen under unfamiliar viewing conditions. Yet a general and tractable computational model of this ability to untangle the underlying factors of perceptual observations remains elusive (Hofstadter, 1985). Existing factor models (Mardia, Kent, &amp; Bibby, 1979; Hinton &amp; Zemel, 1994; Ghahramani, 1995; Bell &amp; Sejnowski, 1995; Hinton, Dayan, Frey, &amp; Neal, 1995; Dayan, Hinton, Neal, &amp; Zemel, 1995; Hinton &amp; Ghahramani, 1997) are either insufficiently rich to capture the complex interactions of perceptually meaningful factors such as phoneme and speaker accent or letter and font, or do not allow efficient learning algorithms. We present a general framework for learning to solve two-factor tasks using bilinear models, which provide sufficiently expressive representations of factor interactions but can nonetheless be fit to data using efficient algorithms based on the singular value decomposition and expectation-maximization. We report promising results on three different tasks in three different perceptual domains: spoken vowel classification with a benchmark multi-speaker database, extrapolation of fonts to unseen letters, and translation of faces to novel illuminants. ",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Effective MultiModal Retrieval based on Stacked Auto-Encoders",
+        "author": [
+            "Wei Wang",
+            "Beng Chin Ooi",
+            "Xiaoyan Yang",
+            "Dongxiang Zhang",
+            "Yueting Zhuang."
+        ],
+        "venue": "International Conference on Very Large Data Bases 7, 8 (2014).",
+        "citeRegEx": "Wang et al\\.,? 2014",
+        "shortCiteRegEx": "Wang et al\\.",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Besides, with the development of deep learning, some deep models [Frome et al. 2013; Wang et al. 2014; Lu et al. 2014; Zhuang et al. 2014] have also been proposed to address cross-media problems. 224) through a sparse hash model and [Wang et al. 2014] achieved an average mAP score of 0.",
+        "context": null
+    },
+    {
+        "title": "Learning a mid-level feature space for cross-media regularization",
+        "author": [
+            "Yunchao Wei",
+            "Yao Zhao",
+            "Zhenfeng Zhu",
+            "Yanhui Xiao",
+            "Shikui Wei."
+        ],
+        "venue": "IEEE International Conference on Multimedia and Expo. 1\u20136.",
+        "citeRegEx": "Wei et al\\.,? 2014",
+        "shortCiteRegEx": "Wei et al\\.",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data.",
+        "context": null
+    },
+    {
+        "title": "Cross-media semantic representation via bi-directional learning to rank",
+        "author": [
+            "Fei Wu",
+            "Xinyan Lu",
+            "Zhongfei Zhang",
+            "Shuicheng Yan",
+            "Yong Rui",
+            "Yueting Zhuang."
+        ],
+        "venue": "Proceedings of the international conference on Multimedia. 877\u2013886.",
+        "citeRegEx": "Wu et al\\.,? 2013",
+        "shortCiteRegEx": "Wu et al\\.",
+        "year": 2013,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems. In particular, [Wu et al. 2013] presented a bi-directional cross-media semantic representation model by optimizing the bi-directional list-wise ranking loss with a latent space embedding.",
+        "context": null
+    },
+    {
+        "title": "Sparse Multi-Modal Hashing",
+        "author": [
+            "Fei Wu",
+            "Zhou Yu",
+            "Yi Yang",
+            "Siliang Tang",
+            "Yin Zhang",
+            "Yueting Zhuang."
+        ],
+        "venue": "IEEE Transactions on Multimedia 16, 2 (2014), 427\u2013439.",
+        "citeRegEx": "Wu et al\\.,? 2014",
+        "shortCiteRegEx": "Wu et al\\.",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " To address the problem of prohibitively expensive nearest neighbor search, some hashing-based approaches [Kumar and Udupa 2011; Wu et al. 2014] to large scale similarity search have drawn much interest from the cross-media retrieval community. Recently, [Wu et al. 2014] proposed a sparse multi-modal hashing method, which can obtain sparse codes for the data across different modalities via joint multi-modal dictionary learning, to address cross-modal retrieval. With a different train/test division, [Wu et al. 2014] achieved an average mAP score of 0.",
+        "context": null
+    },
+    {
+        "title": "A multimedia retrieval framework based on semi-supervised ranking and relevance feedback",
+        "author": [
+            "Yi Yang",
+            "Feiping Nie",
+            "Dong Xu",
+            "Jiebo Luo",
+            "Yueting Zhuang",
+            "Yunhe Pan."
+        ],
+        "venue": "IEEE Trans. Pattern Anal. Mach. Intell. 34, 4 (2012), 723\u2013742.",
+        "citeRegEx": "Yang et al\\.,? 2012",
+        "shortCiteRegEx": "Yang et al\\.",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems.",
+        "context": null
+    },
+    {
+        "title": "Cross-media retrieval using query dependent search methods",
+        "author": [
+            "Yi Yang",
+            "Fei Wu",
+            "Dong Xu",
+            "Yueting Zhuang",
+            "Liang-Tien Chia."
+        ],
+        "venue": "Pattern Recognition 43, 8 (2010), 2927\u20132936.",
+        "citeRegEx": "Yang et al\\.,? 2010",
+        "shortCiteRegEx": "Yang et al\\.",
+        "year": 2010,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems.",
+        "context": null
+    },
+    {
+        "title": "Ranking with local regression and global alignment for cross media retrieval",
+        "author": [
+            "Yi Yang",
+            "Dong Xu",
+            "Feiping Nie",
+            "Jiebo Luo",
+            "Yueting Zhuang."
+        ],
+        "venue": "Proceedings of the international conference on Multimedia. 175\u2013184.",
+        "citeRegEx": "Yang et al\\.,? 2009",
+        "shortCiteRegEx": "Yang et al\\.",
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems.",
+        "context": null
+    },
+    {
+        "title": "Harmonizing hierarchical manifolds for multimedia document semantics understanding and cross-media retrieval",
+        "author": [
+            "Yi Yang",
+            "Yue-Ting Zhuang",
+            "Fei Wu",
+            "Yun-He Pan."
+        ],
+        "venue": "IEEE Transactions on Multimedia 10, 3 (2008), 437\u2013446.",
+        "citeRegEx": "Yang et al\\.,? 2008",
+        "shortCiteRegEx": "Yang et al\\.",
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data.",
+        "context": null
+    },
+    {
+        "title": "Cross-media retrieval by intra-media and inter-media correlation mining",
+        "author": [
+            "Xiaohua Zhai",
+            "Yuxin Peng",
+            "Jianguo Xiao."
+        ],
+        "venue": "Multimedia systems 19, 5 (2013), 395\u2013406.",
+        "citeRegEx": "Zhai et al\\.,? 2013",
+        "shortCiteRegEx": "Zhai et al\\.",
+        "year": 2013,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Beyond the above mentioned models, some other works [Yang et al. 2009; Yang et al. 2010; Yang et al. 2012; Wu et al. 2013; Zhai et al. 2013; Kang et al. 2014] have also been proposed to address cross-media problems. In [Zhai et al. 2013], both the intra-media and the inter-media correlation are explored for crossmedia retrieval.",
+        "context": null
+    },
+    {
+        "title": "Mining Semantically Consistent Patterns for Cross-View Data",
+        "author": [
+            "Lei Zhang",
+            "Yao Zhao",
+            "Zhenfeng Zhu",
+            "Shikui Wei",
+            "Xindong Wu."
+        ],
+        "venue": "IEEE Trans. Knowl. Data Eng. 26, 11 (2014), 2745\u20132758.",
+        "citeRegEx": "Zhang et al\\.,? 2014",
+        "shortCiteRegEx": "Zhang et al\\.",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Some works [Hardoon et al. 2004; Tenenbaum and Freeman 2000; Rosipal and Kr\u00e4mer 2006; Yang et al. 2008; Sharma and Jacobs 2011; Hwang and Grauman 2010; Rasiwasia et al. 2010; Sharma et al. 2012; Gong et al. 2013; Wei et al. 2014; Zhang et al. 2014] try to learn an optimal common latent subspace for multi-modal data.",
+        "context": null
+    },
+    {
+        "title": "Cross-Media Hashing with Neural Networks",
+        "author": [
+            "Yueting Zhuang",
+            "Zhou Yu",
+            "Wei Wang",
+            "Fei Wu",
+            "Siliang Tang",
+            "Jian Shao."
+        ],
+        "venue": "Proceedings of the international conference on Multimedia. 901\u2013904.",
+        "citeRegEx": "Zhuang et al\\.,? 2014",
+        "shortCiteRegEx": "Zhuang et al\\.",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Besides, with the development of deep learning, some deep models [Frome et al. 2013; Wang et al. 2014; Lu et al. 2014; Zhuang et al. 2014] have also been proposed to address cross-media problems.",
+        "context": null
+    }
+]

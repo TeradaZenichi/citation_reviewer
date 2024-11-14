@@ -1,0 +1,972 @@
+[
+    {
+        "id": 1,
+        "title": "Hydrogen embrittlement in different materials: a review",
+        "author": [
+            "Dwivedi SK",
+            "Vishwakarma M"
+        ],
+        "year": "2018",
+        "doi": "10.1016/j.ijhydene.2018.09.201",
+        "in_text_citation": "[1]",
+        "sentence": "Hydrogen (H) embrittles titanium (Ti) and zirconium (Zr) metals and their alloys [1\u20133] through the formation of brittle hydride, enhancing the atomic decohesion, accelerating the emission, multiplication, and motion of dislocations [4\u20137].",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 2,
+        "title": "Hydrogen embrittlement of high strength pipeline steels",
+        "author": [
+            "Hardie D",
+            "Charles EA",
+            "Lopez AH"
+        ],
+        "year": "2006",
+        "doi": "10.1016/j.corsci.2006.02.011",
+        "in_text_citation": "[2]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 3,
+        "title": "Some problems of hydrogen in reactor structural materials: a review",
+        "author": [
+            "Chernov II",
+            "Staltsov MS",
+            "Kalin BA"
+        ],
+        "year": "2017",
+        "doi": "10.1134/S2075113317050094",
+        "in_text_citation": "[3]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 4,
+        "title": "Characterizing solute hydrogen and hydrides in pure and alloyed titanium at the atomic scale",
+        "author": [
+            "Chang Y",
+            "Breen AJ",
+            "Tarzimoghadam Z"
+        ],
+        "year": "2018",
+        "doi": "10.1016/j.actamat.2018.02.064",
+        "in_text_citation": "[4]",
+        "sentence": "",
+        "abstract": "Ti has a high affinity for hydrogen and is a typical hydride formers.\nTi-hydride are brittle phases which probably cause premature failure of\nTi-alloys. Here, we used atom probe tomography and electron microscopy to\ninvestigate the hydrogen distribution in a set of specimens of commercially\npure Ti, model and commercial Ti-alloys. Although likely partly introduced\nduring specimen preparation with the focused-ion beam, we show formation of\nTi-hydrides along {\\alpha} grain boundaries and {\\alpha}/\\b{eta} phase\nboundaries in commercial pure Ti and {\\alpha}+\\b{eta} binary model alloys. No\nhydrides are observed in the {\\alpha} phase in alloys with Al addition or\nquenched-in Mo supersaturation.",
+        "full_text": " \n \n \n* Correspondence and requests for materials should be addressed to BG (b.gault@mpie.de). \nCharacterizing solute hydrogen and hydrides in pure and alloyed \ntitanium at the atomic scale \nYanhong Chang1, Andrew J. Breen1, Zahra Tarzimoghadam1, Philipp K\u00fcrnsteiner1, \nHazel Gardner2, Abigail Ackerman3, Anna Radecka4, Paul A. J. Bagot2, Wenjun Lu1, \nTong Li1,5, Eric A. J\u00e4gle1, Michael Herbig1, Leigh T. Stephenson1, Michael P. Moody2, \nDavid Rugg4, David Dye3, Dirk Ponge1, Dierk Raabe1, Baptiste Gault1* \n1 Max-Planck-Institut f\u00fcr Eisenforschung GmbH, Max-Planck-Stra\u00dfe 1, 40237, \nD\u00fcsseldorf, Germany. \n2 Department of Materials, University of Oxford, Parks Road, Oxford, OX1 3PH, United \nKingdom. \n3 Department of Materials, Royal School of Mines, Imperial College, Prince Consort Road, \nLondon SW7 2BP, United Kingdom. \n4 Rolls Royce plc. PO Box 31, Derby, United Kingdom. \n5 Institut f\u00fcr Werkstoffe, Fakult\u00e4t f\u00fcr Maschinenbau & ZGH, Ruhr Universit\u00e4t Bochum, \nGermany. \n \nAbstract \nTi has a high affinity for hydrogen and are typical hydride formers. Ti-hydride are brittle \nphases which probably cause premature failure of Ti-alloys. Here, we used atom probe \ntomography and electron microscopy to investigate the hydrogen distribution in a set of \nspecimens of commercially pure Ti, model and commercial Ti-alloys. Although likely partly \nintroduced during specimen preparation with the focused-ion beam, we show formation \nof Ti-hydrides along \u03b1 grain boundaries and \u03b1/\u03b2 phase boundaries in commercial pure Ti \nand \u03b1+\u03b2 binary model alloys. No hydrides are observed in the \u03b1 phase in alloys with Al \naddition or quenched-in Mo supersaturation.  \nKeywords: Ti-alloys, hydrogen, stable hydrides, atom probe tomography \n \n1 Introduction \nTi-alloys exhibit excellent ratios of weight to fatigue-allowable-strength, high thermal \nstability, toughness, biocompatibility, corrosion resistance [1], and can form stable \nhydrides with moderate formation enthalpies and has potential for solid-state hydrogen \nstorage [2]. It has long been observed that titanium alloys easily adsorb large amounts of \noxygen and hydrogen [3], and Ti alloys usually undergo a hydrogen removal heat \ntreatment during processing in order to lower the residual H content. This step supposedly \nalleviates concerns related to H in solid solution or as hydride to facilitate crack initiation \nor propagation which would be limiting the life-time of Ti alloys components routinely used \nin safety-critical products such as biomedical implants, jet engines and airframes, \nsatellites, space vehicles, chemical and desalination plants. Pure Ti has two allotropic \nforms: a body-centered cubic \u03b2 structure above 882\u00b0C, and, below, a hexagonal close-\npacked \u03b1 structure. Solutes such as Al, V, Sn, Zr, Mo, Fe, as well as O and H have \ndifferent affinities for \u03b1 and \u03b2, modifying the properties. Ti alloys are interesting from the \nstandpoint of alloy design because the proportions of the two phases can be adjusted at \ndifferent stages in processing, allowing the morphological distribution of the phases to be \nadjusted to tailor the properties for different applications. Hence, the presence and \npartitioning of H in the bulk of a phase, at or near crystalline defects, within the \nmicrostructure of Ti-alloys are of both fundamental interest and profound social relevance, \nyet direct observations of hydrogen at the nanoscale remain elusive but are crucial to \nunderstand how H can so strongly affect materials\u2019 properties.  \nThe role of H is usually indirectly inferred from changes in materials\u2019 properties [4] and \nnot from direct observations, making unravelling mechanisms particularly challenging. In \nmetals, H is either in solution, trapped at crystal defects or in the form of hydrides, each \nwith a distinct influence on ductility, fracture, softening, hardening, and creep [5\u20137]. Many \nmechanisms [8\u201311], collectively referred to as hydrogen embrittlement, have been \nproposed, but how H within materials interacts with microstructural features e.g. crystal \ndefects, interfaces or secondary phases remains elusive [4]. In Ti-alloys, H partitions and \nstabilizes the \u03b2-phase and is sometimes a temporary alloying element that enhances \nprocessability [12,13]. However, H also causes embrittlement and Ti-alloys usually \nundergo a dedicated heat treatment to lower residual H and alleviates concerns pertaining \nto crack initiation [14] or propagation that limit component\u2019s lifetime. \nPrecise characterization of the H distribution in engineering alloys is extremely \nchallenging. Electron microscopy techniques, in particular transmission electron \nmicroscopy (TEM) has been deployed to reveal how H affects defects\u2019 behaviour in \nmetals [4] or to image atomic columns in a stable hydride [15]. However, because H lacks \nan electron outer shell, it can only be observed via plasmon interactions in Electron \nEnergy Loss Spectroscopy (EELS) and so TEM is yet to successfully image solute H \nwithin an industrial alloy. Atom probe tomography (APT) exploits the effect of an intense \nelectric field applied to a sharp, needle-shaped specimen to trigger the emission and \nanalyse individual atoms, providing three-dimensional analytical mapping of a material \nwith sub-nanometre resolution[16]. APT is the only technique which can currently locate, \nwith sub-nanometer spatial resolution, and quantify hydrogen within a microstructure. The \ndifficulty lies in that APT datasets typically register 0.5 \u2013 1.5 at% [17] of spurious H \noriginating from residual gases in the ultra-high vacuum chamber.  Deuterium charging, \nas a surrogate for H, has shown promising results recently [18\u201321], but even so, the \npresence of residual H2 in the mass spectra will affect the results and this has precluded \nroutine quantitative assessment of hydrogen in metals by APT. Here, we show how APT, \nalso combined with electron microscopy, still provides insights into the partitioning of \nhydrogen and the formation of hydrides in binary model and engineering Ti-alloys \nprocessed through conventional metallurgical routes and additive manufacturing.  \n2 Materials and methods \nCommercially-pure Ti used here was of Grade 2. The two binary alloys Ti-4wt.% Mo and \nTi-2wt.% Fe were synthesized in an electric arc furnace under Ar atmosphere and cast \nas a rectangle billet in-house at MPIE. As-cast Ti-2Fe billet was heated in the \u03b2 region at \n950\u00b0C for 13h under vacuum (5*10-2 Pa) and then quenched by helium in 5 seconds via \ndilatometer. The as-cast Ti-4Mo was homogenized at 950\u00b0C for 24 hours followed by \nquenching, and then annealed at 600\u00b0C for 2h for \u03b2 reversion.  \nThe Ti64 alloy was processed by Selective Laser Melting using a SLM Solutions 280HL \nmachine under an Ar atmosphere at an energy density of 145 J/mm3 from gas atomized, \ngrade 23 Ti64 powder. The sample was investigated in the as-produced state. According \nto the manufacturers specifications grade 23 may contain max. 0.0125wt% H. The Ti6246 \nalloy is \u03b2 rolled, then \u03b1-\u03b2 forged with controlled cooling using a gas fan quench. The \nsample was then heated at 960\u00b0C and cooled at 7\u00b0C\u2022min-1 to 800\u00b0C, followed by water \nquenching to dissolve secondary and retain primary \u03b1.   \nThe bulk hydrogen content in these four materials was therefore also measured in a Leco \nInc. RH 402-Hydrogen Determinator coupled with a HF 402 induction furnace. The results \nare 0.175 at.%, 0.153 at.%, 0.151 at.%, 0.0319 at.% respectively for the as-cast Ti4Mo \nand Ti2Fe, the Ti64, and the Ti2Fe after heat-treatment and quench. \nScanning electron and electron back-scattered diffraction (EBSD) micrographs were \nacquired on a JEOL JSM at 15kV acceleration voltage. Specimen for APT were prepared \nfrom the surface of mechanically polished Ti samples by in-situ lift-out in a scanning-\nelectron microscope / focused ion beam, following the protocol outlined in ref. [22] \nincluding the final steps at low acceleration voltage (14kV) to limit the damage caused by \nhigh-energy ions. In addition, upon finalising the needle-shape, a final cleaning of the \nspecimen at 2kV acceleration voltage was performed so as to remove the region of the \nmaterial likely affected by implantation damage. Two different microscopes were used: \nFEI Helios Nanolab 600 and 600i.  \nThe CP-Ti, two binary alloys, Ti-Mo and Ti-Fe, and Ti6246 were analysed on a Cameca \nLEAP 3000 HR, operated in high-voltage pulsing mode with 15% pulse fraction, 200kHz \npulse frequency and 0.3% target evaporation rate at a base temperature of 60K. The \npressure in the ultrahigh vacuum chamber was consistently below 6x10-11 mbar. Finally, \nthe Ti64 on a Cameca LEAP 5000 in HV pulsing mode with a pulse fraction of 15% at a \nrepetition rate of 200kHz, at a base temperature of 80K \u00b1 at 1.5 ions per 1000 pulses, \nand a pressure in the ultrahigh vacuum chamber below 8x10-11 mbar. High-voltage \npulsing mode was chosen to ensure that data from multiple specimens and material \nsystems could be compared.  \nTEM investigations, prior to APT, were conducted on APT specimens in a Phillips CM20 \nwith LaB6 filament operated at 200kV. The experimental setup was described in ref [23].  \n3 Results \n3.1 Ti-4Mo \nFigure 1(a) and Figure 1(b) show the microstructure of the as-quenched Ti-4Mo alloy, a \nmixture of massive and acicular \u03b1\u2019 martensite with an hexagonal structure, consistent with \nprevious reports [24,25]. Inside the massive martensite colonies, almost parallel \u03b1\u2019 laths \nare observed which belong to the same variant. The H and Mo elemental distribution \nrevealed by the tomographic reconstruction obtained from an APT analysis that contains \nthree grains and two boundaries is displayed in Figure 1(c). The detector maps extracted \nfrom the three different grains each reveal a pattern with a 6-fold symmetry corresponding \nto the base-plane of the hexagonal lattice as shown Figure 1(c). The position of the \ncrystallographic poles revealed by these maps allows to derive the crystallographic \norientation of each of the three grains. The change in the position of the basal poles \nindicates the change in orientation between grains [26]. In between the top grain and the \nmiddle grain, the basal pole almost overlap, which means they are the same variant with \nalmost similar orientation, and indicates that the top grain boundary is likely a lath \nboundary. On the contrary, the shift of the pole position from the middle grain to the \nbottom grain is quite large, which indicates misorientation between the middle grain and \nthe bottom grain is rather large. The partial crystallographic information available in such \ndataset is insufficient to perform a full quantitative assessment of the misorientation, but \nbased on the distance between the main basal pole and the typical field-of-view of the \ninstrument, the angle between the two (0002) directions is between 28 and 32 degrees. \nThis makes the bottom grain boundary is either of a different variant within the same prior \n\u03b2-grain or from another prior \u03b2 grain. The corresponding composition profile shows a \nslight Mo segregation along both boundaries, and a nearly homogeneous Mo distribution \nin the \u03b1\u2019 martensite. The Mo segregation along the martensite lath boundary indicates the \nsegregation occurred after martensitic transformation during the quenching process. The \namount of Mo segregation at these boundaries appears not directly related to the \nmisorientation angle of the boundaries. Previous atom probe and electron microscopy \nwork demonstrated the complexity of the relationship between interface misorientation \nand the associated segregation content (see e.g. [27]). In addition, the martensitic \ntransformation sequence likely plays an important role.  \nThe Ms temperature of Ti-4Mo alloy is very high, namely, 973K [25]. The observed \nmixture of massive and acicular martensite in the current microstructure supports this fact \nand implies that the water-quenching is insufficiently fast to prevent diffusion during the \ntransformation. Over the temperature range (Ms - Mf) of the martensitic transformation, \nthe amount of segregation may thus rather relate to the martensite transformation \nsequence instead to a Gibbsian effect related to a single misorientation value. Larger \namounts of segregation may thus occur at boundaries of those martensite laths that \ntransformed at a higher temperature than those that transformed at lower temperature \n[28]. In addition, the martensitic transformation mechanism may cause asymmetric lath \nstructures with unequal boundaries and different dislocation content on adjacent borders \nof the same martensite lath [29]. This may also contribute to the different amount of Mo \nsegregation on the two boundaries shown in Figure 1, as well as to the different profiles \nof segregation observed on either side of the boundary. \nThe average H composition in the data is approximately 2 at.%, with a slight enrichment \nup to 3.5 at.% at the lath boundary. After 15min at 600\u00b0C, the alloy is comprised of \nreverted metastable \u03b2 and martensite. Figure 2 shows that Mo preferentially enriches up \nto 5-7at.% Mo at a boundary, which probably is a thin layer of metastable \u03b2, surrounded \nby 5-10 nm Mo-depleted (\u2264 1at.%) regions on both sides due to limited diffusion at 600\u00b0C \nfor 15 min. Inside the \u03b1\u2019 lath, the Mo concentration is around 2 at.% as in the as-quenched \ncondition. APT reveals that the \u03b2 layer contains up to 22 at.% H, while only 1.5-2 at.% H \nis measured in the surrounding \u03b1\u2019 martensite, consistent with H levels in the as-quenched \ncase. \nFollowing further \u03b2-reversion of Ti-4Mo after 2h at 600\u00b0C, the supersaturated \u03b1\u2019 \nmartensite is fully decomposed into an \u03b1+\u03b2 phase mixture. Figure 3(a) is a bright-field \nmicrograph and Figure 3(b) the corresponding electron diffraction pattern of an APT tip \ncontaining a hydride formed at an \u03b1/\u03b2 interface. The diffraction patterns are taken from \nthe [111]\u03b2 // [011]hydride zone axis,  as confirmed by simulated patterns in Figure 3(c). \nFigure 3(d) is a colored dark-field micrograph, generated from the (111) hydride and \n(011)\u03b2 spots circled in Figure 3(b), that allows for direct correlation with the reconstructed \nAPT map displayed in Figure 3(e). The Ti phases are easily differentiated by their Mo \nconcentration of approx.13 at.% Mo in \u03b2 phase and less than 0.1 at.% in the \u03b1 phase \n(cyan). 4 at.% H was detected in \u03b2 while < 1at.% H in \u03b1, which is consistent with residual \nlevels reported in the literature [17]. The hydride between \u03b1 and \u03b2 phase contains 50\u00b12 \nat.% H, as revealed from the one-dimensional concentration profile in Figure 3(f). This \ncomposition agrees with previous reports by Takahashi et al. [30]. Correlative TEM/APT \nreveals that the hydride was already present prior to APT measurement, rather than \nformed as the specimen was cooled down for APT analysis, or induced in the APT \nchamber.  \n3.2 CP-Ti and Ti-2Fe \nTo confirm that these observations were not related to a single alloy system, another alloy \nsystem Ti-2Fe was investigated, and in a second step, in single phase \u03b1-Ti grade 2 \ncommercially-pure titanium (CP-Ti). First, investigations were performed on a two phase \nTi-2wt.% Fe alloy synthesized following the same protocol as the reverted Ti-4 wt.% Mo. \nA hydride formed at an \u03b1\u2013\u03b1 grain boundary, shown in Figure 4, was analysed by atom \nprobe crystallography [31]. The detector histograms in (a), obtained during the analysis, \nreveal varying pole figures which evidence a change in crystal structure and orientation. \nThe poles of both top and bottom grains exhibit a 6-fold symmetry characteristic of the \nbasal planes in the hexagonal \u03b1 phase. The shift in the position of this pole between the \ntop and the bottom \u03b1 grain is equivalent to a change in orientation of 5.4\u00b0 between the \ntwo grains. The 3-fold symmetry of the pole in the middle phase that contains approx. 50 \nat.% H, identifies the {111} pole of the hydride. The {111} pole of the hydride and the \n{0001} pole of the bottom \u03b1 grain appear superimposed, as expected from the pattern in \nthe maps in Figure 3a. This indicates that the interface between the hydride and the \u03b1 \ngrain is semi-coherent: {0001}\u03b1 // {111}hydride, which is consistent with the previously \nreported orientation relationship between \u03b1-Ti and the \u03b3-hydride [32].  \nSecond, specimens of CP-Ti were prepared under the same conditions. The APT \nmeasurement were conducted with the same experimental parameters. The presence of \nhydride was observed in almost all the specimens, one of which is shown in Fig. 5a. \nCrystallographic analysis based on the pole figures indicates that the hydride has the \nsame orientation relationship with \u03b1-matrix as shown in Fig. 4. A TEM lamella of CP-Ti \nwas also prepared under the same conditions and hydrides were observed in the form of \nthin platelets, as seen in the bright-field micrograph in Fig. 5b. The diffraction pattern \nalong [110] hydride // [0110]%  demonstrates the crystallographic orientation relationship \nbetween the hydrides and \u03b1-Ti being {0002}\u03b1 // {002}hydride. The superlattice reflections \nfrom (011) indicates that the hydride is \u03b3-hydride with a face-centered tetragonal lattice \n(fct) and an ordered arrangement of hydrogen, consistent with the hydride reported in \nreference [32] and [33]. Fig.5c is the corresponding dark-field image generated from the \n(111)\u03b3 spot marked in yellow in the diffraction pattern in the inset in Fig. 5(b) that shows \nonly the hydrides within the \u03b1-Ti. \n3.3 Ti6246, Ti64 \nTo further investigate the effect of alloying in the \u03b1 phase on the hydrogen solubility and \nhydride formation, two commercial alloys, namely Ti6246 and Ti64, both with Al addition, \nan \u03b1 stabilizer, were analysed by APT as shown in Figure 6(a\u2013b). Both materials are two \nphase alloys, with the \u03b1 phase solute solution strengthened by 10-12 at. % Al. Figure 6(a) \nshows an \u03b1-Ti plate precipitated from \u03b2-Ti during heat treatment of Ti6246, with approx. \n3 at.% H in \u03b1 and 17 at.% in \u03b2. As shown in Figure 6(b), in Ti64, 2\u20133 at. % H enrichment \non \u03b1 lath boundaries and up to 13 at. % inside \u03b2 blocks are detected along with V \nsegregation and partitioning. The \u03b1 alloyed with Al contains 1.5\u20133 at.% H, similar to the \nMo-supersaturated martensite (Figure 1) and slightly higher than in unalloyed \u03b1 (Figure \n5). Neither of these alloys exhibited any hydride.  \n4 Discussion \n4.1 Hydrogen introduction \nThe bulk hydrogen content in the bulk materials was consistently 10\u201330 times lower than \nthose measured by APT. H was likely introduced during the preparation of specimens. \nAbsorbed water or acid during mechanical or chemical polishing can cause absorption of \nH and the formation of hydrides [34].  Ding\u2019s work clearly showed that more hydride \nformed in the FIB-prepared TEM foil cut from the water/acid solution polished bulk sample \nthan from the a dry-ground sample [29]. Adsorbed water or acid during mechanical or \nchemical polishing can facilitate hydrogen penetration within the sample.  \nSpecimens for this study were prepared exclusively by FIB at room temperature, at \napprox. 10-6 mbar. The residual gas of the FIB vacuum chamber, e.g. hydrocarbons \nand/or moisture, probably is a major H source. Carpenter et al [35] pointed out that \nenergetic ion beam (5keV broad Argon ion beam) might stimulate the decomposition \nreaction of hydrocarbon and moisture at metal surfaces and hence produce more \nhydrogen. Moreover, Wnuk et al [36] revealed that 500 eV electron beam irradiation could \ninduce the decomposition of the organometallic precursor for Pt deposition, which is \naccompanied by the evaporation of methane and hydrogen gas phase. Therefore, it is \nreasonable to assume that another major source for H uptake during FIB preparation is \nthe hydrogen gases generated by electron/ion beam irradiation of the organometallic gas \nprecursor. \nHydrogen uptake would be aided by the high affinity of Ti for hydrogen and the rapid in-\ndiffusion rate of hydrogen enhanced by the high reactivity of the sputtered surface and \nbeam-induced heating. Ding and Jones suggested that FIB-induced point defects trigger \nor accelerate the formation of hydrides during the preparation of TEM specimens [33]. In \ncomparison to TEM, APT specimens have a lower surface to volume ratio, smaller \namount of Pt deposition and are prepared at lower acceleration voltage, current and dose, \ntaking the final cleaning step of APT specimens at 2-5 kV into account. It is still likely that \nsignificant amounts of H were introduced during the annular milling steps of the specimen \npreparation protocol. This explains that averaging over eight APT datasets obtained for \nthe Ti-2Fe alloy results in approximately 5 at.% H, well above expected levels.  \nIn the future, strategies could be pursued to preclude H uptake during sample preparation \nand transportation, for instance, using water- and acid-free methods for the polishing of \nbulk samples; using cryo-FIB to limit H in diffusion during preparation; improving the level \nand quality of the vacuum in the FIB and vacuum transport specimens between \ninstruments; provide a gentle heat treatment of the specimens post preparation to remove \nabsorbed H as well as possible hydrides formed. This latter point will not rid the specimen \nof the possible microstructure evolution from treatments at high temperature, but it would \nalso not necessary heal the specimen from modifications caused by the formation of the \nhydrides, e.g volume expansion and dislocation generation. Although a significant \nproportion of the H likely comes from the preparation of the specimens, our observations \nstill provide unique insights. \n4.2 Hydrogen quantification \nStrong variations in the quantity of hydrogen detected within an atom probe experiment \ncan usually be predominantly correlated with variations in the residual pressure within the \nultra-high-vacuum chamber of the microscope [37], but also possible differences in the \nlocal composition and structure. The chamber pressure is monitored during the analysis, \nand only minute changes are observed from dataset to dataset, and the base pressure \nduring the measurement is consistently in the range of 4 \u2013 6 x 10-11 mbar. Admittedly, the \npartial pressure of hydrogen is not individually measured, it is unlikely that it would \nsignificantly fluctuate without being accompanied with an increase in the overall pressure.  \nRegarding the other two aspects, changes in the amount of hydrogen detected can also \nusually be linked to a change in the local strength of the electrostatic field, which in turn \ncan be made apparent by tracking the relative ratio between the different charge state of \ne.g. Ti (i.e. Ti3+/Ti2+) as extensively discussed by Kingham and co-workers [38,39]. A \nhigher concentration of hydrogen from the residual gas is usually found when the \nelectrostatic field is low, as shown in the work of Tsong \u2013 see for instance ref. [37].  \nIn the case of the alpha/beta microstructure, the level of H in alpha is often in the range \nthat is expected from the background level 1\u20132 at%, whereas in beta, it is consistently \nhigher, up to 10\u201315 at%. This is evidenced in Figure 7, where the relative amounts of H+, \nH2+ are plotted across an \u03b1/\u03b2 interface in the dataset presented in Fig 6(a) for the Ti6246 \nalloy. The variations in the Ti charge-state ratio is also plotted (in blue). The electric field \nis clearly higher in beta, with an increase in the absolute amount of Ti3+ as well as in the \nratio between Ti3+ and Ti2+. Based on the reports by Kellogg [40], a higher field should \nresult in a lower amount of H originating from the residual gas. Therefore, the detected \nbackground H in beta should be lower than in alpha, and with values measured of up to \n10-15 at.%, the H in beta must be mostly from solute hydrogen.  \n4.3 Hydrogen distribution \nIn a sense, the damage and implantation of H induced by the FIB accelerates the \nmaturation process of the specimen\u2019s microstructure, which, during its lifetime in service, \nmay progressively pick up H. These observations provide insights on the distribution of H \nwithin materials, i.e. partitioning between phases and at interfaces. As summarised in \nFigure 8, for Ti-2Fe and Ti-4Mo, \u22641 at.% H is usually detected in \u03b1-Ti that has a low H \nsolubility [41]. Such levels are consistent with residual gas in APT. This contrasts with 5\u2013\n7 at.% H in equilibrated \u03b2 after full annealing. We reveal hydride formation at \u03b1/\u03b2 \ninterfaces and \u03b1 lath boundaries, which agrees with the model proposed for hydride film \ngrowth at interfaces that provide rapid transport of H, enhance segregation and thus \naccelerate hydride nucleation and growth [42]. Metastable \u03b2 contains 10\u201325 at.% H, \nhigher than in equilibrated \u03b2, likely linked to large amounts of defects. Interestingly, Figure \n7 shows higher H solubility in the alloyed \u03b1-phase but no hydrides even at \u03b1/\u03b2 phase \nboundaries and \u03b1 grain boundaries, even though up to nearly 20 at.% H is dissolved in \nthe adjacent \u03b2.  \n4.4 Alloying elements suppressing hydride formation  \nHydride formation causes volume expansion, which must be accommodated by both \nelastic and plastic deformation. Therefore, the strength of the matrix is a prominent \nparameter that hinders hydride formation [41].The \u03b1\u2019 martensite presented in Figure 1(c) \nis solid solution strengthened by Mo, which probably requires greater supersaturation of \nH to create an adequate driving force for the formation of dislocation loops. The \u03b1\u2019 can \nhence dissolve larger amounts of H (2-3 at.%) than pure \u03b1-Ti. However, the upper limit of \nH solubility in \u03b1\u2019 martensite is constrained by its hexagonal lattice. Early literature reported \nthat Al alloying could increase H solubility in \u03b1 and suppress hydride precipitation in Ti-\nalloys [37\u201339]. Our results agree with higher levels of H detected in Al-alloyed \u03b1 than in \nunalloyed \u03b1, thereby confirming that Mo-supersaturation and Al-addition make hydride \nformation more difficult. Without hydride formation in alloyed \u03b1, H is confined to \u03b2, which, \ncombined with a possible higher susceptibility for FIB-damage, explains why large \namounts of H (~17 at.%) are detected in the \u03b2 phase in Ti6246 and Ti64. \n5 Conclusion \nTo conclude, we demonstrated that significant quantities of H can be measured in a \nvariety of model and commercial Ti-alloys, in particular in the vicinity of \u03b1-grain \nboundaries and \u03b1/\u03b2 interfaces, with local concentrations exceeding 10 at.%, and often as \nhigh as 50\u00b12 at.% within hydrides. Macroscopic investigations of extrinsic properties are \ninsufficient and only local characterisation, at the near-atomic scale, enables the detailed \nunderstanding necessary to explain engineering behaviour. In particular, when consulted \nfor estimating the likelihood of hydride formation, the Ti \u2013 H phase diagram can be \nmisleading as it is the local and not the global chemical potential that impacts hydride \nformation. Hydrides form along interfaces and boundaries in unalloyed \u03b1 phase more \neasily than in alloyed \u03b1 by Al or Mo oversaturation. The implication of our findings is that \nhydrogen embrittlement in commercial Ti alloys (with Al addition) near room temperature \nis probably not a consequence of hydride formation but the concentration of H into the \nbeta phase that can promote local decohesion or enable enhanced localized plasticity \nfacilitating accelerated nucleation of cracks. The direct observation of H opens future \nroutes for material design to overcome hydrogen embrittlement and to improve the design \nof more efficient hydrogen storage materials.  \n \nAcknowledgments \nUwe Tezins & Andreas Sturm for their support to the FIB & APT facilities at MPIE. YC is \ngrateful to the China Scholarship Council (CSC) for funding of PhD scholarship. AB, MH, \nDP, DR and BG acknowledge the Deutsche Forschungsgemeinschaft (DFG) for partly \nfunding this research through SFB 761 \u201csteels ab initio\u201d. J.  Gussone,  J. Haubrich, G. \nRequena from the Institute of Materials Research, German Aerospace Center (DLR), \nLinder H\u00f6he, Cologne are thanked for providing the Ti64 alloy prepared by selective laser \nmelting. Funding for AA is from EPSRC grant EP/M506345/1, with material supplied by \nRolls Royce. MPM and PAJB acknowledge the financial support of the EPSRC under \ngrants EP/L014742/1 and EP/M022803/1. \nReferences \n[1] \nD. Banerjee, J.C. Williams, Acta Mater. 61 (2013) 844\u2013879. \n[2] \nD.G. Ivey, D.O. Northwood, J. Mater. Sci. 18 (1983) 321\u2013347. \n[3] \nT. Chapman, D. Dye, D. Rugg, Philos. Trans. R. Soc. A (2017). \n[4] \nI.M. Robertson, P. Sofronis, A. Nagao, M.L. Martin, S. Wang, D.W. Gross, K.E.E. \nNygren, Metall. Mater. Trans. B 46 (2015) 1085\u20131103. \n[5] \nD.A. Meyn, Metall. Trans. 5 (1974) 2405\u20132414. \n[6] \nW.J. Evans, M.R. Bache, Scr. Metall. Mater. 32 (1995) 1019\u20131024. \n[7] \nF.H. Froes, D. Eylon, C. Suryanarayana, JOM 42 (1990) 26\u201329. \n[8] \nC.. Briant, Z.. Wang, N. Chollocoop, Corros. Sci. 44 (2002) 1875\u20131888. \n[9] \nD.. Teter, I.. Robertson, H.. Birnbaum, Acta Mater. 49 (2001) 4313\u20134323. \n[10] J.B. Bai, Scr. Metall. Mater. 29 (1993) 617\u2013622. \n[11] S. Lynch, Corros. Rev. 30 (2012) 105\u2013123. \n[12] D. Eliezer, N. Eliaz, O.N. Senkov, F.H. Froes, 280 (2000) 220\u2013224. \n[13] O.N. Senkov, F.H. Froes, Int. J. Hydrogen Energy 24 (1999) 565\u2013576. \n[14] P.A.T. Olsson, M. Mrovec, M. Kroon, Acta Mater. 118 (2016) 362\u2013373. \n[15] R. Ishikawa, E. Okunishi, H. Sawada, Y. Kondo, F. Hosokawa, E. Abe, Nat. Mater. \n10 (2011) 278\u2013281. \n[16] B. Gault, M.P. Moody, J.M. Cairney, S.P. Ringer, Atom Probe Microscopy, Springer \nNew York, New York, NY, 2012. \n[17] G. Sundell, M. Thuvander, H.-O. Andr\u00e9n, Ultramicroscopy 132 (2013) 285\u20139. \n[18] R. Gemma, T. Al-Kassab, R. Kirchheim, A. Pundt, J. Alloys Compd. 446\u2013447 \n(2007) 534\u2013538. \n[19] J. Takahashi, K. Kawakami, Y. Kobayashi, T. Tarui, Scr. Mater. 63 (2010) 261\u2013264. \n[20] D. Haley, S.V. Merzlikin, P. Choi, D. Raabe, Int. J. Hydrogen Energy 39 (2014) \n12221\u201312229. \n[21] Y.-S. Chen, D. Haley, S.S.A. Gerstl, A.J. London, F. Sweeney, R.A. Wepf, W.M. \nRainforth, P.A.J. Bagot, M.P. Moody, Science (80-. ). 355 (2017). \n[22] K. Thompson, D. Lawrence, D.J. Larson, J.D. Olson, T.F. Kelly, B. Gorman, \nUltramicroscopy 107 (2007) 131\u20139. \n[23] M. Herbig, P. Choi, D. Raabe, Ultramicroscopy 153 (2015) 32\u20139. \n[24] Z. Tarzimoghadam, S. Sandl\u00f6bes, K.G. Pradeep, D. Raabe, Acta Mater. 97 (2015) \n291\u2013304. \n[25] R. Davis, H.M. Flower, D.R.F. West, J. Mater. Sci. 14 (1979) 712\u2013722. \n[26] S.P.S.P. Ringer, S.L.S.L. Shrestha, V.J.V.J. Araullo-Peters, L. Yao, M.P.M.P. \nMoody, B. Gault, J.M.J.M. Cairney, S.L.S.L. Shrestha, L. Yao, M.P.M.P. Moody, \nS.P.S.P. Ringer, J.M.J.M. Cairney, S.L.S.L. Shrestha, V.J.V.J. Araullo-Peters, L. \nYao, M.P.M.P. Moody, B. Gault, J.M.J.M. Cairney, Scr. Mater. 66 (2012) 907\u2013910. \n[27] M. Herbig, D. Raabe, Y.J. Li, P. Choi, S. Zaefferer, S. Goto, Phys. Rev. Lett. 112 \n(2014) 126103. \n[28] L. Morsdorf, C.C. Tasan, D. Ponge, D. Raabe, Acta Mater. 95 (2015) 366\u2013377. \n[29] H. Sato, S. Zaefferer, Acta Mater. 57 (2009) 1931\u20131937. \n[30] J. Takahashi, K. Kawakami, H. Otsuka, H. Fujii, Ultramicroscopy 109 (2009) 568\u2013\n573. \n[31] B. Gault, M.P.M.P. Moody, J.M.J.M. Cairney, S.P.S.P. Ringer, Mater. Today 15 \n(2012) 378\u2013386. \n[32] H. Numakura, M. Koiwa, Acta Metall. 32 (1984) 1799\u20131807. \n[33] R. Ding, I.P. Jones, J. Electron Microsc. (Tokyo). 60 (2011) 1\u20139. \n[34] L.M. Gammon, R.D. Briggs, J.M. Packard, K.W. Batson, R. Boyer, C.W. Domby, \nMater. Park. OH ASM Int. 2004. 9 (2004) 899\u2013917. \n[35] G.J. Carpenter, J.A. Jackman, J.P. McCaffrey, R. Alani, Microsc. Microanal. 1 \n(1995) 175\u2013184. \n[36] J.D. Wnuk, J.M. Gorham, S.G. Rosenberg, W.F. van Dorp, T.E. Madey, C.W. \nHagen, D.H. Fairbrother, J. Phys. Chem. C 113 (2009) 2487\u20132496. \n[37] T.T. Tsong, T.J. Kinkus, C.F. Ai, J. Chem. Phys. 78 (1983) 4763\u20134775. \n[38] R. Haydock, D.R. Kingham, Surf. Sci. 104 (1981) L194\u2013L198. \n[39] D.R. Kingham, Surf. Sci. 116 (1982) 273\u2013301. \n[40] G.L. Kellogg, J. Chem. Phys. 74 (1981) 1479\u20131487. \n[41] G. L\u00fctjering, J.C. Williams, Ed. SPRINGER second edi (2007) 1\u2013442. \n[42] H.G. Nelson, Metall. Trans. A 7 (1976) 621\u2013627. \n[43] N.E. Paton, B.S. Hickman, D.H. Leslie, Metall. Trans. 2 (1971) 2791\u20132796. \n[44] J.D. BOYD, in:, Sci. Technol. Appl. Titan., 1970, pp. 545\u2013555. \n[45] G.W. Wille, J.W. Davis, Hydrogen in Titanium Alloys. No. DOE/ET/52039--2. \nMcDonnell Douglas Astronautics Co., 1981. \n \n \n \n \nFigure Captions: \nFigure 1: scanning electron micrograph showing in (a) and the corresponding EBSD map in (b) the \u03b1\u2019 \nmartensite structure in the as-quenched Ti-4Mo after homogenization at 950\u00b0C for 24 hours. (c) APT H and \nMo distributions and patterns formed on the detector during the analysis exhibiting the typical symmetries \nthe HCP phase for the as-quenched Ti-4Mo and (d) composition profile through the lath boundary. \nFigure 2: (a) APT H and Mo distributions map and (b) composition profile through the lath boundary for \nthe Ti-4Mo sample after 15min at 600\u00b0C to initiate \u03b2-reversion. \nFigure 3: (a) bright-field TEM image of an APT tip from the annealed Ti \u2013 4 wt.% Mo alloy, (b) selected area \ndiffraction pattern (SADP) indexed as [111]\u03b2 // [011]hydride. (c) Simulated diffraction patterns along the \nbcc-\u03b2 [111] zone axis parallel to the hydride [011] zone axis. (d) dark-field (DF)-TEM micrographs, where \nhydride is coloured in purple, \u03b2 in yellow and \u03b1 in cyan. (e) Correlative APT analysis and (f) 1D compositional \nprofile along the yellow arrow in (e) where the errors, represented as line shading, corresponds to the 2s \ncounting errors in each bin of the profile. \nFigure 4: atom probe crystallography analysis of a hydride precipitated at a \u03b1 low-angle grain boundary \nin Ti-2Fe: (a) patterns formed on the detector during the analysis exhibiting the typical symmetries from \nthe local crystalline phase highlighted by the superimposed stereograms; (b) APT reconstruction and (c) \nspatial distribution maps revealing the presence of atomic planes in the tomographic reconstruction near \nthe \u03b1-Ti / hydride interface shown in (d); (e) model of the faceted \u03b1/hydride  interface.  \nFigure 5: (a) APT H and Ti distributions map and composition profile through the boundary of hydride \nand \u03b1 matrix for CP Ti. (b) bright-field micrograph of a TEM lamellar of CP Ti, prepared by FIB, the inset is \nthe selected area diffraction pattern (SADP) indexed as [0110]\u03b1 // [011]hydride, indices in yellow for \nhydride and in cyan for \u03b1 matrix. (c) dark-field (DF)-TEM micrographs taken from (111) hydride marked \nin yellow in the diffraction pattern. \nFigure 6: APT analyses of (a) Ti6246 and (b) Ti64 showing the H distribution and a composition profile \nacross the \u03b1/\u03b2 interface.  \nFigure 7: relative composition of H1\n+, H2\n+, Ti2+ and Ti3+ measured across the \u03b1/\u03b2 interface in Ti6246. The \nblue dotted line is the ratio of Ti3+ over all the other charge states of Ti.  \nFigure 8: H composition in APT datasets depending on the phases detected across all alloys analysed in our \nstudy represented by different symbols. H level in unalloyed \u03b1, i.e. in CP Ti and two phase binary model \nalloys, is ~1 at.%. More H is detected in alloyed \u03b1 (by Al in Ti6246 and Ti64, and by Mo in quenched Ti-4Mo \nwith martensite). \u03b2 phases contain much higher amount of H than \u03b1 phases in all alloys here. Hydride \nforms along \u03b1/\u03b2 interface in binary alloys or \u03b1 grain boundaries in CP Ti, while no hydride observed in \ncommercial Ti alloys, Ti6246 and Ti64. \n \n \nFigure 1 \n \n \n \nFigure 2 \n \n \n \nFigure 3 \n \n \n \nFigure 4 \n \n \n \nFigure 5 \n \n \n \nFigure 6 \n \n \n \nFigure 7 \n \nFigure 8 \n \n \n",
+        "context": "Moody, B. Gault, J.M.J.M. Cairney, S.L.S.L. Shrestha, L. Yao, M.P.M.P. Moody, \nS.P.S.P. Ringer, J.M.J.M. Cairney, S.L.S.L. Shrestha, V.J.V.J. Araullo-Peters, L. \nYao, M.P.M.P. Moody, B. Gault, J.M.J.M. Cairney, Scr. Mater. 66 (2012) 907\u2013910.\n[22] K. Thompson, D. Lawrence, D.J. Larson, J.D. Olson, T.F. Kelly, B. Gorman, \nUltramicroscopy 107 (2007) 131\u20139. \n[23] M. Herbig, P. Choi, D. Raabe, Ultramicroscopy 153 (2015) 32\u20139.\nFigure 6 \n \n \n \nFigure 7 \n \nFigure 8"
+    },
+    {
+        "id": 5,
+        "title": "Fretting fatigue behavior of shot-peened Ti\u20136Al\u20134V under seawater environment",
+        "author": [
+            "Lee H",
+            "Mall S",
+            "Allen WY"
+        ],
+        "year": "2006",
+        "doi": "10.1016/j.msea.2006.01.031",
+        "in_text_citation": "[5]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 6,
+        "title": "Hydrogen-induced microstructure, texture and mechanical property evolutions in a high-pressure torsion processed zirconium alloy",
+        "author": [
+            "Wang Z",
+            "Garbe U",
+            "Li H"
+        ],
+        "year": "2012",
+        "doi": "10.1016/j.scriptamat.2012.07.033",
+        "in_text_citation": "[6]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 7,
+        "title": "Effect of dilute H on crack tip plasticity in Zr",
+        "author": [
+            "Ruda M",
+            "Bertolino G",
+            "Farkas D"
+        ],
+        "year": "2013",
+        "doi": "10.1016/j.commatsci.2012.11.055",
+        "in_text_citation": "[7]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 8,
+        "title": "Titanium alloys for aerospace applications",
+        "author": [
+            "Peters M",
+            "Kumpfert J",
+            "Ward CH"
+        ],
+        "year": "2003",
+        "doi": "10.1002/adem.200310095",
+        "in_text_citation": "[8]",
+        "sentence": "",
+        "abstract": "AbstractThere is probably no other material more closely related to aerospace than titanium and its alloys. With a density of 4.5g/cm3, titanium alloys are only about half as heavy as steel or Ni\u2010based superalloys, yielding an excellent strength\u2010to\u2010weight ratio. Furthermore, they have exceptional corrosion resistance. The use of titanium alloys in the aerospace sector will be highlighted including airframe, engine, helicopter, and space applications.",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 9,
+        "title": "Perspectives on titanium science and technology",
+        "author": [
+            "Banerjee D",
+            "Williams JC"
+        ],
+        "year": "2013",
+        "doi": "10.1016/j.actamat.2012.10.043",
+        "in_text_citation": "[9]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 10,
+        "title": "Location of hydrogen in \u03b1-zirconium",
+        "author": [
+            "Narang PP",
+            "Paul GL",
+            "Taylor KNR"
+        ],
+        "year": "1977",
+        "doi": "10.1016/0022-5088(77)90225-9",
+        "in_text_citation": "[10]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 11,
+        "title": "The metal-hydrogen system: basic bulk properties",
+        "author": [
+            "Fukai Y"
+        ],
+        "year": "2009",
+        "doi": null,
+        "in_text_citation": "[11]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 12,
+        "title": "Atomic-scale Ab-initio study of the Zr-H system I. Bulk properties",
+        "author": [
+            "Domain C",
+            "Besson R",
+            "Legris A"
+        ],
+        "year": "2002",
+        "doi": "10.1016/S1359-6454(02)00173-8",
+        "in_text_citation": "[12]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 13,
+        "title": "Hexagonal-based ordered phases in H-Zr",
+        "author": [
+            "Holliger L",
+            "Legris A",
+            "Besson R"
+        ],
+        "year": "2009",
+        "doi": "10.1103/PhysRevB.80.094111",
+        "in_text_citation": "[13]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 14,
+        "title": "Hydrogen and vacancy clustering in zirconium",
+        "author": [
+            "Varvenne C",
+            "Mackain O",
+            "Proville L"
+        ],
+        "year": "2016",
+        "doi": "10.1016/j.actamat.2015.09.019",
+        "in_text_citation": "[14]",
+        "sentence": "",
+        "abstract": "The effect of solute hydrogen on the stability of vacancy clusters in\nhexagonal closed packed zirconium is investigated with an ab initio approach,\nincluding contributions of H vibrations. Atomistic simulations within the\ndensity functional theory evidence a strong binding of H to small vacancy\nclusters. The hydrogen effect on large vacancy loops is modeled through its\ninteraction with the stacking faults. A thermodynamic modeling of H segregation\non the various faults, relying on ab initio binding energies, shows that these\nfaults are enriched in H, leading to a decrease of the stacking fault energies.\nThis is consistent with the trapping of H by vacancy loops observed\nexperimentally. The stronger trapping, and thus the stronger stabilization, is\nobtained for vacancy loops lying in the basal planes, i.e. the loops\nresponsible for the breakaway growth observed under high irradiation dose.",
+        "full_text": "arXiv:1504.02720v2  [cond-mat.mtrl-sci]  3 Sep 2015\nHydrogen and vacancy clustering in zirconium\nC\u00b4eline Varvenne1, Olivier Mackain, Laurent Proville, Emmanuel Clouet\u2217\nCEA, DEN, Service de Recherches de M\u00b4etallurgie Physique, F-91191 Gif-sur-Yvette, France\nAbstract\nThe e\ufb00ect of solute hydrogen on the stability of vacancy clusters in hexagonal closed packed zirconium\nis investigated with an ab initio approach, including contributions of H vibrations. Atomistic simulations\nwithin the density functional theory evidence a strong binding of H to small vacancy clusters. The hydrogen\ne\ufb00ect on large vacancy loops is modeled through its interaction with the stacking faults. A thermodynamic\nmodeling of H segregation on the various faults, relying on ab initio binding energies, shows that these faults\nare enriched in H, leading to a decrease of the stacking fault energies. This is consistent with the trapping\nof H by vacancy loops observed experimentally. The stronger trapping, and thus the stronger stabilization,\nis obtained for vacancy loops lying in the basal planes, i.e. the loops responsible for the breakaway growth\nobserved under high irradiation dose.\nKeywords:\nAb initio calculations, Vacancies, Stacking faults, Dislocation loops, Zirconium, Hydrogen,\nSegregation\n1. Introduction\nMacroscopic properties of metals and their al-\nloys are known to be strongly a\ufb00ected by hydrogen,\nwhich is a common impurity found in structural\nmaterials. Among hydrogen e\ufb00ects, one can men-\ntion phase transformations leading to hydrides [1],\ninteractions with structural defects modifying the\nplastic activity of materials [2], the interplay with\npoint defects provoking swelling [3], or the so-called\nH embrittlement, via di\ufb00erent possible mechanisms\n[4, 5, 6].\nHexagonal closed packed (hcp) zirconium alloys,\nthat are used as a cladding material in nuclear in-\ndustry, su\ufb00er an in-service hydrogen pickup due to\nthe oxidation of the rods by water. Under irradi-\nation, the apparent solubility limit of hydrogen in\nzirconium increases [7, 8, 9, 10]. This has been as-\nsociated with a trapping of hydrogen by the defects\ncreated by irradiation, in particular the vacancy\n\u2217Corresponding author\nEmail address: emmanuel.clouet@cea.fr (Emmanuel\nClouet)\n1Present address: Institute of Mechanical Engineering,\n\u00b4Ecole Polytechnique F\u00b4ed\u00b4erale de Lausanne, Lausanne CH-\n1015, Switzerland\nclusters [7]. This hydrogen in solid solution in\ufb02u-\nences not only the mechanical properties of hcp Zr\nalloys [11, 12], but also their macroscopic structure:\nit impacts the stress free dimensional change experi-\nenced by these alloys under irradiation [13]. Indeed,\nunder irradiation, a Zr single crystal undergoes an\nelongation along the \u27e8a\u27e9axis and a shortening along\nthe \u27e8c\u27e9axis, without signi\ufb01cant volume change [14].\nThe growth strain remains small at low irradiation\ndose, whereas a breakaway growth is observed at\nhigher \ufb02uence [14, 15]. This breakaway growth at\nhigh doses has been correlated to the appearance of\nfaulted vacancy dislocation loops lying in the basal\nplanes. These vacancy clusters are called \u27e8c\u27e9loops\nbecause of the \u27e8c\u27e9component of their Burgers vec-\ntors.\nAt low irradiation dose, where the growth\nstrain remains moderate, only perfect dislocation\nloops, either of interstitial or vacancy types, with\n\u27e8a\u27e9= 1/3 \u27e811\u00af20\u27e9Burgers vector and with an habit\nplane close to the prismatic planes of the hcp struc-\nture, are observed.\nExperiments have shown that an increase of the\nH content leads to an increase of irradiation growth\nin Zr alloys under neutron irradiation [13].\nThis\nis consistent with the TEM observations of Tour-\nnadre et al. [16, 17] who demonstrated that the\nPreprint submitted to Acta Materialia\nSeptember 18, 2018\namount of \u27e8c\u27e9loops formed under proton irradia-\ntion is notably higher when pre-hydriding the zirco-\nnium alloys. This suggests that hydrogen promotes\nthe stability of these \u27e8c\u27e9loops compared to other\nvacancy clusters, an hypothesis also supported by\nthe calorimetry and X-ray di\ufb00raction experiments\nof Vizca\u00b4\u0131no et al. [9, 10]. These experiments showed\nthat a higher annealing temperature is needed in\nzirconium alloys exposed to a high irradiation dose,\nhence when \u27e8c\u27e9vacancy loops are present, for the\nH solubility limit to reach its unirradiated value.\nUnderstanding the potential trapping of hydro-\ngen by irradiation defects as well as the hydrogen\nin\ufb02uence on the stability of the di\ufb00erent vacancy\nclusters is therefore of prime importance for mod-\neling then the kinetic evolution of Zr alloys under\nirradiation and the associated macroscopic behav-\nior in presence of hydrogen. In this paper, we study\nthe elementary interactions between H and vacancy\nclusters, going from small clusters containing only\na few vacancies to large dislocation loops. Atom-\nistic simulations are a well-suited tool to address\nthis question, since they give information at defect\nsizes not accessible by other techniques. In partic-\nular, ab initio methods, having a high level of accu-\nracy and transferability, will be used all along this\nwork, as they appear unavoidable to study struc-\ntural defects in hcp Zr. A proper account of an-\ngular contributions is indeed necessary to correctly\ndescribe the stacking fault energies and the inter-\nactions between vacancies [18, 19, 20]. Previous ab\ninitio studies of hydrogen interaction with defects\nin zirconium mainly focused on plasticity and em-\nbrittlement [11, 12] or on single point-defect prop-\nerties [21, 22]. The work presented in this paper\nextends thus these studies by modeling H interac-\ntion with vacancy clusters of various sizes.\nThe paper is organized as follows. We \ufb01rst inves-\ntigate the interactions of hydrogen with small va-\ncancy clusters and with the di\ufb00erent stacking faults\nof interest.\nWe then model the evolution of the\nstacking fault energies with the H bulk concentra-\ntion. Finally, including this variation into analyt-\nical laws describing the formation energies of ex-\ntended vacancy clusters, we discuss the in\ufb02uence of\nH on the relative stability of vacancy dislocation\nloops in hcp Zr.\n2. Modeling method\n2.1. Ab initio simulations\nIn this work, all the ab initio calculations are\nbased on the Density Functional Theory (DFT),\nas implemented in the Pwscf code of the Quan-\ntum Espresso package [23]. Calculations are per-\nformed in the Generalized Gradient Approximation\nwith the exchange-correlation functional of Perdew,\nBurke and Ernzerhof [24]. Valence electrons are de-\nscribed with plane waves, using a cuto\ufb00of 28 Ry.\nThe pseudo-potential approach is used to describe\nthe electron-ion interaction. For Zr and H, ultrasoft\npseudo-potentials of Vanderbilt type have been cho-\nsen, including 4s and 4p electrons as semicore in the\ncase of Zr. The electronic density of state is broad-\nened with the Methfessel-Paxton function, with a\nbroadening of 0.3 eV. The integration is performed\non a regular grid of 14 \u00d7 14 \u00d7 8 k-points for the\nprimitive cell and an equivalent density of k-points\nfor larger supercells.\nAtomic relaxations are performed at constant\nvolume, using a conjugate gradient algorithm. For\ncalculations involving point defects, we use super-\ncells of 5 \u00d7 5 \u00d7 4 repeated unit cells (200 atoms)\nwith fully periodic boundary conditions. The elas-\ntic correction of Ref. [25] is applied, so as to remove\nthe spurious interaction energy between the defect\nand its periodic images. Appendix A demonstrates\nthat the obtained corrected energies are well con-\nverged with respect to the supercell size.\n2.2. Vibrations\nTo consider the contribution of vibrations in\nthe computed energies, we use the harmonic ap-\nproximation [26], which validity is assessed in\nAppendix B for both a single H atom and an H\ninteracting with a vacancy in an hcp Zr matrix.\nWithin this approximation, the vibrational free en-\nergy is\nF vib(T ) = kT\nX\ni\nln\n\u0014\n2 sinh\n\u0012\u210f\u03c9i\nkT\n\u0013\u0015\n,\n(1)\nwith the sum running over all vibration modes of\npulsation \u03c9i. We further make the assumption that\nthe vibration modes of the Zr atoms are not a\ufb00ected\nby the presence of hydrogen and consider only the\nthree vibration modes of the H atom. This is jus-\nti\ufb01ed by the small mass and the small radius of\nhydrogen compared to zirconium.\n2\nTo obtain the H vibration frequencies for a given\natomic con\ufb01guration, we rigidly displace the H\natom from its equilibrium position in six di\ufb00er-\nent directions, using four intermediate positions\nfor each direction with a maximal displacement of\n0.04 \u02daA. We then make a least-square \ufb01tting of the\ncalculated energy variations to obtain the 3\u00d73 Hes-\nsian matrix, from which the eigenfrequencies are\nobtained by diagonalization.\n2.3. Validation of the modeling approach\nOur choice of cuto\ufb00s, k-mesh, GGA functional\nfor the exchange correlation and pseudo-potential\nfor zirconium have already been validated both on\nthe hcp bulk and on vacancy cluster properties in\nprevious studies [19, 20, 25]. For H, the validation\nof the chosen pseudo-potential consists \ufb01rst in com-\nparing with experimental data the intrinsic prop-\nerties of the H2 molecule, such as the equilibrium\ndistance dH2, the vibrational frequency \u03bdH2 and the\ndissociation energy Ediss\nH2\n(see Table 1).\nThe dis-\nsociation energy includes both the binding and vi-\nbrational 1\n2h\u03bdH2 contributions. The vibrational fre-\nquency \u03bdH2 is calculated according to the harmonic\noscillator approximation:\n\u03bdH2 = 1\n2\u03c0\ns\n2k\n\u00b5\n(2)\nwhere k is the bond sti\ufb00ness obtained by ab initio\ncalculations and \u00b5 = mH/2 is the reduced mass of\nthe H2 molecule. The obtained quantities are all in\ngood agreement with the experimental ones, within\nless than 5%. This validates our choice of pseudo-\npotential for the calculations involving hydrogen.\nAs we are interested in the interplay between hy-\ndrogen solute and vacancies in an hcp zirconium\nmatrix, we also check the insertion of the H atom in\nsubstitutional position and in di\ufb00erent interstitial\nsites: the tetrahedral (T) and the octahedral (O)\nsites. Our DFT calculations show that the substi-\ntutional position for the H atom, corresponding ac-\ntually to an H atom inside a vacancy, is metastable\nand has a higher energy than the interstitial posi-\ntions. More details are given in the following section\nof this paper. For the interstitial sites, we calculate\nthe solution energy, de\ufb01ned as follows:\nEsol\nH = EZrH \u2212EZr \u22121\n2EH2\n(3)\nwhere EZr refers to the energy of the Zr bulk su-\npercell, EH2 to the energy of a H2 molecule (in-\ncluding the vibrational contribution) and EZrH to\nthe energy of the supercell containing an H atom\nlocated in the di\ufb00erent possible sites. The calcu-\nlated solution energy, without the contribution of\nH vibration in the Zr matrix, is lower for H in the\nT site than for H in the O site, with an energy\ndi\ufb00erence \u2206EO/T = 60 meV, in good agreement\nwith other ab initio calculations although variations\nare observed between di\ufb00erent studies (72 meV in\n[28], 80 meV in [12], 86 meV in [30], 40 meV in [29],\nand 61 meV in [22]).\nNeutron di\ufb00raction experi-\nments [31] have shown that the H atoms occupy\nthe T sites in hcp Zr. The correct interstitial site\nis thus predicted by ab initio calculations and our\nvalue of solution energy Esol\nH\nis very close to the\nexperimental one [27] (see Table 1).\nBut this is\nnot true anymore when including the H vibration\nenergy in the calculation. With this contribution,\nthe energy di\ufb00erence between the T and O inser-\ntion sites becomes \u2206EO/T = \u221226 meV at 0 K and\n\u2206EO/T = \u221247.meV at 600 K, thus corresponding\nto the O site being more stable than the T site,\nwith an increasing stability with the temperature.\nAs pointed by Christensen et al. [22] and shown in\nAppendix B.1, the energy di\ufb00erence between these\ntwo interstitial sites is too small to be able to con-\nclude on the preferential insertion site from ab ini-\ntio calculations without a much more elaborated\ntreatment of vibrations. Consequently, both T and\nO insertions sites are considered in the following.\nAlthough it may not be the most stable when vi-\nbrations of H are considered, we take the T insertion\nsite as the H reference state in the hcp Zr matrix\nfor the various calculations of binding energies.\nWe also verify that the insertion of H2 in Zr is\nnot favorable: it is unstable inside a T site, and\nmetastable inside an O site, but with a negative\nbinding energy corresponding to a strong repulsion\n(Eb\nH2 = \u22120.70 eV). This shows that hydrogen at\nthe molecular state does not need to be considered\nat low H concentrations.\n3. Hydrogen and small vacancy clusters\nWe \ufb01rst examine the interaction between H and\nsmall vacancy clusters, denoted as Vn, with n the\nnumber of vacancies. We de\ufb01ne the binding energy\nbetween H and the vacancy cluster as:\nEb\nHVn = EZrVn + EZrH \u2212EZrHVn \u2212EZr\n(4)\nwhere EZrVn, EZrH, EZrHVn and EZr are the ener-\ngies of the same simulation cell containing respec-\ntively the vacancy cluster, an H atom in T site,\n3\nTable 1: Properties of the H2 molecule (equilibrium distance dH2, vibration frequency \u03bdH2 and dissociation energy Ediss\nH2\n)\nand solution energies Esol\nH\nof H in the hcp Zr matrix. Values in parenthesis include zero point vibration energy of H in the Zr\nmatrix.\nAb initio\nExp. [27]\nThis work\nUdagawa [12]\nDomain [28]\nLumley [29]\ndH2 (\u02daA)\n0.75\n0.75\n0.76\n0.75\n0.74\n\u03bdH2 (THz)\n130.1\n\u2212\n134.4\n129.8\n130.8\nEdiss\nH2\n(eV)\n4.25\n4.50\n4.27\n4.53\n4.48\nEsol\nH (eV) T site\n\u22120.609 (\u22120.387)\n\u22120.52\n\u22120.604\n\u22120.60\n\u22120.66\nEsol\nH (eV) O site\n\u22120.549 (\u22120.414)\n\u22120.44\n\u22120.532\n\u22120.56\n-\nthe complex HVn and no defect. A positive value\nof Eb\nHVn indicates an attractive interaction between\nthe H atom and the vacancy cluster. For a given\ncluster Vn, di\ufb00erent possibilities exist to insert the\nH atom.\nIt can be located either in a substitu-\ntional or in an interstitial site (T and O, here), and\nmany of these sites can be found close to the va-\ncancy cluster. All of them should be considered,\nbut the amount of di\ufb00erent con\ufb01gurations to ex-\nplore strongly increases with the cluster size, mak-\ning an exhaustive study out of reach. An approach\nbased on the understanding of the elementary inter-\nactions between H and vacancies therefore appears\nnecessary, so as to reduce the con\ufb01guration space\nand to focus on important clusters.\n3.1. H-V interaction\nWe start by studying the interaction between H\nand a single vacancy. We \ufb01rst check the direct in-\nsertion of H into a vacancy. It is metastable, but\nwith a strongly repulsive interaction:\nwe obtain\nEb\nHV = \u22121.16 eV for this position, a value close\nto the results of Domain et al. [28]. So we do not\nconsider anymore this substitutional position in the\nfollowing.\nWe then examine both types of interstitial sites,\nT and O, for the insertion of hydrogen in the vicin-\nity of the vacancy. Di\ufb00erent con\ufb01gurations are in-\nvestigated, where the hydrogen atom is placed in\nthe successive neighboring shells of the vacancy.\nThe con\ufb01gurations corresponding to the di\ufb00erent\nnearest neighbor positions are displayed in Fig. 1.\nThe resulting binding energies between H and V are\nprovided as a function of their separation distance\nin Fig. 2. The maximal binding energy is 0.21 eV\nwithout H vibration and 0.24 eV with the inclusion\nof zero point energy, in good agreement with the ex-\nperimental value 0.28 \u00b1 0.06 eV obtained by Lewis\n[7] from a kinetic modeling of his recovery exper-\niments performed after deuterium implantation in\nirradiated zirconium.\na,c\nb\nd\ne\nf\ng\na'\nc'\nb'\nd'\nT site neighboring shells\nO site neighboring shells\nCon\ufb01guration a\nCon\ufb01guration b\nCon\ufb01guration c\nCon\ufb01guration a\u2019\nFigure 1: Projection in the basal plane of the di\ufb00erent H-\nV pairs investigated. The successive neighbor shells of an H\natom lying either in a T or O interstitial site are respectively\ndenoted a to g and a\u2019 to d\u2019. The white spheres represent the\nZr atoms at z = 0, the grey spheres the Zr atoms at z = c/2\nand the squares symbolize the vacancy. The purple spheres\nrepresent the H atom in an O site at z = c/4, the green\nspheres the H atom in a T site at z = c/8 (at z = \u2212c/8 for\nthe small symbol used in con\ufb01guration c).\nWe \ufb01rst analyse the case where H is in a T site.\nThe two non-equivalent \ufb01rst neighbor positions lead\nto di\ufb00erent binding energies: the value for the con-\n\ufb01guration b is twice the one of the con\ufb01guration\na. Accounting for the directional aspect of the H-V\ninteraction therefore appears to be important. The\nc/a ratio of the hcp Zr structure is 1.601 in our\n4\n\u22120.1\n 0\n 0.1\n 0.2\n 2\n 4\n 6\nT site\nO site\na\nb\nc\nd\ne\nf\ng\na\u2019\nb\u2019\nc\u2019\nd\u2019\n\u2206EO/T\nEb\nHV  (eV)\ndistance  (\u00c5)\n(a) without H vibration\n\u22120.1\n 0\n 0.1\n 0.2\n 2\n 4\n 6\n600 K\n0 K\nT\nO\na\nb\nc\nd\ne\nf\ng\na\u2019\nb\u2019\nc\u2019\nd\u2019\n\u2206EO/T(600K)\nEb\nHV  (eV)\ndistance  (\u00c5)\n(b) with H vibration\nFigure 2: Binding energy between H and a vacancy versus\ntheir separation distance, (a) without and (b) with H vibra-\ntion free energy. Both O and T insertion sites are considered\nfor H. Label sites a to g and a\u2019 to d\u2019 are detailed in Fig. 1.\nab initio approach [19]: this is a lower value than\nthe ideal one (\np\n8/3). Imposing an ideal c/a ratio,\nwe calculate again these two binding energies. We\nobtain in that case Eb\nHV = 0.04 eV for the con\ufb01gu-\nration a and Eb\nHV = 0.20 eV for the con\ufb01guration\nb. The two interactions remain di\ufb00erent even when\napplying an ideal c/a ratio. The in-plane interac-\ntion (con\ufb01guration b) is rather una\ufb00ected by the\nc/a ratio, while the out-of-plane interaction of con-\n\ufb01guration a is very sensitive to its value. It goes\nfrom attractive to zero when increasing c/a: con-\nsequently, we expect this binding energy between\nH and V to be strongly a\ufb00ected when applying a\nstrain. Con\ufb01guration c shows an attractive binding\nof slightly larger magnitude than the one of con\ufb01g-\nuration a. For larger distances (con\ufb01gurations d to\ng), the binding energy rapidly goes to zero, show-\ning that long range interactions do not exist in this\ncase.\nWe \ufb01nally look at the insertion of H into the O\nsite. Its binding energy with the vacancy is attrac-\ntive only for the nearest neighbor con\ufb01guration, de-\nnoted a\u2019 here. Its magnitude is close to the mag-\nnitude of the most attractive con\ufb01guration for H\nin T site (con\ufb01guration b). This is surprising, as\nin pure zirconium, H is located in the tetrahedral\nsites: the presence of the vacancy hence increases\nthe stability of the octahedral site. This is an addi-\ntional reason to always consider this insertion site\nin the rest of our study. For the con\ufb01gurations b\u2019 to\nd\u2019, the binding energy decreases to reach the energy\ndi\ufb00erence between O and T sites in bulk Zr, thus\nindicating that H does not interact anymore with\nthe vacancy.\nThe main change caused by the vibrational free\nenergy is a constant shift of the binding energies for\nthe con\ufb01gurations with an H atom in an O site (Fig.\n2b). This merely corresponds to the increase of sta-\nbility observed for the O site in bulk Zr. Apart from\nthis constant shift, H vibrations slightly modify the\ninteraction between the H and the vacancy when\nthey are \ufb01rst nearest neighbours: it increases the\nbinding when the H atom is in a T site (con\ufb01gura-\ntions a and b) and decreases it for the O site (con-\n\ufb01guration a\u2019). When the H atom and the vacancy\nare separated by a larger distance, the H vibrations\ndoes not change their binding.\nThis analysis of the H-V interaction suggests that\nonly the very short ranged interactions need to be\nconsidered for the stability of the complexes be-\ntween hydrogen and vacancies. This point is dis-\ncussed in the following.\n3.2. Position of H close to a vacancy cluster\nVacancies are clustering under irradiation in zir-\nconium alloys, and we have shown that H and V\ninteract at very short distances. In order to under-\nstand where the H atom is located with respect to\na preexisting vacancy cluster, we consider now the\naccumulation of vacancies around a single H atom.\nTo this aim, we calculate the binding energies, as\nde\ufb01ned in Eq. 4, of H with clusters of n vacancies,\nwhere n vacancies surround the H atom in near-\nest neighbor positions, i.e. vacancy positions corre-\nsponding to con\ufb01gurations a, b and a\u2019 for the H-V\npair (Fig. 1). Again, both T and O interstitial sites\nare considered.\nFor each number n of vacancies,\nthe di\ufb00erent possible con\ufb01gurations are tested (see\n5\nTab. 2), and the most stable one is retained. The\ncontribution of H vibrations to the binding energy\nis considered only for these most stable clusters.\nThe resulting binding energies versus the number\nof vacancies surrounding the H atom are displayed\nin Fig. 3. H vibrations generally increase the sta-\nbility of the HVn clusters.\nTable 2: Di\ufb00erent possible con\ufb01gurations of the H-Vn com-\nplexes involving n nearest neighbor bonds between H and\nV. The H atom is located either in T or O site. Values in\nparenthesis include zero point vibration energy of H.\nT site\nn = 2\n0.20 eV\nunstable\n(0.25 eV)\nn = 3\n0.12 eV\nunstable\n(0.21 eV)\nn = 4\nunstable\nO site\nn = 2\n0.42 eV\n0.36 eV\n0.37 eV\n(0.46 eV)\nn = 3\n0.47 eV\n0.39 eV\n0.44 eV\n(0.52 eV)\nn = 4\n0.17 eV\n0.15 eV\n(0.25 eV)\nn = 5\n\u22120.08 eV\n(\u22120.005 eV)\nn = 6\nunstable\nFor H in T site, the binding energy decreases with\nthe number n of nearest neighbor vacancies, except\nat high enough temperature when the H vibrations\nare considered. The nearest neighbor interactions\nare non additive and the highest binding energy is\nobtained for the HV complex. In addition, some\ncon\ufb01gurations, involving 2, 3 and 4 nearest neigh-\nbor vacancies, are unstable. This suggests a more\nfavorable insertion of the H atom at the boundary\nof a vacancy cluster, rather than inside the cluster.\nThe situation is quite di\ufb00erent when H is inserted\ninto the O site.\nUp to 3 vacancies, the binding\nenergy is partially additive: adding a new nearest\nneighbor vacancy to the HVn cluster stabilizes it a\nbit more. For n \u22653, the binding energy rapidly\ndecreases, becoming repulsive for n = 5. For n = 6,\n 0\n 0.2\n 0.4\n 0.6\n 1\n 2\n 3\n 4\n 5\nT site\nO site\nEb\nHVn  (eV)\nnumber of nearest neighbor vacancies\nT site\nO site\n(a) without H vibration\n 0\n 0.2\n 0.4\n 0.6\n 1\n 2\n 3\n 4\n 5\n600 K\n0 K\nT\nO\nEb\nHVn  (eV)\nnumber of nearest neighbor vacancies\n(b) with H vibration\nFigure 3:\nBinding energies between H and an increasing\nnumber of vacancies in nearest neighbor position, (a) with-\nout and (b) with H vibration free energy.\nThe H atom is\nlocated either in a T or O site.\n6\nthe cluster corresponds to an H atom inside a small\ncavity. As a consequence, the HV6 cluster is unsta-\nble, with negative frequencies for the H vibration.\nAgain, this suggests that the insertion inside a va-\ncancy cluster is not favorable.\nInterestingly, the\ncon\ufb01gurations where H occupies an O site with 2\nor 3 \ufb01rst nearest neighbor vacancies lead to higher\nbinding energies than any con\ufb01guration where H is\nin a T site. This was not expected since H is lo-\ncated in the T site in pure bulk hcp zirconium. A\nsimilar behavior for H close to vacancy clusters has\nalready been observed recently in bcc iron [32].\n3.3. Interaction with small vacancy clusters\nIn light of the two preceding sections, a very sim-\nple approach can be proposed so as to reduce the\ncon\ufb01guration space to explore for \ufb01nding the most\nstable insertion sites of H close to a vacancy cluster.\nWe have identi\ufb01ed three preferential insertion sites\nfor H : T site with one vacancy in nearest neighbor\nposition, and O site with 2 or 3 nearest neighbor\nvacancies.\nOnly those sites will be considered in\nthe rest of our study.\nThe magnitude of the H-\nV interaction rapidly decreases with the distance:\nwe therefore suppose that only the nearest neigh-\nbor interactions are important, and that the longer\nranged terms (dHV > 3.5 \u02daA) do not in\ufb02uence the\nstability of H close to a vacancy cluster.\nConse-\nquently, we assume that the binding energy between\nH and the vacancy cluster mainly depends on the\nnature and the number of nearest neighbor interac-\ntions between H and the vacancies. Only the con\ufb01g-\nurations that maximize the binding energy accord-\ning to this assumption are considered and relaxed\nwith ab initio calculations. We \ufb01rst check the va-\nlidity of this assumption, and we investigate then\nthe interaction of H with vacancy clusters of di\ufb00er-\nent types. As H vibrations do not strongly modify\nthe H interaction with vacancy clusters, we do not\ninclude them in our calculation of binding energies\nin this section.\n3.3.1. Validation of the approach\nWe test the validity of this approach on two dif-\nferent clusters containing four vacancies: one sit-\nting in the basal plane and the other one sitting\nin the prismatic (10\u00af10) plane. These two clusters\nare the most stable plane clusters of 4 vacancies\nin hcp Zr [20]. We compute the binding energy of\nthese clusters with H for di\ufb00erent positions of the H\natom involving p \ufb01rst nearest neighbor interactions\n(1 \u2264p \u22643) and compare with the binding energy\nof H with a cluster containing only p vacancies, and\nwhere the same p interactions are involved. T and\nO sites are explored, and the calculated binding en-\nergies are displayed in Table 3. Calculations for this\nvalidation test are performed in a smaller 4 \u00d7 4 \u00d7 3\nsupercell containing 96 lattice sites.\nTable 3: Comparison of binding energy of H with V4 clusters\nwhere p nearest neighbor H-V interactions are present, with\nthe binding energy of H with Vp clusters where the same p\nnearest neighbor H-V interactions are present. Both T and\nO insertion sites are explored.\nT site\np\n1\n2\n3\nBasal\n0.24 eV\n0.14 eV\n0.06 eV\n0.22 eV\n0.20 eV\n0.10 eV\nPrismatic\n0.29 eV\nunstable\nunstable\n0.22 eV\nunstable\nunstable\nO site\np\n1\n2\n3\nBasal\n0.17 eV\n0.41 eV\n0.40 eV\n0.19 eV\n0.42 eV\n0.39 eV\nPrismatic\n0.21 eV\n0.37 eV\n0.45 eV\n0.19 eV\n0.37 eV\n0.44 eV\nWhen H is inserted into a T site, assuming that\nthe number and the nature of nearest neighbor va-\ncancies surrounding the H atom determines the sta-\nbility of the cluster provides a rather good approxi-\n7\nmation. First, the instabilities are well predicted by\nthis simple approach (Tab. 3), and the \ufb01nal con\ufb01gu-\nrations have the same structure after atomic relax-\nations. Second, the di\ufb00erences between Eb\nHV4 and\nthe corresponding Eb\nHVp are smaller than 0.07 eV.\nFor H in O site, the agreement between Eb\nHV4 and\nEb\nHVp is even better (Tab. 3). The obtained val-\nues for the clusters HV4 and HVp with p near-\nest neighbor interactions are very close, within less\nthan 0.02 eV in this case.\nThis study con\ufb01rms that vacancies farther than\nnearest neighbor positions have only a weak in\ufb02u-\nence on the binding energy value.\nThis latter is\nmainly \ufb01xed by the number and the position of va-\ncancies that are nearest neighbors of the H atom.\nAgain, we note on the HV4 clusters that the bind-\ning energies for H in O site with p = 2 or 3 are\nhigher than the binding energies for H in T site.\n3.3.2. In\ufb02uence of H on small clusters\nWe \ufb01nally examine the stability properties of the\nHVn clusters for 2 \u2264n \u22647. We separate vacancy\nclusters into three di\ufb00erent groups :\n\u2022 basal clusters, where all vacancies are lying in\nthe same basal plane. These clusters can be\nseen as precursors of \u27e8c\u27e9loops.\n\u2022 prismatic clusters, where all vacancies are lying\nin the same prismatic corrugated plane. These\nclusters can be seen as precursors of \u27e8a\u27e9loops.\n\u2022 3D clusters (precursors of cavities).\nIn the absence of hydrogen, we have shown in\na previous study [20] that the 3D small vacancy\nclusters are more stable than the plane vacancy\nclusters, until 7 vacancies. As stated in our intro-\nduction, under irradiation, the amount of \u27e8c\u27e9va-\ncancy loops increases when zirconium samples are\npre-hydrided [16, 17]. This could suggest that H\nin solid solution a\ufb00ects the relative stability of the\ndi\ufb00erent types of vacancy clusters.\nStudying the\nbinding properties of H with small Vn clusters of\ndi\ufb00erent types should give some insight about the\nvalidity of such an assumption.\nWe proceed as follows. The chosen vacancy clus-\nters Vn, with n = 2 to 7, correspond to the most\nstable ones, previously found in pure Zr [20]. For\neach cluster, the previously identi\ufb01ed insertion sites\nfor H are tested. The most stable one is retained\nand we plot the binding energies versus the clus-\nter size for each group of cluster (see Fig. 4). The\n 0.36\n 0.4\n 0.44\n 0.48\n 2\n 3\n 4\n 5\n 6\n 7\nEb\nHVn  (eV)\nnumber of vacancies\nbasal\nprismatic\n3D\nFigure 4: Maximum binding energies of H with vacancy clus-\nters containing between 2 and 7 vacancies. Three types of\nclusters are considered: basal, prismatic and 3D clusters.\nresulting binding energies are all positive, and are\nincluded in a range from 0.35 to 0.48 eV.\nNo clear preference is seen for any type of va-\ncancy cluster. This is not surprising, since, as es-\ntablished above, H mainly interacts with its \ufb01rst\nnearest neighbor vacancies. H therefore does not\nhave any discriminating e\ufb00ect on the small vacancy\nclusters.\n4. Hydrogen interaction with stacking faults\nIn hcp Zr, vacancy clustering under irradiation\nleads to planar extended defects: \u27e8a\u27e9dislocation\nloops, lying in planes close to the prismatic planes,\nand \u27e8c\u27e9component loops, lying in the basal planes.\nCavities are hardly ever observed, in agreement\nwith their lower stability [20], and will not be con-\nsidered in the following. The \u27e8a\u27e9loops are the most\nstable defects [20]. They are faulted at small sizes\nand perfect at large sizes.\nThe \u27e8c\u27e9loops on the\nother hand are always faulted, with an extrinsic\nbasal fault at small sizes and an intrinsic I1 fault\nat large size. These \u27e8c\u27e9loops are believed to play a\ncrucial role in the breakaway growth at high irradi-\nation dose.\nIn order to determine the in\ufb02uence of H solutes\non vacancy dislocation loops, we perform a careful\nstudy of their binding energies with the di\ufb00erent\nstacking faults involved in the extended defects of\ninterest. We assume that this interaction with the\nstacking fault is the main H contribution on the\nenergetics of vacancy loops.\n8\n4.1. Prismatic stacking fault\nWhen removing a vacancy platelet in a corru-\ngated {10\u00af10} plane, a prismatic stacking fault is\nformed [20]. This stacking fault is associated with\nthe formation of faulted \u27e8a\u27e9loops of Burgers vec-\ntor \u20d7b = 1/2 \u27e810\u00af10\u27e9. The unfaulting of the vacancy\nloop occurs by a 1/6 \u27e81\u00af210\u27e9shearing of the fault\nplane, leading to a perfect \u27e8a\u27e9loop of Burgers vector\n\u20d7b = 1/3 \u27e82\u00af1\u00af10\u27e9. We investigate here the interaction\nof an H atom with this intrinsic stacking fault.\nCalculations are performed in a simulation box\nduplicated 4 times in the [10\u00af10] direction, 2 times\nin the [0001] direction, and 4 times in the [1\u00af210]\ndirection, i.e. in the direction perpendicular to the\nfault plane. This corresponds to a total of 128 Zr\natoms. The use of this simulation box to model a\nprismatic stacking fault has been already validated\n[19]. It is also large enough to model an isolated\nH atom: with such a simulation box, the energy\ndi\ufb00erence between the O and T insertion sites is\n\u2206EO/T = 57 meV in the perfect crystal, in good\nagreement with the value obtained in conventional\nsupercells (Tab. 1).\nDi\ufb00erent insertion positions for the H atom, ly-\ning either in a T or an O interstitial site at vary-\ning distances from the stacking fault, are considered\n(Fig. 5a). Ab initio calculations lead to a binding\nof the hydrogen with the prismatic stacking fault\n(Fig. 5b and c), with a maximal binding energy\nof 0.1 eV. The most attractive interaction is ob-\ntained when the H atom is one plane apart from the\nstacking fault into a T site. This attractive inter-\naction is in agreement with previous ab initio stud-\nies, although our maximal binding energy is slightly\nlower than the one obtained by Domain et al. [11]\n(0.14 eV) or by Udagawa et al. [12] (0.16 eV). The\nbinding energy rapidly decays when the distance\nbetween H and the stacking fault increases: it goes\nto zero for the T site and to \u2212\u2206EO/T for the O\nsite. The only octahedral site leading to an attrac-\ntive interaction with the stacking fault is the closest\nto the fault plane. This octahedral site did not ex-\nist before the introduction of the stacking fault and\nis created by the shearing of the lattice [33]. The\nposition corresponding exactly to the octahedron\nposition in this site is unstable. For each such oc-\ntahedral site, two stable positions inside each half-\noctahedron exist, where the H atom is linked to \ufb01ve\nZr \ufb01rst nearest neighbors (Fig. 5a). For all other\noctahedral sites, as well as all the tetrahedral sites,\nthe relaxed position of the H atom is close to the\n(a) H insertion sites\n\u22120.1\n 0\n 0.1\n 0\n 2\n 4\n 6\n 8\n 10\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\n\u2206EO/T\nT\nO\n(b) Binding energy without H vibration\n\u22120.1\n 0\n 0.1\n 0\n 2\n 4\n 6\n 8\n 10\n600 K 0 K\nT\nO\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\n\u2206EO/T(600 K)\n(c) Binding energy with H vibration\nFigure 5: Interaction between H and a prismatic stacking\nfault. (a) Projected positions in the [1\u00af210] plane of the in-\nvestigated T and O sites for the insertion of H in the vicin-\nity of the stacking fault (vertical dashed line). Zr atoms are\nshown by white and grey circles, depending on their position\nalong the [1\u00af210] direction in the faulted crystal. (b) and (c)\nBinding energies Eb\nH\u2212\u03b3 between H and the prismatic stack-\ning fault, versus their initial separation distance, calculated\n(b) without and (c) with H vibration free energy.\n9\nideal position.\nThe same energy shift as in the bulk, correspond-\ning to a stabilization by vibrations of the O sites\ncompared to the T sites, is observed in presence of\nthe stacking fault (Fig. 5c). Apart from this energy\nshift, the H vibrations decrease the H interaction\nwith the stacking fault for the O site, whereas it\nincreases this interaction for the T sites.\n4.2. Basal stacking faults\nCondensation of vacancies in a basal plane re-\nsults in the creation of a dislocation loop of Burg-\ners vector \u20d7b1 = 1/2 [0001]. This corresponds to the\nremoval of a platelet of one atomic layer in the per-\nfect stacking BABABA of basal planes and leads\nto the formation of a highly energetic stacking se-\nquence, BAB.BABA. The stacking then evolves so\nas to lower the energy of the vacancy loop by cre-\nating one of the two following stacking faults [34]:\nan extrinsic fault E, with a BABCABA stacking\nsequence preserving the same Burgers vector, or an\nintrinsic fault I1, with a BABCBCB stacking se-\nquence leading to a dislocation loop with Burgers\nvector \u20d7b2 = 1/6 \u27e820\u00af23\u27e9. We investigate here the in-\nteraction of H with these two basal stacking faults,\nwhich gives insights on the in\ufb02uence of this impu-\nrity on the stability of \u27e8c\u27e9loops.\nAb initio calculations are performed on simula-\ntion boxes duplicated 3 times in the [2\u00af1\u00af10] direc-\ntion and 3 times in the [\u00af12\u00af10] direction. To build\nthe basal stacking faults, one needs to remove one\natomic layer normal to the [0001] direction, thus\nleading to a total of 2nz \u22121 atomic layers, if nz\nis the number of duplicated unit cells in the [0001]\ndirection.\nOur simulations are carried out using\nnz = 6. This box size, which corresponds to a total\nof 99 Zr atoms, has already been validated for both\nbasal stacking faults in a previous study [20], and\nis also large enough to simulate an isolated H atom.\nThe binding energy of H to the basal stacking fault\nthen reads:\nEb\nH\u2212\u03b3\n=\nE2nz\u22121\nZrH\n+ E2nz\u22121\nZr+\u03b3\n\u2212E2nz\u22121\nZrH+\u03b3 \u2212E2nz\u22121\nZr\n.\n(5)\nE2nz\u22121\nZrH\nis not accessible directly, as a periodic simu-\nlation box with 2nz \u22121 atomic layers automatically\nincludes a stacking fault. We thus make the follow-\ning approximation:\nE2nz\u22121\nZrH\n\u2212E2nz\u22121\nZr\n\u2243\nE2nz\nZrH \u2212E2nz\nZr ,\n(6)\nwhich allows us to obtain the binding energies of H\nwith the basal stacking faults.\nAs for the prismatic fault, our ab initio calcula-\ntions lead to a binding of H with basal faults, but\nwith a higher maximal value of 0.16 eV for the two\nbasal faults. The strongest bindings are obtained\nwhen H is close to the stacking fault. This is true\nfor both T and O sites, and for both I1 and E faults.\nFor the I1 fault, the T sites are always more favor-\nable than the O sites to insert the H atom. A higher\nnumber of attractive positions in the vicinity of the\nstacking fault are found for the insertion in T sites.\nThe binding energies rapidly decrease with the dis-\ntance, and become null or equal to \u2212\u2206EO/T for\ndistances larger than 6 \u02daA. For the E fault, the most\nattractive interaction is found for the O site.\nA\nlargest number of attractive positions can be found\nin T sites than in O sites. Finally, interactions of\nH are longer ranged with the E fault than with the\nI1 one, as non-interacting behaviors are recovered\nonly for separation distances larger than 9 \u02daA. This\nmight be related to the fact that in the E stacking\nsequence, more atomic layers have an environment\ndi\ufb00erent from the hcp one than in the I1 stacking\nsequence. The e\ufb00ect of the H vibration is the same\nas for the prismatic stacking fault, i.e. mainly a\nshift of the binding energies for the O sites.\n5. Hydrogen and vacancy loops\nTo simulate the properties of extended defects\nsuch as dislocation loops, one cannot rely directly\non ab initio methods, because of the limited num-\nber of atoms, only a few hundreds, which can be\nmodeled with such simulations. In a previous study\n[20], we adopted a continuous description of large\nvacancy clusters. For dislocation loops, the clus-\nter energies were obtained through a line tension\nmodel, incorporating the stacking fault energy for\nfaulted loops. After validating the approach with\nlarge scale atomistic simulations relying on an em-\npirical potential, the main parameters of the model\nwere calibrated on ab initio data.\nThe in\ufb02uence of hydrogen on the stability of dis-\nlocation loops can be introduced in a very simple\nway within this approach, by considering the mod-\ni\ufb01cation of the stacking fault energies arising from\nhydrogen segregation [35]. Here, we \ufb01rst model the\nsegregation of hydrogen on the di\ufb00erent stacking\nfaults, as well as the evolution of the stacking fault\nenergies with the H content. We then discuss the\n10\n(a) H insertion sites (I1 fault)\n(b) H insertion sites (E fault)\n 0\n 0.1\n 0.2\n 0\n 2\n 4\n 6\n 8\n 10\n\u2206EO/T\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\nT\nO\n(c) Binding energy without H vibration (I1 fault)\n 0\n 0.1\n 0.2\n 0\n 2\n 4\n 6\n 8\n 10\n\u2206EO/T\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\nT\nO\n(d) Binding energy without H vibration (E fault)\n 0\n 0.1\n 0.2\n 0\n 2\n 4\n 6\n 8\n 10\n600 K 0 K\nT\nO\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\n\u2206EO/T(600 K)\n(e) Binding energy with H vibration (I1 fault)\n 0\n 0.1\n 0.2\n 0\n 2\n 4\n 6\n 8\n 10\n600 K 0 K\nT\nO\nEb\nH\u2212\u03b3  (eV)\ndistance (\u00c5)\n\u2206EO/T(600 K)\n(f) Binding energy with H vibration (E fault)\nFigure 6: Interaction between an H atom and basal stacking faults. The di\ufb00erent T and O interstitial sites, where an H atom\nhas been inserted, are sketched in (a) for the I1 and in (b) for the E basal stacking fault. The corresponding binding energies\nEb\nH\u2212\u03b3 are respectively shown in (c) and (d) without H vibration free energy, and in (e) and (f) with H vibration free energy.\ne\ufb00ect of H on the stability of the di\ufb00erent vacancy\nloops formed under irradiation in hcp Zr.\n5.1. Segregation pro\ufb01les\nFollowing common approaches for solute segrega-\ntion at a surface or an interface [36, 37], we make\nuse of the previously calculated binding energies\n11\nEb\nH\u2212\u03b3 to model the equilibrium concentration pro-\n\ufb01les of H in the vicinity of each stacking fault.\nWe consider a bicrystal consisted of two semi in-\n\ufb01nite bulk spaces separated by an interface corre-\nsponding to the stacking fault. The di\ufb00erent inser-\ntion sites for H, either T or O sites, are sitting in\nplanes p located at di\ufb00erent distances dp from the\nstacking fault. We assume that the system is large\nenough so that each side of the stacking fault acts\nas a reservoir for hydrogen. The hydrogen chemi-\ncal potential \u00b5H is then \ufb01xed at equilibrium. We\nassume that the concentration cp \u2208[0, 1] of each\nplane is homogeneous at equilibrium and that the\ncon\ufb01gurational entropy is equal to the one of an\nideal solid solution. We neglect the interaction be-\ntween H atoms and only the H interaction with the\nstacking fault is considered, a valid assumption for\nnot too concentrated solid solutions.\nMinimizing\nthe grand potential of the system with respect to\nthe average H occupation cp of each plane p, the\nequilibrium distribution obey the equations\nEsol\nH \u2212Eb\nH\u2212\u03b3(dp) + kT ln\ncp\n1 \u2212cp\n=\n\u00b5H,\n(7)\nwhere Esol\nH\nis the hydrogen solution energy in the\nperfect zirconium matrix for the T insertion sites.\nThese equations are valid for any plane of the\nbicrystal, as each plane, de\ufb01ned by its distance dp\nto the fault plane, has the same density of inser-\ntion sites. This is true both for the prismatic (Fig.\n5a) and the basal faults (Fig. 6a and b), the inser-\ntion sites being either of the T or of the O type.\nFar from the fault plane, concentrations and ener-\ngies converge to their bulk values: cp = c0\nT and\nEb\nH\u2212\u03b3(d\u221e) = 0 for planes corresponding to T inser-\ntion sites, cp = c0\nO and Eb\nH\u2212\u03b3(d\u221e) = \u2212\u2206E0/T for\nO planes. This allows us to eliminate \u00b5H in Eq. 7\nand to obtain for each plane p:\ncp\n1 \u2212cp\n=\nc0\nT\n1 \u2212c0\nT\nexp\n \nEb\nH\u2212\u03b3(dp)\nkT\n!\n.\n(8)\nThere are two interstitial site of T type and one of\nO type per Zr atom. Their bulk concentrations is\ntherefore linked to the nominal hydrogen concen-\ntration xH trough the equations:\nc0\nT =\n1\n2 + exp\n\u0010\n\u2212\u2206EO/T\nkT\n\u0011xH,\n(9)\nc0\nO =\nexp\n\u0010\n\u2212\u2206EO/T\nkT\n\u0011\n2 + exp\n\u0010\n\u2212\u2206EO/T\nkT\n\u0011xH,\n(10)\nin the low concentration regime (xH \u226a1).\nWe\n\ufb01nally obtain the concentration pro\ufb01le as a function\nof the nominal concentration:\ncp =\nxH exp\n\u0012\nEb\nH\u2212\u03b3(dp)\nkT\n\u0013\n2 + exp\n\u0010\n\u2212\u2206EO/T\nkT\n\u0011\n+ xH exp\n\u0010 Eb\nH\u2212\u03b3(dp)\nkT\n\u0011.\n(11)\n 0\n 0.02\n 0.04\n 0.06\n 0.08\n 0\n 2\n 4\n 6\n 8\n 10\ncp  \ndistance (\u00c5)\nT\nO\nI1\nE\nPrism\n(a) without H vibration\n 0\n 0.02\n 0.04\n 0.06\n 0.08\n 0\n 2\n 4\n 6\n 8\n 10\ncp  \ndistance (\u00c5)\n 0\n 0.1\n 0.2\n 0\n 2\n 4\n(b) with H vibration\nFigure 7: Concentration pro\ufb01les of hydrogen at T = 600 K\nand for a nominal concentration xH = 0.01, plotted as a\nfunction of the separation distance from the prismatic, basal\nI1 and basal E stacking faults, (a) neglecting or (b) consid-\nering H vibration free energy. Small triangles refer to the T\nsites and small diamonds to the O sites. The continuous and\ndashed horizontal lines correspond to the concentrations of\nthe, respectively, T and O sites in the bulk.\nFig. 7 displays the concentrations cp for the pris-\nmatic, basal I1 and basal E faults as a function\nof the separation distance from the stacking fault.\nThe segregation pro\ufb01les are given for T = 600 K,\nthe service temperature of the pressurized water re-\nactors, and for a bulk nominal concentration xH =\n12\n0.01.\nThis corresponds to an upper limit of the\nH content that can be reached, as the solubility\nlimit, at this temperature, is 0.008 in pure Zr [38]\nand 0.009 in Zircaloy-4 [9], a zirconium alloy cur-\nrently used in the nuclear industry. All faults lead\nto a strong increase of the H concentration in their\nvicinity. As these faults correspond to the ones met\nin vacancy loops, this agrees with experiments sug-\ngesting a trapping of H by these loops [7, 9, 10]. We\nalso notice that the basal faults concentrate more H\natoms than the prismatic fault, in particular the E\nfault which can capture hydrogen up to the fourth\nlayer from the stacking faults. The H trapping by\nbasal faults is therefore stronger, explaining why\nannealing at higher temperatures is needed to re-\ncover the unirradiated solubility limits in Zr sam-\nples where vacancy basal loops have been formed\nafter an irradiation at a high dose [10].\nH vibrations do not change these general trends\nbetween the di\ufb00erent stacking faults, although they\nmodify the segregation pro\ufb01les.\nThe inclusion of\nthe vibration free energy in the binding energies\nleads to an increase of the enrichment for the O\nsites and a decrease for the T sites (Fig. 7).\n5.2. Variation of stacking fault energies\nAs \ufb01rst pointed out by Suzuki [39], solute seg-\nregation modi\ufb01es the stacking fault energies. We\nthus need to deduce from our segregation model,\nthe evolution of the basal and prismatic fault ener-\ngies in the presence of hydrogen. As the system is\nopen with respect to H, we de\ufb01ne the stacking fault\nenergy \u03b3({cp}) directly from the grand potential:\n\u03b3({cp}) = \u2126f({cp}) \u2212\u2126i(xH)\nS0\n,\n(12)\nwhere S0 is the area of the dividing interface for\none insertion site per plane: S0 = a2\u221a\n3/2 for the\nbasal faults and S0 = ac/2 for the prismatic fault.\n\u2126f and \u2126i are the grand potentials of respectively\nthe faulted crystal with the segregation pro\ufb01le and\nthe perfect crystal with the homogeneous solid solu-\ntion. The thermodynamic model used in the previ-\nous section to obtain the segregation pro\ufb01les leads\nto the following expressions:\n\u2126i(xH) =\nX\np,T\n\b\nc0\nT\n\u0002\nEsol\nH \u2212\u00b5H\n\u0003\n+kT\n\u0002\nc0\nT ln (c0\nT) + (1 \u2212c0\nT) ln (1 \u2212c0\nT)\n\u0003\t\n+\nX\np,O\n\b\nc0\nO\nh\nEsol\nH + \u2206EO/T \u2212\u00b5H\ni\n+ kT\n\u0002\nc0\nO ln (c0\nO) + (1 \u2212c0\nO) ln (1 \u2212c0\nO)\n\u0003 \t\n,\n(13)\n\u2126f({cp}) =S0\u03b30 +\nX\np\ncp\n\u0002\nEsol\nH \u2212Eb\nH\u2212\u03b3(dp) \u2212\u00b5H\n\u0003\n+\nX\np\nkT [cp ln cp + (1 \u2212cp) ln(1 \u2212cp)] ,\n(14)\nwith \u03b30 the stacking fault energy without hydrogen.\nThe summation over the planes in Eq. 13 has been\npartitioned between the planes containing T and\nO interstitial sites. Inserting Eqs. 13 and 14 into\nEq. 12 and eliminating the chemical potential \u00b5H\nusing Eq. 7, we obtain the stacking fault energy in\npresence of the segregation pro\ufb01le:\n\u03b3({cp}) =\u03b30 + kT\nS0\nX\np,T\nln\n\u0012 1 \u2212cp\n1 \u2212c0\nT\n\u0013\n+ kT\nS0\nX\np,O\nln\n\u0012 1 \u2212cp\n1 \u2212c0\nO\n\u0013\n.\n(15)\nThe same result is obtained using the macroscopic\nthermodynamic approach summarized by Hirth\n[40].\nUsing Eq. 15, we show in Fig. 8 the evolution\nat T = 600 K of the two basal and the prismatic\nstacking faults, when the nominal hydrogen content\nvaries in a concentration range xH < 0.01. All the\nstacking fault energies decrease when the hydrogen\ncontent increases. The decay is small for the prism\nfault, slightly higher for the I1 fault and fast for the\nE fault. The consideration of H vibration only af-\nfects the E fault: it leads to a stronger decrease of\nthe fault energy with the H content. In the range\nof nominal concentrations allowed for hydrogen at\nthis temperature, the relative order of the di\ufb00er-\nent fault energies is not modi\ufb01ed, except close to\nthe solubility limit where the basal E and the pris-\nmatic stacking faults have almost the same energy,\nwith the basal E becoming slightly most stable with\nthe inclusion of vibration free energies in the ther-\nmodynamic modeling.\n13\n 0\n 100\n 200\n 300\n 0\n 0.002\n 0.004\n 0.006\n 0.008\n 0.01\n\u03b3   (mJ/m2)  \nxH\n\u03b3E\n\u03b3I1\n\u03b3101\u22120\nFigure 8: Evolution of the basal and prismatic stacking fault\nenergies with the bulk concentration xH of hydrogen calcu-\nlated at 600 K. The thick dashed lines and the thin con-\ntinuous lines correspond to the data respectively with and\nwithout H vibration free energy. The continuous and dashed\nvertical lines correspond to H solubility at this temperature\nrespectively in pure Zr and in Zircaloy-4.\n5.3. Stability of vacancy loops\nWe now study how hydrogen may modify the sta-\nbility of the di\ufb00erent vacancy loops, using the con-\ntinuous model we previously developed to describe\nthe energetics of vacancy clusters in pure zirconium\n[20]. Within this model, the formation energy of a\nloop containing n vacancies is given by:\nEf\nloop(n) = \u03c0R1\n2\u03b3n + 2\u03c0fR1 \u00afK\u221an ln\n\u0012R1\n\u221an\nrc\n\u0013\n.\n(16)\nwith \u03b3 the stacking fault energy, f a shape fac-\ntor close to unity, rc the dislocation core radius\nclose to the Burgers vectors, and \u00afK an average\nvalue of the prefactor appearing in the elastic en-\nergy. The values of these parameters for the dif-\nferent vacancy loops in zirconium can be found in\nRef.\n[20].\nThe quantity R1 is a scaling distance\nwith R1 = a(\n\u221a\n3/2\u03c0)1/2 for the basal loops and\nR1 =\np\nac/2\u03c0 for the prismatic loops.\nAs suggested in Refs. [11, 35, 41], the e\ufb00ect of hy-\ndrogen on cluster stability can be included in a very\nsimple way in the Eq. 16, through the modi\ufb01cation\nof the stacking fault energy, which is the leading\nterm for large vacancy clusters. This is done by re-\nplacing \u03b3 in Eq. 16 by the modi\ufb01ed stacking fault\nenergies \u03b3({cp}), calculated using Eq. 15.\nIn Fig. 9, the predicted formation energies of the\nloops lying in the basal and prismatic planes are dis-\nplayed in the absence of hydrogen and for a hydro-\ngen nominal concentration xH = 0.01 at T = 600 K.\n 0\n 400\n 800\n 1200\n 0\n 1000\n 2000\n 3000\n 4000\nFormation Energy  (eV)\nNumber of vacancies\nbasal E\nbasal I1\nprismatic faulted\nprismatic perfect\n 20\n 30\n 10\n 20\n 30\n(a) Without hydrogen\n 0\n 400\n 800\n 1200\n 0\n 1000\n 2000\n 3000\n 4000\nFormation Energy  (eV)\nNumber of vacancies\nbasal E\nbasal I1\nprismatic faulted\nprismatic perfect\n 20\n 30\n 10\n 20\n 30\n(b) With xH = 0.01 and T = 600 K\nFigure 9: Formation energies of large vacancy loops as pre-\ndicted by continuous laws parameterized on DFT results for\n(a) pure hcp Zr and (b) Zr containing hydrogen at T = 600 K\nfor a nominal concentration xH = 0.01. The H vibration free\nenergy is included in (b). The result obtained without this\nvibration free energy is also shown by a thin continuous line\nfor the basal loops with an E fault. The insets show the sta-\nbility inversion at small sizes between basal and prismatic\nloops.\nThe presence of hydrogen tends to increase the sta-\nbility of \u27e8c\u27e9loops lying in the basal planes with\nrespect to \u27e8a\u27e9loops lying in the prismatic planes.\nThe e\ufb00ect is stronger for \u27e8c\u27e9loops with an E fault,\nbecause of the highest amount of hydrogen captured\nby this stacking fault. These \u27e8c\u27e9loops with an E\nfault are the most stable vacancy clusters at very\nsmall size (loops containing less than 16 vacancies\nin pure Zr) and H segregation shifts the stability\ncrossover with prismatic loops to larger sizes, an ef-\nfect enhanced by the contribution of H vibrations.\nThe hydrogen segregation on stacking faults can\nthus explain the higher amount of \u27e8c\u27e9component\n14\nloops observed when Zr samples are pre-hydrided\nand then submitted to irradiation [16, 17], and the\ncorrelated consequence on the breakaway growth at\nhigh irradiation dose [13].\n6. Conclusion\nThe in\ufb02uence of hydrogen in solid solution on va-\ncancy loops energetics has been studied in hcp Zr\nusing an ab initio approach, including H vibrations.\nDFT calculations performed on small vacancy clus-\nters showed that hydrogen is able to attract up to\n4 vacancies. The most favorable insertion site for\nH in the vicinity of a vacancy cluster is not a T site\nbut an O site with 2 or 3 vacancies as \ufb01rst nearest\nneighbors. Hydrogen therefore prefers to sit at the\nboundary of vacancy clusters, and not inside them.\nNo strong discriminating e\ufb00ect of hydrogen on the\nstability of the di\ufb00erent cluster con\ufb01gurations were\nfound for small vacancy clusters.\nHydrogen binding to larger vacancy clusters has\nbeen modeled through its interaction with the\nstacking faults. We computed, with ab initio cal-\nculations, the interactions between H and the pris-\nmatic, basal E and basal I1 faults. These interac-\ntions are mainly attractive. Hydrogen binding is\nstronger for the basal faults, especially in the case\nof the E fault.\nUsing these binding energies to-\ngether with a thermodynamic modeling of H segre-\ngation on the faults, we could predict the evolution\nof the stacking fault energies with the H nominal\nconcentration. Including these variations into con-\ntinuous laws describing the energetics of vacancy\nloops, we could \ufb01nally demonstrate that H stabi-\nlizes the vacancy loops, and that the stronger vari-\nation is observed for the basal loops, i.e. the defects\nresponsible for the breakaway growth observed at\nhigh irradiation dose. This binding of H to faulted\nvacancy loops agrees with the trapping of hydro-\ngen by vacancy clusters observed experimentally in\nirradiated zirconium alloys.\nAppendix A. Convergence\nwith\nsupercell\nsize\nIn Fig. A.10, the binding energies of H with an\noctahedral V6 cluster are displayed versus the num-\nber of atoms in the supercell. The three more fa-\nvorable insertion sites are tested for the H atom: T\nsite with one nearest neighbor HV interaction, and\nO site with 2 or 3 nearest neighbor HV interactions\n(p = 2 and 3, respectively).\n\u22120.2\n 0\n 0.2\n 0.4\n 0.6\n 50\n 100\n 150\n 200\nEb\nHVn  (eV)\nnumber of atoms\nT site ; p=1\nO site ; p=2\nO site ; p=3\nFigure A.10: Binding energy of H with an octahedral va-\ncancy cluster V6 as a function of the supercell size. Three\ndi\ufb00erent insertion sites are shown for H: T site with one near-\nest neighbor HV interaction and O site with p = 2 or p = 3\nnearest neighbor HV interactions.\nThe resulting binding energies only slightly vary\nbetween 100 and 200 atoms, assessing thus our\nchoice of a 200 atom supercell (5 \u00d7 5 \u00d7 4) to study\nthe in\ufb02uence of H on small vacancy clusters.\nAppendix B. Validity of the harmonic ap-\nproximation\nAs pointed out by Christensen et al. [22], T in-\nsertion sites in the hcp lattice form pairs of close\nsites and the migration barrier for H jumping from\none T site to its neighbour site is small. Using the\nsimulation cell containing 200 lattice sites we com-\npute the H migration energies between its di\ufb00erent\ninsertion sites (Tab. B.4) and obtain the lowest en-\nergy for the T-T migration. This migration energy\nis in the range of the zero point energy of H vi-\nbration. One can therefore wonder if the harmonic\napproximation used to calculate the contribution of\nH vibrations to the free energy is a good approxi-\nmation. We examine this point more closely in this\nappendix, \ufb01rst for a single H atom in a perfect crys-\ntal, then for a H atom close to a vacancy.\nAppendix B.1. Single H atom\nWe show in Fig. B.11 the energy pro\ufb01le of an\nH atom between two neighbour insertion T sites.\nOnly the equilibrium con\ufb01gurations, corresponding\nto xH/\u03bb = 0 and 1 with \u03bb = c/4, have been relaxed.\nThey are then used to obtain the other intermedi-\nate con\ufb01gurations by linear interpolation. The ob-\ntained energy pro\ufb01le is well \ufb01tted by an order 4\n15\nTable B.4: H migration energies Emig between neighbour T\nand O sites.\nEmig (ev)\nunrelaxed\nrelaxed\nT \u2194T\n0.21\n0.13\nT \u2192O\n0.46\n0.42\nO \u2194O\n0.54\n0.50\n 0\n 0.1\n 0.2\n 0.3\n 0\n 0.5\n 1\nEnergy  (eV)\nxH / \u03bb\nFigure B.11: Energy variation of a H atom migrating be-\ntween two T sites in a hcp Zr lattice. The double well pro\ufb01le\ngiven by the solid line has been \ufb01tted to the ab initio energies\nindicated by \ufb01lled circles and the corresponding quantized\nenergy levels are given by horizontal solid lines. The results\nobtained for a single well in the harmonic approximation are\nshown with dashed lines.\npolynomial function. We then compute the eigen-\nstates of this double well energy pro\ufb01le using the\nnumerical approach described in [42]. The double\nwell shape has two main e\ufb00ects on these eigenstates\ncompared to the results obtained with the harmonic\napproximation for two single wells (Fig. B.11): it\nlowers the energy of the eigenstates, by 6 meV for\nthe fundamental level, and it lifts the degeneracy of\nthe higher levels.\nWe then compute the H vibration free energy,\nfollowing the approach proposed by Christensen et\nal. [22]. We factorize the partition function into vi-\nbration modes corresponding to the H migration\nbetween two neighbouring T sites and vibration\nmodes orthogonal to this migration direction. The\n\ufb01rst contribution is deduced from the eigenstates of\nthe double-well energy pro\ufb01le (Fig. B.11), whereas\nthe harmonic approximation (Eq. 1) is used for the\ntwo last vibration modes. The obtained H solution\nfree energy is shown in Fig. B.12 where we compare\n\u22120.44\n\u22120.42\n\u22120.4\n 0\n 200\n 400\n 600\nFH\nsol  (eV)\nT  (K)\nT: double well\nT: full harmonic\nO: full harmonic\nFigure B.12: Solution free energy F sol\nH\n(Eq. 3) of an H single\natom in a Zr hcp matrix as a function of the temperature\ncalculated for its T and O insertion sites. The free energy is\ncomputed either within the harmonic approximation or using\nthe eigenstates of the double well energy pro\ufb01le (Fig. B.11).\nit to the solution free energy obtained within har-\nmonic approximation. The di\ufb00erence between the\ntwo plots is mainly a constant energy shift corre-\nsponding to the shift of the fundamental eigenstate\nnoticed before. The linear decrease with the tem-\nperature of the solution free energy close to 0 K is\nwell captured by the harmonic approximation, once\nthe \u2212kT ln (2) has been included in the free energy\nto account for the con\ufb01gurational entropy associ-\nated with the presence of two energy wells.\nThe\nharmonic approximation looks therefore reasonable\nto account for H vibration in an hcp Zr matrix, with\na precision of the order of 10 meV. This precision\nbeing larger than the energy di\ufb00erence between the\nT and the O con\ufb01gurations (Fig.\nB.12), a more\nprecise treatment of vibrations will nevertheless be\nneeded to be able to conclude on the preferential\ninsertion site of H in Zr.\nAppendix B.2. H close to a vacancy\nWe now examine the case where the H atom lies\nin a T site close to a vacancy.\nWe examine two\ndi\ufb00erent con\ufb01gurations, both corresponding to the\nH atom and the vacancy being \ufb01rst nearest neigh-\nbours. The HV pair can either form a con\ufb01guration\nb (see Fig. 1 for a sketch of the con\ufb01guration), with\nboth wells of the T positions corresponding to this\nb con\ufb01guration, or the HV complex can form a con-\n\ufb01guration a, with the other well corresponding to\ncon\ufb01guration c. The corresponding energy pro\ufb01les\nare shown in Fig. B.13. The presence of the va-\n16\n 0\n 0.05\n 0.1\n 0\n 0.5\n 1\nEnergy  (eV)\nxH / \u03bb\n(a) Con\ufb01gurations b\n 0\n 0.1\n 0.2\n 0\n 0.5\n 1\nEnergy  (eV)\nxH / \u03bb\n(b) Con\ufb01gurations a and c\nFigure B.13: Energy variation of a H atom migrating be-\ntween two T sites in the vicinity of a vacancy in a hcp Zr\nlattice.\nIn a), both equilibrium positions correspond to b\ncon\ufb01gurations (Fig.\n1).\nIn b), xH = 0 and 1 correspond\nrespectively to the a and c con\ufb01gurations.\ncancy leads to a decrease of the migration barrier\nbetween the two H equilibrium positions compared\nto the migration barrier in the bulk crystal (Fig.\nB.11). As a consequence, the e\ufb00ect of the potential\nanharmonicity are more pronounced in presence of\na vacancy: the lowering of the eigenstates is more\nimportant and the degeneracy is lifted even for the\nfundamental eigenstate.\nWe then compute the binding energy between\nH and a vacancy for these two con\ufb01gurations, in-\ncluding in Eq. 4 the vibration contribution in the\nfree energy of the ZrHV and the ZrH con\ufb01gura-\ntions. Like in the previous case, we consider either\na fully harmonic approximation, or we include the\neigenstates corresponding to the exact energy pro-\n 0\n 0.1\n 0.2\n 0.3\n 0\n 200\n 400\n 600\nb \u2212 b\na \u2212 c\nFb\nHV  (eV)\nT  (K)\nT: double well\nT: full harmonic\nFigure B.14: Binding free energy F b\nHV between a vacancy\nand an H atom lying in a double-well composed of two T\nsites with a con\ufb01guration either b-b or a-c. The free energy\nis computed either within the harmonic approximation or\nusing the eigenstates of the double well energy pro\ufb01les (Figs.\nB.11 and B.13).\n\ufb01le along the migration direction. For the asym-\nmetric double-well energy pro\ufb01le corresponding to\nthe transition between the con\ufb01gurations a and c\nof the HV complex (Fig. B.14b), one cannot sepa-\nrate the vibration mode in the migration direction\nfrom the modes orthogonal to this direction. An\napproximate treatment is thus needed. For such a\ndouble-well, the free energy is de\ufb01ned by\nF(T ) = \u2212kT ln\n\u0014\nexp\n\u0012\n\u2212F vib\na\nkT\n\u0013\n+ exp\n\u0012\n\u2212\u2206E + F vib\nc\nkT\n\u0013\u0015\n,\n(B.1)\nwhere the vibration contributions F vib\na\nand F vib\nc\nare\ngiven by Eq. 1 for both con\ufb01gurations a and c, and\n\u2206E = Ec \u2212Ea is the energy di\ufb00erence between\nboth con\ufb01gurations. The free energy deduced from\nthe exact eigenstates of the 1D double-well (Fig.\nB.13) can be added to this free energy, after having\nwithdrawn the corresponding contribution in the\nharmonic approximation:\nF vib\n1D (T ) = \u2212kT ln\n\u0014\n1\n2 sinh (\u210f\u03c93a/kT )\n+ exp (\u2212\u2206E/kT )\n2 sinh(\u210f\u03c93c/kT )\n\u0015\n,\n(B.2)\nwith \u03c93\na and \u03c93\nc the pulsations of the vibration\nmodes in the migration direction.\n17\nThe binding free energies are shown in Fig. B.14.\nWe recover a di\ufb00erence of the order of 10 meV be-\ntween the result of the harmonic approximation and\nthe more exact treatment of H vibrations. This dif-\nference is much smaller than the absolute values of\nthe binding energies and does not modify the rela-\ntive stability between di\ufb00erent con\ufb01gurations. The\nharmonic approximation appears clearly to be well\nsuited to study H interaction with vacancies and a\nmore precise treatment of H vibrations is thus un-\nnecessary.\nAcknowledgments\nThis work was performed using HPC resources\nfrom GENCI-[CINES/CCRT/IDRIS] (Grant 2014-\n096847). AREVA is acknowledged for \ufb01nancial sup-\nport.\nReferences\nReferences\n[1] G.\nSandrock,\nA\npanoramic\noverview\nof\nhydro-\ngen\nstorage\nalloys\nfrom\na\ngas\nreaction\npoint\nof\nview,\nJ.\nAlloys\nCompd.\n293\u2013295\n(1999)\n877\u2013888.\ndoi:10.1016/s0925-8388(99)00384-9.\n[2] S. Taketomi,\nR. Matsumoto,\nN. Miyazaki,\nAtom-\nistic\nstudy\nof\nhydrogen\ndistribution\nand\ndi\ufb00u-\nsion\naround\na\n{112}\u27e8111\u27e9\nedge\ndislocation\nin\nalpha\niron,\nActa\nMater.\n56\n(2008)\n3761\u20133769.\ndoi:10.1016/j.actamat.2008.04.011.\n[3] F. Garner, E. Simonen, B. Oliver, L. Greenwood,\nM. Grossbeck, W. Wolfer, P. Scott, Retention of hy-\ndrogen in fcc metals irradiated at temperatures leading\nto high densities of bubbles or voids, J. Nucl. Mater. 356\n(2006) 122\u2013135. doi:10.1016/j.jnucmat.2006.05.023.\n[4] R.\nA.\nOriani,\nP.\nH.\nJosephic,\nEquilibrium\nand\nkinetic\nstudies\nof\nthe\nhydrogen-assisted\ncrack-\ning\nof\nsteel,\nActa\nMetall.\n25\n(1977)\n979\u2013988.\ndoi:10.1016/0001-6160(77)90126-2.\n[5] H. K. Birnbaum, P. Sofronis, Hydrogen-enhanced lo-\ncalized plasticity \u2014 a mechanism for hydrogen-related\nfracture,\nMater. Sci. Eng. A 176 (1994) 191\u2013202.\ndoi:10.1016/0921-5093(94)90975-x.\n[6] J. Song, W. A. Curtin, Atomic mechanism and predic-\ntion of hydrogen embrittlement in iron, Nat. Mater. 12\n(2013) 145\u2013151. doi:10.1038/nmat3479.\n[7] M.\nB.\nLewis,\nDeuterium-defect\ntrapping\nin\nion-\nirradiated zirconium, J. Nucl. Mater. 125 (1984) 152\u2013\n159. doi:10.1016/0022-3115(84)90542-7.\n[8] A. McMinn, E. C. Darby, J. S. Scho\ufb01eld, The termi-\nnal solid solubility of hydrogen in zirconium alloys, in:\nZirconium in the Nuclear Industry: Twelfth Interna-\ntional Symposium, ASTM International, 2000, p. 173.\ndoi:10.1520/stp14300s.\n[9] P. Vizca\u00b4\u0131no, A. Banchik, J. Abriata, Solubility of hy-\ndrogen in Zircaloy-4: irradiation induced increase and\nthermal recovery, J. Nucl. Mater. 304 (2002) 96\u2013106.\ndoi:10.1016/s0022-3115(02)00883-8.\n[10] P. Vizca\u00b4\u0131no, A. D. Banchik, J. P. Abriata, Hydrogen\nin Zircaloy-4: e\ufb00ects of the neutron irradiation on the\nhydride formation, J. Mater. Sci. 42 (2007) 6633\u20136637.\ndoi:10.1007/s10853-007-1525-x.\n[11] C.\nDomain,\nR.\nBesson,\nA.\nLegris,\nAtomic-scale\nab\ninitio\nstudy\nof\nthe\nZr-H\nsystem:\nII.\nin-\nteraction\nof\nH\nwith\nplane\ndefects\nand\nmechani-\ncal\nproperties,\nActa Mater.\n52 (2004)\n1495\u20131502.\ndoi:10.1016/j.actamat.2003.11.031.\n[12] Y. Udagawa, M. Yamaguchi, H. Abe, N. Sekimura,\nT.\nFuketa,\nAb\ninitio\nstudy\non\nplane\ndefects\nin\nzirconium-hydrogen\nsolid\nsolution\nand\nzirco-\nnium\nhydride,\nActa\nMater.\n58 (2010)\n3927\u20133938.\ndoi:10.1016/j.actamat.2010.03.034.\n[13] M. A. McGrath, S. Yagnik, Experimental investiga-\ntion of irradiation creep and growth of recrystallized\nzircaloy-4 guide tubes pre-irradiated in PWR, J. ASTM\nInt. 8 (2011) 103770. doi:10.1520/jai103770.\n[14] G.\nJ.\nC.\nCarpenter,\nR.\nH.\nZee,\nA.\nRoger-\nson,\nIrradiation\ngrowth\nof\nzirconium\nsingle\ncrys-\ntals:\nA review, J. Nucl. Mater. 159 (1988) 86\u2013100.\ndoi:10.1016/0022-3115(88)90087-6.\n[15] V.\nFidleris,\nThe\nirradiation\ncreep\nand\ngrowth\nphenomena,\nJ.\nNucl.\nMater.\n159\n(1988)\n22\u201342.\ndoi:10.1016/0022-3115(88)90083-9.\n[16] L. Tournadre, F. Onimus, J.-L. B\u00b4echade, D. Gilbon, J.-\nM. Clou\u00b4e, J.-P. Mardon, X. Feaugas, Toward a better\nunderstanding of the hydrogen impact on the radiation\ninduced growth of zirconium alloys, J. Nucl. Mater. 441\n(2013) 222\u2013231. doi:10.1016/j.jnucmat.2013.05.045.\n[17] L. Tournadre, F. Onimus, J.-L. B\u00b4echade, D. Gilbon, J.-\nM. Clou\u00b4e, J.-P. Mardon, X. Feaugas, Impact of hydro-\ngen pick-up and applied stress on c-component loops:\ntoward a better understanding of the radiation induced\ngrowth of recrystallized zirconium alloys, J. ASTM Int.\n17 (2014) 853\u2013894. doi:10.1520/STP154320120200.\n[18] B. Legrand, Relations entre la structure \u00b4electronique\net la facilit\u00b4e de glissement dans les m\u00b4etaux hexago-\nnaux compacts, Philos. Mag. B 49 (1984) 171\u2013184.\ndoi:10.1080/13642818408227636.\n[19] E.\nClouet,\nScrew\ndislocation\nin\nzirconium:\nAn\nab initio\nstudy,\nPhys. Rev. B 86 (2012) 144104.\ndoi:10.1103/PhysRevB.86.144104.\n[20] C. Varvenne, O. Mackain, E. Clouet, Vacancy clustering\nin zirconium: An atomic-scale study, Acta Mater. 78\n(2014) 65\u201377. doi:10.1016/j.actamat.2014.06.012.\n[21] M. Christensen, W. Wolf, C. Freeman, E. Wimmer,\nR. Adamson, L. Hallstadius, P. Cantonwine, E. Mader,\nDi\ufb00usion of point defects, nucleation of dislocation\nloops, and e\ufb00ect of hydrogen in hcp-Zr: Ab initio and\nclassical simulations, J. Nucl. Mater. 460 (2015) 82\u201396.\ndoi:10.1016/j.jnucmat.2015.02.013.\n[22] M. Christensen, W. Wolf, C. Freeman, E. Wimmer,\nR. B. Adamson, L. Hallstadius, P. E. Cantonwine, E. V.\nMader, H in \u03b1-Zr and in zirconium hydrides:\nsolu-\nbility, e\ufb00ect on dimensional changes, and the role of\ndefects, J. Phys.: Condens. Matter 27 (2015) 025402.\ndoi:10.1088/0953-8984/27/2/025402.\n[23] P. Gianozzi, et al., Quantum espresso: a modular and\nopen-source software project for quantum simulations of\nmaterials, J. Phys.: Condens. Matter 21 (2009) 395502.\ndoi:10.1088/0953-8984/21/39/395502.\n[24] J. P. Perdew, K. Burke, M. Ernzerhof, Generalized gra-\ndient approximation made simple, Phys. Rev. Lett. 77\n(1996) 3865\u20133868. doi:10.1103/PhysRevLett.77.3865.\n18\n[25] C. Varvenne, F. Bruneval, M.-C. Marinica, E. Clouet,\nPoint defect modelling in materials: coupling ab ini-\ntio and elasticity approaches, Phys. Rev. B 88 (2013)\n134102. doi:10.1103/PhysRevB.88.134102.\n[26] N. W. Ashcroft, N. D. Mermin, Solid State Physics,\nSaunders College, Philadelphia, 1976.\n[27] Y. Fukai, The metal-hydrogen system, Springer Verlag,\n1993.\n[28] C.\nDomain,\nR.\nBesson,\nA.\nLegris,\nAtomic-scale\nab-initio\nstudy\nof\nthe\nZr-H\nsystem:\nI.\nbulk\nproperties,\nActa\nMater.\n50\n(2002)\n3513\u20133526.\ndoi:10.1016/S1359-6454(02)00173-8.\n[29] S. C. Lumley, R. W. Grimes, S. T. Murphy, P. A. Burr,\nA. Chroneos, P. R. Chard-Tuckey, M. R. Wenman, The\nthermodynamics of hydride precipitation: The impor-\ntance of entropy, enthalpy and disorder, Acta Mater. 79\n(2014) 351\u2013362. doi:10.1016/j.actamat.2014.07.019.\n[30] P. A. Burr, S. T. Murphy, S. C. Lumley, M. R. Wenman,\nR. W. Grimes, Hydrogen accommodation in Zr second\nphase particles: Implications for H pick-up and hydrid-\ning of Zircaloy-2 and Zircaloy-4, Corrosion Science 69\n(2013) 1\u20134. doi:10.1016/j.corsci.2012.11.036.\n[31] P. Narang, G. Paul, K. Taylor, Location of hydrogen in\n\u03b1-zirconium, J. Less Common Met. 56 (1977) 125\u2013128.\ndoi:10.1016/0022-5088(77)90225-9.\n[32] E. Hayward, C.-C. Fu, Interplay between hydrogen and\nvacancies in \u03b1-Fe, Phys. Rev. B 87 (2013) 174103.\ndoi:10.1103/PhysRevB.87.174103.\n[33] M. Ghazisaedi, D. R. Trinkle, Interaction of oxygen in-\nterstitials with lattice faults in ti, Acta Materialia 76\n(2014) 82\u201386.\n[34] D. Hull, D. J. Bacon, Introduction to Dislocations, 5th\nEdition, Butterworth-Heinemann, Oxford, UK, 2011.\n[35] S. J. Zinkle, W. G. Wolfer, G. L. Kulcinski, L. E.\nSeitzman,\nStability\nof\nvacancy\nclusters\nin\nmetals\nII.\nE\ufb00ect\nof\noxygen\nand\nhelium\non\nvoid\nforma-\ntion in metals, Philos. Mag. A 55 (1987) 127\u2013140.\ndoi:10.1080/01418618708209804.\n[36] G.\nTr\u00b4eglia,\nB.\nLegrand,\nF.\nDucastelle,\nA.\nSa\u00b4ul,\nC. Gallis, I. Meunier, C. Mottet, A. Senhaji, Al-\nloy surfaces:\nsegregation, reconstruction and phase\ntransitions,\nComp. Mater. Sci. 15 (1999) 196\u2013235.\ndoi:10.1016/s0927-0256(99)00004-x.\n[37] T.\nM\u00a8utschele,\nR.\nKirchheim,\nSegregation\nand\ndi\ufb00usion\nof\nhydrogen\nin\ngrain\nboundaries\nof\npalladium,\nScripta\nMetall.\n21\n(1987)\n135\u2013140.\ndoi:10.1016/0036-9748(87)90423-6.\n[38] E. Zuzek, J. P. Abriata, A. San-Martin, F. D. Manch-\nester, The H-Zr (hydrogen-zirconium) system, Bul-\nletin of Alloy Phase Diagrams 11 (1990) 385\u2013395.\ndoi:10.1007/bf02843318.\n[39] H. Suzuki,\nSegregation\nof solute atoms\nto stack-\ning faults,\nJ. Phys. Soc. Jpn. 17 (1962) 322\u2013325.\ndoi:10.1143/jpsj.17.322.\n[40] J. P. Hirth, Thermodynamics of stacking faults, Metall.\nTrans. 1 (1970) 2367\u20132374. doi:10.1007/BF03038365.\n[41] Y. Udagawa,\nM. Yamaguchi,\nT. Tsuru,\nH. Abe,\nN. Sekimura, E\ufb00ect of Sn and Nb on generalized stack-\ning fault energy surfaces in zirconium and gamma hy-\ndride habit planes, Philos. Mag. 91 (12) (2011) 1665\u2013\n1678. doi:10.1080/14786435.2010.543651.\n[42] L.\nProville,\nBiphonons\nin\nthe\nKlein-Gordon\nlattice,\nPhys.\nRev.\nB\n71\n(2005)\n104306.\ndoi:10.1103/physrevb.71.104306.\n19\n",
+        "context": "tio and elasticity approaches, Phys. Rev. B 88 (2013)\n134102. doi:10.1103/PhysRevB.88.134102.\n[26] N. W. Ashcroft, N. D. Mermin, Solid State Physics,\nSaunders College, Philadelphia, 1976.\n[27] Y. Fukai, The metal-hydrogen system, Springer Verlag,\n1993.\nand the squares symbolize the vacancy. The purple spheres\nrepresent the H atom in an O site at z = c/4, the green\nspheres the H atom in a T site at z = c/8 (at z = \u2212c/8 for\nthe small symbol used in con\ufb01guration c).\nof\nzirconium\nsingle\ncrys-\ntals:\nA review, J. Nucl. Mater. 159 (1988) 86\u2013100.\ndoi:10.1016/0022-3115(88)90087-6.\n[15] V.\nFidleris,\nThe\nirradiation\ncreep\nand\ngrowth\nphenomena,\nJ.\nNucl.\nMater.\n159\n(1988)\n22\u201342.\ndoi:10.1016/0022-3115(88)90083-9."
+    },
+    {
+        "id": 15,
+        "title": "Effect of strain on solution energy of hydrogen in alpha-zirconium from first-principle calculations",
+        "author": [
+            "Wang J",
+            "Shao B",
+            "Shan D"
+        ],
+        "year": "2020",
+        "doi": "10.1016/j.ijhydene.2020.04.244",
+        "in_text_citation": "[15]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 16,
+        "title": "A first-principles study of the theoretical strength and bulk modulus of hcp metals",
+        "author": [
+            "Song Y",
+            "Yang R",
+            "Li D"
+        ],
+        "year": "2001",
+        "doi": "10.1080/01418610108214306",
+        "in_text_citation": "[16]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 17,
+        "title": "Hafnium-hydrogen",
+        "author": [
+            "Mintz MH"
+        ],
+        "year": "1996",
+        "doi": "10.4028/www.scientific.net/SSP.49-50.331",
+        "in_text_citation": "[17]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 18,
+        "title": "Stability and mechanical properties of various Hf\u2013H phases: a density-functional theory study",
+        "author": [
+            "Xiao W",
+            "Sun L",
+            "Huang S-H"
+        ],
+        "year": "2017",
+        "doi": "10.1088/1674-1056/26/10/106103",
+        "in_text_citation": "[18]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 19,
+        "title": "Determination of the hydrogen site occupation in the \u03b1 phase of zirconium hydride and in the \u03b1 and \u03b2 phases of titanium hydride by inelastic neutron scattering",
+        "author": [
+            "Khoda-Bakhsh R",
+            "Ross DK"
+        ],
+        "year": "1982",
+        "doi": "10.1088/0305-4608/12/1/003",
+        "in_text_citation": "[19]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 20,
+        "title": "Neutron diffraction study of hydrogen in \u03b1 titanium",
+        "author": [
+            "Pinto H",
+            "Korn C",
+            "Gorenb S"
+        ],
+        "year": "1979",
+        "doi": "10.1016/0038-1098(79)90474-5",
+        "in_text_citation": "[20]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 21,
+        "title": "Hydrogen in Ti-V alloys",
+        "author": [
+            "Korn C",
+            "Zamir D",
+            "Hadari Z"
+        ],
+        "year": "1975",
+        "doi": "10.1002/pssa.2210320260",
+        "in_text_citation": "[21]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 22,
+        "title": "Optic phonon modes and superconductivity in \u03b1 phase (Ti, Zr)-(H, D) alloys",
+        "author": [
+            "Hempelmann R",
+            "Richter D",
+            "Stritzker B"
+        ],
+        "year": "1982",
+        "doi": "10.1088/0305-4608/12/1/009",
+        "in_text_citation": "[22]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 23,
+        "title": "Deuterium-site occupancy in the \u03b1 and \u03b2 phases of TiD_x",
+        "author": [
+            "Alperin HA",
+            "Flotow H",
+            "Rush JJ"
+        ],
+        "year": "1976",
+        "doi": null,
+        "in_text_citation": "[23]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 24,
+        "title": "Hydrogen concentration estimation in metals at finite temperature using first-principles calculations and vibrational analysis",
+        "author": [
+            "Matsumoto R",
+            "Sera M",
+            "Miyazaki N"
+        ],
+        "year": "2014",
+        "doi": "10.1016/j.commatsci.2014.04.051",
+        "in_text_citation": "[24]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 25,
+        "title": "Hydrogen solubility in hcp titanium with the account of vacancy complexes and hydrides: a DFT study",
+        "author": [
+            "Poletaev DO",
+            "Aksyonov DA",
+            "Vo DD"
+        ],
+        "year": "2016",
+        "doi": "10.1016/j.commatsci.2015.12.037",
+        "in_text_citation": "[25]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 26,
+        "title": "Insights into the formation of titanium hydrides from first principles calculations",
+        "author": [
+            "Wang C-M",
+            "Cao S",
+            "Yang F-X"
+        ],
+        "year": "2024",
+        "doi": "10.1016/j.actamat.2024.119921",
+        "in_text_citation": "[26]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 27,
+        "title": "On the mechanism of hydride formation in \u03b1-Ti alloys",
+        "author": [
+            "Xiao HZ"
+        ],
+        "year": "1992",
+        "doi": "10.1016/0956-716X(92)90342-C",
+        "in_text_citation": "[27]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 28,
+        "title": "Discussion of \u201con the mechanism of hydride formation in \u03b1-Ti alloys\u201d",
+        "author": [
+            "Howe JM",
+            "Tsai MM"
+        ],
+        "year": "1993",
+        "doi": "10.1016/0956-716X(93)90096-B",
+        "in_text_citation": "[28]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 29,
+        "title": "Hydride precipitation in titanium",
+        "author": [
+            "Numakura H",
+            "Koiwa M"
+        ],
+        "year": "1984",
+        "doi": "10.1016/0001-6160(84)90236-0",
+        "in_text_citation": "[29]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 30,
+        "title": "Hydrogen diffusion in titanium dihydrides from first principles",
+        "author": [
+            "Novoselov II",
+            "Yanilkin AV"
+        ],
+        "year": "2018",
+        "doi": "10.1016/j.actamat.2018.04.059",
+        "in_text_citation": "[30]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 31,
+        "title": "Formation mechanism of hydride precipitation in commercially pure titanium",
+        "author": [
+            "Li J",
+            "Li X",
+            "Sui M"
+        ],
+        "year": "2021",
+        "doi": "10.1016/j.jmst.2021.01.009",
+        "in_text_citation": "[31]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 32,
+        "title": "The mechanism of hydrogen diffusion in zirconium dihydrides",
+        "author": [
+            "Majer G",
+            "Renz W",
+            "Barnes RG"
+        ],
+        "year": "1994",
+        "doi": "10.1088/0953-8984/6/15/015",
+        "in_text_citation": "[32]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 33,
+        "title": "Fundamental mechanism of tetragonal transitions in titanium hydride",
+        "author": [
+            "Liang CP",
+            "Gong HR"
+        ],
+        "year": "2014",
+        "doi": "10.1016/j.matlet.2013.10.091",
+        "in_text_citation": "[33]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 34,
+        "title": "Atomic structure, mechanical quality, and thermodynamic property of TiH_x phases",
+        "author": [
+            "Liang CP",
+            "Gong HR"
+        ],
+        "year": "2013",
+        "doi": "10.1063/1.4816485",
+        "in_text_citation": "[34]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 35,
+        "title": "Eco-friendly NiO/polydopamine nanocomposite for efficient removal of dyes from wastewater",
+        "author": [
+            "El-Ghobashy M",
+            "Hashim H",
+            "Darwish M"
+        ],
+        "year": "2022",
+        "doi": "10.3390/nano12071103",
+        "in_text_citation": "[35]",
+        "sentence": "",
+        "abstract": "The rapid development of industries discharges huge amounts of wastewater that contain surface water. For this reason, we used NiO/polydopamine (NiO/PDA) nanocomposite as an efficient material for the removal of Methyl violet 2B from water. It was synthesized and then characterized by Fourier Transform Infrared (FT-IR) spectroscopy, X-ray Diffraction (XRD), Scanning Electron Microscopy (SEM), Energy Dispersive X-ray (EDX) analysis, Transmission Electron Microscopy (TEM), and Brunauer\u2013Emmett\u2013Teller (BET). The EDX analysis confirmed the presence of O, Ni, N, and C. The composite has an average particle size of 18 nm. Its surface area is 110.591 m2/g. It was found that the efficiency of dye removal by adsorption on NiO/PDA exceeded that of bare NiO. The adsorption capacity of NiO and NiO/PDA are 126 and 284 mg/g, respectively. The effects of adsorbent dose, dye concentration, and pH on the removal efficiency were examined. The efficiency increased with increasing the adsorbent dose and pH, but dropped from 85 to 73% within 30 min as the initial dye concentration was increased from 0.984 to 4.92 mg/L. Such a drop in the removal efficiency is due to the blocking of the surface-active sites of NiO/PDA, with the high population of dye molecules derived from the continuous increase in dye concentration. The adsorption results of the dye fitted well with the pseudo-second-order kinetics and Langmuir isotherm. The reusability data showed that NiO/PDA was stable across three adsorption\u2013regeneration cycles, thus it can be considered a good recyclable and efficient adsorbent. Because of these results, it can be considered that this method can be applied for the treatment of wastewater.",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 36,
+        "title": "Structure and optoelectronic properties of ferroelectric PVA-PZT nanocomposites",
+        "author": [
+            "Henaish AM",
+            "Darwish MA",
+            "Hemeda OM"
+        ],
+        "year": "2023",
+        "doi": "10.1016/j.optmat.2022.113402",
+        "in_text_citation": "[36]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 37,
+        "title": "Structural and dielectric characterization of synthesized nano-BSTO/PVDF composites for smart sensor applications",
+        "author": [
+            "Hussein MM",
+            "Saafan SA",
+            "Abosheiasha HF"
+        ],
+        "year": "2023",
+        "doi": "10.1039/D3MA00437F",
+        "in_text_citation": "[37]",
+        "sentence": "",
+        "abstract": "In this study, nanoparticles of Ba1\u2212xSrxTiO3 (where x = 0.0, 0.1, 0.2, 0.3, and 0.4) have been prepared using a chemical method.",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 38,
+        "title": "Preparation, structural, magnetic, and AC electrical properties of synthesized CoFe2O4 nanoparticles and its PVDF composites",
+        "author": [
+            "Hussein MM",
+            "Saafan SA",
+            "Abosheiasha HF"
+        ],
+        "year": "2024",
+        "doi": "10.1016/j.matchemphys.2024.129041",
+        "in_text_citation": "[38]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 39,
+        "title": "Temperature induced structural and polarization features in BaFe12O19",
+        "author": [
+            "Migas DB",
+            "Turchenko VA",
+            "Rutkauskas AV"
+        ],
+        "year": "2023",
+        "doi": "10.1039/D3TC01533E",
+        "in_text_citation": "[39]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 40,
+        "title": "Function composites materials for shielding applications: correlation between phase separation and attenuation properties",
+        "author": [
+            "Tishkevich DI",
+            "Grabchikov SS",
+            "Lastovskii SB"
+        ],
+        "year": "2019",
+        "doi": "10.1016/j.jallcom.2018.08.209",
+        "in_text_citation": "[40]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 41,
+        "title": "Cation ordering and magnetic properties of neodymium-barium manganites",
+        "author": [
+            "Trukhanov SV",
+            "Fedotova VV",
+            "Trukhanov AV"
+        ],
+        "year": "2008",
+        "doi": "10.1134/S106378420801009X",
+        "in_text_citation": "[41]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 42,
+        "title": "Structural and electrodynamic characteristics of the spinel-based composite system",
+        "author": [
+            "Trukhanov AV",
+            "Tishkevich DI",
+            "Timofeev AV"
+        ],
+        "year": "2024",
+        "doi": "10.1016/j.ceramint.2024.03.241",
+        "in_text_citation": "[42]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 43,
+        "title": "Crystal structure and magnetic properties of the BaFe12-xAlxO19 (x = 0.1\u20131.2) solid solutions",
+        "author": [
+            "Trukhanov AV",
+            "Turchenko VO",
+            "Bobrikov IA"
+        ],
+        "year": "2015",
+        "doi": "10.1016/j.jmmm.2015.05.076",
+        "in_text_citation": "[43]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 44,
+        "title": "Frustrated exchange interactions formation at low temperatures and high hydrostatic pressures in La0.70Sr0.30MnO2.85",
+        "author": [
+            "Trukhanov SV",
+            "Trukhanov AV",
+            "Vasiliev AN"
+        ],
+        "year": "2010",
+        "doi": "10.1134/S106377611008008X",
+        "in_text_citation": "[44]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 45,
+        "title": "Exploration of crystal structure, magnetic and dielectric properties of titanium-barium hexaferrites",
+        "author": [
+            "Trukhanov SV",
+            "Zubar TI",
+            "Turchenko VA"
+        ],
+        "year": "2021",
+        "doi": "10.1016/j.mseb.2021.115345",
+        "in_text_citation": "[45]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 46,
+        "title": "Changes in the structure, magnetization, and resistivity of BaFe12\u2013xTixO19",
+        "author": [
+            "Vinnik DA",
+            "Starikov AY",
+            "Zhivulin VE"
+        ],
+        "year": "2021",
+        "doi": "10.1021/acsaelm.0c01081",
+        "in_text_citation": "[46]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 47,
+        "title": "Preparation, phase stability, and magnetization behavior of high entropy hexaferrites",
+        "author": [
+            "Zhivulin VE",
+            "Trofimov EA",
+            "Zaitseva OV"
+        ],
+        "year": "2023",
+        "doi": "10.1016/j.isci.2023.107077",
+        "in_text_citation": "[47]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 48,
+        "title": "Efficiency of ab-initio total energy calculations for metals and semiconductors using a plane-wave basis set",
+        "author": [
+            "Kresse G",
+            "Furthm\u00fcller J"
+        ],
+        "year": "1996",
+        "doi": "10.1016/0927-0256(96)00008-0",
+        "in_text_citation": "[48]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 49,
+        "title": "From ultrasoft pseudopotentials to the projector augmented-wave method",
+        "author": [
+            "Kresse G",
+            "Joubert D"
+        ],
+        "year": "1999",
+        "doi": "10.1103/PhysRevB.59.1758",
+        "in_text_citation": "[49]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 50,
+        "title": "Generalized gradient approximation made simple",
+        "author": [
+            "Perdew JP",
+            "Burke K",
+            "Ernzerhof M"
+        ],
+        "year": "1996",
+        "doi": "10.1103/PhysRevLett.77.3865",
+        "in_text_citation": "[50]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 51,
+        "title": "Restoring the density-gradient expansion for exchange in solids and surfaces",
+        "author": [
+            "Perdew JP",
+            "Ruzsinszky A",
+            "Csonka GI"
+        ],
+        "year": "2008",
+        "doi": "10.1103/PhysRevLett.100.136406",
+        "in_text_citation": "[51]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 52,
+        "title": "Atoms, molecules, solids, and surfaces: applications of the generalized gradient approximation for exchange and correlation",
+        "author": [
+            "Perdew JP",
+            "Chevary JA",
+            "Vosko SH"
+        ],
+        "year": "1992",
+        "doi": "10.1103/PhysRevB.46.6671",
+        "in_text_citation": "[52]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 53,
+        "title": "Improved adsorption energetics within density-functional theory using revised Perdew-Burke-Ernzerhof functionals",
+        "author": [
+            "Hammer B",
+            "Hansen LB",
+            "N\u00f8rskov JK"
+        ],
+        "year": "1999",
+        "doi": "10.1103/PhysRevB.59.7413",
+        "in_text_citation": "[53]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 54,
+        "title": "Analytic projection from plane-wave and PAW wavefunctions and application to chemical-bonding analysis in solids",
+        "author": [
+            "Maintz S",
+            "Deringer VL",
+            "Tchougr\u00e9eff AL"
+        ],
+        "year": "2013",
+        "doi": "10.1002/jcc.23424",
+        "in_text_citation": "[54]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 55,
+        "title": "LOBSTER: a tool to extract chemical bonding from plane-wave based DFT",
+        "author": [
+            "Maintz S",
+            "Deringer VL",
+            "Tchougr\u00e9eff AL"
+        ],
+        "year": "2016",
+        "doi": "10.1002/jcc.24300",
+        "in_text_citation": "[55]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 56,
+        "title": "Fundamental influence of hydrogen on various properties of \u03b1-titanium",
+        "author": [
+            "Liang CP",
+            "Gong HR"
+        ],
+        "year": "2010",
+        "doi": "10.1016/j.ijhydene.2010.01.080",
+        "in_text_citation": "[56]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 57,
+        "title": "Hydrogen solubility in zirconium alloys",
+        "author": [
+            "Yamanaka S",
+            "Higuchi K",
+            "Miyake M"
+        ],
+        "year": "1995",
+        "doi": "10.1016/0925-8388(95)01864-6",
+        "in_text_citation": "[57]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 58,
+        "title": "Single-crystal elastic moduli and the hcp \u2192 bcc transformation in Ti, Zr, and Hf",
+        "author": [
+            "Fisher ES",
+            "Renken CJ"
+        ],
+        "year": "1964",
+        "doi": "10.1103/PhysRev.135.A482",
+        "in_text_citation": "[58]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 59,
+        "title": "The solubility of hydrogen in transition metals and alloys",
+        "author": [
+            "Ebisuzaki Y",
+            "O\u2019Keeffe M"
+        ],
+        "year": "1967",
+        "doi": "10.1016/0079-6786(67)90008-8",
+        "in_text_citation": "[59]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 60,
+        "title": "The solubility of hydrogen in transition metals and their alloys",
+        "author": [
+            "Oates WA",
+            "Flanagan TB"
+        ],
+        "year": "1981",
+        "doi": "10.1016/0079-6786(81)90002-9",
+        "in_text_citation": "[60]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 61,
+        "title": "Nuclear-magnetic-resonance study of hydrogen alloying in the early transition metals (group VB)",
+        "author": [
+            "Zamir D"
+        ],
+        "year": "1965",
+        "doi": "10.1103/PhysRev.140.A271",
+        "in_text_citation": "[61]",
+        "sentence": "",
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "context": null
+    },
+    {
+        "id": 62,
+        "title": "First-principles study of hydrogen trapping behavior in face centered cubic metals (M = Ni, Cu and Al) with monovacancy",
+        "author": [
+            "Xing W",
+            "Chen X-Q",
+            "Li X"
+        ],
+        "year": "2020",
+        "doi": "10.1016/j.ijhydene.2020.06.266",
+        "in_text_citation": "[62]",
+        "sentence": "",
+        "abstract": "",
+        "full_text": "",
+        "context": null
+    }
+]

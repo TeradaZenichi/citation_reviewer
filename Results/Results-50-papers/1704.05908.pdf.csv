@@ -1,0 +1,44 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Semantic parsing on Freebase from question-answer pairs,,,,,,,,,,,,
+Theano: a cpu and gpu math expression compiler,,,,,,,,,,,,
+Phonologically aware neural model for named entity recognition in low resource transfer settings,,,,,,,,,,,,
+Freebase: A Collaboratively Created Graph Database for Structuring Human Knowledge,,,,,,,,,,,,
+Embedding semantic relations into word representations,arxiv Library,0.5,,0.8656778755145513,arxiv Library,0.5,,0.8934574408403118,0.46153846153846156,0.11538461538461539,0.46153846153846156,0.2
+A Semantic Matching Energy Function for Learning with Multi-relational Data,crossref,0.0,,0.6831476525706094,,,,,0.0,0.0,,
+Translating Embeddings for Modeling Multirelational Data,,,,,,,,,,,,
+Learning Structured Embeddings of Knowledge Bases,crossref,0.0,,0.7161039491530434,,,,,0.058823529411764705,0.007874015748031496,,
+Cfo: Conditional focused neural question answering with largescale knowledge bases,,,,,,,,,,,,
+Sparse overcomplete word vector representations,arxiv Library,0.5,,0.7206855776727497,arxiv Library,0.5,,0.7740079115660528,0.2,0.028985507246376812,0.7,0.08641975308641975
+WordNet: An Electronic Lexical Database,crossref,0.0,,0.67167153322856,,,,,0.0,0.0,,
+Composing Relationships with Translations,crossref,0.0,,0.7067683521729029,,,,,0.0,0.0,,
+Combining Two and Three-Way Embedding Models for Link Prediction in Knowledge Bases,crossref,0.0,,0.7662769916144084,,,,,0.1111111111111111,0.010309278350515464,,
+Traversing Knowledge Graphs in Vector Space,arxiv Library,0.0,,0.823443943610878,arxiv Library,0.8,,0.8510293674537268,0.2903225806451613,0.0989010989010989,0.5483870967741935,0.22666666666666666
+Learning to Represent Knowledge Graphs with Gaussian Embedding,crossref,0.0,,0.6853148635623509,,,,,0.0,0.0,,
+Knowledge Graph Embedding via Dynamic Mapping Matrix,crossref,0.0,,0.7097190471421455,,,,,0.0,0.0,,
+"DBpedia - A Large-scale, Multilingual Knowledge Base",,,,,,,,,,,,
+LightRNN: Memory and Computation-Efficient Recurrent Neural Networks,,,,,,,,,,,,
+Modeling Relation Paths for Representation Learning of Knowledge Bases,arxiv Library,0.5,,0.8302768008826977,arxiv Library,0.7,,0.8608226257991769,0.1724137931034483,0.056818181818181816,0.20689655172413793,0.08
+Learning Entity and Relation Embeddings for Knowledge Graph Completion,crossref,0.8,,0.8843719319392903,,,,,0.25,0.2,,
+K-sparse autoencoders,arxiv Library,0.0,,0.7916192853042605,arxiv Library,0.5,,0.8344224379353109,0.2,0.06593406593406594,0.26666666666666666,0.09523809523809523
+From softmax to sparsemax: A sparse model of attention and multi-label classification,,,,,,,,,,,,
+Distributed representations of words and phrases and their compositionality,arxiv Library,0.0,,0.7917947720435108,arxiv Library,0.5,,0.8387905457432112,0.2777777777777778,0.058823529411764705,0.5,0.140625
+Distant supervision for relation extraction without labeled data,crossref,0.0,,0.7046521555676333,,,,,0.0,0.0,,
+Neighborhood mixture model for knowledge base completion,arxiv Library,0.5,,0.8217184493377294,arxiv Library,0.5,,0.8472404487653868,0.1951219512195122,0.11940298507462686,0.3170731707317073,0.18055555555555555
+STransE: a novel embedding model of entities and relationships in knowledge bases,arxiv Library,0.7,,0.9016210605563151,arxiv Library,0.8,,0.9118575211149427,0.28735632183908044,0.2840909090909091,0.3103448275862069,0.34615384615384615
+A Review of Relational Machine Learning for Knowledge Graphs,arxiv Library,0.8,,0.8073719359294974,arxiv Library,0.6,,0.8779798866404005,0.3157894736842105,0.061855670103092786,0.47368421052631576,0.11538461538461539
+A Three-Way Model for Collective Learning on Multi-Relational Data,,,,,,,,,,,,
+A survey on transfer learning,,,,,,,,,,,,
+Outrageously large neural networks,,,,,,,,,,,,
+Implicit reasonet: Modeling large-scale structured relationships with shared memory,,,,,,,,,,,,
+Reasoning With Neural Tensor Networks for Knowledge Base Completion,,,,,,,,,,,,
+YAGO: A Core of Semantic Knowledge,,,,,,,,,,,,
+Regression shrinkage and selection via the lasso,crossref,0.0,,0.7442777122878785,,,,,0.15625,0.058823529411764705,,
+Observed Versus Latent Features for Knowledge Base and Text Inference,crossref,0.0,,0.698706640576062,,,,,0.0,0.0,,
+Representing Text for Joint Embedding of Text and Knowledge Bases,crossref,0.0,,0.704327553154237,,,,,0.0,0.0,,
+Domain and function: A dualspace model of semantic relations and compositions,,,,,,,,,,,,
+Knowledge Graph Embedding by Translating on Hyperplanes,crossref,0.0,,0.8123828186081106,,,,,0.22857142857142856,0.06015037593984962,,
+Mining inference formulas by goal-directed random walks,crossref,0.0,,0.7091222762978528,,,,,0.0,0.0,,
+Knowledge Base Completion via Searchbased Question Answering,,,,,,,,,,,,
+Embedding Entities and Relations for Learning and Inference in Knowledge Bases,arxiv Library,0.0,,0.8415972095748796,arxiv Library,0.8,,0.868755453132231,0.2727272727272727,0.13043478260869565,0.3090909090909091,0.20987654320987653
+Semantic parsing via staged query graph generation: Question answering with knowledge base,crossref,0.0,,0.7082666572154082,,,,,0.0,0.0,,
+Transfer learning for low-resource neural machine translation,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,

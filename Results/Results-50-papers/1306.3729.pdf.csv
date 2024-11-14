@@ -1,0 +1,9 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision,pdf-recall,pdf-semantic_similarity,precision_recall,pdf-precision_recall
+A method of moments for mixture models and hidden Markov models,arxiv Library,0.8,0.358974358974359,0.14432989690721648,0.791101784863091,arxiv Library,0.8,0.41025641025641024,0.24615384615384617,0.8444667350570648,,
+Tensor decompositions for learning latent variable models,arxiv Library,1.0,1.0,0.0,0.6508263615651906,arxiv Library,0.0,1.0,0.0,0.6953115960307578,,
+Spectral learning of general weighted automata via constrained matrix completion,,,,,,,,,,,,
+A spectral learning algorithm for finite state transducers,crossref,0.0,0.0,0.0,0.6857744912491691,,,,,,,
+Learning mixtures of spher,,,,,,,,,,,,
+Modeling with mix,,,,,,,,,,,,
+"ηp(x)x ⊗p, where we have used ηp to represent the vector [ηp(x)]x∈Dp",,,,,,,,,,,,
+"2012c, Theorem 5.1) to bound the error in the eigenvalues",,,,,,,,,,,,

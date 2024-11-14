@@ -1,0 +1,51 @@
+{
+    "faithfulness": {
+        "mean": 0.0625,
+        "median": 0.0,
+        "std_dev": 0.25,
+        "non_none_percentage": 66.66666666666666
+    },
+    "precision": {
+        "mean": 0.28707158735587257,
+        "median": 0.0,
+        "std_dev": 0.43295445556863704,
+        "non_none_percentage": 66.66666666666666
+    },
+    "recall": {
+        "mean": 0.02024630541871921,
+        "median": 0.0,
+        "std_dev": 0.05346132732070449,
+        "non_none_percentage": 66.66666666666666
+    },
+    "semantic_similarity": {
+        "mean": 0.7023667737480119,
+        "median": 0.6815849381137356,
+        "std_dev": 0.052306849493567134,
+        "non_none_percentage": 66.66666666666666
+    },
+    "pdf-faithfulness": {
+        "mean": 0.325,
+        "median": 0.4,
+        "std_dev": 0.2362907813126304,
+        "non_none_percentage": 16.666666666666664
+    },
+    "pdf-precision": {
+        "mean": 0.45718316396325975,
+        "median": 0.29671926910299007,
+        "std_dev": 0.36379858627651296,
+        "non_none_percentage": 16.666666666666664
+    },
+    "pdf-recall": {
+        "mean": 0.10646223146223147,
+        "median": 0.11677061677061677,
+        "std_dev": 0.09448617177305305,
+        "non_none_percentage": 16.666666666666664
+    },
+    "pdf-semantic_similarity": {
+        "mean": 0.807844931849769,
+        "median": 0.837081455286544,
+        "std_dev": 0.07673813579438549,
+        "non_none_percentage": 16.666666666666664
+    },
+    "status": "accepted"
+}

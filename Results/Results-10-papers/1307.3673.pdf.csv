@@ -1,0 +1,19 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall
+Detecting uninteresting content in text streams,,,,,,,,,,
+Crowdsourcing 101: putting the wsdm of crowds to work for you,,,,,,,,,,
+Active learning with statistical models,arxiv Library,0.5,,0.8021659348949842,,,,,0.23529411764705882,0.05555555555555555
+Reducing labeling effort for structured prediction tasks,crossref,0.0,,0.6739205024456745,,,,,0.0,0.0
+Efficiently learning the accuracy of labeling sources for selective sampling,crossref,0.0,,0.68727089775591,,,,,0.0,0.0
+Selective supervision: guiding supervised learning with decision-theoretic active learning,,,,,,,,,,
+Active cost-sensitive learning,,,,,,,,,,
+An intrinsic stopping criterion for committee-based active learning,crossref,0.0,,0.6624115195145606,,,,,0.0,0.0
+Toward optimal active learning through sampling estimation of error reduction,,,,,,,,,,
+Active learning for logistic regression: an evaluation,crossref,0.0,,0.6739205024456745,,,,,0.0,0.0
+Active learning literature survey,,,,,,,,,,
+An analysis of active learning strategies for sequence labeling tasks,crossref,0.0,,0.673358692710623,,,,,0.0,0.0
+Active learning with real annotation costs,,,,,,,,,,
+Query by committee,crossref,0.0,,0.6838150858342796,,,,,0.0,0.0
+"Get another label? improving data quality and data mining using multiple, noisy labelers",crossref,0.0,,0.68727089775591,,,,,0.0,0.0
+Cheap and fast—but is it good?: evaluating non-expert annotations for natural language tasks,,,,,,,,,,
+Development and use of a gold-standard data set for subjectivity classifications,crossref,0.0,,0.68727089775591,,,,,0.0,0.0
+Incorporating diversity and density in active learning for relevance feedback,crossref,0.0,,0.6708513827828572,,,,,0.0,0.0

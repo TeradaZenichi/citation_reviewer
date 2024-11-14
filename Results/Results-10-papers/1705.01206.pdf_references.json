@@ -1,0 +1,475 @@
+[
+    {
+        "title": "Dimensionality reduction:A comparative review",
+        "author": [
+            "L.J.P.V.-D. Maaten",
+            "E.O. Postma",
+            "H.J. vandenHerik"
+        ],
+        "venue": "Tech. rep.,Tilburg University,",
+        "citeRegEx": "1",
+        "shortCiteRegEx": "1",
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Thus, dimensionality reduction is a hot and classical topic [1], which attempts to overcome the curse of the dimensionality and to extract relevant features [2], [3]. The pixel values are then scaled to [0,1] (divided by 256).",
+        "context": null
+    },
+    {
+        "title": "Local linear transformation embedding",
+        "author": [
+            "C. Hou",
+            "J. Wang",
+            "Y. Wu",
+            "D. Yi"
+        ],
+        "venue": "Neurocomputing, vol. 72, no. 10, pp. 2368-2378",
+        "citeRegEx": "2",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Thus, dimensionality reduction is a hot and classical topic [1], which attempts to overcome the curse of the dimensionality and to extract relevant features [2], [3].",
+        "context": null
+    },
+    {
+        "title": "and F",
+        "author": [
+            "C. Hou",
+            "C. Zhang",
+            "Y. Wu"
+        ],
+        "venue": "Nie, Multiple view semi-supervised dimensionality reduction,Pattern Recogn., vol. 43, no. 3, pp. 720-730",
+        "citeRegEx": "3",
+        "shortCiteRegEx": null,
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Thus, dimensionality reduction is a hot and classical topic [1], which attempts to overcome the curse of the dimensionality and to extract relevant features [2], [3].",
+        "context": null
+    },
+    {
+        "title": "Laplacian Eigenmaps for Dimensionality Reduction and Data Representation",
+        "author": [
+            "M. Belkin",
+            "P. Niyogi"
+        ],
+        "venue": "Neural Computation,",
+        "citeRegEx": "4",
+        "shortCiteRegEx": "4",
+        "year": 2003,
+        "abstract": " One of the central problems in machine learning and pattern recognition is to develop appropriate representations for complex data. We consider the problem of constructing a representation for data lying on a low-dimensional manifold embedded in a high-dimensional space. Drawing on the correspondence between the graph Laplacian, the Laplace Beltrami operator on the manifold, and the connections to the heat equation, we propose a geometrically motivated algorithm for representing the high-dimensional data. The algorithm provides a computationally efficient approach to nonlinear dimensionality reduction that has locality-preserving properties and a natural connection to clustering. Some potential applications and illustrative examples are discussed. ",
+        "full_text": "",
+        "sentence": " com) dimensionality is usually very low [4].",
+        "context": null
+    },
+    {
+        "title": "Local coordinates alignment with global preservation for dimensionality reduction",
+        "author": [
+            "J. Chen",
+            "Z. Ma",
+            "Y. Liu"
+        ],
+        "venue": "IEEE Trans. Neural Netw. Learn. Syst.,",
+        "citeRegEx": "5",
+        "shortCiteRegEx": "5",
+        "year": 2013,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways.",
+        "context": null
+    },
+    {
+        "title": "Feature learning for image classification via multiobjective genetic programming",
+        "author": [
+            "L. Shao",
+            "L. Liu",
+            "X. Li"
+        ],
+        "venue": "IEEE Trans. Neural Netw. Learn. Syst.,",
+        "citeRegEx": "6",
+        "shortCiteRegEx": "6",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways.",
+        "context": null
+    },
+    {
+        "title": "and Y",
+        "author": [
+            "L. Wang",
+            "S. Chen"
+        ],
+        "venue": "Wang, A unified algorithm for mixed L2,pminimizations and its application in feature selection, Comput. Optim.Appl., vol. 58, no. 2, pp. 409-421",
+        "citeRegEx": "8",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways.",
+        "context": null
+    },
+    {
+        "title": "Discriminant analysis for unsupervised feature selection",
+        "author": [
+            "J. Tang",
+            "X. Hu",
+            "H. Gao",
+            "H. Liu"
+        ],
+        "venue": "in Proc. 2014 SIAM Int. Conf. Data Min.,",
+        "citeRegEx": "9",
+        "shortCiteRegEx": "9",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways.",
+        "context": null
+    },
+    {
+        "title": "Trace ratio criterion for feature selection",
+        "author": [
+            "F. Nie",
+            "S. Xiang",
+            "Y. Jia",
+            "C. Zhang",
+            "S. Yan"
+        ],
+        "venue": "in Proc. 23rd AAAI Conf. Artif. Intell.,",
+        "citeRegEx": "10",
+        "shortCiteRegEx": "10",
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways.",
+        "context": null
+    },
+    {
+        "title": "Eigenfaces vs",
+        "author": [
+            "P.N. Belhumeur",
+            "J.P. Hepanha",
+            "D.J. Kriegman"
+        ],
+        "venue": "fisherfaces: recognition using class specific linear projection, IEEE. Trans. Pattern Analysis and Machine Intelligence, vol. 19, no. 7",
+        "citeRegEx": "11",
+        "shortCiteRegEx": null,
+        "year": 1997,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. The related references (PCA, [16], [17]; LDA [11]; DiscLDA [12], LFDA [31] show that the supervised learning methods can obtain much better performance than the unsupervised learning methods, and has been applied into different research domains.",
+        "context": null
+    },
+    {
+        "title": "Face Recognition Using Kernel Based Fisher Discriminant Analysis",
+        "author": [
+            "Q. Liu",
+            "R. Huang",
+            "H. Lu",
+            "S. Ma"
+        ],
+        "venue": "Fifth Intl Conf. Automatic Face and Gesture Recognition",
+        "citeRegEx": "12",
+        "shortCiteRegEx": null,
+        "year": 2002,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. The related references (PCA, [16], [17]; LDA [11]; DiscLDA [12], LFDA [31] show that the supervised learning methods can obtain much better performance than the unsupervised learning methods, and has been applied into different research domains.",
+        "context": null
+    },
+    {
+        "title": "In D",
+        "author": [
+            "S. Lacoste-Julien",
+            "F. Sha",
+            "M.I. Jordan"
+        ],
+        "venue": "Koller, Y. Bengio, D. Schuurmans and L. Bottou (Eds.), DiscLDA: Discriminative learning for dimensionality reduction and classification., Advances in Neural Information Processing Systems (NIPS), 21",
+        "citeRegEx": "13",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods.",
+        "context": null
+    },
+    {
+        "title": "Locality Preserving Projections",
+        "author": [
+            "X. He",
+            "P. Niyogi"
+        ],
+        "venue": "Advances in Neural Information Processing Systems 16, Vancouver, British Columbia, Canada",
+        "citeRegEx": "14",
+        "shortCiteRegEx": null,
+        "year": 2003,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In dimensionality reduction [5], [6], feature selection [7], [8], [9], [10], where a subset of features of the original set are selected, and feature transformation [11], [12], [13], [14], where the original features are transformed to a new feature subspace, are the two main ways. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. [14], [20] proposed Locality Preserving Projections (LPP) in 2003 and Neighborhood Preserving Embedding (NPE) in 2005.",
+        "context": null
+    },
+    {
+        "title": "Semi-supervised Dimensionality Reduction via Harmonic Functions",
+        "author": [
+            "C. Hou",
+            "F.Nie",
+            "Y. Wu"
+        ],
+        "venue": "Proceedingsof 8th International Conference,",
+        "citeRegEx": "15",
+        "shortCiteRegEx": "15",
+        "year": 2011,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods.",
+        "context": null
+    },
+    {
+        "title": "Eigenfaces for recognition",
+        "author": [
+            "M. Turk",
+            "A. Pentland"
+        ],
+        "venue": "Journal of Cognitive Neuroscience",
+        "citeRegEx": "17",
+        "shortCiteRegEx": null,
+        "year": 1991,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. The related references (PCA, [16], [17]; LDA [11]; DiscLDA [12], LFDA [31] show that the supervised learning methods can obtain much better performance than the unsupervised learning methods, and has been applied into different research domains. [16], [17] proposed Principal Component Analysis which is the most frequently used dimensionality reduction method.",
+        "context": null
+    },
+    {
+        "title": "Neighborhood preserving embedding",
+        "author": [
+            "Xiaofei He",
+            "Deng Cai",
+            "Shuicheng Yan",
+            "Hong-Jiang Zhang"
+        ],
+        "venue": "In Proceedings of the 10th IEEE International Conference on Computer Vision,",
+        "citeRegEx": "20",
+        "shortCiteRegEx": "20",
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. [14], [20] proposed Locality Preserving Projections (LPP) in 2003 and Neighborhood Preserving Embedding (NPE) in 2005.",
+        "context": null
+    },
+    {
+        "title": "Face recognition using laplacianfaces",
+        "author": [
+            "X. He",
+            "S. Yan",
+            "Y. Hu",
+            "P. Niyogi",
+            "H.-J. Zhang"
+        ],
+        "venue": "IEEE Trans. on Pattern Analysis and Machine Intelligence",
+        "citeRegEx": "21",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods.",
+        "context": null
+    },
+    {
+        "title": "Laplacian eigenmaps for dimensionality reduction and data representation",
+        "author": [
+            "M. Belkin",
+            "P. Niyogi"
+        ],
+        "venue": "Neural Computation,",
+        "citeRegEx": "22",
+        "shortCiteRegEx": "22",
+        "year": 2003,
+        "abstract": " One of the central problems in machine learning and pattern recognition is to develop appropriate representations for complex data. We consider the problem of constructing a representation for data lying on a low-dimensional manifold embedded in a high-dimensional space. Drawing on the correspondence between the graph Laplacian, the Laplace Beltrami operator on the manifold, and the connections to the heat equation, we propose a geometrically motivated algorithm for representing the high-dimensional data. The algorithm provides a computationally efficient approach to nonlinear dimensionality reduction that has locality-preserving properties and a natural connection to clustering. Some potential applications and illustrative examples are discussed. ",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods.",
+        "context": null
+    },
+    {
+        "title": "Effective Discriminative Feature Selection with Non-trivial Solutions",
+        "author": [
+            "H. Tao",
+            "C. Hou",
+            "F. Nie",
+            "Y.Jiao",
+            "D. Yi"
+        ],
+        "venue": "IEEE TNNLS, eprint arXiv:1504.05408,",
+        "citeRegEx": "23",
+        "shortCiteRegEx": "23",
+        "year": 2015,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The difference between supervised and unsupervised dimensionality reduction algorithms lies in whether the ground truth is utilized or not in learning the transformation matrix [23].",
+        "context": null
+    },
+    {
+        "title": "Quimet,M.: Out-of-sample Extensions for LLE, Isomap, MDS, Eigenmaps, and Spectral Clustering",
+        "author": [
+            "Y. Bengio",
+            "J. Paiement",
+            "P. Vincent",
+            "O. Dellallaeu",
+            "Roux",
+            "N.L"
+        ],
+        "venue": "Neural Information Processing Systems,",
+        "citeRegEx": "24",
+        "shortCiteRegEx": "24",
+        "year": 2003,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " However, the motivations between PCA, LPP, NPE and LLE, Isomap and Laplacian Eigenmaps, are very different, and the original LLE, Isomap and Laplcacian Eigenmaps cannot deal with the out-of-sample problem directly [24], that is to say, they only can deal with the training samples, and obtain the low dimension embedding, but for test samples, they cannot directly calculated, analytically or cannot calculated at all. In addition, in subspace learning via pattern shrinking, it cannot directly deal with the out-of-the-sample problem [24], where only the low dimensional embedding",
+        "context": null
+    },
+    {
+        "title": "Learning a subspace for clustering via pattern shrinking",
+        "author": [
+            "C. Hou",
+            "F. Nie",
+            "Y. Jiao",
+            "C. Zhang",
+            "Y. Wu"
+        ],
+        "venue": "Inf. Process. Manage",
+        "citeRegEx": "25",
+        "shortCiteRegEx": "25",
+        "year": 2013,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Recently, pattern shrinking [25], [26] is often utilized in clustering algorithms, which not only characterizes the linear and nonlinear structures of data, but also reflects the requirements of clustering, what is more, it can obtain satisfying performance on high dimensional data and non-Gaussian distribution data [30], [32], [33], [34]. shrinking [25], [26] may be helpful for us to find a suitable transformation matrix, thus, the pattern shrinking is employed in our model.",
+        "context": null
+    },
+    {
+        "title": "A Convex Formulation for Spectral Shrunk Clustering",
+        "author": [
+            "X.-J. Chang",
+            "F.-P. Nie",
+            "Z.-G. Ma",
+            "Y. Yang",
+            "X.-F. Zhou"
+        ],
+        "venue": "Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence",
+        "citeRegEx": "26",
+        "shortCiteRegEx": null,
+        "year": 2015,
+        "abstract": "Spectral clustering is a fundamental technique in the field of data mining\nand information processing. Most existing spectral clustering algorithms\nintegrate dimensionality reduction into the clustering process assisted by\nmanifold learning in the original space. However, the manifold in\nreduced-dimensional subspace is likely to exhibit altered properties in\ncontrast with the original space. Thus, applying manifold information obtained\nfrom the original space to the clustering process in a low-dimensional subspace\nis prone to inferior performance. Aiming to address this issue, we propose a\nnovel convex algorithm that mines the manifold structure in the low-dimensional\nsubspace. In addition, our unified learning process makes the manifold learning\nparticularly tailored for the clustering. Compared with other related methods,\nthe proposed algorithm results in more structured clustering result. To\nvalidate the efficacy of the proposed algorithm, we perform extensive\nexperiments on several benchmark datasets in comparison with some\nstate-of-the-art clustering approaches. The experimental results demonstrate\nthat the proposed algorithm has quite promising clustering performance.",
+        "full_text": "arXiv:1411.6308v1  [cs.LG]  23 Nov 2014\nA Convex Formulation for Spectral Shrunk Clustering\nXiaojun Chang1, Feiping Nie2,3, Zhigang Ma4, Yi Yang1 and Xiaofang Zhou5\n1Centre for Quantum Computation and Intelligent Systems, University of Technology Sydney, Australia.\n2Center for OPTical IMagery Analysis and Learning, Northwestern Polytechnical University, Shaanxi, China.\n3Department of Computer Science and Engineering, University of Texas at Arlington, USA.\n4School of Computer Science, Carnegie Mellon University, USA.\n5School of Information Technology & Electrical Engineering, The University of Queensland, Australia.\ncxj273@gmail.com,feipingnie@gmail.com,kevinma@cs.cmu.edu,yiyang@cs.cmu.edu,zxf@itee.uq.edu.au.\nAbstract\nSpectral clustering is a fundamental technique in the\n\ufb01eld of data mining and information processing. Most\nexisting spectral clustering algorithms integrate dimen-\nsionality reduction into the clustering process assisted\nby manifold learning in the original space. However,\nthe manifold in reduced-dimensional subspace is likely\nto exhibit altered properties in contrast with the orig-\ninal space. Thus, applying manifold information ob-\ntained from the original space to the clustering process\nin a low-dimensional subspace is prone to inferior per-\nformance. Aiming to address this issue, we propose a\nnovel convex algorithm that mines the manifold struc-\nture in the low-dimensional subspace. In addition, our\nuni\ufb01ed learning process makes the manifold learning\nparticularly tailored for the clustering. Compared with\nother related methods, the proposed algorithm results in\nmore structured clustering result. To validate the ef\ufb01-\ncacy of the proposed algorithm, we perform extensive\nexperiments on several benchmark datasets in compar-\nison with some state-of-the-art clustering approaches.\nThe experimental results demonstrate that the proposed\nalgorithm has quite promising clustering performance.\nIntroduction\nClustering\nhas\nbeen\nwidely\nused\nin\nmany\nreal-world\napplications\n(Jain and Dubes 1988;\nWang, Nie, and Huang 2014). The objective of cluster-\ning is to cluster the original data points into various\nclusters, so that data points within the same cluster\nare dense while those in different clusters are far away\nfrom each other (Filippone et al. 2008). Researchers have\nproposed a variety of clustering algorithms, such as K-\nmeans clustering and mixture models (Wang et al. 2014;\nNie, Wang, and Huang 2014; Nie et al. 2011b), etc.\nThe existing clustering algorithms, however, mostly work\nwell when the samples\u2019 dimensionality is low. When par-\ntitioning high-dimensional data, the performance of these\nalgorithms is not guaranteed. For example, K-means clus-\ntering iteratively assigns each data point to the cluster\nThis paper was partially supported by the ARC DECRA project\nDE130101311, UQ ECR (2013002401) and Tianjin Key Labo-\nratory of Cognitive Computing and Application. Copyright\nc\u20dd\n2015, Association for the Advancement of Arti\ufb01cial Intelligence\n(www.aaai.org). All rights reserved.\nwith the closest center based on speci\ufb01c distance/similarity\nmeasurement and updates the center of each cluster. But\nthe distance/similarity measurements may be inaccurate\non high-dimensional data, which tends to limit the clus-\ntering performance. As suggested by some researchers,\nmany high-dimensional data may exhibit dense grouping\nin a low-dimensional subspace (Nie et al. 2009). Hence, re-\nsearchers have proposed to \ufb01rst project the original data\ninto a low-dimensional subspace via some dimensionality\nreduction techniques and then cluster the computed low-\ndimensional embedding for high-dimensional data cluster-\ning. For instance, a popular approach is to use Princi-\nple component analysis (PCA) to reduce the dimensional-\nity of the original data followed by Kmeans for cluster-\ning (PcaKm) (Xu and Wunsch 2005). Ding et al. present a\nclustering algorithm based on Linear discriminant analysis\n(LDA) method (Ding and Li 2007). Ye et al propose dis-\ncriminative K-means (DisKmeans) clustering which uni-\n\ufb01es the iterative procedure of dimensionality reduction and\nK-means clustering into a trace maximization problem\n(Ye, Zhao, and Wu 2007).\nAnother genre of clustering, i.e., spectral clustering\n(Shi and Malik 2000) integrates dimensionality reduction\ninto its clustering process. The basic idea of spectral clus-\ntering is to \ufb01nd a clustering assignment of the data points\nby adopting the spectrum of similarity matrix that leverages\nthe nonlinear manifold structure of original data. Spectral\nclustering has been shown to be easy to implement and of-\ntentimes it outperforms traditional clustering methods be-\ncause of its capacity of mining intrinsic geometric struc-\ntures, which facilitates partitioning data with more com-\nplicated structures. The bene\ufb01t of utilizing manifold infor-\nmation has been demonstrated in many applications, such\nas image segmentation and web mining. Due to the ad-\nvantage of spectral clustering, different variants of spec-\ntral clustering algorithms have been proposed these years\n(Li et al. 2015). For example, local learning-based cluster-\ning (LLC) (Wu and Schlkopf 2006) utilizes a kernel regres-\nsion model for label prediction based on the assumption\nthat the class label of a data point can be determined by its\nneighbors. Self-tuning SC (Zelnik-Manor and Perona 2004)\nis able to tune parameters automatically in an unsupervised\nscenario. Normalized cuts is capable of balancing the vol-\nume of clusters for the usage of data density information\n(Shi and Malik 2000).\nSpectral clustering is essentially a two-stage approach,\ni.e.,\nmanifold\nlearning\nbased\nin\nthe\noriginal\nhigh-\ndimensional space and dimensionality reduction. To achieve\nproper clustering, spectral clustering assumes that two\nnearby data points in the high density region of the reduced-\ndimensional space have the same cluster label. However, this\nassumption does not always hold. More possibly, these near-\nest neighbors may be far away from each other in the original\nhigh-dimensional space due to the curse of dimensionality.\nThat being said, the distance measurement of the original\ndata could not precisely re\ufb02ect the low-dimensional mani-\nfold structure, thus leading to suboptimal clustering perfor-\nmance.\nIntuitively,\nif\nthe\nmanifold\nstructure\nin\nthe\nlow-\ndimensional space is precisely captured, the clustering\nperformance could be enhanced when applied to high-\ndimensional data clustering. Aiming to achieve this goal, we\npropose a novel clustering algorithm that is able to mine the\ninherent manifold structure of the low-dimensional space for\nclustering. Moreover, compared to traditional spectral clus-\ntering algorithms, the shrunk pattern learned by the proposed\nalgorithm does not have an orthogonal constraint, giving it\nmore \ufb02exibility to \ufb01t the manifold structure. It is worthwhile\nto highlight the following merits of our work:\n\u2022 The proposed algorithm is more capable of uncovering the\nmanifold structure. Particularly, the shrunk pattern does\nnot have the orthogonal constraint, making it more \ufb02exi-\nble to \ufb01t the manifold structure.\n\u2022 The integration of manifold learning and clustering makes\nthe former particularly tailored for the latter. This is in-\ntrinsically different from most state-of-the-art clustering\nalgorithms.\n\u2022 The proposed algorithm is convex and converges to global\noptimum, which indicates that the proposed algorithm\ndoes not rely on the initialization.\nThe rest of this paper is organized as follows. After re-\nviewing related work on spectral clustering in section 2, we\ndetail the proposed algorithm in section 3. Extensive experi-\nmental results are given in section 4 and section 5 concludes\nthis paper.\nRelated Work\nOur work is inspired by spectral clustering. Therefore, we\nreview the related work on spectral clustering in this section.\nBasics of Spectral Clustering\nTo facilitate the presentation, we \ufb01rst summarize the no-\ntations that will be frequently used in this paper. Given a\ndataset X = {x1, . . . , xn}, xi \u2208Rd(1 \u2264i \u2264n) is the i-th\ndatum and n is the total number of data points. The objec-\ntive of clustering is to partition \u03c7 into c clusters. Denote the\ncluster assignment matrix by Y = {y1, . . . , yn} \u2208Rn\u00d7c,\nwhere yi \u2208{0, 1}c\u00d71 (1 \u2264i \u2264n) is the cluster indicator\nvector for the datum xi. The j-th element of yi is 1 if xi is\nclustered to the j-th cluster, and 0 otherwise.\nExisting spectral clustering algorithms adopt a weighted\ngraph to partition the data. Let us denote G = {X, A} as a\nweighted graph with a vertex set X and an af\ufb01nity matrix\nA \u2208Rn\u00d7n. Aij is the af\ufb01nity of a pair of vertexes of the\nweighted graph. Aij is commonly de\ufb01ned as:\nAij =\n\u001a\nexp(\u2212\n\u2225xi\u2212xj\u22252\n\u03b42\n), if xi and xj are k nearest neighbors.\n0,\notherwise.\nwhere \u03b4 is the parameter to control the spread of neigh-\nbors. The Laplacian matrix L is computed according to\nL = D \u2212A, where D is a diagonal matrix with the diag-\nonal elements as Dii = P\nj Aij, \u2200i. Following the work in\n(Ye, Zhao, and Wu 2007), we denote the scaled cluster indi-\ncator matrix F as follows:\nF = [F1, F2, . . . , Fn]T = Y (Y T Y )\u22121\n2 ,\n(1)\nwhere Fi is the scaled cluster indicator of xi. The j-th col-\numn of F is de\ufb01ned as follows by (Ye, Zhao, and Wu 2007):\nfj =\n\uf8ee\n\uf8ef\uf8ef\uf8ef\uf8f00, . . . , 0,\n|\n{z\n}\nPj\u22121\ni=1 ni\n1\n\u221anj\n, . . . ,\n1\n\u221anj\n,\n|\n{z\n}\nnj\n0, . . . , 0\n| {z }\nPc\ni=j+1 nk\n\uf8f9\n\uf8fa\uf8fa\uf8fa\uf8fb,\n(2)\nwhich indicates which data points are partitioned into the j-\nth cluster Cj. nj is the number of data points in cluster Cj.\nThe objective function of spectral clustering algorithm is\ngenerally formulated as follows:\nmin\nF\nT r(F T LF)\ns.t. F = Y (Y T Y )\u22121\n2\n(3)\nwhere T r(\u00b7) denotes the trace operator. By denoting I as\nan identity matrix, we can de\ufb01ne the normalized Laplacian\nmatrix Ln as:\nLn = I \u2212D\u22121\n2 AD\u22121\n2 .\n(4)\nBy replacing L in Eq. (3) with the normalized Laplacian\nmatrix, the objective function becomes the well-known\nSC\nalgorithm\nnormalized\ncut\n(Shi and Malik 2000).\nIn the same manner, if we replace L\nin\nEq. (3)\nby the Laplacian matrix obtained by local learning\n(Yang et al. 2010)(Wu and Schlkopf 2006),\nthe\nobjective\nfunction converts to Local Learning Clustering (LLC).\nProgress on Spectral Clustering\nBeing easy to implement and promising for many applica-\ntions, spectral clustering has been widely studied for dif-\nferent problems. Chen et al. propose a Landmark-based\nSpectral Clustering (LSC) for large scale clustering prob-\nlems (Chen and Cai 2011). Speci\ufb01cally, a few representa-\ntive data points are \ufb01rst selected as the landmarks and\nthe original data points are then represented as the lin-\near combinations of these landmarks. The spectral clus-\ntering is performed on the landmark-based representation.\nYang et al. propose to utilize a nonnegative constraint to\nrelax the elements of cluster indicator matrix for spectral\nclustering (Yang et al. 2011). Liu et al. propose to com-\npress the original graph used for spectral clustering into a\nsparse bipartite graph. The clustering is then performed on\nthe bipartite graph instead, which improved the ef\ufb01ciency\nfor large-scale data (Liu et al. 2013). Xia et al. propose a\nmulti-view spectral clustering method based on low-rank\nand sparse decomposition (Xia et al. 2014). Yang et al. pro-\npose to use Laplacian Regularized L1-Graph for cluster-\ning (Yang et al. 2014). Tian et al. recently propose to adopt\ndeep learning in spectral clustering (Tian et al. 2014).\nIn spite of the encouraging progress, few of the existing\nspectral clustering methods have considered learn the mani-\nfold in the low-dimensional subspace more precisely, not to\nmention integrating such manifold learning and clustering\ninto a uni\ufb01ed framework. This issue shall be addressed in\nthis paper for boosted clustering performance.\nThe Proposed Algorithm\nIn this section, we present the details of the proposed algo-\nrithm. A fast iterative method is also proposed to solve the\nobjective function.\nProblem Formulation\nOur algorithms is built atop the aim of uncovering the utmost\nmanifold structure in the low-dimensional subspace of orig-\ninal data. Inspired by (Hou et al. 2013), we adopt the pattern\nshrinking during the manifold learning and the shrunk pat-\nterns are exploited for clustering simultaneously.\nTo begin with, we have the following notations. Denote\nthe shrunk patterns of n data samples as {g1, \u00b7 \u00b7 \u00b7 , gn},\nwhere gi \u2208Rc. We \ufb01rst obtain spectral embedding F of\nthe original samples by minimizing the traditional spectral\nclustering algorithm min T r(F T LnF), where Ln is a nor-\nmalized Laplacian matrix.\nNext, the shrunk patterns are computed by satisfying the\nfollowing requirements. (1) The shrunk patterns should keep\nconsistency with the spectral embedding. To be more spe-\nci\ufb01c, the shrunk patterns should not be far away from the\nspectral clustering. (2) Note that nearby points are more\nlikely to belong to the same cluster. We thus design a sim-\nilarity matrix to measure pair similarity of any two spectral\nembedding, which the shrunk patters should follow.\nTo characterize the manifold structure of the spectral em-\nbedding {f1, \u00b7 \u00b7 \u00b7 , fn}, a k-nearest neighbor graph is con-\nstructed by connecting each point to its k nearest neigh-\nbors. The similarity matrix, W, is computed by Wij =\nexp(\u2212\u2225fi\u2212fj\u22252\n\u03b42\n).\nFrom this similarity matrix, we can observe that if two\nspectral embeddings are nearby, they should belong to the\nsame cluster and the corresponding weight should be large,\nwhich satis\ufb01es the \ufb01rst requirement (Nie et al. 2011a).\nTo keep the local similarity of spectral embedding, we\npropose to optimize the following objective function.\nmin\nG\nX\nij\nWij\u2225gi \u2212gj\u22252\n(5)\nWe also aim to keep the consistency between spectral em-\nbedding and shrunk patterns. Hence, we propose to mini-\nmize the following loss function directly.\nmin\nG \u2225G \u2212F\u22252\n2\n(6)\nTo this end, we formulate the objection function as fol-\nlows:\nmin\nG \u2225G \u2212F\u22252\n2 + \u03b3\nX\ni,j\nWij\u2225gi \u2212gj\u22252\n(7)\nwhere \u03b3 is a balance parameter.\nIt can be easily proved that our formulation is convex. Due\nto the space limit, we omit the proof here. Since our method\nexploits shrunk patterns as the input for clustering, we name\nit Spectral Shrunk Clustering (SSC).\nAs\nindicated\nin\n(Ma et al. 2012;\nKong, Ding, and Huang 2011),\nthe\nleast\nsquare\nloss\nfunction is not robust to outliers. To make our method\neven\nmore\neffective,\nwe\nfollow\n(Ma et al. 2012;\nNie et al. 2010) and employ l2,1-norm to\nhandle the\noutliers. The objective function is rewritten as follows:\nmin\nG \u2225G \u2212F\u22252,1 + \u03b3\nX\ni,j\nWij\u2225gi \u2212gj\u22252\n(8)\nOptimization\nThe proposed function involves the l2,1-norm, which is dif-\n\ufb01cult to solve in a closed form. We propose to solve this\nproblem in the following steps. Denote H = G \u2212F and\nH = [h1, \u00b7 \u00b7 \u00b7 , hd], where d is the dimension of spectral em-\nbedding. The objective function can be rewritten as follows:\nmin\nG T r((G \u2212F)T S(G \u2212F)) + \u03b3\nX\nij\nwij\u2225gi \u2212gj\u22252 (9)\nwhere\nS =\n\uf8ee\n\uf8ef\uf8f0\n1\n2\u2225h1\u22252\n...\n1\n2\u2225hd\u22252\n\uf8f9\n\uf8fa\uf8fb.\n(10)\nDenote a Laplacian matrix eL = eD \u2212f\nW, where f\nW is a\nre-weighted weight matrix de\ufb01ned by\nf\nWij =\nWij\n2\u2225gi \u2212gj\u22252\n(11)\neD is a diagonal matrix with the i-th diagonal element as\nP\nj f\nWij.\nBy simple mathematical deduction, the objective function\narrives at:\nmin\nG T r((G \u2212F)T S(G \u2212F)) + \u03b3T r(GT eLG).\n(12)\nBy setting the derivative of Eq. (12) to G to 0, we have:\nG = (S + \u03b3eL)\u22121SF.\n(13)\nBased on the above mathematical deduction, we propose\nan iterative algorithm to optimize the objective function in\nEq. (3), which is summarized in Algorithm 1. Once the\nshrunk patterns G are obtained, we perform K-means clus-\ntering on it to get the \ufb01nal clustering result.\nAlgorithm 1: Optimization Algorithm for SSC\nData: Data X \u2208Rd\u00d7n, Parameter \u03b3 and the number of\nclusters c\nResult:\nThe discrete cluster assignment Y \u2208Rn\u00d7c\n1 Compute the normalized Laplacian matrix Ln ;\n2 Obtain the spectral embedding F by using the\ntraditional spectral clustering ;\n3 Compute the similarity matrix W using the spectral\nembedding F ;\n4 Obtain the Laplacian matrix with the reweighted weight\nmatrix according to Eq. (11) ;\n5 Set t = 0 ;\n6 Initialize G0 \u2208Rn\u00d7c;\n7 repeat\n8\nCompute Ht = Gt \u2212F ;\n9\nCompute the diagonal matrix St according to (10) ;\n10\nCompute Gt+1 according to\nGt+1 = (St + \u03b3f\nW)\u22121StX ;\n11\nt = t + 1 ;\n12 until Convergence;\n13 Based on G\u2217, compute the discrete cluster assignment\nmatrix Y by using K-means clustering;\n14 Return the discrete cluster assignment matrix Y .\nConvergence Analysis\nTo prove the convergence of the Algorithm 1, we need the\nfollowing lemma (Nie et al. 2010).\nLemma 1. For any nonzero vectors g, gt \u2208Rc, the follow-\ning inequality holds:\n\u2225g\u22252 \u2212\u2225g\u22252\n2/2\u2225gt\u22252 \u2264\u2225gt\u22252 \u2212\u2225gt\u22252\n2/2\u2225gt\u22252\n(14)\nThe following theorem guarantees that the problem in Eq.\n(8)converges to the global optimum by Algorithm 1 .\nTheorem 1. The Algorithm 1 monotonically decreases the\nobjective function value of the problem in Eq. (8) in each\niteration, thus making it converge to the global optimum.\nProof. De\ufb01ne f(G) = T r((G \u2212F)T S(G \u2212F). According\nto Algorithm 1, we know that\nGt+1 = arg min\nG f(G) + \u03b3\nX\ni,j\n(f\nW )ij\u2225gi \u2212gj\u22252\n2\n(15)\nNote that (f\nWt)ij =\nWij\n2\u2225gt\ni\u2212gt\nj\u22252 , so we have\nf(Gt+1) + \u03b3\nX\nij\nWij\u2225gt+1\ni\n\u2212gt+1\nj\n\u22252\n2\n2\u2225gt\ni \u2212gt\nj\u22252\n\u2264f(Gt) + \u03b3\nX\nij\nWij\u2225gt\ni \u2212gt\nj\u22252\n2\n2\u2225gt\ni \u2212gt\nj\u22252\n(16)\nAccording to Lemma 1, we have\nX\nij\nWij(\u2225gt+1\ni\n\u2212gt+1\nj\n\u22252 \u2212\n\u2225gt+1\ni\n\u2212gt+1\nj\n\u22252\n2\n2\u2225gt\ni \u2212gt\nj\u22252\n)\n\u2264\nX\nij\nWij(\u2225gt\ni \u2212gt\nj\u22252 \u2212\u2225gt\ni \u2212gt\nj\u22252\n2\n2\u2225gt\ni \u2212gt\nj\u22252\n)\n(17)\nBy summing Eq. (16) and Eq. (17), we arrive at:\nf(Gt+1) + \u03b3\nX\nij\nWij\u2225gt+1\ni\n\u2212gt+1\nj\n\u22252\n\u2264f(Gt) + \u03b3\nX\nij\nWij\u2225gt\ni \u2212gt\nj\u22252\n(18)\nThus, Algorithm 1 monotonically decreases the objective\nfunction value of the problem in Eq. (8) in each iteration t.\nWhen converged,Gt and eLt satisfy Eq. (13). As the problem\nin Eq. (8) is convex, satisfying Eq. (13) indicates that Gt\nis the global optimum solution of the problem in Eq. (8).\nTherefore, using Algorithm 1 makes the problem in Eq. (8)\nconverge to the global optimum.\nExperiment\nIn this section, we perform extensive experiments on a va-\nriety of applications to test the performance of our method\nSSC. We compare SSC to several clustering algorithms\nincluding the classical K-means, the classical spectral\nclustering\n(SC),\nPCA Kmeans\n(Xu and Wunsch 2005),\nPCA\nspectral\nclustering\n(PCA SC),\nLDA Kmeans\n(Ding and Li 2007), LDA spectral clustering (LDA SC),\nLocal Learning Clustering (LLC) (Wu and Schlkopf 2006)\nand SPLS (Hou et al. 2013).\nDatasets\nA variety of datasets\nare used\nin\nour experiments\nwhich\nare\ndescribed\nas\nfollows.\nThe\nAR\ndataset\n(Martinez and Benavente 1998)\ncontains\n840\nfaces\nof\n120 different people. We utilize the pixel value as the fea-\nture representations. The JAFFE dataset (Lyons et al. 1997)\nconsists of 213 images of different facial expressions from\n10 different Japanese female models. The images are resized\nto 26\u00d726 and represented by pixel values. The ORL dataset\n(Samaria and Harter 1994) consists of 40 different subjects\nwith 10 images each. We also resize each image to 32 \u00d7 32\nand use pixel values to represent the images. The UMIST\nface dataset (Graham and M 1998) consists of 564 images\nof 20 individuals with mixed race, gender and appearance.\nEach individual is shown in a range of poses from pro\ufb01le\nto frontal views. The pixel value is used as the feature\nrepresentation. The BinAlpha dataset contains 26 binary\nhand-written alphabets and we randomly select 30 images\nfor every alphabet. The MSRA50 dataset contains 1799\nimages from 12 different classes. We resize each image to\n32 \u00d7 32 and use the pixel values as the features. The YaleB\ndataset\n(Georghiades, Belhumeur, and Kriegman 2001)\ncontains 2414 near frontal images from 38 persons under\ndifferent illuminations. Each image is resized to 32 \u00d7 32\nand the pixel value is used as feature representation. We ad-\nditionally use the USPS dataset to validate the performance\non handwritten digit recognition. The dataset consists of\n9298 gray-scale handwritten digit images. We resize the\nimages to 16 \u00d7 16 and use pixel values as the features.\nSetup\nThe size of neighborhood, k is set to 5 for all the\nspectral clustering algorithms. For parameters in all the\ncomparison algorithms, we tune them in the range of\n{10\u22126, 10\u22123, 100, 103, 106} and report the best results. Note\nthat the results of all the clustering algorithms vary on differ-\nent initialization. To reduce the in\ufb02uence of statistical vari-\nation, we repeat each clustering 50 times with random ini-\ntialization and report the results corresponding to the best\nobjective function values. For all the dimensionality reduc-\ntion based K-means and Spectral clustering, we project the\noriginal data into a low dimensional subspace of 10 to 150\nand report the best results.\nEvaluation Metrics\nFollowing most work on clustering, we use clustering ac-\ncuracy (ACC) and normalized mutual information (NMI) as\nour evaluation metrics in our experiments.\nLet qi represent the clustering label result from a clus-\ntering algorithm and pi represent the corresponding ground\ntruth label of an arbitrary data point xi. Then ACC is de-\n\ufb01ned as follows:\nACC =\nPn\ni=1 \u03b4(pi, map(qi))\nn\n,\n(19)\nwhere \u03b4(x, y) = 1 if x = y and \u03b4(x, y) = 0 otherwise.\nmap(qi) is the best mapping function that permutes cluster-\ning labels to match the ground truth labels using the Kuhn-\nMunkres algorithm. A larger ACC indicates better clustering\nperformance.\nFor any two arbitrary variables P and Q, NMI is de\ufb01ned\nas follows (Strehl and Ghosh 2003):\nNMI =\nI(P, Q)\np\nH(P)H(Q)\n,\n(20)\nwhere I(P, Q) computes the mutual information between\nP and Q, and H(P) and H(Q) are the entropies of P\nand Q. Let tl represent the number of data in the clus-\nter Cl(1 \u2264l \u2264c) generated by a clustering algorithm\nand eth represent the number of data points from the h-th\nground truth class. NMI metric is then computed as follows\n(Strehl and Ghosh 2003):\nNMI =\nPc\nl=1\nPc\nh=1 tl,hlog( n\u00d7tl,h\ntl e\nth )\nq\n(Pc\nl=1 tl log tl\nn )(Pc\nh=1 eth log e\nth\nn )\n,\n(21)\nwhere tl,h is the number of data samples that lie in the inter-\nsection between Cl and h-th ground truth class. Similarly, a\nlarger NMI indicates better clustering performance.\nExperimental Results\nThe experimental results on listed in Table 1 and Table 2. We\ncan see from the two tables that our method is consistently\nthe best algorithm using both evaluation metrics. We also\nobserve that:\n1. The spectral clustering algorithm and its variants achieve\nbetter performance than the classical k-means and its vari-\nants. This observation suggests that it is bene\ufb01cial to uti-\nlize the pairwise similarities between all data points from\na weighted graph adjacency matrix that contains helpful\ninformation for clustering.\n2. PCA Kmeans and LDA Kmeans are better than K-means\nwhereas PCA SC and LDA SC are better than SC. This\ndemonstrates that dimensionality reduction is helpful for\nimproving the cluster performance.\n3. LDA Kmeans outperforms PCA Kmeans while LDA SC\noutperforms PCA SC. This indicates that LDA is more\ncapable of keeping the structural information than PCA\nwhen doing dimensionality reduction.\n4. Among various spectral clustering variants, LLC is the\nmost robust algorithm. This means using a more sophisti-\ncated graph Laplacian is bene\ufb01cial for better exploitation\nof manifold structure.\n5. SPLS is the second best clustering algorithm. This is be-\ncause it incorporates both the linear and nonlinear struc-\ntures of original data.\n6. Our proposed Spectral Shrunk Clustering (SSC) consis-\ntently outperforms the other K-means based and spectral\nclustering based algorithms. This advantage is attributed\nto the optimal manifold learning in the low-dimensional\nsubspace and it being tightly coupled with the clustering\noptimization.\nParameter Sensitivity\nIn this section, we study the sensitivity of our algorithm w.r.t.\nthe parameter \u03b3 in Eq. (3). Fig 1 shows the accuracy (y-axis)\nof SSC for different \u03b3 values (x-axis) on all the experimen-\ntal datasets. It can be seen from the \ufb01gure that the perfor-\nmance varies when different values of \u03b3 are used. However,\nexcept on MSRA50 and USPS datasets, our method attains\nthe best/respectable performance when \u03b3 = 1. This indi-\ncates that our method has a consistent preference on param-\neter setting, which makes it uncomplicated to get optimal\nparameter value in practice.\nTable 1: Performance comparison (ACC%\u00b1Standard Deviation) between K-means, Spectral Clustering, PCA Kmeans,\nLDA Kmeans, PCA SC, LDA SC, LLC, SPLS and SSC.\nAR\nJAFFE\nORL\nUMIST\nbinalpha\nMSRA50\nYaleB\nUSPS\nK-means\n36.3 \u00b1 1.4\n75.6 \u00b1 1.8\n60.5 \u00b1 1.8\n41.3 \u00b1 1.6\n41.7 \u00b1 1.1\n46.2 \u00b1 1.7\n14.4 \u00b1 1.5\n65.4 \u00b1 1.7\nSC\n41.6 \u00b1 2.1\n76.1 \u00b1 1.6\n72.7 \u00b1 2.3\n52.2 \u00b1 1.4\n43.6 \u00b1 1.5\n52.3 \u00b1 1.8\n34.8 \u00b1 1.4\n64.3 \u00b1 1.4\nPCA Kmeans\n39.8 \u00b1 1.8\n75.8 \u00b1 1.5\n64.5 \u00b1 2.3\n48.8 \u00b1 1.7\n42.4 \u00b1 1.5\n56.0 \u00b1 1.9\n24.9 \u00b1 1.8\n69.4 \u00b1 1.8\nPCA SC\n43.2 \u00b1 1.7\n76.9 \u00b1 1.8\n67.8 \u00b1 2.1\n54.1 \u00b1 1.9\n44.3 \u00b1 1.8\n54.9 \u00b1 1.6\n36.8 \u00b1 2.0\n69.1 \u00b1 1.5\nLDA Kmeans\n40.4 \u00b1 1.5\n76.5 \u00b1 1.7\n65.6 \u00b1 2.6\n49.7 \u00b1 1.8\n42.9 \u00b1 1.7\n56.4 \u00b1 1.8\n26.1 \u00b1 1.8\n70.1 \u00b1 1.3\nLDA SC\n44.5 \u00b1 1.3\n77.4 \u00b1 1.9\n68.3 \u00b1 2.4\n54.7 \u00b1 1.5\n45.1 \u00b1 1.4\n55.1 \u00b1 1.7\n38.2 \u00b1 1.6\n70.4 \u00b1 1.5\nLLC\n48.7 \u00b1 1.6\n78.6 \u00b1 1.5\n71.5 \u00b1 2.2\n63.3 \u00b1 1.8\n40.7 \u00b1 1.8\n48.1 \u00b1 1.4\n38.2 \u00b1 1.5\n63.9 \u00b1 1.7\nSPLS\n49.2 \u00b1 1.4\n79.5 \u00b1 2.1\n74.2 \u00b1 1.8\n70.4 \u00b1 1.6\n48.5 \u00b1 1.9\n60.3 \u00b1 1.3\n47.3 \u00b1 1.7\n71.4 \u00b1 1.6\nSSC\n51.3 \u00b1 1.5\n81.2 \u00b1 1.6\n76.0 \u00b1 1.6\n71.1 \u00b1 1.8\n49.4 \u00b1 1.3\n63.2 \u00b1 1.1\n49.8 \u00b1 1.6\n75.5 \u00b1 1.9\nTable 2: Performance Comparison (NMI%\u00b1Standard Deviation) between K-means, Spectral Clustering, PCA Kmeans,\nLDA Kmeans, PCA SC, LDA SC, LLC, SPLS and SSC.\nAR\nJAFFE\nORL\nUMIST\nbinalpha\nMSRA50\nYaleB\nUSPS\nK-means\n68.7 \u00b1 3.0\n79.4 \u00b1 0.8\n80.3 \u00b1 1.8\n64.4 \u00b1 1.5\n58.6 \u00b1 1.4\n56.7 \u00b1 1.8\n17.3 \u00b1 1.5\n67.3 \u00b1 1.8\nSC\n71.3 \u00b1 2.6\n80.2 \u00b1 0.9\n85.8 \u00b1 1.9\n72.1 \u00b1 1.7\n59.7 \u00b1 1.6\n70.0 \u00b1 1.6\n55.6 \u00b1 1.6\n69.5 \u00b1 1.6\nPCA Kmeans\n69.4 \u00b1 2.8\n79.8 \u00b1 0.8\n80.6 \u00b1 1.6\n68.2 \u00b1 1.8\n59.1 \u00b1 1.8\n60.3 \u00b1 1.5\n26.7 \u00b1 1.8\n73.1 \u00b1 1.9\nPCA SC\n70.3 \u00b1 2.4\n81.5 \u00b1 1.3\n86.3 \u00b1 1.4\n72.9 \u00b1 1.5\n60.6 \u00b1 1.9\n72.4 \u00b1 1.8\n38.6 \u00b1 1.5\n74.2 \u00b1 1.8\nLDA Kmeans\n69.9 \u00b1 1.9\n82.1 \u00b1 1.4\n81.1 \u00b1 2.1\n68.8 \u00b1 1.5\n59.8 \u00b1 1.6\n61.1 \u00b1 1.9\n29.4 \u00b1 1.6\n75.1 \u00b1 1.6\nLDA SC\n70.8 \u00b1 1.5\n81.9 \u00b1 0.9\n86.8 \u00b1 1.7\n74.1 \u00b1 2.0\n61.3 \u00b1 1.7\n73.2 \u00b1 1.6\n39.9 \u00b1 1.4\n75.4 \u00b1 1.7\nLLC\n71.2 \u00b1 2.4\n82.5 \u00b1 1.7\n84.9 \u00b1 1.5\n77.3 \u00b1 1.8\n61.4 \u00b1 1.9\n66.2 \u00b1 1.6\n34.1 \u00b1 1.3\n67.5 \u00b1 1.5\nSPLS\n72.4 \u00b1 1.7\n83.1 \u00b1 2.1\n87.2 \u00b1 1.8\n82.2 \u00b1 1.6\n63.6 \u00b1 1.8\n69.6 \u00b1 1.8\n41.4 \u00b1 1.6\n76.5 \u00b1 1.8\nSSC\n73.2 \u00b1 1.4\n84.3 \u00b1 1.6\n88.6 \u00b1 1.5\n84.1 \u00b1 1.5\n64.1 \u00b1 1.4\n72.2 \u00b1 1.4\n46.8 \u00b1 1.3\n79.8 \u00b1 1.6\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.416\n0.418\n0.420\n0.422\n0.424\n0.426\n0.428\n0.430\n0.432\nClustering Accuracy\n\\gamma\n(a) AR\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.74\n0.75\n0.76\n0.77\n0.78\n0.79\n0.80\n0.81\n0.82\nClustering Accuracy\n\\gamma\n(b) JAFFE\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.70\n0.71\n0.72\n0.73\n0.74\n0.75\n0.76\nClustering Accuracy\n\\gamma\n(c) ORL\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.59\n0.60\n0.61\n0.62\n0.63\n0.64\n0.65\n0.66\n0.67\nClustering Accuracy\n\\gamma\n(d) UMIST\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.440\n0.445\n0.450\n0.455\n0.460\n0.465\nClustering Accuracy\n\\gamma\n(e) binalpha\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.50\n0.52\n0.54\n0.56\n0.58\n0.60\n0.62\n0.64\nClustering Accuracy\n\\gamma\n(f) MSRA50\n10^-6\n10^-3\n10^0\n10^3\n10^6\n0.43\n0.44\n0.45\n0.46\n0.47\n0.48\n0.49\n0.50\nClustering Accuracy\n\\gamma\n(g) YaleB\n10^-6\n10^-3\n10^0\n10^3\n10^6\n73.0\n73.5\n74.0\n74.5\n75.0\n75.5\nClustering Accuracy\n\\gamma\n(h) USPS\nFigure 1: The clustering performance (ACC) variation of our algorithm w.r.t. different parameter settings. From the experimental\nresults, we observe that the proposed algorithm has a consistent preference on parameter setting, which makes it uncomplicated\nto get optimal parameter value in practice.\nConvergence Study\nAs mentioned before, the proposed iterative approach in Al-\ngorithm 1 monotonically decreases the objective function\nvalue in Eq. (3). In this experiment, we show the conver-\ngence curves of the iterative approach on different datasets\nin Figure 2. The parameter \u03b3 is \ufb01xed at 1, which is the me-\ndian value of the tuned range of the parameters.\nIt can be observed that the objective function value con-\nverges quickly. The convergence experiment demonstrates\nthe ef\ufb01ciency of our algorithm.\nConclusion\nIn this paper, we have proposed a novel convex formulation\nof spectral shrunk clustering. The advantage of our method\nis three-fold. First, it is able to learn the manifold structure in\nthe low-dimensional subspace rather than the original space.\nThis feature contributes to more precise structural informa-\ntion for clustering based on the low-dimensional space. Sec-\nond, our method is more capable of uncovering the mani-\nfold structure. Particularly, the shrunk pattern learned by the\nproposed algorithm does not have the orthogonal constraint,\nwhich makes it more \ufb02exible to \ufb01t the manifold structure.\nThe learned manifold knowledge is particularly helpful for\nachieving better clustering result. Third, our algorithm is\nconvex, which makes it easy to implement and very suit-\nable for real-world applications. Extensive experiments on a\nvariety of applications are given to show the effectiveness of\nthe proposed algorithm. By comparing it to several state-of-\nthe-art clustering approaches, we validate the advantage of\nour method.\nReferences\n[Chen and Cai 2011] Chen, X., and Cai, D. 2011. Large scale spec-\ntral clustering with landmark-based representation.\nIn Proceed-\nings of the Twenty-Fifth AAAI Conference on Arti\ufb01cial Intelligence,\nAAAI 2011, San Francisco, California, USA, August 7-11, 2011.\n[Ding and Li 2007] Ding, C. H. Q., and Li, T. 2007. Adaptive di-\nmension reduction using discriminant analysis and K-means clus-\ntering. In Machine Learning, Proceedings of the Twenty-Fourth\nInternational Conference (ICML 2007), Corvallis, Oregon, USA,\nJune 20-24, 2007, 521\u2013528.\n0\n2\n4\n6\n8\n10\n12\n14\n16\n18\n20\n50\n100\n150\n200\n250\n300\nObjective Function Value\nNumber of Iterations\n(a) AR\n0\n2\n4\n6\n8\n10\n12\n0.000\n0.005\n0.010\n0.015\n0.020\n0.025\n0.030\n0.035\nObjective Function Value\nNumber of Iterations\n(b) JAFFE\n0\n5\n10\n15\n20\n25\n0\n10\n20\n30\n40\n50\n60\nObjective Function Value\nNumber of Iterations\n(c) ORL\n1\n2\n3\n4\n5\n16\n17\n18\n19\n20\n21\n22\n23\nObjective Function Value\nNumber of Iterations\n(d) UMIST\n1\n2\n3\n4\n5\n6\n28\n30\n32\n34\n36\n38\n40\n42\nObective Function Value\nNumber of Iterations\n(e) binalpha\n0\n2\n4\n6\n8\n10\n1.90\n1.95\n2.00\n2.05\n2.10\n2.15\n2.20\nObjective Function Value\nNumber of Iterations\n(f) MSRA50\n0\n2\n4\n6\n8\n10\n12\n14\n16\n-10\n0\n10\n20\n30\n40\n50\n60\n70\n80\nObjective Function Value\nNumber of Iterations\n(g) YaleB\n1\n2\n3\n4\n5\n6\n7\n8.0\n8.5\n9.0\n9.5\n10.0\n10.5\n11.0\n11.5\n12.0\nObjective Function Value\nNumber of Iterations\n(h) USPS\nFigure 2: The convergence curves of our algorithm on different datasets. From the \ufb01gures, we can observe that the objective\nfunction converges quickly, which demonstrates the ef\ufb01ciency of the proposed algorithm.\n[Filippone et al. 2008] Filippone, M.; Camastra, F.; Masulli, F.; and\nRovetta, S. 2008. A survey of kernel and spectral methods for\nclustering. Pattern Recognition 41(1):176\u2013190.\n[Georghiades, Belhumeur, and Kriegman 2001] Georghiades,\nA. S.; Belhumeur, P. N.; and Kriegman, D.\n2001.\nFrom few\nto many: Illumination cone models for face recognition under\nvariable lighting and pose. IEEE Trans. PAMI 23(6):643\u2013660.\n[Graham and M 1998] Graham, D. B., and M, A. N. 1998. Char-\nacterizing virtual eigensignatures for general purpose face recogni-\ntion. NATO ASI Series F, Computer and Systems Sciences 446456.\n[Hou et al. 2013] Hou, C.; Nie, F.; Jiao, Y.; Zhang, C.; and Wu, Y.\n2013. Learning a subspace for clustering via pattern shrinking. Inf.\nProcess. Manage. 49(4):871\u2013883.\n[Jain and Dubes 1988] Jain, A. K., and Dubes, R. C. 1988. Algo-\nrithms for clustering data. Prentice-Hall, Inc.\n[Kong, Ding, and Huang 2011] Kong, D.; Ding, C.; and Huang, H.\n2011.\nRobust nonnegative matrix factorization using l21-norm.\nIn Proceedings of the 20th ACM Conference on Information and\nKnowledge Management, CIKM 2011, Glasgow, United Kingdom,\nOctober 24-28, 2011, 673\u2013682.\n[Li et al. 2015] Li, Y.; Nie, F.; Huang, H.; and Huang, J.\n2015.\nLarge-scale multi-view spectral clustering via bipartite graph. In\nProceedings of the Twenty-Ninth AAAI Conference on Arti\ufb01cial In-\ntelligence, January 25 -29, 2015, Austin Texas, USA.\n[Liu et al. 2013] Liu, J.; Wang, C.; Danilevsky, M.; and Han, J.\n2013. Large-scale spectral clustering on graphs. In IJCAI 2013,\nProceedings of the 23rd International Joint Conference on Arti\ufb01-\ncial Intelligence, Beijing, China, August 3-9, 2013.\n[Lyons et al. 1997] Lyons, M. J.; Akamatsu, S.; Kamachi, M.; Gy-\noba, J.; and Budynek, J. 1997. The japanese female facial expres-\nsion (jaffe) database. In Database of digital images.\n[Ma et al. 2012] Ma, Z.; Nie, F.; Yang, Y.; Uijlings, J. R. R.; and\nSebe, N. 2012. Web image annotation via subspace-sparsity col-\nlaborated feature selection. IEEE Trans. Multimedia 14(4):1021\u2013\n1030.\n[Martinez and Benavente 1998] Martinez, A. M., and Benavente,\nR. 1998. The ar face database. Technical report, Centre Vis. Com-\nput., Univ. Autonoma Barcelona, Barcelona, Spain.\n[Nie et al. 2009] Nie, F.; Xu, D.; Tsang, I. W.; and Zhang, C. 2009.\nSpectral embedded clustering. In Proc. IJCAI, 1181\u20131186.\n[Nie et al. 2010] Nie, F.; Huang, H.; Cai, X.; and Ding, C. 2010.\nEf\ufb01cient and robust feature selection via joint l21-norms minimiza-\ntion. In Proc. NIPS, 1813\u20131821.\n[Nie et al. 2011a] Nie, F.; Wang, H.; Huang, H.; and Ding, C. H. Q.\n2011a.\nUnsupervised and semi-supervised learning via l1-norm\ngraph.\nIn IEEE International Conference on Computer Vision,\nICCV 2011, Barcelona, Spain, November 6-13, 2011, 2268\u20132273.\n[Nie et al. 2011b] Nie, F.; Zeng, Z.; Tsang, I. W.; Xu, D.; and\nZhang, C. 2011b.\nSpectral embedded clustering: A framework\nfor in-sample and out-of-sample spectral clustering. IEEE Trans-\nactions on Neural Networks 22(11):1796\u20131808.\n[Nie, Wang, and Huang 2014] Nie, F.; Wang, X.; and Huang, H.\n2014. Clustering and projected clustering with adaptive neighbors.\nIn The 20th ACM SIGKDD International Conference on Knowl-\nedge Discovery and Data Mining, KDD \u201914, New York, NY, USA -\nAugust 24 - 27, 2014, 977\u2013986.\n[Samaria and Harter 1994] Samaria, F. S., and Harter, A. C. 1994.\nParameterisation of a stochastic model for human face identi\ufb01ca-\ntion. In Proc. Applications of Computer Vision, 138\u2013142.\n[Shi and Malik 2000] Shi, J., and Malik, J. 2000. Normalized cuts\nand image segmentation. IEEE Trans. Pattern Analysis and Ma-\nchine Intelligence 22(8):888\u2013905.\n[Strehl and Ghosh 2003] Strehl, A., and Ghosh, J. 2003. Cluster\nensembles\u2014a knowledge reuse framework for combining multiple\npartitions. Machine Learning Research 3:583\u2013617.\n[Tian et al. 2014] Tian, F.; Gao, B.; Cui, Q.; Chen, E.; and Liu, T.\n2014. Learning deep representations for graph clustering. In Pro-\nceedings of the Twenty-Eighth AAAI Conference on Arti\ufb01cial Intel-\nligence, July 27 -31, 2014, Qu\u00b4ebec City, Qu\u00b4ebec, Canada., 1293\u2013\n1299.\n[Wang et al. 2014] Wang, D.; Wang, Y.; Nie, F.; Yan, J.; Cai, T. W.;\nSaykin, A. J.; Shen, L.; and Huang, H. 2014. Human connectome\nmodule pattern detection using a new multi-graph minmax cut\nmodel. In Medical Image Computing and Computer-Assisted In-\ntervention - MICCAI 2014 - 17th International Conference, Boston,\nMA, USA, September 14-18, 2014, Proceedings, Part III, 313\u2013320.\n[Wang, Nie, and Huang 2014] Wang, D.; Nie, F.; and Huang, H.\n2014. Unsupervised feature selection via uni\ufb01ed trace ratio for-\nmulation and k-means clustering (TRACK). In Machine Learning\nand Knowledge Discovery in Databases - European Conference,\nECML PKDD 2014, Nancy, France, September 15-19, 2014. Pro-\nceedings, Part III, 306\u2013321.\n[Wu and Schlkopf 2006] Wu, M., and Schlkopf, B. 2006. A local\nlearning approach for clustering. In Proc. NIPS, 1529\u20131536.\n[Xia et al. 2014] Xia, R.; Pan, Y.; Du, L.; and Yin, J. 2014. Ro-\nbust multi-view spectral clustering via low-rank and sparse decom-\nposition. In Proceedings of the Twenty-Eighth AAAI Conference\non Arti\ufb01cial Intelligence, July 27 -31, 2014, Qu\u00b4ebec City, Qu\u00b4ebec,\nCanada., 2149\u20132155.\n[Xu and Wunsch 2005] Xu, R., and Wunsch, D. 2005. Survey of\nclustering algorithms. IEEE Trans. Neural Networks 16(3):645\u2013\n678.\n[Yang et al. 2010] Yang, Y.; Xu, D.; Nie, F.; Yan, S.; and Zhuang, Y.\n2010. Image clustering using local discriminant models and global\nintegration. IEEE Trans. Image Process. 19(10):2761\u20132773.\n[Yang et al. 2011] Yang, Y.; Shen, H. T.; Nie, F.; Ji, R.; and Zhou,\nX. 2011. Nonnegative spectral clustering with discriminative regu-\nlarization. In Proceedings of the Twenty-Fifth AAAI Conference on\nArti\ufb01cial Intelligence, AAAI 2011, San Francisco, California, USA,\nAugust 7-11, 2011.\n[Yang et al. 2014] Yang, Y.; Wang, Z.; Yang, J.; Wang, J.; Chang,\nS.; and Huang, T. S. 2014. Data clustering by laplacian regularized\nl1-graph. In Proceedings of the Twenty-Eighth AAAI Conference\non Arti\ufb01cial Intelligence, July 27 -31, 2014, Qu\u00b4ebec City, Qu\u00b4ebec,\nCanada., 3148\u20133149.\n[Ye, Zhao, and Wu 2007] Ye, J.; Zhao, Z.; and Wu, M. 2007. Dis-\ncriminative k-means for clustering. In Proc. NIPS, 1649\u20131656.\n[Zelnik-Manor and Perona 2004] Zelnik-Manor, L., and Perona, P.\n2004. Self-tuning spectral clustering. In Proc. NIPS, 1601\u20131608.\n",
+        "sentence": " Recently, pattern shrinking [25], [26] is often utilized in clustering algorithms, which not only characterizes the linear and nonlinear structures of data, but also reflects the requirements of clustering, what is more, it can obtain satisfying performance on high dimensional data and non-Gaussian distribution data [30], [32], [33], [34]. shrinking [25], [26] may be helpful for us to find a suitable transformation matrix, thus, the pattern shrinking is employed in our model.",
+        "context": "manifold structure in the low-dimensional subspace of orig-\ninal data. Inspired by (Hou et al. 2013), we adopt the pattern\nshrinking during the manifold learning and the shrunk pat-\nterns are exploited for clustering simultaneously.\n2013. Learning a subspace for clustering via pattern shrinking. Inf.\nProcess. Manage. 49(4):871\u2013883.\n[Jain and Dubes 1988] Jain, A. K., and Dubes, R. C. 1988. Algo-\nrithms for clustering data. Prentice-Hall, Inc.\nmanifold structure. Particularly, the shrunk pattern does\nnot have the orthogonal constraint, making it more \ufb02exi-\nble to \ufb01t the manifold structure.\n\u2022 The integration of manifold learning and clustering makes"
+    },
+    {
+        "title": "Convergence theorems for generalized alternating minimization procedures",
+        "author": [
+            "A. Gunawardana",
+            "W. Byrne"
+        ],
+        "venue": "The Journal of Machine Learning Research, vol. 6, pp. 2049-2073",
+        "citeRegEx": "27",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " As for LSDA, the change of sigma and gamma parameters will affect the performance of LSDA, thus, the alternating method is utilized [27], where at each iteration, we first fix the one variable, and then optimize",
+        "context": null
+    },
+    {
+        "title": "Clustering and projected clustering with adaptive neighbors,In The 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD",
+        "author": [
+            "F. Nie",
+            "X. Wang",
+            "H. Huang"
+        ],
+        "venue": null,
+        "citeRegEx": "28",
+        "shortCiteRegEx": "28",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The similarity matrix [28], [29] A \u2208 Rn\u00d7n is composed of all the aij , which is utilized to characterize the manifold structure of original data points, i.",
+        "context": null
+    },
+    {
+        "title": "A new simplex sparse learning model to measure data similarity for clustering",
+        "author": [
+            "J. Huang",
+            "F. Nie",
+            "H. Huang"
+        ],
+        "venue": "In Proceedings of the 24th International Conference on Artificial Intelligence,",
+        "citeRegEx": "29",
+        "shortCiteRegEx": "29",
+        "year": 2015,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The similarity matrix [28], [29] A \u2208 Rn\u00d7n is composed of all the aij , which is utilized to characterize the manifold structure of original data points, i.",
+        "context": null
+    },
+    {
+        "title": "Unsupervised Large Graph Embedding",
+        "author": [
+            "Feiping Nie",
+            "Wei Zhu",
+            "Xuelong Li"
+        ],
+        "venue": "The 31st AAAI Conference on Artificial Intelligence (AAAI), San Francisco,",
+        "citeRegEx": "30",
+        "shortCiteRegEx": "30",
+        "year": 2017,
+        "abstract": "\n      \n        There are many successful spectral based unsupervised dimensionality  reduction methods, including Laplacian Eigenmap (LE), Locality  Preserving Projection (LPP), Spectral Regression (SR), etc. LPP and SR  are two different linear spectral based methods, however, we discover  that LPP and SR are equivalent, if the symmetric similarity matrix is  doubly stochastic, Positive Semi-Definite (PSD) and with rank p,  where p is the reduced dimension. The discovery promotes us to  seek low-rank and doubly stochastic similarity matrix, we then  propose an unsupervised linear dimensionality reduction method,  called Unsupervised Large Graph Embedding (ULGE). ULGE starts  with similar idea as LPP, it adopts an efficient approach to construct  similarity matrix and then performs spectral analysis efficiently, the  computational complexity can reduce to O(ndm), which is a  significant improvement compared to conventional spectral based  methods which need O(n^2d) at least, where n, d and m are the  number of samples, dimensions and anchors, respectively.  Extensive experiments on several public available data sets  demonstrate the efficiency and effectiveness of the proposed  method.\n      \n    ",
+        "full_text": "",
+        "sentence": " Recently, pattern shrinking [25], [26] is often utilized in clustering algorithms, which not only characterizes the linear and nonlinear structures of data, but also reflects the requirements of clustering, what is more, it can obtain satisfying performance on high dimensional data and non-Gaussian distribution data [30], [32], [33], [34].",
+        "context": null
+    },
+    {
+        "title": "Reduction of Multimodal Labeled Data by Local Fisher Discriminant Analysis",
+        "author": [
+            "Masashi Sugiyama",
+            "Dimensionality"
+        ],
+        "venue": "Journal of Machine Learning",
+        "citeRegEx": "31",
+        "shortCiteRegEx": "31",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " g LDA [11]; Kernel LDA [12]; DiscLDA [13]; LPP [14]; SDRHF [15], Local fisher discriminant analysis (LFDA) [31]) and unsupervised learning (PCA [16], [17]; Kernal PCA [18]; LLE [19]; LPP [14]; NPE [20]; Isomap [22]; Laplacian eigenmaps, [21], [22]) dimensionality reduction methods. The related references (PCA, [16], [17]; LDA [11]; DiscLDA [12], LFDA [31] show that the supervised learning methods can obtain much better performance than the unsupervised learning methods, and has been applied into different research domains. In fact, from the objective function, we can know that it is another local LDA [31].",
+        "context": null
+    },
+    {
+        "title": "Subspace Clustering via New Low-Rank Model with Discrete Group Structure Constraint",
+        "author": [
+            "Feiping Nie",
+            "Heng Huang"
+        ],
+        "venue": "The 25th International Joint Conference on Artificial Intelligence (IJCAI),New York,",
+        "citeRegEx": "32",
+        "shortCiteRegEx": "32",
+        "year": 2016,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Recently, pattern shrinking [25], [26] is often utilized in clustering algorithms, which not only characterizes the linear and nonlinear structures of data, but also reflects the requirements of clustering, what is more, it can obtain satisfying performance on high dimensional data and non-Gaussian distribution data [30], [32], [33], [34].",
+        "context": null
+    },
+    {
+        "title": "A New Sparse Subspace Clustering Algorithm for Hyperspectral Remote Sensing Imagery,IEEE",
+        "author": [
+            "Han Zhai",
+            "Hongyan Zhang",
+            "Liangpei Zhang"
+        ],
+        "venue": "GEOSCIENCE AND REMOTE SENSING LETTERS,",
+        "citeRegEx": "33",
+        "shortCiteRegEx": "33",
+        "year": 2017,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Recently, pattern shrinking [25], [26] is often utilized in clustering algorithms, which not only characterizes the linear and nonlinear structures of data, but also reflects the requirements of clustering, what is more, it can obtain satisfying performance on high dimensional data and non-Gaussian distribution data [30], [32], [33], [34].",
+        "context": null
+    }
+]

@@ -1,0 +1,70 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall
+Semantic lexicon construction: Learning from unlabeled data via spectral analysis,,,,,,,,,,
+Inter-coder agreement for computational linguistics,crossref,0.5,,0.8851306643571804,,,,,0.2,0.1016949152542373
+Automatic expansion of domain-specific lexicons by term categorization,crossref,1.0,,0.6611902471997789,,,,,1.0,0.0
+Distributional clustering of words for text classification,crossref,0.0,,0.6964983874709179,,,,,0.0,0.0
+Mitigating the paucity-of-data problem: Exploring the effect of training corpus size on classifier performance for natural language processing,,,,,,,,,,
+Web 1T 5-gram Version 1. Linguistic Data,,,,,,,,,,
+From covariation to causation: A causal power theory,,,,,,,,,,
+The statistical significance of the MUC-4 results,,,,,,,,,,
+Evaluating message understanding systems: An analysis of the Third Message Understanding Conference (MUC-3),,,,,,,,,,
+On the algorithmic implementation of multiclass kernelbased vector machines,,,,,,,,,,
+Improvements in automatic thesaurus extraction,crossref,0.0,,0.6852233942895487,,,,,0.0,0.0
+Minimising semantic drift with mutual exclusion bootstrapping,,,,,,,,,,
+Efficient unsupervised discovery of word categories using symmetric patterns and high frequency words,crossref,0.0,,0.6944864276937907,,,,,0.0,0.0
+Approximate statistical tests for comparing supervised classification learning algorithms,crossref,0.0,,0.867346396617024,,,,,0.4857142857142857,0.14166666666666666
+Accurate methods for the statistics of surprise and coincidence,,,,,,,,,,
+The Analysis of Contingency Tables,,,,,,,,,,
+"What happened, and why: Toward an understanding of human error based on automated analyses of incident reports",,,,,,,,,,
+"COATIS, an NLP system to locate expressions of actions connected by causality links",crossref,0.0,,0.660128646330733,,,,,0.0,0.0
+Automatic detection of causal relations for question answering,crossref,0.0,,0.688858405609686,,,,,0.0,0.0
+Discriminative methods for multi-labeled classification,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Structure and strength in causal induction,,,,,,,,,,
+Causal and temporal text analysis: The role of the domain model,,,,,,,,,,
+Causes and explanations: A structural-model approach. Part I: Causes,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Unsupervised information extraction approach using graph mutual reinforcement,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Original work published 1748)),,,,,,,,,,
+Original work published 1739)),,,,,,,,,,
+"Advances in Kernel Methods - Support Vector Learning, chap",,,,,,,,,,
+Text categorization with suport vector machines: Learning with many relevant features,,,,,,,,,,
+Transductive inference for text classification using support vector machines,,,,,,,,,,
+Knowledge-based acquisition of causal relationships in text,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+KSC-PaL: A peer learning agent that encourages students to take the initiative,,,,,,,,,,
+Extracting causal knowledge from a medical database using graphical patterns,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Improving text categorization using the importance of sentences,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Content analysis: An introduction to its methodology,,,,,,,,,,
+Causation,,,,,,,,,,
+Dependency-based evaluation of MINIPAR,crossref,0.0,,0.6782637879379936,,,,,0.0,0.0
+Induction of semantic classes from natural language text,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Building a large annotated corpus of English: The Penn Treebank,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+"Text classification by bootstrapping with keywords, EM and shrinkage",,,,,,,,,,
+Computer-Intensive Methods for Testing Hypotheses : An Introduction,,,,,,,,,,
+Discovering word senses from text,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Automatically labeling semantic classes,,,,,,,,,,
+Computing reliability for coreference annotation,,,,,,,,,,
+Learning domain-specific information extraction patterns from the web,crossref,0.0,,0.6928107895845539,,,,,0.0,0.0
+Effective information extraction with semantic affinity patterns and relevant regions,,,,,,,,,,
+Distributional clustering of English words,arxiv Library,1.0,,0.6471623889131705,,,,,1.0,0.0
+CRFChunker: CRF English Phrase Chunker,,,,,,,,,,
+CRFTagger: CRF English POS Tagger,,,,,,,,,,
+Exploiting role-identifying nouns and expressions for information extraction,,,,,,,,,,
+Contextual valence shifters,crossref,0.0,,0.6697329414784197,,,,,0.0,0.0
+Extracting information from narratives: An application to aviation safety reports,crossref,0.0,,0.6730164058918074,,,,,0.0,0.0
+Multi-label classification using ensembles of pruned sets,crossref,0.0,,0.6945671386969712,,,,,0.0,0.0
+Automatically generating extraction patterns from untagged text,,,,,,,,,,
+Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon construction,,,,,,,,,,
+Towards full automation of lexicon construction,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+An efficient algorithm for building a distributional thesaurus (and other Sketch Engine developments),crossref,0.0,,0.6837771287679668,,,,,0.0,0.0
+Machine learning in automated text categorization,arxiv Library,1.0,,0.6634483737347073,,,,,1.0,0.0
+Overview of the fourth message understanding evaluation and conference,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Large scale multi-label classification via metalabeler,crossref,0.0,,0.7020137898575375,,,,,1.0,0.0
+A bootstrapping method for learning semantic lexicons using extraction pattern contexts,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Multi-label classification: An overview,,,,,,,,,,
+Random k -labelsets: An ensemble method for multilabel classification,,,,,,,,,,
+Parametric mixture models for multi-labeled text,,,,,,,,,,
+Retrieving NASA problem reports: A case study in natural language information retrieval,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Statistical Learning Theory,crossref,0.0,,0.6562440969152669,,,,,0.0,0.0
+A comparative study on feature selection in text categorization,,,,,,,,,,
+Counter-training in discovery of semantic patterns,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Using “annotator rationales” to improve machine learning for text categorization,,,,,,,,,,
+Graph mutual reinforcement based bootstrapping,crossref,0.0,,0.70209962826139,,,,,1.0,0.0

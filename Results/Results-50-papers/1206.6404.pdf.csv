@@ -1,0 +1,17 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall
+"Dynamic Programming and Optimal Control, Vol II",,,,,,,,,,
+Stochastic approximation with two time scales,crossref,0.0,,0.6814019507649762,,,,,0.0,0.0
+Risk-sensitive optimal control for markov decision processes with monotone cost,crossref,1.0,,0.6711370064492318,,,,,1.0,0.0
+Percentile optimization for Markov decision processes with parameter uncertainty,crossref,1.0,,0.6797272851407594,,,,,1.0,0.0
+Percentile performance criteria for limiting average markov decision processes,crossref,0.0,,0.6896188136990917,,,,,0.0,0.0
+Risk-sensitive reinforcement learning applied to control under,,,,,,,,,,
+Variance reduction techniques for gradient estimates in reinforcement learning,,,,,,,,,,
+Risk-sensitive markov decision processes,,,,,,,,,,
+Convergent multipletimescales reinforcement learning algorithms in normal form games,,,,,,,,,,
+Investment Science,crossref,0.0,,0.7212068336155472,,,,,0.0,0.0
+Simulation-based optimization of markov reward processes,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Robust control of Markov decision processes with uncertain transition matrices,crossref,1.0,,0.6629424894524417,,,,,1.0,0.0
+An analytic solution to discrete bayesian reinforcement learning,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0
+Markov decision processes: discrete stochastic dynamic programming,crossref,0.0,,0.6638038601702879,,,,,0.0,0.0
+Mutual fund performance,crossref,0.0,,0.6628843305353799,,,,,0.0,0.0
+The variance of discounted markov decision processes,crossref,0.5,,0.8199955334969371,,,,,0.18309859154929578,0.34210526315789475

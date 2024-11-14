@@ -1,0 +1,51 @@
+{
+    "faithfulness": {
+        "mean": 0.3181818181818182,
+        "median": 0.0,
+        "std_dev": 0.4622081388685877,
+        "non_none_percentage": 68.75
+    },
+    "precision": {
+        "mean": 0.471190781049936,
+        "median": 0.18309859154929578,
+        "std_dev": 0.509047819032397,
+        "non_none_percentage": 68.75
+    },
+    "recall": {
+        "mean": 0.03110047846889952,
+        "median": 0.0,
+        "std_dev": 0.10314861788186651,
+        "non_none_percentage": 68.75
+    },
+    "semantic_similarity": {
+        "mean": 0.6960651436777672,
+        "median": 0.6814019507649762,
+        "std_dev": 0.04521619411123818,
+        "non_none_percentage": 68.75
+    },
+    "pdf-faithfulness": {
+        "mean": NaN,
+        "median": NaN,
+        "std_dev": NaN,
+        "non_none_percentage": 0.0
+    },
+    "pdf-precision": {
+        "mean": null,
+        "median": null,
+        "std_dev": null,
+        "non_none_percentage": null
+    },
+    "pdf-recall": {
+        "mean": null,
+        "median": null,
+        "std_dev": null,
+        "non_none_percentage": null
+    },
+    "pdf-semantic_similarity": {
+        "mean": NaN,
+        "median": NaN,
+        "std_dev": NaN,
+        "non_none_percentage": 0.0
+    },
+    "status": "accepted"
+}

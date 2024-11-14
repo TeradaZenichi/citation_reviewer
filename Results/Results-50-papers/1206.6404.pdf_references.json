@@ -1,0 +1,240 @@
+[
+    {
+        "title": "Dynamic Programming and Optimal Control, Vol II",
+        "author": [
+            "D.P. Bertsekas"
+        ],
+        "venue": "Athena Scientific, third edition,",
+        "citeRegEx": "Bertsekas,? \\Q2006\\E",
+        "shortCiteRegEx": "Bertsekas",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " 1 in (Bertsekas, 2006) we have that I \u2212 P \u2217 is invertible.",
+        "context": null
+    },
+    {
+        "title": "Stochastic approximation with two time scales",
+        "author": [
+            "V.S. Borkar"
+        ],
+        "venue": "Systems & Control Letters,",
+        "citeRegEx": "Borkar,? \\Q1997\\E",
+        "shortCiteRegEx": "Borkar",
+        "year": 1997,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Much less work has been done on risk sensitive criteria within the RL framework, with a notable exception of Borkar & Meyn (2002) who considered exponential utility functions and of Geibel & Wysotzki (2005) who considered models where some states are \u201cerror states,\u201d representing a bad or even catastrophic outcome. Much less work has been done on risk sensitive criteria within the RL framework, with a notable exception of Borkar & Meyn (2002) who considered exponential utility functions and of Geibel & Wysotzki (2005) who considered models where some states are \u201cerror states,\u201d representing a bad or even catastrophic outcome. (sketch) The proof relies on representing Equation (13) as a stochastic approximation with two timescales (Borkar, 1997), where J\u0303k and \u1e7ck are updated on a fast schedule while \u03b8k is updated on a slow schedule.",
+        "context": null
+    },
+    {
+        "title": "Risk-sensitive optimal control for markov decision processes with monotone cost",
+        "author": [
+            "V.S. Borkar",
+            "S.P. Meyn"
+        ],
+        "venue": "Math. Oper. Res.,",
+        "citeRegEx": "Borkar and Meyn,? \\Q2002\\E",
+        "shortCiteRegEx": "Borkar and Meyn",
+        "year": 2002,
+        "abstract": " The existence of an optimal feedback law is established for the risk-sensitive optimal control problem with denumerable state space. The main assumptions imposed are irreducibility and a near monotonicity condition on the one-step cost function. A solution can be found constructively using either value iteration or policy iteration under suitable conditions on initial feedback law. ",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Percentile optimization for Markov decision processes with parameter uncertainty",
+        "author": [
+            "E. Delage",
+            "S. Mannor"
+        ],
+        "venue": "Operations Research,",
+        "citeRegEx": "Delage and Mannor,? \\Q2010\\E",
+        "shortCiteRegEx": "Delage and Mannor",
+        "year": 2010,
+        "abstract": " Markov decision processes are an effective tool in modeling decision making in uncertain dynamic environments. Because the parameters of these models typically are estimated from data or learned from experience, it is not surprising that the actual performance of a chosen strategy often differs significantly from the designer's initial expectations due to unavoidable modeling ambiguity. In this paper, we present a set of percentile criteria that are conceptually natural and representative of the trade-off between optimistic and pessimistic views of the question. We study the use of these criteria under different forms of uncertainty for both the rewards and the transitions. Some forms are shown to be efficiently solvable and others highly intractable. In each case, we outline solution concepts that take parametric uncertainty into account in the process of decision making. ",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Percentile performance criteria for limiting average markov decision processes",
+        "author": [
+            "J.A. Filar",
+            "D. Krass",
+            "K.W. Ross"
+        ],
+        "venue": "IEEE Trans. Auto. Control,",
+        "citeRegEx": "Filar et al\\.,? \\Q1995\\E",
+        "shortCiteRegEx": "Filar et al\\.",
+        "year": 1995,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Another approach considers the percentile performance criterion (Filar et al., 1995), in which the average reward has to exceed some value with a given probability.",
+        "context": null
+    },
+    {
+        "title": "Risk-sensitive reinforcement learning applied to control under",
+        "author": [
+            "P. Geibel",
+            "F. Wysotzki"
+        ],
+        "venue": "constraints. JAIR,",
+        "citeRegEx": "Geibel and Wysotzki,? \\Q2005\\E",
+        "shortCiteRegEx": "Geibel and Wysotzki",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Variance reduction techniques for gradient estimates in reinforcement learning",
+        "author": [
+            "E. Greensmith",
+            "P.L. Bartlett",
+            "J. Baxter"
+        ],
+        "venue": "JMLR, 5:1471\u20131530,",
+        "citeRegEx": "Greensmith et al\\.,? \\Q2004\\E",
+        "shortCiteRegEx": "Greensmith et al\\.",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " One technique for dealing with this difficulty is by using control variates (Greensmith et al., 2004).",
+        "context": null
+    },
+    {
+        "title": "Risk-sensitive markov decision processes",
+        "author": [
+            "R.A. Howard",
+            "J.E. Matheson"
+        ],
+        "venue": "Management Science,",
+        "citeRegEx": "Howard and Matheson,? \\Q1972\\E",
+        "shortCiteRegEx": "Howard and Matheson",
+        "year": 1972,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Convergent multipletimescales reinforcement learning algorithms in normal form games",
+        "author": [
+            "D.S. Leslie",
+            "E.J. Collins"
+        ],
+        "venue": "Annals of App. Prob.,",
+        "citeRegEx": "Leslie and Collins,? \\Q2002\\E",
+        "shortCiteRegEx": "Leslie and Collins",
+        "year": 2002,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Investment Science",
+        "author": [
+            "D. Luenberger"
+        ],
+        "venue": null,
+        "citeRegEx": "Luenberger,? \\Q1998\\E",
+        "shortCiteRegEx": "Luenberger",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " (Luenberger, 1998).",
+        "context": null
+    },
+    {
+        "title": "Simulation-based optimization of markov reward processes",
+        "author": [
+            "P. Marbach",
+            "J.N. Tsitsiklis"
+        ],
+        "venue": "IEEE Trans. Auto. Control,",
+        "citeRegEx": "Marbach and Tsitsiklis,? \\Q1998\\E",
+        "shortCiteRegEx": "Marbach and Tsitsiklis",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Robust control of Markov decision processes with uncertain transition matrices",
+        "author": [
+            "A. Nilim",
+            "L. El Ghaoui"
+        ],
+        "venue": "Operations Research,",
+        "citeRegEx": "Nilim and Ghaoui,? \\Q2005\\E",
+        "shortCiteRegEx": "Nilim and Ghaoui",
+        "year": 2005,
+        "abstract": " Optimal solutions to Markov decision problems may be very sensitive with respect to the state transition probabilities. In many practical problems, the estimation of these probabilities is far from accurate. Hence, estimation errors are limiting factors in applying Markov decision processes to real-world problems.  We consider a robust control problem for a finite-state, finite-action Markov decision process, where uncertainty on the transition matrices is described in terms of possibly nonconvex sets. We show that perfect duality holds for this problem, and that as a consequence, it can be solved with a variant of the classical dynamic programming algorithm, the \u201crobust dynamic programming\u201d algorithm. We show that a particular choice of the uncertainty sets, involving likelihood regions or entropy bounds, leads to both a statistically accurate representation of uncertainty, and a complexity of the robust recursion that is almost the same as that of the classical recursion. Hence, robustness can be added at practically no extra computing cost. We derive similar results for other uncertainty sets, including one with a finite number of possible values for the transition matrices.  We describe in a practical path planning example the benefits of using a robust strategy instead of the classical optimal strategy; even if the uncertainty level is only crudely guessed, the robust strategy yields a much better worst-case expected travel time. ",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "An analytic solution to discrete bayesian reinforcement learning",
+        "author": [
+            "P. Poupart",
+            "N. Vlassis",
+            "J. Hoey",
+            "K. Regan"
+        ],
+        "venue": "In ICML,",
+        "citeRegEx": "Poupart et al\\.,? \\Q2006\\E",
+        "shortCiteRegEx": "Poupart et al\\.",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Markov decision processes: discrete stochastic dynamic programming",
+        "author": [
+            "M.L. Puterman"
+        ],
+        "venue": null,
+        "citeRegEx": "Puterman,? \\Q1994\\E",
+        "shortCiteRegEx": "Puterman",
+        "year": 1994,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In both Reinforcement Learning (RL; Bertsekas & Tsitsiklis, 1996) and planning in Markov Decision Processes (MDPs; Puterman, 1994), the typical objective is to maximize the cumulative (possibly discounted) expected reward, denoted by J .",
+        "context": null
+    },
+    {
+        "title": "Mutual fund performance",
+        "author": [
+            "W.F. Sharpe"
+        ],
+        "venue": "The Journal of Business,",
+        "citeRegEx": "Sharpe,? \\Q1966\\E",
+        "shortCiteRegEx": "Sharpe",
+        "year": 1966,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In financial decision making, a popular performance criterion is the Sharpe Ratio (SR; Sharpe, 1966) \u2013 the ratio between the expected profit and its standard deviation.",
+        "context": null
+    },
+    {
+        "title": "The variance of discounted markov decision processes",
+        "author": [
+            "M.J. Sobel"
+        ],
+        "venue": "J. Applied Probability,",
+        "citeRegEx": "Sobel,? \\Q1982\\E",
+        "shortCiteRegEx": "Sobel",
+        "year": 1982,
+        "abstract": "Formulae are presented for the variance and higher moments of the present value of single-stage rewards in a finite Markov decision process. Similar formulae are exhibited for a semi-Markov decision process. There is a short discussion of the obstacles to using the variance formula in algorithms to maximize the mean minus a multiple of the standard deviation.",
+        "full_text": "",
+        "sentence": " It has long been recognized (Sobel, 1982) that optimization problems such as (a) are not amenable to standard dynamic programming techniques. As was already recognized by Sobel (1982), optimizing the mean-variance tradeoff in MDPs cannot be solved using traditional dynamic programming methods such as policy iteration. The analysis in (Sobel, 1982) makes use of the fact that I \u2212 \u03b2P is invertible, therefore an extension of their results to the undiscounted case is not immediate. We remark that similar equations for the infinite horizon discounted return case were presented by Sobel (1982), in which I\u2212P \u2032 is replaced with I\u2212\u03b2P , where \u03b2 < 1 is the discount factor.",
+        "context": null
+    }
+]

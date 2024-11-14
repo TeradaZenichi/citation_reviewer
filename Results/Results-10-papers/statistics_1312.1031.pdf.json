@@ -1,0 +1,51 @@
+{
+    "faithfulness": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std_dev": NaN,
+        "non_none_percentage": 25.0
+    },
+    "precision": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std_dev": NaN,
+        "non_none_percentage": 25.0
+    },
+    "recall": {
+        "mean": 0.0,
+        "median": 0.0,
+        "std_dev": NaN,
+        "non_none_percentage": 25.0
+    },
+    "semantic_similarity": {
+        "mean": 0.6643458317198153,
+        "median": 0.6643458317198153,
+        "std_dev": NaN,
+        "non_none_percentage": 25.0
+    },
+    "pdf-faithfulness": {
+        "mean": NaN,
+        "median": NaN,
+        "std_dev": NaN,
+        "non_none_percentage": 0.0
+    },
+    "pdf-precision": {
+        "mean": null,
+        "median": null,
+        "std_dev": null,
+        "non_none_percentage": null
+    },
+    "pdf-recall": {
+        "mean": null,
+        "median": null,
+        "std_dev": null,
+        "non_none_percentage": null
+    },
+    "pdf-semantic_similarity": {
+        "mean": NaN,
+        "median": NaN,
+        "std_dev": NaN,
+        "non_none_percentage": 0.0
+    },
+    "status": "rejected"
+}

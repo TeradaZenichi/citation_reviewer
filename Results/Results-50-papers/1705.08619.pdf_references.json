@@ -1,0 +1,672 @@
+[
+    {
+        "title": "Cardiac arrhythmia: mechanisms, diagnosis, and management",
+        "author": [
+            "P.J. Podrid",
+            "P.R. Kowey"
+        ],
+        "venue": null,
+        "citeRegEx": "2",
+        "shortCiteRegEx": "2",
+        "year": 2001,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Especially, for patients who have suffered myocardial infarction (MI), or developed left ventricular dysfunction (LVD), continuous monitoring has proven essential in promptly detecting sudden deterioration in cardiac functions, and hence preventing mortality [2].",
+        "context": null
+    },
+    {
+        "title": "The ECG: a two-step approach to diagnosis",
+        "author": [
+            "M. Gertsch"
+        ],
+        "venue": "Springer Science & Business Media,",
+        "citeRegEx": "3",
+        "shortCiteRegEx": "3",
+        "year": 2003,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " The aforementioned as well as various related conditions are associated with premature ventricular contractions (PVCs) that briefly interrupt the normal rhythm of the heart [3]. In particular, monitoring PVCs, which are an early depolarization of the myocardium originating in the ventricle [3], assumes significance, even though such beats are found in subjects with as well as without structural heart diseases [4].",
+        "context": null
+    },
+    {
+        "title": "The prognostic significance of ventricular premature contractions in healthy people and in people with coronary heart disease., Acta cardiologica",
+        "author": [
+            "L. Hinkle",
+            "S. Carver",
+            "D. Argyros"
+        ],
+        "venue": null,
+        "citeRegEx": "4",
+        "shortCiteRegEx": "4",
+        "year": 1974,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Although PVCs occur in healthy individuals as well, high frequency of PVCs is known to foretell serious arrhythmic conditions [4], and significantly correlate with events of mortality [5]. In particular, monitoring PVCs, which are an early depolarization of the myocardium originating in the ventricle [3], assumes significance, even though such beats are found in subjects with as well as without structural heart diseases [4].",
+        "context": null
+    },
+    {
+        "title": "Treating patients with ventricular ectopic beats, Heart",
+        "author": [
+            "G.A. Ng"
+        ],
+        "venue": null,
+        "citeRegEx": "5",
+        "shortCiteRegEx": "5",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Although PVCs occur in healthy individuals as well, high frequency of PVCs is known to foretell serious arrhythmic conditions [4], and significantly correlate with events of mortality [5]. Besides frequency of PVCs, run of two or more PVCs and their complexity could also indicate an adverse heart condition [5]. Specifically, high PVC burden could presage adverse heart conditions even in individuals without prior structural heart disease [5].",
+        "context": null
+    },
+    {
+        "title": "How mobile devices are transforming healthcare, Issues in technology innovation",
+        "author": [
+            "D. West"
+        ],
+        "venue": null,
+        "citeRegEx": "7",
+        "shortCiteRegEx": "7",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Fortunately, high penetration of mobile phones even in remote communities has mitigated such barriers in certain scenarios [7].",
+        "context": null
+    },
+    {
+        "title": "The Fortune at the Bottom of the Pyramid",
+        "author": [
+            "C.K. Prahalad"
+        ],
+        "venue": "Pearson Education India,",
+        "citeRegEx": "8",
+        "shortCiteRegEx": "8",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In the present case, can the mobile network be leveraged to provide reliable PVC monitoring at an attractive cost to the communities living at the bottom of the economic pyramid [8]?",
+        "context": null
+    },
+    {
+        "title": "Frugal engineering: An emerging innovation paradigm",
+        "author": [
+            "N. Kumar",
+            "P. Puranam"
+        ],
+        "venue": "Ivey Business Journal",
+        "citeRegEx": "9",
+        "shortCiteRegEx": "9",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In response, we take a frugal engineering approach [9], and propose an ultra-low-cost POC service.",
+        "context": null
+    },
+    {
+        "title": "A patientadaptable ecg beat classifier using a mixture of experts approach, IEEE transactions on biomedical engineering",
+        "author": [
+            "Y.H. Hu",
+            "S. Palreddy",
+            "W.J. Tompkins"
+        ],
+        "venue": null,
+        "citeRegEx": "10",
+        "shortCiteRegEx": "10",
+        "year": 1997,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. More recently, a hybrid scheme called patient-specific training has been proposed [10, 11, 12, 14, 15, 17], in which a subject-oriented approach is taken with the following modification. Here, the training and the test sets consist of 13 records with indices in the range 100\u2013124 and 20 records with indices in the range 200\u2013234, respectively [10]. , 1997 [10] 82.",
+        "context": null
+    },
+    {
+        "title": "A patient-adapting heartbeat classifier using ecg morphology and heartbeat interval features",
+        "author": [
+            "P. de Chazal",
+            "R.B. Reilly"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "11",
+        "shortCiteRegEx": "11",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. More recently, a hybrid scheme called patient-specific training has been proposed [10, 11, 12, 14, 15, 17], in which a subject-oriented approach is taken with the following modification. Finally, Partition-3 possesses the property that training and test sets enjoy approximately equal representation from the rival classes of beats [11]. First, the baseline wander was removed using two median filters of respective window sizes 200ms and 600ms in a sequential manner [11]. , 2006 [11] 94. [11], requires 36.",
+        "context": null
+    },
+    {
+        "title": "Classification of electrocardiogram signals with support vector machines and particle swarm optimization",
+        "author": [
+            "F. Melgani",
+            "Y. Bazi"
+        ],
+        "venue": "IEEE Transactions on Information Technology in Biomedicine",
+        "citeRegEx": "13",
+        "shortCiteRegEx": "13",
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18].",
+        "context": null
+    },
+    {
+        "title": "Block-based neural networks for personalized ecg signal classification",
+        "author": [
+            "W. Jiang",
+            "S.G. Kong"
+        ],
+        "venue": "IEEE Transactions on Neural Networks",
+        "citeRegEx": "14",
+        "shortCiteRegEx": "14",
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. More recently, a hybrid scheme called patient-specific training has been proposed [10, 11, 12, 14, 15, 17], in which a subject-oriented approach is taken with the following modification. Subsequently, Partition2 generalizes Partition-1 by considering all records with indices in the range 100\u2013124 for training, and those with indices in the range 200\u2013234 for testing, without paying attention to occurence of PVC beats [14]. , 2007 [14] 86.",
+        "context": null
+    },
+    {
+        "title": "Automated patientspecific classification of premature ventricular contractions",
+        "author": [
+            "T. Ince",
+            "S. Kiranyaz",
+            "M. Gabbouj"
+        ],
+        "venue": "in: 2008 30th Annual International Conference of the IEEE Engineering in Medicine and Biology Society,",
+        "citeRegEx": "15",
+        "shortCiteRegEx": "15",
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. More recently, a hybrid scheme called patient-specific training has been proposed [10, 11, 12, 14, 15, 17], in which a subject-oriented approach is taken with the following modification. , 2009 [15] 84.",
+        "context": null
+    },
+    {
+        "title": "Heartbeat classification using disease-specific feature selection, Computers in biology and medicine",
+        "author": [
+            "Z. Zhang",
+            "J. Dong",
+            "X. Luo",
+            "K.S. Choi",
+            "X. Wu"
+        ],
+        "venue": null,
+        "citeRegEx": "16",
+        "shortCiteRegEx": "16",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. In contrast, the latter seeks to account for inter-subject variability, and constitutes training and test sets with beats from distinct subsets of records, leading to an overly conservative estimate of performance [16].",
+        "context": null
+    },
+    {
+        "title": "Comparison of four methods for premature ventricular contraction and normal beat clustering, in: Computers in Cardiology",
+        "author": [
+            "G. Bortolan",
+            "I. Jekova",
+            "I. Christov"
+        ],
+        "venue": null,
+        "citeRegEx": "18",
+        "shortCiteRegEx": "18",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Examples include machine learning algorithms, such as mixture of experts [10], linear and quadratic discriminant analyses [11, 12], support vector machine [13], and artificial neural networks [14, 15, 16, 17, 18]. In the former, partitioning is based only on the heartbeat label, which allows significant amounts of data from the same patient to be represented in both training and test sets, resulting in overly optimistic performance estimates [18, 48].",
+        "context": null
+    },
+    {
+        "title": "A 2-d ecg compression method based on wavelet transform and modified spiht",
+        "author": [
+            "S.-C. Tai",
+            "C. Sun",
+            "W.-C. Yan"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "19",
+        "shortCiteRegEx": "19",
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " On the other hand, reported ECG compression algorithms are based on techniques, ranging from the classical time and transform domain methods [19, 20], to the recent overcomplete dictionary learning [21, 22]. preciate this, note that certain algorithms achieve high compression ratio for a signal consisting of several beats by stacking such beats before compressing [19].",
+        "context": null
+    },
+    {
+        "title": "Ecg signal compression using analysis by synthesis coding",
+        "author": [
+            "Y. Zigel",
+            "A. Cohen",
+            "A. Katz"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "20",
+        "shortCiteRegEx": "20",
+        "year": 2000,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " On the other hand, reported ECG compression algorithms are based on techniques, ranging from the classical time and transform domain methods [19, 20], to the recent overcomplete dictionary learning [21, 22].",
+        "context": null
+    },
+    {
+        "title": "An ecg signals compression method and its validation using nns",
+        "author": [
+            "C.M. Fira",
+            "L. Goras"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "21",
+        "shortCiteRegEx": "21",
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " On the other hand, reported ECG compression algorithms are based on techniques, ranging from the classical time and transform domain methods [19, 20], to the recent overcomplete dictionary learning [21, 22]. Next the annotated R-peak location in each beat was noted, and 150 samples before, 150 samples after and the Rpeak sample were collected in a vector of length 301 [21]. Further, specific fixed partitioning is sometimes chosen so as to maximize reported compression ratio [21, 22].",
+        "context": null
+    },
+    {
+        "title": "Ecg compression retaining the best natural basis k-coefficients via sparse decomposition",
+        "author": [
+            "A. Adamo",
+            "G. Grossi",
+            "R. Lanzarotti",
+            "J. Lin"
+        ],
+        "venue": "Biomedical Signal Processing and Control",
+        "citeRegEx": "22",
+        "shortCiteRegEx": "22",
+        "year": 2015,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " On the other hand, reported ECG compression algorithms are based on techniques, ranging from the classical time and transform domain methods [19, 20], to the recent overcomplete dictionary learning [21, 22]. Further, specific fixed partitioning is sometimes chosen so as to maximize reported compression ratio [21, 22].",
+        "context": null
+    },
+    {
+        "title": "Optimality of klt for high-rate transform coding of gaussian vector-scale mixtures: Application to reconstruction, estimation, and classification",
+        "author": [
+            "S. Jana",
+            "P. Moulin"
+        ],
+        "venue": "IEEE Transactions on Information Theory",
+        "citeRegEx": "23",
+        "shortCiteRegEx": "23",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The proposed approach, however, is different from the (symmetric) joint classification/reconstruction framework [23], where a combination of classification and (class-oblivious) reconstruction indices is minimized subject to a rate constraint.",
+        "context": null
+    },
+    {
+        "title": "Coronary Heart Disease: Clinical, Pathological, Imaging, and Molecular Profiles",
+        "author": [
+            "Z. Vlodaver",
+            "R.F. Wilson",
+            "D. Garry"
+        ],
+        "venue": "Springer Science & Business Media,",
+        "citeRegEx": "24",
+        "shortCiteRegEx": "24",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Specifically, 90% of patients experience PVCs after acute MI [24], and the risk of sudden death in such patients is related to the complexity and frequency of the PVCs.",
+        "context": null
+    },
+    {
+        "title": "Premature ventricular contraction-induced cardiomyopathy a treatable condition, Circulation: Arrhythmia and Electrophysiology",
+        "author": [
+            "Y.-M. Cha",
+            "G.K. Lee",
+            "K.W. Klarich",
+            "M. Grogan"
+        ],
+        "venue": null,
+        "citeRegEx": "25",
+        "shortCiteRegEx": "25",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Recent studies also indicate the role of PVCs in inducing cardiomyopathy [25].",
+        "context": null
+    },
+    {
+        "title": "Prognostic significance of frequent premature ventricular contractions originating from the ventricular outflow tract in patients with normal left ventricular function, Heart",
+        "author": [
+            "S. Niwano",
+            "Y. Wakisaka",
+            "H. Niwano",
+            "H. Fukaya",
+            "S. Kurokawa",
+            "M. Kiryu",
+            "Y. Hatakeyama",
+            "T. Izumi"
+        ],
+        "venue": null,
+        "citeRegEx": "26",
+        "shortCiteRegEx": "26",
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Recommended lower threshold for the high-risk subjects, such as those with a history of MI or LVD varies between 10,000 and 20,000 in a 24-hour window [26].",
+        "context": null
+    },
+    {
+        "title": "Relationship between burden of premature ventricular complexes and left ventricular function, Heart Rhythm",
+        "author": [
+            "T.S. Baman",
+            "D.C. Lange",
+            "K.J. Ilg",
+            "S.K. Gupta",
+            "T.- Y. Liu",
+            "C. Alguire",
+            "W. Armstrong",
+            "E. Good",
+            "A. Chugh",
+            "K. Jongnarangsin"
+        ],
+        "venue": null,
+        "citeRegEx": "27",
+        "shortCiteRegEx": "27",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Another recommendation sets 10% as the threshold PVC burden [27].",
+        "context": null
+    },
+    {
+        "title": "Pervasive healthcare and wireless health monitoring, Mobile Networks and Applications",
+        "author": [
+            "U. Varshney"
+        ],
+        "venue": null,
+        "citeRegEx": "29",
+        "shortCiteRegEx": "29",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " With growing ubiquity of mobile phones in recent years, cellular network based as well as ZigBee based wireless systems have been developed [29, 30, 31].",
+        "context": null
+    },
+    {
+        "title": "We-care: an intelligent mobile telecardiology system to enable mhealth applications, IEEE journal of biomedical and health informatics",
+        "author": [
+            "A. Huang",
+            "C. Chen",
+            "K. Bian",
+            "X. Duan",
+            "M. Chen",
+            "H. Gao",
+            "C. Meng",
+            "Q. Zheng",
+            "Y. Zhang",
+            "B. Jiao"
+        ],
+        "venue": null,
+        "citeRegEx": "30",
+        "shortCiteRegEx": "30",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " With growing ubiquity of mobile phones in recent years, cellular network based as well as ZigBee based wireless systems have been developed [29, 30, 31].",
+        "context": null
+    },
+    {
+        "title": "A lossless ecg data compression technique using ascii character encoding, Computers & Electrical Engineering",
+        "author": [
+            "S.K. Mukhopadhyay",
+            "S. Mitra",
+            "M. Mitra"
+        ],
+        "venue": null,
+        "citeRegEx": "32",
+        "shortCiteRegEx": "32",
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In particular, a method to encode ECG signals into ASCII characters to enable communication via SMS (short message service) has been reported [32].",
+        "context": null
+    },
+    {
+        "title": "Esc guidelines for the management of acute myocardial infarction in patients presenting with st-segment elevation, European heart journal (2012) ehs215",
+        "author": [
+            "P.G. Steg",
+            "S.K. James",
+            "D. Atar",
+            "L.P. Badano",
+            "C.B. Lundqvist",
+            "M.A. Borger",
+            "C. Di Mario",
+            "K. Dickstein",
+            "G. Ducrocq",
+            "F. Fernandez-Aviles"
+        ],
+        "venue": null,
+        "citeRegEx": "34",
+        "shortCiteRegEx": "34",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Consider an individual living at the economic threshold of this target population segment, who suffered myocardial infarction in the recent past, and was successfully treated (see [34] for various treatment options).",
+        "context": null
+    },
+    {
+        "title": "Private initiatives and policy options: recent health system experience in india, Health policy and planning",
+        "author": [
+            "B.C. Purohit"
+        ],
+        "venue": null,
+        "citeRegEx": "35",
+        "shortCiteRegEx": "35",
+        "year": 2001,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Such an assumption is realistic in various developing and underdeveloped countries, where free healthcare is dispensed from government-run facilities [35].",
+        "context": null
+    },
+    {
+        "title": "Saberwal, In ehealth in india today, the nature of work, the challenges and the finances: an interview-based study, BMC medical informatics and decision making",
+        "author": [
+            "G.S. Jaros lawski"
+        ],
+        "venue": null,
+        "citeRegEx": "36",
+        "shortCiteRegEx": "36",
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " This welfare paradigm is currently being extended even to the broader context of telemedicine [36].",
+        "context": null
+    },
+    {
+        "title": "Physiobank, physiotoolkit, and physionet components of a new research resource for complex physiologic signals, Circulation",
+        "author": [
+            "A.L. Goldberger",
+            "L.A. Amaral",
+            "L. Glass",
+            "J.M. Hausdorff",
+            "P.C. Ivanov",
+            "R.G. Mark",
+            "J.E. Mietus",
+            "G.B. Moody",
+            "C.-K. Peng",
+            "H.E. Stanley"
+        ],
+        "venue": null,
+        "citeRegEx": "37",
+        "shortCiteRegEx": "37",
+        "year": 2000,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Considering a sampling rate of 360Hz and word length of 11 bits (used in MIT/BIH arrhythmia database [37]), one would generate about 1. For evaluation of various performance indices, we made use of MIT/BIH Arrhythmia database available from the PhysioBank archives [37]. Recall that the adopted MIT/BIH Arrhythmia database consists of 30-minute excerpts of two channel ambulatory ECG recordings of 48 subjects [37]. To this end, we made use of MIT/BIH Arrhythmia database [37], adopted patient specific partitioning, evaluated the performance of our dictionary based method according to Proposal-1, Proposal-2 and Proposal3, and compared with the performance of known algorithms, when relevant. We demonstrated the efficacy of our method using Monte Carlo cross validation on the MIT/BIH arrhythmia database [37, 51].",
+        "context": null
+    },
+    {
+        "title": "On the problem of the most efficient tests of statistical hypotheses",
+        "author": [
+            "J. Neyman",
+            "E.S. Pearson"
+        ],
+        "venue": "in: Breakthroughs in Statistics,",
+        "citeRegEx": "40",
+        "shortCiteRegEx": "40",
+        "year": 1992,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " , fraction of normal beats correctly detected as normal beats is maximized [40].",
+        "context": null
+    },
+    {
+        "title": "Bioelectrical signal processing",
+        "author": [
+            "L. S\u00f6rnmo",
+            "P. Laguna"
+        ],
+        "venue": "in cardiac and neurological applications,",
+        "citeRegEx": "41",
+        "shortCiteRegEx": "41",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " where x and x\u0302 stand respectively for the original and the reconstructed signals [41].",
+        "context": null
+    },
+    {
+        "title": "The weighted diagnostic distortion (wdd) measure for ecg signal compression",
+        "author": [
+            "Y. Zigel",
+            "A. Cohen",
+            "A. Katz"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "42",
+        "shortCiteRegEx": "42",
+        "year": 2000,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Table 1: Relation between PRD and the diagnostic content of the ECG signal [42]. Further, from a diagnostic perspective, a PRD of no more than 9% has been found to be \u201cgood\u201d (Table 1) [42]. From the medical professionals\u2019 perspective, the inference has to be made from the electronic records at essentially the same quality (PRD \u2264 9%, from Table 1 [42]) as the gold (quality) standard of unprocessed signals.",
+        "context": null
+    },
+    {
+        "title": "Sparse and Redundant Representations: From Theory to Applications in Signal and Image Processing, 1st Edition",
+        "author": [
+            "M. Elad"
+        ],
+        "venue": null,
+        "citeRegEx": "43",
+        "shortCiteRegEx": "43",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Compressive sampling (CS) recovers a high dimensional sparse vector \u03b1 \u2208 R from a few of its measurements x = \u03a6\u03b1, x \u2208 R, m < n, where \u03a6 denotes the measurement matrix [43]. As l1 solver, we shall use orthogonal matching pursuit (OMP) in view of its simplicity, empirical effectiveness (despite its being greedy) [43], and relatively low computational complexity of O(mn) [44].",
+        "context": null
+    },
+    {
+        "title": "Efficient implementation of the k-svd algorithm using batch orthogonal matching pursuit, CS Technion",
+        "author": [
+            "R. Rubinstein",
+            "M. Zibulevsky",
+            "M. Elad"
+        ],
+        "venue": null,
+        "citeRegEx": "44",
+        "shortCiteRegEx": "44",
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " As l1 solver, we shall use orthogonal matching pursuit (OMP) in view of its simplicity, empirical effectiveness (despite its being greedy) [43], and relatively low computational complexity of O(mn) [44]. M training data (signals) is O(mnM) [44].",
+        "context": null
+    },
+    {
+        "title": "K-svd: An algorithm for designing overcomplete dictionaries for sparse representation, IEEE Transactions on signal processing",
+        "author": [
+            "M. Aharon",
+            "M. Elad",
+            "A. Bruckstein"
+        ],
+        "venue": null,
+        "citeRegEx": "45",
+        "shortCiteRegEx": "45",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Given a set of signals {xi} M i=1, KSVD obtains the dictionary D that provides the sparsest representation for each example in this set [45]. Empirically, \u201cgood\u201d overcomplete dictionaries have been shown to possess a ratio of column to row size between approximately 2 and 5 [45].",
+        "context": null
+    },
+    {
+        "title": "Heartbeat classification using morphological and dynamic features of ecg signals",
+        "author": [
+            "C. Ye",
+            "B.V. Kumar",
+            "M.T. Coimbra"
+        ],
+        "venue": "IEEE Transactions on Biomedical Engineering",
+        "citeRegEx": "47",
+        "shortCiteRegEx": "47",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Traditionally, partitioning of database into training and test sets is performed either in a classoriented or in a subject-oriented manner [47].",
+        "context": null
+    },
+    {
+        "title": "Reliable low-cost telecardiology: High-sensitivity detection of ventricular beats using dictionaries",
+        "author": [
+            "B.S. Chandra",
+            "C.S. Sastry",
+            "S. Jana"
+        ],
+        "venue": "in: 16th IEEE Healthcom,",
+        "citeRegEx": "50",
+        "shortCiteRegEx": "50",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " However, sparsity saturates with increasing column size, and has negligible effect on classification performance beyond certain threshold [50].",
+        "context": null
+    },
+    {
+        "title": "A survey of cross-validation procedures for model selection, Statistics surveys",
+        "author": [
+            "S. Arlot",
+            "A. Celisse"
+        ],
+        "venue": null,
+        "citeRegEx": "51",
+        "shortCiteRegEx": "51",
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We demonstrated the efficacy of our method using Monte Carlo cross validation on the MIT/BIH arrhythmia database [37, 51].",
+        "context": null
+    },
+    {
+        "title": "Asymptomatic arrhythmias in patients with symptomatic paroxysmal atrial fibrillation and paroxysmal supraventricular tachycardia., Circulation",
+        "author": [
+            "R.L. Page",
+            "W.E. Wilkinson",
+            "W.K. Clair",
+            "E.A. Mc- Carthy",
+            "E. Pritchett"
+        ],
+        "venue": null,
+        "citeRegEx": "52",
+        "shortCiteRegEx": "52",
+        "year": 1994,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Further, apart from PVCs, the proposed dictionary-based method could be extended to other anomalous indicators such as supraventricular arrhythmias and atrial fibrillation [52].",
+        "context": null
+    },
+    {
+        "title": "Online dictionary learning for sparse coding",
+        "author": [
+            "J. Mairal",
+            "F. Bach",
+            "J. Ponce",
+            "G. Sapiro"
+        ],
+        "venue": "in: Proceedings of the 26th annual international conference on machine learning,",
+        "citeRegEx": "53",
+        "shortCiteRegEx": "53",
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " In addition, incorporating medical professionals\u2019 feedback and adaptively learning personalized dictionaries could potentially improve both classification and compression performance levels [53].",
+        "context": null
+    }
+]

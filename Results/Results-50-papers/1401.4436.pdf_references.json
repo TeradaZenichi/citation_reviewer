@@ -1,0 +1,1037 @@
+[
+    {
+        "title": "Semantic lexicon construction: Learning from unlabeled data via spectral analysis",
+        "author": [
+            "R.K. Ando"
+        ],
+        "venue": "Proceedings of the 8th Conference on Computational Natural Language Learning, pp. 9\u201316.",
+        "citeRegEx": "Ando,? 2004",
+        "shortCiteRegEx": "Ando",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Among non-bootstrapping approaches, Ando (2004) presents a new method of constructing semantic lexicons from an unannotated corpus using a set of semantic classes and a set of seed words and phrases for each semantic class. Among non-bootstrapping approaches, Ando (2004) presents a new method of constructing semantic lexicons from an unannotated corpus using a set of semantic classes and a set of seed words and phrases for each semantic class. She uses spectral analysis to improve the feature vectors by projecting the useful portions of the vectors into a subspace and removing the \u201charmful\u201d portions of the vectors. The resultant feature vectors are then used by a centroid-based classifier using cosine similarity measure to label the words. Avancini, Lavelli, Sebastiani, and Zanoli (2006) take a classification approach to semantic lexicon construction. The former, called RAndom k-LabELsets, or RAKEL, builds an ensemble of classifiers by randomly sampling label sets of size k; whereas the latter adopts the method of filtering observed label sets by minimum support. Tang et al. (2009), on the other hand, take a different approach: they train one classifier that predicts the number of labels that a test instance would have, and then choose that many labels for that instance based on output of another classifier that ranks the labels by likelihood for that instance.",
+        "context": null
+    },
+    {
+        "title": "Inter-coder agreement for computational linguistics",
+        "author": [
+            "R. Artstein",
+            "M. Poesio"
+        ],
+        "venue": "Computional Linguistics,",
+        "citeRegEx": "Artstein and Poesio,? \\Q2008\\E",
+        "shortCiteRegEx": "Artstein and Poesio",
+        "year": 2008,
+        "abstract": " This article is a survey of methods for measuring agreement among corpus annotators. It exposes the mathematics and underlying assumptions of agreement coefficients, covering Krippendorff's alpha as well as Scott's pi and Cohen's kappa; discusses the use of coefficients in several annotation tasks; and argues that weighted, alpha-like coefficients, traditionally less used than kappa-like measures in computational linguistics, may be more appropriate for many corpus annotation tasks\u2014but that their use makes the interpretation of the value of the coefficient even harder. ",
+        "full_text": "",
+        "sentence": " After the annotations were completed, the inter-annotator agreement was computed using the Krippendorff\u2019s (2004) \u03b1 statistics as described by Artstein and Poesio (2008), using the Measuring Agreement on Set-valued Items (MASI) scoring metric (Passonneau, 2004).",
+        "context": null
+    },
+    {
+        "title": "Automatic expansion of domain-specific lexicons by term categorization",
+        "author": [
+            "H. Avancini",
+            "A. Lavelli",
+            "F. Sebastiani",
+            "R. Zanoli"
+        ],
+        "venue": "ACM Transactions on Speech and Language Processing (TSLP),",
+        "citeRegEx": "Avancini et al\\.,? \\Q2006\\E",
+        "shortCiteRegEx": "Avancini et al\\.",
+        "year": 2006,
+        "abstract": "\n            We discuss an approach to the automatic expansion of\n            domain-specific lexicons\n            , that is, to the problem of\nextending, for each\n            c\n            \n              i\n            \n            in a predefined set\n            C\n            =\n{\n            c\n            1\n            ,\u2026,\n            c\n            \n              m\n            \n            } of\nsemantic\n            domains\n            , an initial lexicon\n            L\n            \n              i\n            \n            0\n            into a larger lexicon\n            L\n            \n              i\n            \n            1\n            . Our approach relies on\n            term categorization\n            , defined as the task of labeling\npreviously unlabeled terms according to a predefined set of\ndomains. We approach this as a supervised learning problem in which\nterm classifiers are built using the initial lexicons as training\ndata. Dually to classic text categorization tasks in which\ndocuments are represented as vectors in a space of terms, we\nrepresent terms as vectors in a space of documents. We present the\nresults of a number of experiments in which we use a boosting-based\nlearning device for training our term classifiers. We test the\neffectiveness of our method by using WordNetDomains, a well-known\nlarge set of domain-specific lexicons, as a benchmark. Our\nexperiments are performed using the documents in the Reuters Corpus\nVolume 1 as implicit representations for our terms.\n          ",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Distributional clustering of words for text classification",
+        "author": [
+            "L.D. Baker",
+            "A.K. McCallum"
+        ],
+        "venue": "In Proceedings of the 21st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,",
+        "citeRegEx": "Baker and McCallum,? \\Q1998\\E",
+        "shortCiteRegEx": "Baker and McCallum",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Baker and McCallum (1998) use Pereira et al. Baker and McCallum (1998) use Pereira et al.\u2019s distributional clustering technique to perform feature space reduction for supervised classification with n\u00e4\u0131ve Bayes by using the clusters as features. Lin and Pantel (2001) present their approach of generating a collection of sets of semantically similar words, or concepts, using their clustering method, UNICON, with dependency relations as features. Baker and McCallum (1998) use Pereira et al.\u2019s distributional clustering technique to perform feature space reduction for supervised classification with n\u00e4\u0131ve Bayes by using the clusters as features. Lin and Pantel (2001) present their approach of generating a collection of sets of semantically similar words, or concepts, using their clustering method, UNICON, with dependency relations as features. Pantel and Lin (2002) present another clustering approach, clustering by committee, using contextual features with point wise mutual information as feature values, that they compare as better than Lin and Pantel\u2019s results. Baker and McCallum (1998) use Pereira et al.\u2019s distributional clustering technique to perform feature space reduction for supervised classification with n\u00e4\u0131ve Bayes by using the clusters as features. Lin and Pantel (2001) present their approach of generating a collection of sets of semantically similar words, or concepts, using their clustering method, UNICON, with dependency relations as features. Pantel and Lin (2002) present another clustering approach, clustering by committee, using contextual features with point wise mutual information as feature values, that they compare as better than Lin and Pantel\u2019s results. Rohwer and Freitag (2004) present a clustering-based automatic thesaurus building process from an unannotated corpus.",
+        "context": null
+    },
+    {
+        "title": "Mitigating the paucity-of-data problem: Exploring the effect of training corpus size on classifier performance for natural language processing",
+        "author": [
+            "M. Banko",
+            "E. Brill"
+        ],
+        "venue": "In Proceedings of the 1st International Conference on Human Language Technology Research",
+        "citeRegEx": "Banko and Brill,? \\Q2001\\E",
+        "shortCiteRegEx": "Banko and Brill",
+        "year": 2001,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Web 1T 5-gram Version 1. Linguistic Data",
+        "author": [
+            "T. Brants",
+            "A. Franz"
+        ],
+        "venue": null,
+        "citeRegEx": "Brants and Franz,? \\Q2006\\E",
+        "shortCiteRegEx": "Brants and Franz",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Notable investigations on causation in the field of psychology include those by Cheng (1997), who defines causation in terms of the probabilistic contrast model ; Griffiths and Tenenbaum (2005), who discuss learning about cause and effect relationships using causal graphical models; and Halpern and Pearl (2005), who provide explanations of causality by means of structural equations governing random variables representing events. Notable investigations on causation in the field of psychology include those by Cheng (1997), who defines causation in terms of the probabilistic contrast model ; Griffiths and Tenenbaum (2005), who discuss learning about cause and effect relationships using causal graphical models; and Halpern and Pearl (2005), who provide explanations of causality by means of structural equations governing random variables representing events. Notable investigations on causation in the field of psychology include those by Cheng (1997), who defines causation in terms of the probabilistic contrast model ; Griffiths and Tenenbaum (2005), who discuss learning about cause and effect relationships using causal graphical models; and Halpern and Pearl (2005), who provide explanations of causality by means of structural equations governing random variables representing events.",
+        "context": null
+    },
+    {
+        "title": "From covariation to causation: A causal power theory",
+        "author": [
+            "P.W. Cheng"
+        ],
+        "venue": "Psychological Review, 104 (2), 367\u2013405.",
+        "citeRegEx": "Cheng,? 1997",
+        "shortCiteRegEx": "Cheng",
+        "year": 1997,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "The statistical significance of the MUC-4 results",
+        "author": [
+            "N. Chinchor"
+        ],
+        "venue": "Proceedings of the 4th Message Understanding Conference, pp. 30\u201350.",
+        "citeRegEx": "Chinchor,? 1992",
+        "shortCiteRegEx": "Chinchor",
+        "year": 1992,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Evaluating message understanding systems: An analysis of the Third Message Understanding Conference (MUC-3)",
+        "author": [
+            "N. Chinchor",
+            "L. Hirschman",
+            "D.D. Lewis"
+        ],
+        "venue": "Computational Linguistics,",
+        "citeRegEx": "Chinchor et al\\.,? \\Q1993\\E",
+        "shortCiteRegEx": "Chinchor et al\\.",
+        "year": 1993,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "On the algorithmic implementation of multiclass kernelbased vector machines",
+        "author": [
+            "K. Crammer",
+            "Y. Singer"
+        ],
+        "venue": "Journal of Machine Learning Research,",
+        "citeRegEx": "Crammer and Singer,? \\Q2002\\E",
+        "shortCiteRegEx": "Crammer and Singer",
+        "year": 2002,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In our implementation of this approach, the first model is learned using SVM, which is an implementation of multi-class SVM described by Crammer and Singer (2002)13.",
+        "context": null
+    },
+    {
+        "title": "Improvements in automatic thesaurus extraction",
+        "author": [
+            "J.R. Curran",
+            "M. Moens"
+        ],
+        "venue": "In Proceedings of the ACL 2002 Workshop on Unsupervised Lexical Acquisition,",
+        "citeRegEx": "Curran and Moens,? \\Q2002\\E",
+        "shortCiteRegEx": "Curran and Moens",
+        "year": 2002,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " For instance, we would like to study the performance of the semantic similarities and weighting functions suggested by Curran and Moens (2002) in our context.",
+        "context": null
+    },
+    {
+        "title": "Minimising semantic drift with mutual exclusion bootstrapping",
+        "author": [
+            "J.R. Curran",
+            "T. Murphy",
+            "B. Scholz"
+        ],
+        "venue": "In Proceedings of the 10th Conference of the Pacific Association for Computational Linguistics,",
+        "citeRegEx": "Curran et al\\.,? \\Q2007\\E",
+        "shortCiteRegEx": "Curran et al\\.",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Efficient unsupervised discovery of word categories using symmetric patterns and high frequency words",
+        "author": [
+            "D. Davidov",
+            "A. Rappoport"
+        ],
+        "venue": "In Proceedings of the 21st International Conference on Computational Linguistics and the 44th Annual Meeting of the Association for Computational Linguistics,",
+        "citeRegEx": "Davidov and Rappoport,? \\Q2006\\E",
+        "shortCiteRegEx": "Davidov and Rappoport",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Among non-cluster-based methods, Davidov and Rappoport (2006) present an unsupervised method of discovering groups of words that have similar meanings.",
+        "context": null
+    },
+    {
+        "title": "Approximate statistical tests for comparing supervised classification learning algorithms",
+        "author": [
+            "T.G. Dietterich"
+        ],
+        "venue": "Neural Computation, 10 (7), 1895\u20131923.",
+        "citeRegEx": "Dietterich,? 1998",
+        "shortCiteRegEx": "Dietterich",
+        "year": 1998,
+        "abstract": " This article reviews five approximate statistical tests for determining whether one learning algorithm outperforms another on a particular learning task. These test sare compared experimentally to determine their probability of incorrectly detecting a difference when no difference exists (type I error). Two widely used statistical tests are shown to have high probability of type I error in certain situations and should never be used: a test for the difference of two proportions and a paired-differences t test based on taking several random train-test splits. A third test, a paired-differences t test based on 10-fold cross-validation, exhibits somewhat elevated probability of type I error. A fourth test, McNemar's test, is shown to have low type I error. The fifth test is a new test, 5 \u00d7 2 cv, based on five iterations of twofold cross-validation. Experiments show that this test also has acceptable type I error. The article also measures the power (ability to detect algorithm differences when they do exist) of these tests. The cross-validated t test is the most powerful. The 5\u00d72 cv test is shown to be slightly more powerful than McNemar's test. The choice of the best test is determined by the computational cost of running the learning algorithm. For algorithms that can be executed only once, Mc-Nemar's test is the only test with acceptable type I error. For algorithms that can be executed 10 times, the 5 \u00d7 2 cv test is recommended, because it is slightly more powerful and because it directly measures variation due to the choice of training set. ",
+        "full_text": "",
+        "sentence": " To determine whether a labeling scheme is better than another, we apply two statistical significance tests \u2014 McNemar\u2019s test (Everitt, 1977; Dietterich, 1998) and the stratified approximate randomization test (Noreen, 1989) \u2014 to test whether the difference in their performances is really statistically significant.",
+        "context": null
+    },
+    {
+        "title": "Accurate methods for the statistics of surprise and coincidence",
+        "author": [
+            "T. Dunning"
+        ],
+        "venue": "Computational Linguistics, 19 (1), 61\u201374.",
+        "citeRegEx": "Dunning,? 1993",
+        "shortCiteRegEx": "Dunning",
+        "year": 1993,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " After construction, they rank the words by a log-likelihood statistic (Dunning, 1993). After construction, they rank the words by a log-likelihood statistic (Dunning, 1993). However, due to the general brevity of the reports, such co-occurrences and lists are rather few in our corpus, and it is more useful for us to use context-based similarities like Thelen and Riloff (2002). They describe their Basilisk framework for learning semantic lexicon using extraction patterns as features.",
+        "context": null
+    },
+    {
+        "title": "The Analysis of Contingency Tables",
+        "author": [
+            "B.S. Everitt"
+        ],
+        "venue": "Chapman and Hall.",
+        "citeRegEx": "Everitt,? 1977",
+        "shortCiteRegEx": "Everitt",
+        "year": 1977,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " and Ferryman et al. (2006), both of which describe the shaping factors, and also give some examples of the words and phrases that indicate the influence of the shaping factors on the described incidents. and Ferryman et al. (2006), both of which describe the shaping factors, and also give some examples of the words and phrases that indicate the influence of the shaping factors on the described incidents. The definitions of the shapers are repeated in Section 2.1. Following Posse et al.\u2019s method, our annotators were explicitly instructed to adhere to these definitions as much as possible when annotating the reports with shaping factors. After the annotations were completed, the inter-annotator agreement was computed using the Krippendorff\u2019s (2004) \u03b1 statistics as described by Artstein and Poesio (2008), using the Measuring Agreement on Set-valued Items (MASI) scoring metric (Passonneau, 2004). To determine whether a labeling scheme is better than another, we apply two statistical significance tests \u2014 McNemar\u2019s test (Everitt, 1977; Dietterich, 1998) and the stratified approximate randomization test (Noreen, 1989) \u2014 to test whether the difference in their performances is really statistically significant.",
+        "context": null
+    },
+    {
+        "title": "What happened, and why: Toward an understanding of human error based on automated analyses of incident reports",
+        "author": [
+            "T.A. Ferryman",
+            "C. Posse",
+            "L.J. Rosenthal",
+            "A.N. Srivastava",
+            "I.C. Statler"
+        ],
+        "venue": "Volume II. Tech. rep. NASA/TP\u20132006-213490, National Aeronautics and Space Administration",
+        "citeRegEx": "Ferryman et al\\.,? \\Q2006\\E",
+        "shortCiteRegEx": "Ferryman et al\\.",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " (2005) and Ferryman et al. (2006), these narratives tend to be written in short, abbreviated manner, and tend to contain poor grammar. (2005) and Ferryman et al. (2006), as well as the example seed words selected by the NASA experts that were shown in these two papers. In fact, to our knowledge, the only related works on cause identification for the aviation safety domain were conducted by the researchers at NASA (see Posse et al., 2005; Ferryman et al., 2006). Later work by Ferryman et al. (2006) take these manually extracted expressions as ground truth and compare the anomalies described in the reports to the shaping factors derived from applying these expressions to the same reports.",
+        "context": null
+    },
+    {
+        "title": "COATIS, an NLP system to locate expressions of actions connected by causality links",
+        "author": [
+            "D. Garcia"
+        ],
+        "venue": "Proceedings of the 10th European Workshop on Knowledge Acquisition, Modeling and Mangement, pp. 347\u2013352.",
+        "citeRegEx": "Garcia,? 1997",
+        "shortCiteRegEx": "Garcia",
+        "year": 1997,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " For instance, there has been some work on causal analysis for question answering, where a question may involve the cause(s) of an event (e.g., Kaplan & Berry-Rogghe, 1991; Garcia, 1997; Khoo, Chan, & Niu, 2000; Girju, 2003). , Kaplan & Berry-Rogghe, 1991; Garcia, 1997; Khoo, Chan, & Niu, 2000; Girju, 2003). Here, the focus is on finding causal relationship between two sentence components. As another example, causal analysis on equipment malfunction reports have been attempted by Grishman and Ksiezyk (1990), whose work is restricted to the analysis of reports related to one specific piece of equipment they studied. For instance, Girju (2003) describes a method for automatically discovering lexico-semantic patterns that refer to causation. For instance, Girju (2003) describes a method for automatically discovering lexico-semantic patterns that refer to causation. In particular, she focuses on the explicit intra-sentential pattern \u3008NP1 verb NP2\u3009, where verb is a simple causative. She also shows how these patterns can be used to improve the performance of a system for answering cause-effect type questions. Khoo et al. (2000) use graphical pattern matching to identify causal relations from medical article abstracts. Similarly, Garcia (1997) uses hand-crafted extraction patterns to identify causal relations from sentences in the French language.",
+        "context": null
+    },
+    {
+        "title": "Automatic detection of causal relations for question answering",
+        "author": [
+            "R. Girju"
+        ],
+        "venue": "Proceedings of the ACL 2003 Workshop on Multilingual Summarization and Question Answering, pp. 76\u201383.",
+        "citeRegEx": "Girju,? 2003",
+        "shortCiteRegEx": "Girju",
+        "year": 2003,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " For instance, there has been some work on causal analysis for question answering, where a question may involve the cause(s) of an event (e.g., Kaplan & Berry-Rogghe, 1991; Garcia, 1997; Khoo, Chan, & Niu, 2000; Girju, 2003). Godbole and Sarawagi (2004) suggest a number of improvements to this scheme, namely, including class labels suggested by a preliminary set of classifiers as features, removing negative examples too close to the classification hyperplane, and selectively removing some classes from the one-versus-others classifications scheme. Godbole and Sarawagi (2004) suggest a number of improvements to this scheme, namely, including class labels suggested by a preliminary set of classifiers as features, removing negative examples too close to the classification hyperplane, and selectively removing some classes from the one-versus-others classifications scheme. Another notable method, followed by Tsoumakas and Vlahavas (2007) and Read et al. Godbole and Sarawagi (2004) suggest a number of improvements to this scheme, namely, including class labels suggested by a preliminary set of classifiers as features, removing negative examples too close to the classification hyperplane, and selectively removing some classes from the one-versus-others classifications scheme. Another notable method, followed by Tsoumakas and Vlahavas (2007) and Read et al. (2008), is to treat each unique set of labels as a new label, thus converting the problem to a multi-class single-labeled one.",
+        "context": null
+    },
+    {
+        "title": "Discriminative methods for multi-labeled classification",
+        "author": [
+            "S. Godbole",
+            "S. Sarawagi"
+        ],
+        "venue": "In Proceedings of the 8th Pacific-Asia Conference on Knowledge Discovery and Data Mining,",
+        "citeRegEx": "Godbole and Sarawagi,? \\Q2004\\E",
+        "shortCiteRegEx": "Godbole and Sarawagi",
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Structure and strength in causal induction",
+        "author": [
+            "T.L. Griffiths",
+            "J.B. Tenenbaum"
+        ],
+        "venue": "Cognitive Psychology,",
+        "citeRegEx": "Griffiths and Tenenbaum,? \\Q2005\\E",
+        "shortCiteRegEx": "Griffiths and Tenenbaum",
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Causal and temporal text analysis: The role of the domain model",
+        "author": [
+            "R. Grishman",
+            "T. Ksiezyk"
+        ],
+        "venue": "In Proceedings of the 13th International Conference on Computational Linguistics,",
+        "citeRegEx": "Grishman and Ksiezyk,? \\Q1990\\E",
+        "shortCiteRegEx": "Grishman and Ksiezyk",
+        "year": 1990,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Causes and explanations: A structural-model approach. Part I: Causes",
+        "author": [
+            "J.Y. Halpern",
+            "J. Pearl"
+        ],
+        "venue": "The British Journal for the Philosophy of Science,",
+        "citeRegEx": "Halpern and Pearl,? \\Q2005\\E",
+        "shortCiteRegEx": "Halpern and Pearl",
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Unsupervised information extraction approach using graph mutual reinforcement",
+        "author": [
+            "H. Hassan",
+            "A. Hassan",
+            "O. Emam"
+        ],
+        "venue": "In Proceedings of the 2006 Conference on Empirical Methods in Natural Language Processing,",
+        "citeRegEx": "Hassan et al\\.,? \\Q2006\\E",
+        "shortCiteRegEx": "Hassan et al\\.",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Original work published 1748))",
+        "author": [
+            "D. Hume"
+        ],
+        "venue": "An Enquiry Concerning Human Understanding",
+        "citeRegEx": "Hume,? \\Q1999\\E",
+        "shortCiteRegEx": "Hume",
+        "year": 1999,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Original work published 1739))",
+        "author": [
+            "D. Hume"
+        ],
+        "venue": "A Treatise of Human Nature",
+        "citeRegEx": "Hume,? \\Q2000\\E",
+        "shortCiteRegEx": "Hume",
+        "year": 2000,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Advances in Kernel Methods - Support Vector Learning, chap",
+        "author": [
+            "T. Joachims"
+        ],
+        "venue": "Making large-Scale SVM Learning Practical. MIT-Press.",
+        "citeRegEx": "Joachims,? 1999",
+        "shortCiteRegEx": "Joachims",
+        "year": 1999,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " As implemented in the SVM software package by Joachims (1999) 13. SVMs have been shown to be very effective in text classification (Joachims, 1999). As described by Joachims (1999), the goal is then to minimize the expected number of classification errors over the test set. As described by Joachims (1999), the goal is then to minimize the expected number of classification errors over the test set. The expected error rate is defined in Vapnik (1998) as follows:",
+        "context": null
+    },
+    {
+        "title": "Text categorization with suport vector machines: Learning with many relevant features",
+        "author": [
+            "T. Joachims"
+        ],
+        "venue": "Proceedings of the 10th European Conference on Machine Learning, pp. 137\u2013142.",
+        "citeRegEx": "Joachims,? 1998",
+        "shortCiteRegEx": "Joachims",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In our case, the underlying learner is Support Vector Machines (Joachims, 1998).",
+        "context": null
+    },
+    {
+        "title": "Transductive inference for text classification using support vector machines",
+        "author": [
+            "T. Joachims"
+        ],
+        "venue": "Proceedings of the 16th International Conference on Machine Learning, pp. 200\u2013209.",
+        "citeRegEx": "Joachims,? 1999",
+        "shortCiteRegEx": "Joachims",
+        "year": 1999,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Knowledge-based acquisition of causal relationships in text",
+        "author": [
+            "R. Kaplan",
+            "G. Berry-Rogghe"
+        ],
+        "venue": "Knowledge Acquisition,",
+        "citeRegEx": "Kaplan and Berry.Rogghe,? \\Q1991\\E",
+        "shortCiteRegEx": "Kaplan and Berry.Rogghe",
+        "year": 1991,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "KSC-PaL: A peer learning agent that encourages students to take the initiative",
+        "author": [
+            "C. Kersey",
+            "B. Di Eugenio",
+            "P. Jordan",
+            "S. Katz"
+        ],
+        "venue": "In Proceedings of the 4th Workshop on Innovative Use of NLP for Building Educational Applications,",
+        "citeRegEx": "Kersey et al\\.,? \\Q2009\\E",
+        "shortCiteRegEx": "Kersey et al\\.",
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Extracting causal knowledge from a medical database using graphical patterns",
+        "author": [
+            "C.S.G. Khoo",
+            "S. Chan",
+            "Y. Niu"
+        ],
+        "venue": "In Proceedings of the 38th Annual Meeting of the Association for Computational Linguistics,",
+        "citeRegEx": "Khoo et al\\.,? \\Q2000\\E",
+        "shortCiteRegEx": "Khoo et al\\.",
+        "year": 2000,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Improving text categorization using the importance of sentences",
+        "author": [
+            "Y. Ko",
+            "J. Park",
+            "J. Seo"
+        ],
+        "venue": "Information Processing and Management,",
+        "citeRegEx": "Ko et al\\.,? \\Q2004\\E",
+        "shortCiteRegEx": "Ko et al\\.",
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Content analysis: An introduction to its methodology",
+        "author": [
+            "K. Krippendorff"
+        ],
+        "venue": "Sage Publications, Inc.",
+        "citeRegEx": "Krippendorff,? 2004",
+        "shortCiteRegEx": "Krippendorff",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Causation",
+        "author": [
+            "D. Lewis"
+        ],
+        "venue": "Journal of Philosophy, 70 (17), 556\u2013567.",
+        "citeRegEx": "Lewis,? 1973",
+        "shortCiteRegEx": "Lewis",
+        "year": 1973,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Also, the Minipar parser (Lin, 1998) is run on the sentences to identify the grammatical roles of the words. However, the report text has to be preprocessed before applying these tools for reasons described in the following paragraphs. The reports in the ASRS data set are usually informally written, using various domain specific abbreviations and acronyms. In general, as observed by van Delden and Gomez (2004), Posse et al. Also, the Minipar parser (Lin, 1998) is run on the sentences to identify the grammatical roles of the words. However, the report text has to be preprocessed before applying these tools for reasons described in the following paragraphs. The reports in the ASRS data set are usually informally written, using various domain specific abbreviations and acronyms. In general, as observed by van Delden and Gomez (2004), Posse et al. (2005) and Ferryman et al.",
+        "context": null
+    },
+    {
+        "title": "Dependency-based evaluation of MINIPAR",
+        "author": [
+            "D. Lin"
+        ],
+        "venue": "Proceedings of the LREC Workshop on Evaluation of Parsing Systems, pp. 317\u2013329.",
+        "citeRegEx": "Lin,? 1998",
+        "shortCiteRegEx": "Lin",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Also, the Minipar parser (Lin, 1998) is run on the sentences to identify the grammatical roles of the words. To better understand whether our proposed linguistic and algorithmic modifications to the Basilisk framework (see Section 4.3) are indeed beneficial to our cause identification task, we repeated the experiment described above, except that we replaced the lexicon generated using the modified Basilisk framework with one generated using the original Basilisk framework. More specifically, we implemented the original Basilisk framework as described by Thelen and Riloff (2002), but with one minor difference: in the case of the bigram patterns extracting phrases, the word pools described in Section 4.",
+        "context": null
+    },
+    {
+        "title": "Induction of semantic classes from natural language text",
+        "author": [
+            "D. Lin",
+            "P. Pantel"
+        ],
+        "venue": "In Proceedings of the 7th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,",
+        "citeRegEx": "Lin and Pantel,? \\Q2001\\E",
+        "shortCiteRegEx": "Lin and Pantel",
+        "year": 2001,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Building a large annotated corpus of English: The Penn Treebank",
+        "author": [
+            "M.P. Marcus",
+            "B. Santorini",
+            "M.A. Marcinkiewicz"
+        ],
+        "venue": "Computational Linguistics,",
+        "citeRegEx": "Marcus et al\\.,? \\Q1993\\E",
+        "shortCiteRegEx": "Marcus et al\\.",
+        "year": 1993,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Text classification by bootstrapping with keywords, EM and shrinkage",
+        "author": [
+            "A. McCallum",
+            "K. Nigam"
+        ],
+        "venue": "In Proceedings of the ACL Workshop on Unsupervised Learning in Natural Language Processing,",
+        "citeRegEx": "McCallum and Nigam,? \\Q1999\\E",
+        "shortCiteRegEx": "McCallum and Nigam",
+        "year": 1999,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " McCallum and Nigam (1999) propose a system that starts with a small set of keywords and unlabeled documents, and learns a n\u00e4\u0131ve Bayes classifier in a bootstrapping process from the keyword-induced labels by using hierarchical shrinkage and expectation maximization",
+        "context": null
+    },
+    {
+        "title": "Computer-Intensive Methods for Testing Hypotheses : An Introduction",
+        "author": [
+            "E.W. Noreen"
+        ],
+        "venue": "Wiley.",
+        "citeRegEx": "Noreen,? 1989",
+        "shortCiteRegEx": "Noreen",
+        "year": 1989,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " To determine whether a labeling scheme is better than another, we apply two statistical significance tests \u2014 McNemar\u2019s test (Everitt, 1977; Dietterich, 1998) and the stratified approximate randomization test (Noreen, 1989) \u2014 to test whether the difference in their performances is really statistically significant.",
+        "context": null
+    },
+    {
+        "title": "Discovering word senses from text",
+        "author": [
+            "P. Pantel",
+            "D. Lin"
+        ],
+        "venue": "In Proceedings of the 8th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining,",
+        "citeRegEx": "Pantel and Lin,? \\Q2002\\E",
+        "shortCiteRegEx": "Pantel and Lin",
+        "year": 2002,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Automatically labeling semantic classes",
+        "author": [
+            "P. Pantel",
+            "D. Ravichandran"
+        ],
+        "venue": "In Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics,",
+        "citeRegEx": "Pantel and Ravichandran,? \\Q2004\\E",
+        "shortCiteRegEx": "Pantel and Ravichandran",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Computing reliability for coreference annotation",
+        "author": [
+            "R. Passonneau"
+        ],
+        "venue": "Proceedings of the Fourth International Conference on Language Resources and Evaluation, Vol. 4, pp. 1503\u20131506.",
+        "citeRegEx": "Passonneau,? 2004",
+        "shortCiteRegEx": "Passonneau",
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " After the annotations were completed, the inter-annotator agreement was computed using the Krippendorff\u2019s (2004) \u03b1 statistics as described by Artstein and Poesio (2008), using the Measuring Agreement on Set-valued Items (MASI) scoring metric (Passonneau, 2004).",
+        "context": null
+    },
+    {
+        "title": "Learning domain-specific information extraction patterns from the web",
+        "author": [
+            "S. Patwardhan",
+            "E. Riloff"
+        ],
+        "venue": "In Proceedings of the COLING/ACL Workshop on Information Extraction Beyond The Document,",
+        "citeRegEx": "Patwardhan and Riloff,? \\Q2006\\E",
+        "shortCiteRegEx": "Patwardhan and Riloff",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " For example, Patwardhan and Riloff (2007) discuss a relevant sentence classifier that is trained on a small set of seed patterns and a set of documents marked as relevant and irrelevant that can be useful in this context. Patwardhan and Riloff (2006) use the AutoSlog-TS system (Riloff, 1996) to learn domain specific extraction patterns by processing documents retrieved by querying the web with selected domain-specific words.",
+        "context": null
+    },
+    {
+        "title": "Effective information extraction with semantic affinity patterns and relevant regions",
+        "author": [
+            "S. Patwardhan",
+            "E. Riloff"
+        ],
+        "venue": "In Proceedings of the 2007 Joint Conference on Empirical Methods in Natural Language Processing and Computational Natural Language Learning,",
+        "citeRegEx": "Patwardhan and Riloff,? \\Q2007\\E",
+        "shortCiteRegEx": "Patwardhan and Riloff",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Distributional clustering of English words",
+        "author": [
+            "F.C.N. Pereira",
+            "N. Tishby",
+            "L. Lee"
+        ],
+        "venue": "In Proceedings of the 31st Annual Meeting of the Association for Computational Linguistics,",
+        "citeRegEx": "Pereira et al\\.,? \\Q1993\\E",
+        "shortCiteRegEx": "Pereira et al\\.",
+        "year": 1993,
+        "abstract": "We describe and experimentally evaluate a method for automatically clustering\nwords according to their distribution in particular syntactic contexts.\nDeterministic annealing is used to find lowest distortion sets of clusters. As\nthe annealing parameter increases, existing clusters become unstable and\nsubdivide, yielding a hierarchical ``soft'' clustering of the data. Clusters\nare used as the basis for class models of word coocurrence, and the models\nevaluated with respect to held-out test data.",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "CRFChunker: CRF English Phrase Chunker",
+        "author": [
+            "Phan",
+            "X.-H."
+        ],
+        "venue": "http://crfchunker. sourceforge.net/.",
+        "citeRegEx": "Phan and X..H.,? 2006a",
+        "shortCiteRegEx": "Phan and X..H.",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "CRFTagger: CRF English POS Tagger",
+        "author": [
+            "Phan",
+            "X.-H."
+        ],
+        "venue": "http://crftagger. sourceforge.net/.",
+        "citeRegEx": "Phan and X..H.,? 2006b",
+        "shortCiteRegEx": "Phan and X..H.",
+        "year": 2006,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Exploiting role-identifying nouns and expressions for information extraction",
+        "author": [
+            "W. Phillips",
+            "E. Riloff"
+        ],
+        "venue": "In Proceedings of International Conference on Recent Advances in Natural Language Processing",
+        "citeRegEx": "Phillips and Riloff,? \\Q2007\\E",
+        "shortCiteRegEx": "Phillips and Riloff",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Phillips and Riloff (2007) present a method of boot-",
+        "context": null
+    },
+    {
+        "title": "Contextual valence shifters",
+        "author": [
+            "L. Polanyi",
+            "A. Zaenen"
+        ],
+        "venue": "In Computing Attitude and Affect in Text: Theory and Applications,",
+        "citeRegEx": "Polanyi and Zaenen,? \\Q2006\\E",
+        "shortCiteRegEx": "Polanyi and Zaenen",
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " His judgment of whether a word or phrase is relevant to a shaping factor was based on a careful reading of the description of the shaping factors in the works of Posse et al. (2005) and Ferryman et al. NASA\u2019s own research on identifying causes of incidents from the report narratives have been performed by Posse et al. (2005), who describe a specific experiment in which they brought together experts to manually analyze the report narratives and identify words, phrases and expressions related to each of the shaping factors, as mentioned earlier.",
+        "context": null
+    },
+    {
+        "title": "Extracting information from narratives: An application to aviation safety reports",
+        "author": [
+            "C. Posse",
+            "B. Matzke",
+            "C. Anderson",
+            "A. Brothers",
+            "M. Matzke",
+            "T. Ferryman"
+        ],
+        "venue": "In Proceedings of the 2005 IEEE Aerospace Conference,",
+        "citeRegEx": "Posse et al\\.,? \\Q2005\\E",
+        "shortCiteRegEx": "Posse et al\\.",
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The first approach is a heuristic approach, which, motivated by Posse et al. (2005), labels a report with a shaping factor if it contains at least a word or a phrase that is relevant to the shaping factor. However, the use of these simple features is relevant for the task and is motivated by the work performed by the NASA researchers, who, as mentioned above, have manually identified seed words and phrases for each shaping factor (Posse et al., 2005). As discussed by Posse et al. (2005) and Ferryman, Posse, Rosenthal, Srivastava, and Statler (2006), only the narrative of a report contains information on the shaping factors of the incident. As discussed by Posse et al. (2005) and Ferryman, Posse, Rosenthal, Srivastava, and Statler (2006), only the narrative of a report contains information on the shaping factors of the incident. Posse et al. (2005) focus on the 14 shaping factors, or simply shapers. While NASA has previously developed a heuristic approach to tackle the cause identification task (Posse et al., 2005), this approach was evaluated on only 20 manually annotated reports, which is far from satisfactory as far as establishing a strong baseline method is concerned. As mentioned previously, their use is motivated by the labor-intensive procedure that the NASA researchers employed in manually identifying seed words and phrases for each shaping factor (Posse et al., 2005). Both approaches exploit information provided by a semantic lexicon, which is automatically constructed via Thelen and Riloff\u2019s (2002) Basilisk framework augmented with our three algorithmic modifications (namely, the use of a probabilistic similarity measure, the use of a common word pool, and the enforcement of minimum support and maximum generality constraints for words and extraction patterns) and one linguistic modification (the use of N-gram-based extraction patterns).",
+        "context": null
+    },
+    {
+        "title": "Multi-label classification using ensembles of pruned sets",
+        "author": [
+            "J. Read",
+            "B. Pfahringer",
+            "G. Holmes"
+        ],
+        "venue": "In Proceedings of the 8th IEEE International Conference on Data Mining,",
+        "citeRegEx": "Read et al\\.,? \\Q2008\\E",
+        "shortCiteRegEx": "Read et al\\.",
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Specifically, motivated by Thelen and Riloff\u2019s (2002) Basilisk framework, we learn a semantic lexicon, which consists of a set of words and phrases semantically related to each of the shaping factors, as follows. Among the parameters of the ensembles of pruned sets approach, the number of classifiers in the ensemble, M , and the size of the sample of the training data on which each classifier in the ensemble was trained, were chosen to be the same ones used by Read et al. (2008), namely 10 and 63% respectively. Riloff (1996) describes the AutoSlog-TS system that learns extraction patterns from untagged text.",
+        "context": null
+    },
+    {
+        "title": "Automatically generating extraction patterns from untagged text",
+        "author": [
+            "E. Riloff"
+        ],
+        "venue": "Proceedings of the 13th National Conference on Artificial Intelligence, pp. 1044\u20131049.",
+        "citeRegEx": "Riloff,? 1996",
+        "shortCiteRegEx": "Riloff",
+        "year": 1996,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " \u2022 We propose several modifications to Thelen and Riloff\u2019s (2002) semi-supervised lexicon learning framework, and show that our Modified Basilisk framework allows us to acquire a semantic lexicon that yields significantly better performance for cause identification than the original Basilisk framework. For multi-category learning, Thelen and Riloff (2002) experimented with different scoring metrics and reported that they achieved the best performance by calculating the diff score for each word. The seed words for these two categories were selected in the same manner as done by Thelen and Riloff (2002), i. Patwardhan and Riloff (2006) use the AutoSlog-TS system (Riloff, 1996) to learn domain specific extraction patterns by processing documents retrieved by querying the web with selected domain-specific words.",
+        "context": null
+    },
+    {
+        "title": "Noun-phrase co-occurrence statistics for semi-automatic semantic lexicon construction",
+        "author": [
+            "B. Roark",
+            "E. Charniak"
+        ],
+        "venue": "In Proceedings of the 17th International Conference on Computational Linguistics,",
+        "citeRegEx": "Roark and Charniak,? \\Q1998\\E",
+        "shortCiteRegEx": "Roark and Charniak",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Roark and Charniak (1998) propose a method of constructing semantic lexicons based on co-occurrence statistics of nouns in conjunctions, lists and appositives.",
+        "context": null
+    },
+    {
+        "title": "Towards full automation of lexicon construction",
+        "author": [
+            "R. Rohwer",
+            "D. Freitag"
+        ],
+        "venue": "In Proceedings of the Computational Lexical Semantics Workshop at HLT-NAACL",
+        "citeRegEx": "Rohwer and Freitag,? \\Q2004\\E",
+        "shortCiteRegEx": "Rohwer and Freitag",
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "An efficient algorithm for building a distributional thesaurus (and other Sketch Engine developments)",
+        "author": [
+            "P. Rychl\u00fd",
+            "A. Kilgarriff"
+        ],
+        "venue": "In Proceedings of the ACL 2007 Demo and Poster Sessions,",
+        "citeRegEx": "Rychl\u00fd and Kilgarriff,? \\Q2007\\E",
+        "shortCiteRegEx": "Rychl\u00fd and Kilgarriff",
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " is the maximum pattern generality constraint: motivated by Rychl\u00fd and Kilgarriff (2007), we remove from consideration patterns that are too general (i. For evaluation, we use precision, recall and F-measure, which are computed as described by Sebastiani (2002). Specifically, for each shaping factor Si, i = 1, 2, . Concentrating on the performance issues that plague attempts to build thesaurus from a large corpus, Rychl\u00fd and Kilgarriff (2007) present two methods of improving performance of general context-based thesaurus building algorithms.",
+        "context": null
+    },
+    {
+        "title": "Machine learning in automated text categorization",
+        "author": [
+            "F. Sebastiani"
+        ],
+        "venue": "ACM Computing Surveys, 34 (1), 1\u201347.",
+        "citeRegEx": "Sebastiani,? 2002",
+        "shortCiteRegEx": "Sebastiani",
+        "year": 2002,
+        "abstract": "The automated categorization (or classification) of texts into predefined\ncategories has witnessed a booming interest in the last ten years, due to the\nincreased availability of documents in digital form and the ensuing need to\norganize them. In the research community the dominant approach to this problem\nis based on machine learning techniques: a general inductive process\nautomatically builds a classifier by learning, from a set of preclassified\ndocuments, the characteristics of the categories. The advantages of this\napproach over the knowledge engineering approach (consisting in the manual\ndefinition of a classifier by domain experts) are a very good effectiveness,\nconsiderable savings in terms of expert manpower, and straightforward\nportability to different domains. This survey discusses the main approaches to\ntext categorization that fall within the machine learning paradigm. We will\ndiscuss in detail issues pertaining to three different problems, namely\ndocument representation, classifier construction, and classifier evaluation.",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Overview of the fourth message understanding evaluation and conference",
+        "author": [
+            "B.M. Sundheim"
+        ],
+        "venue": "Proceedings of the Fourth Message Understanding Conference, pp. 3\u2013",
+        "citeRegEx": "Sundheim,? 1992",
+        "shortCiteRegEx": "Sundheim",
+        "year": 1992,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Large scale multi-label classification via metalabeler",
+        "author": [
+            "L. Tang",
+            "S. Rajan",
+            "V.K. Narayanan"
+        ],
+        "venue": "In Proceedings of International World Wide Web Conference,",
+        "citeRegEx": "Tang et al\\.,? \\Q2009\\E",
+        "shortCiteRegEx": "Tang et al\\.",
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "A bootstrapping method for learning semantic lexicons using extraction pattern contexts",
+        "author": [
+            "M. Thelen",
+            "E. Riloff"
+        ],
+        "venue": "In Proceedings of the 2002 Conference on Empirical Methods in Natural Language Processing,",
+        "citeRegEx": "Thelen and Riloff,? \\Q2002\\E",
+        "shortCiteRegEx": "Thelen and Riloff",
+        "year": 2002,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Multi-label classification: An overview",
+        "author": [
+            "G. Tsoumakas",
+            "I. Katakis"
+        ],
+        "venue": "International Journal of Data Warehousing and Mining,",
+        "citeRegEx": "Tsoumakas and Katakis,? \\Q2007\\E",
+        "shortCiteRegEx": "Tsoumakas and Katakis",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " A more comprehensive review of different approaches to multi-class multi-label text classification can be found in the work of Tsoumakas and Katakis (2007).",
+        "context": null
+    },
+    {
+        "title": "Random k -labelsets: An ensemble method for multilabel classification",
+        "author": [
+            "G. Tsoumakas",
+            "I.P. Vlahavas"
+        ],
+        "venue": "In Proceedings of the 18th European Conference on Machine Learning,",
+        "citeRegEx": "Tsoumakas and Vlahavas,? \\Q2007\\E",
+        "shortCiteRegEx": "Tsoumakas and Vlahavas",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Ueda and Saito (2002) present another generative model called Parametric Mixture Models, which treats multi-labeled text as a parametric mixture of words relevant to each label.",
+        "context": null
+    },
+    {
+        "title": "Parametric mixture models for multi-labeled text",
+        "author": [
+            "N. Ueda",
+            "K. Saito"
+        ],
+        "venue": "In Advances in Neural Information Processing Systems",
+        "citeRegEx": "Ueda and Saito,? \\Q2002\\E",
+        "shortCiteRegEx": "Ueda and Saito",
+        "year": 2002,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Retrieving NASA problem reports: A case study in natural language information retrieval",
+        "author": [
+            "S. van Delden",
+            "F. Gomez"
+        ],
+        "venue": "Data and Knowledge Engineering,",
+        "citeRegEx": "Delden and Gomez,? \\Q2004\\E",
+        "shortCiteRegEx": "Delden and Gomez",
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Statistical Learning Theory",
+        "author": [
+            "V.N. Vapnik"
+        ],
+        "venue": "Wiley.",
+        "citeRegEx": "Vapnik,? 1998",
+        "shortCiteRegEx": "Vapnik",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " More details can be found in Cortes and Vapnik (1995). In our experiments, we use the radial basis function (RBF) kernel, where every dot product is replaced by the function k (x,x\u2032) = exp (",
+        "context": null
+    },
+    {
+        "title": "A comparative study on feature selection in text categorization",
+        "author": [
+            "Y. Yang",
+            "J.O. Pedersen"
+        ],
+        "venue": "In Proceedings of the 14th International Conference on Machine Learning,",
+        "citeRegEx": "Yang and Pedersen,? \\Q1997\\E",
+        "shortCiteRegEx": "Yang and Pedersen",
+        "year": 1997,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Rather than making an arbitrary choice, Yangarber (2003) proposes a method for detecting termination of unsupervised semantic pattern learning processes. Rather than making an arbitrary choice, Yangarber (2003) proposes a method for detecting termination of unsupervised semantic pattern learning processes. The method requires that the documents must be labeled as relevant or irrelevant. Since such information is not available for our corpus, it is not useful for us. Curran, Murphy, and Scholz (2007) suggest an improvement over traditional bootstrapping methods by discarding words and contexts that appear to be related to more than one category, in order to minimize semantic drift and enforce mutual exclusion. Rather than making an arbitrary choice, Yangarber (2003) proposes a method for detecting termination of unsupervised semantic pattern learning processes. The method requires that the documents must be labeled as relevant or irrelevant. Since such information is not available for our corpus, it is not useful for us. Curran, Murphy, and Scholz (2007) suggest an improvement over traditional bootstrapping methods by discarding words and contexts that appear to be related to more than one category, in order to minimize semantic drift and enforce mutual exclusion. On the other hand, we handle such cases by comparing the conditional probabilities for the different categories to which such words can belong. Zhang, Zhou, Huang, and Wu (2008) present bootstrapping with the graph mutual reinforcement-based bootstrapping (GMR) (Hassan, Hassan, & Emam, 2006), a modification of the Basilisk method.",
+        "context": null
+    },
+    {
+        "title": "Counter-training in discovery of semantic patterns",
+        "author": [
+            "R. Yangarber"
+        ],
+        "venue": "Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics, pp. 343\u2013350.",
+        "citeRegEx": "Yangarber,? 2003",
+        "shortCiteRegEx": "Yangarber",
+        "year": 2003,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Using \u201cannotator rationales\u201d to improve machine learning for text categorization",
+        "author": [
+            "O.F. Zaidan",
+            "J. Eisner",
+            "C. Piatko"
+        ],
+        "venue": "In Proceedings of the Human Language Technology Conference of the North American Chapter of the Association for Computational Linguistics,",
+        "citeRegEx": "Zaidan et al\\.,? \\Q2007\\E",
+        "shortCiteRegEx": "Zaidan et al\\.",
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Graph mutual reinforcement based bootstrapping",
+        "author": [
+            "Q. Zhang",
+            "Y. Zhou",
+            "X. Huang",
+            "L. Wu"
+        ],
+        "venue": "Information Retrieval Technology,",
+        "citeRegEx": "Zhang et al\\.,? \\Q2008\\E",
+        "shortCiteRegEx": "Zhang et al\\.",
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    }
+]

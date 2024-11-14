@@ -1,0 +1,45 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+Fast high-dimensional filtering using the permutohedral lattice,,,,,,,,,,,,
+Contour detection and hierarchical image segmentation,crossref,0.0,,0.685755913716567,,,,,0.0,0.0,,
+Laplacian eigenmaps and spectral techniques for embedding and clustering,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Deepedge: A multi-scale bifurcated deep network for top-down contour detection,crossref,0.0,,0.678060471879913,,,,,0.0,0.0,,
+Visual Reconstruction,,,,,,,,,,,,
+"Efficient, high-quality image contour detection",crossref,0.0,,0.6900472377733731,,,,,0.0,0.0,,
+Semantic image segmentation with deep convolutional nets and fully connected crfs,arxiv Library,0.8,,0.9235276110405206,arxiv Library,0.8,,0.9036698984964407,0.35,0.2755905511811024,0.27,0.3253012048192771
+Spectral segmentation with multiscale graph decomposition,crossref,0.0,,0.7019680454290691,,,,,1.0,0.0,,
+Boxsup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation,arxiv Library,0.0,,0.7715361346143182,arxiv Library,0.0,,0.80294821746055,0.14285714285714285,0.01,0.14285714285714285,0.012048192771084338
+Solving the multiple-instance problem with axis-parallel rectangles,,,,,,,,,,,,
+Supervised Learning of Edges and Object Boundaries,crossref,0.0,,0.6905488516356183,,,,,0.0,0.0,,
+Fast edge detection using structured forests,arxiv Library,1.0,,0.6512640294631035,arxiv Library,0.0,,0.6808493426778904,1.0,0.0,1.0,0.0
+"Predicting depth, surface normals and semantic labels with a common multiscale convolutional architecture",,,,,,,,,,,,
+Depth map prediction from a single image using a multiscale deep network,,,,,,,,,,,,
+Nˆ 4-fields: Neural network nearest neighbor fields for image transforms,,,,,,,,,,,,
+Rich feature hierarchies for accurate object detection and semantic segmentation,arxiv Library,0.8,,0.8351263830400447,arxiv Library,0.5,,0.8599366569017209,0.3,0.043478260869565216,0.3,0.075
+Pixel-wise deep learning for contour detection,,,,,,,,,,,,
+Visual boundary prediction: A deep neural prediction network and quality dissection,,,,,,,,,,,,
+Highly accurate boundary detection and grouping,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Statistical edge detection: Learning and evaluating edge cues,crossref,0.0,,0.6868452474742642,,,,,0.0,0.0,,
+Efficient inference in fully connected crfs with gaussian edge potentials,arxiv Library,1.0,,0.6554565260946558,arxiv Library,0.0,,0.6925960174793216,1.0,0.0,1.0,0.0
+Learning to propose objects,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Imagenet classification with deep convolutional neural networks,crossref,0.0,,0.8033858435007468,,,,,0.06896551724137931,0.018867924528301886,,
+Gradient-based learning applied to document recognition,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Efficient piecewise training of deep structured models for semantic segmentation,arxiv Library,0.0,,0.7851167874539223,arxiv Library,0.0,,0.8284497926960037,0.25,0.02702702702702703,0.25,0.05172413793103448
+Semantic image segmentation via deep parsing network,arxiv Library,0.0,,0.766643715244498,arxiv Library,0.0,,0.8232416292427398,0.125,0.007575757575757576,0.25,0.023529411764705882
+Fully convolutional networks for semantic segmentation,arxiv Library,0.8,,0.8751723641417006,arxiv Library,0.8,,0.8819058227262682,0.25806451612903225,0.14678899082568808,0.2903225806451613,0.24324324324324326
+"Learning to detect natural image boundaries using local brightness, color, and texture cues",crossref,0.0,,0.6868452474742642,,,,,0.0,0.0,,
+The role of context for object detection and semantic segmentation in the wild,crossref,0.0,,0.7026884554081965,,,,,0.0,0.0,,
+Is object localization for free? - weaklysupervised learning with convolutional neural networks,,,,,,,,,,,,
+Weakly- and semi-supervised learning of a DCNN for semantic image segmentation,,,,,,,,,,,,
+"Modeling local and global deformations in deep learning: Epitomic convolution, multiple instance learning, and sliding window detection",crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Multiscale helps boundary detection,,,,,,,,,,,,
+Discriminatively trained sparse code gradients for contour detection,,,,,,,,,,,,
+"Overfeat: Integrated recognition, localization and detection using convolutional networks",arxiv Library,0.0,,0.8004378106196111,arxiv Library,0.0,,0.8820488382492806,0.2413793103448276,0.07692307692307693,0.20689655172413793,0.09523809523809523
+Deepcontour: A deep convolutional feature learned by positive-sharing loss for contour detection,crossref,0.0,,0.7299925343178004,,,,,0.0,0.0,,
+Normalized cuts and image segmentation,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Very deep convolutional networks for large-scale image recognition,,,,,,,,,,,,
+Learning-based symmetry detection in natural images,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Selective search for object recognition,crossref,0.0,,0.6896561409937543,,,,,0.0,0.0,,
+Scale-space filtering,,,,,,,,,,,,
+Holistically-nested edge detection,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Conditional random fields as recurrent neural networks,arxiv Library,0.0,,0.8364612292825856,arxiv Library,0.5,,0.8526683566577908,0.273972602739726,0.1694915254237288,0.273972602739726,0.29850746268656714
+Untangling cycles for contour grouping,crossref,0.0,,0.6691852011178878,,,,,0.0,0.0,,

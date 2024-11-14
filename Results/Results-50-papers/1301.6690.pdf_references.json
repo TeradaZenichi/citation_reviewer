@@ -1,0 +1,194 @@
+[
+    {
+        "title": "Generalized priori\u00ad tized sweeping, in 'Advances in Neural information",
+        "author": [
+            "D. Andre",
+            "N. Friedman",
+            "R. Parr"
+        ],
+        "venue": "Process\u00ad ing Systems\u00b7,",
+        "citeRegEx": "Andre et al\\.,? \\Q1997\\E",
+        "shortCiteRegEx": "Andre et al\\.",
+        "year": 1997,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Neural Networks for Pattern Recognition",
+        "author": [
+            "C.M. Bishop"
+        ],
+        "venue": null,
+        "citeRegEx": "Bishop,? \\Q1995\\E",
+        "shortCiteRegEx": "Bishop",
+        "year": 1995,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " One of the simplest ones is K erne/ estimation (see for example (Bishop 1995)).",
+        "context": null
+    },
+    {
+        "title": "Bayesian Q\u00ad leaming, in 'Proceedings of the Fifteenth National Confer\u00ad ence on Artificial intelligence (AAAI-98)",
+        "author": [
+            "R. Dearden",
+            "N. Friedman",
+            "S. Russell"
+        ],
+        "venue": null,
+        "citeRegEx": "Dearden et al\\.,? \\Q1998\\E",
+        "shortCiteRegEx": "Dearden et al\\.",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " In a recent paper, Dearden et al. (1998) examined model\u00ad free Bayesian reinforcement learning.",
+        "context": null
+    },
+    {
+        "title": "Proability and Statistics, 2nd edn, Addison-Wesley",
+        "author": [
+            "M.H. Degroot"
+        ],
+        "venue": null,
+        "citeRegEx": "Degroot,? \\Q1986\\E",
+        "shortCiteRegEx": "Degroot",
+        "year": 1986,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We can use well-known Bayesian methods for learning standard distributions such as multinomials or Gaussian distributions (Degroot 1986).",
+        "context": null
+    },
+    {
+        "title": "A tutorial on learning with Bayesian net\u00ad",
+        "author": [
+            "D. Heckerman"
+        ],
+        "venue": "ed., 'Learning in Graphical Models',",
+        "citeRegEx": "Heckerman,? \\Q1998\\E",
+        "shortCiteRegEx": "Heckerman",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We show that this is possible by adopting re\u00ad sults from Bayesian learning of probabilistic models, such as Bayesian networks (Heckerman 1998). Nonetheless, much of the above discussion and conclusions about parameter independence and Dirichlet priors apply to these models (Heckerman 1998).",
+        "context": null
+    },
+    {
+        "title": "Information value theory",
+        "author": [
+            "R.A. Howard"
+        ],
+        "venue": "IEEE Transac\u00ad tions on Systems Science and Cybernetics",
+        "citeRegEx": "Howard,? \\Q1966\\E",
+        "shortCiteRegEx": "Howard",
+        "year": 1966,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " tion: the agent should choose actions based on the value of the information it can expect to learn by performing them (Howard 1966).",
+        "context": null
+    },
+    {
+        "title": "Stochastic simula\u00ad tion algorithms for dynamic probabilistic networks, in 'Pro\u00ad ceedings of the Eleventh Conference on Uncertainty in Arti\u00ad ficial Intelligence (UAI-95)",
+        "author": [
+            "K. Kanazawa",
+            "D. Koller",
+            "S. Russell"
+        ],
+        "venue": null,
+        "citeRegEx": "Kanazawa et al\\.,? \\Q1995\\E",
+        "shortCiteRegEx": "Kanazawa et al\\.",
+        "year": 1995,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Near-optimal performance for re\u00ad inforcement learning in polynomial time, in 'Proceedings of the Fifteenth",
+        "author": [
+            "M. Keams",
+            "S. Singh"
+        ],
+        "venue": "Int. Conf. on Machine Learning',",
+        "citeRegEx": "Keams and Singh,? \\Q1998\\E",
+        "shortCiteRegEx": "Keams and Singh",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Using learning for approxima\u00ad tion in stochastic processes, in 'Proceedings of the Fifteenth International Conference on Machine Learning",
+        "author": [
+            "D. Koller",
+            "R. Fratkina"
+        ],
+        "venue": null,
+        "citeRegEx": "Koller and Fratkina,? \\Q1998\\E",
+        "shortCiteRegEx": "Koller and Fratkina",
+        "year": 1998,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Prioritized sweeping\u00ad reinforcement learning with less data and less time",
+        "author": [
+            "A.W. Moore",
+            "C.G. Atkeson"
+        ],
+        "venue": "Ma\u00ad chine Learning",
+        "citeRegEx": "Moore and Atkeson,? \\Q1993\\E",
+        "shortCiteRegEx": "Moore and Atkeson",
+        "year": 1993,
+        "abstract": "",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Stochastic Simulation, Wiley, NY",
+        "author": [
+            "B.D. Ripley"
+        ],
+        "venue": null,
+        "citeRegEx": "Ripley,? \\Q1987\\E",
+        "shortCiteRegEx": "Ripley",
+        "year": 1987,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Procedures for sampling from these distributions can be found in (Ripley 1987). Procedures for sampling from these distributions can be found in (Ripley 1987). Friedman and Singer (1999) introduce a structured prior that captures our uncertainty about the set of\"feasible\" val\u00ad ues of X.",
+        "context": null
+    },
+    {
+        "title": "Do the Right Thing: Studies in Limited Rationality",
+        "author": [
+            "S.J. Russell",
+            "E.H. Wefald"
+        ],
+        "venue": null,
+        "citeRegEx": "Russell and Wefald,? \\Q1991\\E",
+        "shortCiteRegEx": "Russell and Wefald",
+        "year": 1991,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": "",
+        "context": null
+    },
+    {
+        "title": "Integrated architectures for learning, plan\u00ad ning, and reacting based on approximating dynamic pro\u00ad gramming",
+        "author": [
+            "R.S. Sutton"
+        ],
+        "venue": "'Proceedings of the Seventh Int. Conf. on Ma\u00ad chine Learning',",
+        "citeRegEx": "Sutton,? \\Q1990\\E",
+        "shortCiteRegEx": "Sutton",
+        "year": 1990,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " steps actually executed by the learner, since it can \"learn\" from simulated steps in the model (Sutton 1990). This ap\u00ad proach was pursued in the DYNA (Sutton 1990) frame\u00ad work, where after the execution of an action, the agent updates its model of the environment, and then performs some bounded number of value propagation steps to up\u00ad date its approximation of the value function.",
+        "context": null
+    }
+]

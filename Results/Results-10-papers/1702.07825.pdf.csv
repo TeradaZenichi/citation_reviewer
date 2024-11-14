@@ -1,0 +1,24 @@
+,abstract,faithfulness,precision_recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision,recall,pdf-precision,pdf-recall
+TensorFlow: Large-scale machine learning,,,,,,,,,,,,
+Deep speech 2: End-to-end speech recognition in english and mandarin,,,,,,,,,,,,
+"Praat, a system for doing phonetics by computer",,,,,,,,,,,,
+Empirical evaluation of gated recurrent neural networks on sequence modeling,arxiv Library,0.5,,0.846374861938635,arxiv Library,0.5,,0.8709028808531263,0.2608695652173913,0.1016949152542373,0.391304347826087,0.14516129032258066
+Peachpy meets opcodes: direct machine code generation from python,,,,,,,,,,,,
+Adam: A method for stochastic optimization,arxiv Library,0.0,,0.6448025889274219,arxiv Library,0.0,,0.6809795911207228,1.0,0.0,1.0,0.0
+Samplernn: An unconditional end-to-end neural audio generation model,,,,,,,,,,,,
+World: a vocoder-based high-quality speech synthesis system for real-time applications,crossref,0.0,,0.6680858884807512,,,,,0.0,0.0,,
+Pixel recurrent neural networks,arxiv Library,0.0,,0.7889662277098262,arxiv Library,0.5,,0.8372677372791025,0.1,0.02247191011235955,0.4,0.1095890410958904
+Multi-output rnn-lstm for multiple speaker speech synthesis with αinterpolation model,,,,,,,,,,,,
+The blizzard challenge 2013indian language task,,,,,,,,,,,,
+Grapheme-to-phoneme conversion using long short-term memory recurrent neural networks,crossref,0.0,,0.6991987673793347,,,,,0.0,0.0,,
+Crowdmos: An approach for crowdsourcing mean opinion score studies,crossref,0.0,,0.6782307941959996,,,,,0.0,0.0,,
+A template-based approach for speech synthesis intonation generation using lstms,crossref,0.0,,0.6744039029915372,,,,,0.0,0.0,,
+Char2wav: End-to-end speech synthesis,,,,,,,,,,,,
+"Production Rendering, Design and Implementation",,,,,,,,,,,,
+Text-to-Speech Synthesis,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+A note on the evaluation of generative models,arxiv Library,0.8,,0.8415974749565451,arxiv Library,1.0,,0.8714940196390464,0.42857142857142855,0.07894736842105263,0.5714285714285714,0.15384615384615385
+Wavenet: A generative model for raw audio,arxiv Library,1.0,,0.6546498799973025,arxiv Library,0.0,,0.7023483402227069,1.0,0.0,1.0,0.0
+The CMU pronunciation dictionary 0.7,,,,,,,,,,,,
+Sequence-tosequence neural net models for grapheme-to-phoneme conversion,,,,,,,,,,,,
+Unidirectional long short-term memory recurrent neural network with recurrent output layer for low-latency speech synthesis,crossref,0.0,,0.7019992385653937,,,,,1.0,0.0,,
+Statistical parametric speech synthesis using deep neural networks,crossref,0.0,,0.6758732147256966,,,,,0.0,0.0,,

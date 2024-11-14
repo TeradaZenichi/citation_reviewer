@@ -1,0 +1,21 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision_recall,pdf-precision,pdf-recall
+Greedy layer-wise training of deep networks,crossref,0.0,0.0,0.0,0.6778320993586457,,,,,,,
+Restoring an image taken through a window covered with dirt or rain,crossref,0.0,0.0,0.0,0.6890145794040217,,,,,,,
+Pylearn2: a machine learning research,,,,,,,,,,,,
+Bilinear sparse coding for invariant vision,crossref,0.0,0.2727272727272727,0.06896551724137931,0.8105035602456764,,,,,,,
+Semisupervised learning with deep generative models,,,,,,,,,,,,
+Imagenet classification with deep convolutional neural networks. In Advances in neural information processing,,,,,,,,,,,,
+Building high-level features using large scale unsupervised learning,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+The mnist database of handwritten digits,,,,,,,,,,,,
+Unsupervised feature learning for audio classification using convolutional deep belief networks,,,,,,,,,,,,
+Bilinear models of natural images,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Learning to disentangle factors of variation with manifold interaction,,,,,,,,,,,,
+Contractive autoencoders: Explicit invariance during feature extraction,,,,,,,,,,,,
+Disentangling factors of variation for facial expression recognition,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Fast large-scale optimization by unifying stochastic gradient and quasi-newton methods,,,,,,,,,,,,
+Dropout: A simple way to prevent neural networks from overfitting,,,,,,,,,,,,
+The toronto face database,,,,,,,,,,,,
+Going deeper with convolutions,arxiv Library,0.0,0.2558139534883721,0.1375,0.7743732673191965,arxiv Library,0.0,,0.7929373179129626,,0.20930232558139536,0.11688311688311688
+Separating style and content with bilinear models,crossref,1.0,1.0,0.0,0.6840501657356975,,,,,,,
+Stacked denoising autoencoders: Learning useful representations in a deep network with a local denoising criterion,,,,,,,,,,,,
+Adadelta: An adaptive learning rate method,arxiv Library,1.0,1.0,0.0,0.6394249521981988,arxiv Library,0.0,,0.679686631442498,,1.0,0.0

@@ -1,0 +1,283 @@
+[
+    {
+        "title": "Detecting uninteresting content in text streams",
+        "author": [
+            "O. Alonso",
+            "C. Carson",
+            "D. Gerster",
+            "X. Ji",
+            "S. Nabar"
+        ],
+        "venue": "Proceedings of the Workshop on Crowdsourcing for Search Evaluation (CSE 2010)",
+        "citeRegEx": "1",
+        "shortCiteRegEx": null,
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We used the same template from a similar project [1].",
+        "context": null
+    },
+    {
+        "title": "Crowdsourcing 101: putting the wsdm of crowds to work for you",
+        "author": [
+            "O. Alonso",
+            "M. Lease"
+        ],
+        "venue": "Proceedings of the fourth ACM international conference on Web search and data mining. pp. 1\u20132. WSDM \u201911",
+        "citeRegEx": "2",
+        "shortCiteRegEx": null,
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Outside the ML community there is significant work on human computation and how to deal with the issues introduced by the human element [2].",
+        "context": null
+    },
+    {
+        "title": "Active learning with statistical models",
+        "author": [
+            "D.A. Cohn",
+            "Z. Ghahramani",
+            "M.I. Jordan"
+        ],
+        "venue": "J. Artif. Int. Res. 4, 129\u2013145",
+        "citeRegEx": "3",
+        "shortCiteRegEx": null,
+        "year": 1996,
+        "abstract": "For many types of machine learning algorithms, one can compute the\nstatistically `optimal' way to select training data. In this paper, we review\nhow optimal data selection techniques have been used with feedforward neural\nnetworks. We then show how the same principles may be used to select data for\ntwo alternative, statistically-based learning architectures: mixtures of\nGaussians and locally weighted regression. While the techniques for neural\nnetworks are computationally expensive and approximate, the techniques for\nmixtures of Gaussians and locally weighted regression are both efficient and\naccurate. Empirically, we observe that the optimality criterion sharply\ndecreases the number of training examples the learner needs in order to achieve\ngood performance.",
+        "full_text": "",
+        "sentence": " Other algorithms aim to reduce the expected future error [9], the output variance [3], or maximize the expected change in the model [12].",
+        "context": null
+    },
+    {
+        "title": "Reducing labeling effort for structured prediction tasks",
+        "author": [
+            "A. Culotta",
+            "A. McCallum"
+        ],
+        "venue": "Proceedings of the 20th national conference on Artificial intelligence - Volume 2. pp. 746\u2013751",
+        "citeRegEx": "4",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Some algorithms select the samples for which the ML algorithm has the highest uncertainty [4,10].",
+        "context": null
+    },
+    {
+        "title": "Efficiently learning the accuracy of labeling sources for selective sampling",
+        "author": [
+            "P. Donmez",
+            "J.G. Carbonell",
+            "J. Schneider"
+        ],
+        "venue": "Proceedings of the 15th ACM SIGKDD international conference on Knowledge discovery and data mining. pp. 259\u2013268. KDD \u201909",
+        "citeRegEx": "5",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Papers on the topic concentrate on techniques for dealing with noisy human labelers [17], estimating the labeler accuracy [5], correcting label bias [16] and using repeated labeling to reduce errors [15].",
+        "context": null
+    },
+    {
+        "title": "Selective supervision: guiding supervised learning with decision-theoretic active learning",
+        "author": [
+            "A. Kapoor",
+            "E. Horvitz",
+            "S. Basu"
+        ],
+        "venue": "Proceedings of the 20th international joint conference on Artifical intelligence. pp. 877\u2013882",
+        "citeRegEx": "6",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " labeled [6].",
+        "context": null
+    },
+    {
+        "title": "Active cost-sensitive learning",
+        "author": [
+            "D.D. Margineantu"
+        ],
+        "venue": "Proceedings of the 19th international joint conference on Artificial intelligence. pp. 1622\u20131623",
+        "citeRegEx": "7",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Incorporating a labeling cost in the active learning algorithm leads to cost-sensitive active learning [7,13].",
+        "context": null
+    },
+    {
+        "title": "An intrinsic stopping criterion for committee-based active learning",
+        "author": [
+            "F. Olsson",
+            "K. Tomanek"
+        ],
+        "venue": "Proceedings of the Thirteenth Conference on Computational Natural Language Learning. pp. 138\u2013146. CoNLL \u201909",
+        "citeRegEx": "8",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Various intrinsic criteria for stopping have also been proposed that depend on the stability of the ML algorithm (for example [8]).",
+        "context": null
+    },
+    {
+        "title": "Toward optimal active learning through sampling estimation of error reduction",
+        "author": [
+            "N. Roy",
+            "A. Mccallum"
+        ],
+        "venue": "In Proc. 18th International Conf. on Machine Learning. pp. 441\u2013448. Morgan Kaufmann",
+        "citeRegEx": "9",
+        "shortCiteRegEx": null,
+        "year": 2001,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Other algorithms aim to reduce the expected future error [9], the output variance [3], or maximize the expected change in the model [12].",
+        "context": null
+    },
+    {
+        "title": "Active learning for logistic regression: an evaluation",
+        "author": [
+            "A.I. Schein",
+            "L.H. Ungar"
+        ],
+        "venue": "Mach. Learn. 68, 235\u2013265",
+        "citeRegEx": "10",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Some algorithms select the samples for which the ML algorithm has the highest uncertainty [4,10].",
+        "context": null
+    },
+    {
+        "title": "Active learning literature survey",
+        "author": [
+            "B. Settles"
+        ],
+        "venue": "Computer Sciences Technical Report 1648, University of Wisconsin\u2013Madison",
+        "citeRegEx": "11",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Finally, stream-based selective methods make the assumption that the samples are being generated from a streaming process and for each sample the algorithm decides whether to select for labeling or not [11].",
+        "context": null
+    },
+    {
+        "title": "An analysis of active learning strategies for sequence labeling tasks",
+        "author": [
+            "B. Settles",
+            "M. Craven"
+        ],
+        "venue": "Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP). pp. 1069\u20131078. ACL Press",
+        "citeRegEx": "12",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Other algorithms aim to reduce the expected future error [9], the output variance [3], or maximize the expected change in the model [12].",
+        "context": null
+    },
+    {
+        "title": "Active learning with real annotation costs",
+        "author": [
+            "B. Settles",
+            "M. Craven",
+            "L. Friedland"
+        ],
+        "venue": "Proceedings of the NIPS Workshop on Cost-Sensitive Learning. pp. 1\u201310",
+        "citeRegEx": "13",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Incorporating a labeling cost in the active learning algorithm leads to cost-sensitive active learning [7,13].",
+        "context": null
+    },
+    {
+        "title": "Query by committee",
+        "author": [
+            "H.S. Seung",
+            "M. Opper",
+            "H. Sompolinsky"
+        ],
+        "venue": "Proceedings of the fifth annual workshop on Computational learning theory. pp. 287\u2013294. COLT \u201992",
+        "citeRegEx": "14",
+        "shortCiteRegEx": null,
+        "year": 1992,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The samples that are selected come from the most controversial regions of the input space [14].",
+        "context": null
+    },
+    {
+        "title": "Get another label? improving data quality and data mining using multiple, noisy labelers",
+        "author": [
+            "V.S. Sheng",
+            "F. Provost",
+            "P.G. Ipeirotis"
+        ],
+        "venue": "Proceeding of the 14th ACM SIGKDD international conference on Knowledge discovery and data mining. pp. 614\u2013622. KDD \u201908",
+        "citeRegEx": "15",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Papers on the topic concentrate on techniques for dealing with noisy human labelers [17], estimating the labeler accuracy [5], correcting label bias [16] and using repeated labeling to reduce errors [15].",
+        "context": null
+    },
+    {
+        "title": "Cheap and fast\u2014but is it good?: evaluating non-expert annotations for natural language tasks",
+        "author": [
+            "R. Snow",
+            "B. O\u2019Connor",
+            "D. Jurafsky",
+            "A.Y. Ng"
+        ],
+        "venue": "Proceedings of the Conference on Empirical Methods in Natural Language Processing. pp. 254\u2013 263. EMNLP \u201908",
+        "citeRegEx": "16",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Papers on the topic concentrate on techniques for dealing with noisy human labelers [17], estimating the labeler accuracy [5], correcting label bias [16] and using repeated labeling to reduce errors [15].",
+        "context": null
+    },
+    {
+        "title": "Development and use of a gold-standard data set for subjectivity classifications",
+        "author": [
+            "J.M. Wiebe",
+            "R.F. Bruce",
+            "T.P. O\u2019Hara"
+        ],
+        "venue": "Proceedings of the 37th annual meeting of the Association for Computational Linguistics on Computational Linguistics. pp. 246\u2013253. ACL \u201999",
+        "citeRegEx": "17",
+        "shortCiteRegEx": null,
+        "year": 1999,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Papers on the topic concentrate on techniques for dealing with noisy human labelers [17], estimating the labeler accuracy [5], correcting label bias [16] and using repeated labeling to reduce errors [15].",
+        "context": null
+    },
+    {
+        "title": "Incorporating diversity and density in active learning for relevance feedback",
+        "author": [
+            "Z. Xu",
+            "R. Akella",
+            "Y. Zhang"
+        ],
+        "venue": "Proceedings of the 29th European conference on IR research. pp. 246\u2013257. ECIR\u201907",
+        "citeRegEx": "18",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " The most similar methods to our approach are density-weighted methods, which model the feature distribution of the input space, for example by clustering the instances and selecting samples that are least similar to labeled and most similar to unlabeled clusters [18].",
+        "context": null
+    }
+]

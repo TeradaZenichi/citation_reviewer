@@ -1,0 +1,50 @@
+,abstract,faithfulness,precision,recall,semantic_similarity,pdf,pdf-faithfulness,pdf-precision_recall,pdf-semantic_similarity,precision_recall,pdf-precision,pdf-recall
+Cooperative off-policy prediction of Markov decision processes in adaptive networks,crossref,0.0,0.0,0.0,0.6891539061264786,,,,,,,
+Reinforcement Learning: An Introduction,,,,,,,,,,,,
+Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction,,,,,,,,,,,,
+Scaling-up knowledge for a cognizant robot,,,,,,,,,,,,
+Multi-timescale nexting in a reinforcement learning robot,crossref,0.3,0.4423076923076923,0.15753424657534246,0.8187516898593624,,,,,,,
+"Puterman, Markov Decision Processes: Discrete Stochastic Dynamic Programming",,,,,,,,,,,,
+"Dynamic Programming and Optimal Control, 4th ed",,,,,,,,,,,,
+A convergent O(n) temporal-difference algorithm for off-policy learning with linear function approximation,,,,,,,,,,,,
+Fast gradient-descent methods for temporal-difference learning with linear function approximation,crossref,0.0,0.0,0.0,0.6657042581040641,,,,,,,
+Distributed asynchronous deterministic and stochastic gradient optimization algorithms,crossref,0.0,0.0,0.0,0.6796620366436312,,,,,,,
+Distributed subgradient methods for multi-agent optimization,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Convergence rate analysis of distributed gossip (linear parameter) estimation: Fundamental limits and tradeoffs,arxiv Library,1.0,1.0,0.0,0.6543010987051174,arxiv Library,0.0,,0.678281391253701,,1.0,0.0
+Decentralized parameter estimation by consensus based stochastic approximation,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Consensus problems in networks of agents with switching topology and time-delays,crossref,0.0,0.0,0.0,0.6796620366436312,,,,,,,
+Diffusion least-mean squares over adaptive networks: Formulation and performance analysis,crossref,0.0,0.0,0.0,0.6796620366436312,,,,,,,
+Diffusion LMS Strategies for Distributed Estimation,crossref,0.0,0.0,0.0,0.6813061627581983,,,,,,,
+Diffusion adaptation strategies for distributed optimization and learning over networks,arxiv Library,1.0,0.35294117647058826,0.05825242718446602,0.8282081303196733,arxiv Library,0.5,,0.8498123205354606,,0.5882352941176471,0.15384615384615385
+Distributed Pareto optimization via diffusion strategies,arxiv Library,0.5,0.4090909090909091,0.1592920353982301,0.8454595416562427,arxiv Library,0.0,,0.8780021342527149,,0.3409090909090909,0.21428571428571427
+Diffusion adaptation over networks,arxiv Library,0.5,0.2,0.14035087719298245,0.8438826272233261,arxiv Library,0.3,,0.8867047136076552,,0.2125,0.2698412698412698
+Diffusion strategies for adaptation and learning over networks,,,,,,,,,,,,
+Adaptive networks,crossref,0.0,0.0,0.0,0.6808402432158026,,,,,,,
+Diffusion strategies outperform consensus strategies for distributed estimation over adaptive networks,arxiv Library,1.0,0.5909090909090909,0.23636363636363636,0.8990932333079155,arxiv Library,1.0,,0.9224391753872574,,0.5,0.38596491228070173
+GQ(λ): A general gradient algorithm for temporal-difference prediction learning with eligibility traces,,,,,,,,,,,,
+QD-learning: A collaborative distributed strategy for multi-agent reinforcement learning through consensus + innovations,,,,,,,,,,,,
+Residual algorithms: Reinforcement learning with function approximation,crossref,0.0,0.0,0.0,0.6949726062931876,,,,,,,
+An analysis of temporal-difference learning with function approximation,crossref,0.0,0.0,0.0,0.6950338736684113,,,,,,,
+The Borkar-Meyn theorem for asynchronous stochastic approximations,,,,,,,,,,,,
+Distributed value functions,,,,,,,,,,,,
+Efficient distributed reinforcement learning through agreement,crossref,0.0,0.0,0.0,0.692845219207898,,,,,,,
+Should one compute the temporal difference fix point or minimize the Bellman residual? The unified oblique projection view,arxiv Library,0.0,0.1875,0.029411764705882353,0.7625708583327302,arxiv Library,0.0,,0.7949861639499483,,0.25,0.056338028169014086
+Parametric value function approximation: A unified view,crossref,0.0,0.0,0.0,0.6986820167269819,,,,,,,
+Basis function adaptation in temporal difference reinforcement learning,crossref,0.0,0.0,0.0,0.7248425113818989,,,,,,,
+"An analysis of linear models, linear value-function approximation, and feature selection for reinforcement learning",crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Basis function adaptation methods for cost approximation in MDP,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Learning representation and control in Markov decision processes: New frontiers,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Predictive state temporal difference learning,arxiv Library,0.0,1.0,0.0,0.6458282649937589,arxiv Library,0.0,,0.6835529562879687,,1.0,0.0
+Sketch-based linear value function approximation,,,,,,,,,,,,
+Adaptive Filters,crossref,0.0,0.0,0.0,0.6751739354337387,,,,,,,
+Numerical solution of saddle point problems,crossref,0.0,0.0,0.0,0.7031572322449581,,,,,,,
+Introduction to Optimization,crossref,0.0,1.0,0.0,0.7019992385653937,,,,,,,
+Studies in Linear and Non-linear Programming,,,,,,,,,,,,
+On the limiting behavior of distributed optimization strategies,crossref,0.0,0.0,0.0,0.6745858430104738,,,,,,,
+Non-negative Matrices and Markov Chains,,,,,,,,,,,,
+The O.D.E. method for convergence of stochastic approximation and reinforcement learning,crossref,0.0,0.0,0.0,0.6513275998281229,,,,,,,
+Transient analysis of data-normalized adaptive filters,crossref,0.0,0.0,0.0,0.6800483041641269,,,,,,,
+"Convergence in multiagent coordination, consensus, and flocking",crossref,0.0,0.0,0.0,0.6759888603579328,,,,,,,
+Asynchronous adaptation and learning over networks — Part II: Performance analysis,,,,,,,,,,,,
+The learning behavior of adaptive networks — Part I: Transient analysis,,,,,,,,,,,,
+Performance limits for distributed estimation over LMS adaptive networks,arxiv Library,0.0,0.25,0.031578947368421054,0.70747155920912,arxiv Library,0.0,,0.7854317558859011,,0.3333333333333333,0.06153846153846154

@@ -1,0 +1,493 @@
+[
+    {
+        "title": "Csift: A sift descriptor with color invariant characteristics",
+        "author": [
+            "A.E. Abdel-Hakim",
+            "A.A. Farag"
+        ],
+        "venue": "IEEE Conference on Computer Vision and Pattern Recognition, CVPR,",
+        "citeRegEx": "1",
+        "shortCiteRegEx": null,
+        "year": 2006,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [3] presented a comparative study for the task of style classification, which evaluated low-level features, such as SIFT and Color SIFT [1], versus semanticlevel features, namely Classemes [29], which encodes object presence in the image.",
+        "context": null
+    },
+    {
+        "title": "Visual thinking",
+        "author": [
+            "R. Arnheim"
+        ],
+        "venue": "Univ of California Press,",
+        "citeRegEx": "2",
+        "shortCiteRegEx": null,
+        "year": 1969,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Learning and judging such complex visual concepts is an impressive ability of human perception [2].",
+        "context": null
+    },
+    {
+        "title": "Towards automated classification of fine-art painting style: A comparative study",
+        "author": [
+            "R.S. Arora",
+            "A.M. Elgammal"
+        ],
+        "venue": "ICPR,",
+        "citeRegEx": "3",
+        "shortCiteRegEx": null,
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " [3] presented a comparative study for the task of style classification, which evaluated low-level features, such as SIFT and Color SIFT [1], versus semanticlevel features, namely Classemes [29], which encodes object presence in the image.",
+        "context": null
+    },
+    {
+        "title": "Classification of artistic styles using binarized features derived from a deep neural network",
+        "author": [
+            "Y. Bar",
+            "N. Levy",
+            "L. Wolf"
+        ],
+        "venue": null,
+        "citeRegEx": "4",
+        "shortCiteRegEx": "4",
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Bar et al [4] proposed an approach for style classification based on features obtained from a convolution neural network pre-trained on an image categorization task. The work of [4] is the closest to our work in terms of data collection procedure, but the number of images in their collection is half of ours. Bar et al [4] showed that a combination of the The work of Bar et al [4] is the most similar to ours and we compare our final results of these experiments with their reported performance. [4] only performed the task However [4] extract a 3882 dimensional feature vector to their best reported performance.",
+        "context": null
+    },
+    {
+        "title": "Computer Vision and Image Analysis of Art: Proceedings of the SPIE Electronic Imaging Symposium, San Jose Convention Center, 18-22 January 2010",
+        "author": [
+            "A. Bentkowska-Kafel",
+            "J. Coddington"
+        ],
+        "venue": "PROCEEDINGS OF SPIE.",
+        "citeRegEx": "5",
+        "shortCiteRegEx": null,
+        "year": 2010,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We refer the reader to [28, 5] for comprehensive surveys on this subject.",
+        "context": null
+    },
+    {
+        "title": "Automatic extraction of brushstroke orientation from paintings",
+        "author": [
+            "I.E. Berezhnoy",
+            "E.O. Postma",
+            "H.J. van den Herik"
+        ],
+        "venue": "Machine Vision and Applications,",
+        "citeRegEx": "6",
+        "shortCiteRegEx": "6",
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "Classemes and other classifier-based features for efficient object categorization",
+        "author": [
+            "A. Bergamo",
+            "L. Torresani"
+        ],
+        "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence, page 1,",
+        "citeRegEx": "7",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We followed the implementation of [7] and for each image extracted a 2659 dimensional real-valued Classeme feature vector and a 2048 dimensional binary-value Picodes feature.",
+        "context": null
+    },
+    {
+        "title": "Picodes: Learning a compact code for novel-category recognition",
+        "author": [
+            "A. Bergamo",
+            "L. Torresani",
+            "A.W. Fitzgibbon"
+        ],
+        "venue": "Advances in Neural Information Processing Systems, pages 2088\u20132096,",
+        "citeRegEx": "8",
+        "shortCiteRegEx": null,
+        "year": 2011,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Learned Semantic-level Features: On the other hand, for the purpose of semantic representation of the images, we extracted three object-based representation of the images: Classeme [29], Picodes [8], and CNN-based features [16].",
+        "context": null
+    },
+    {
+        "title": "Artistic image classification: An analysis on the printart database",
+        "author": [
+            "G. Carneiro",
+            "N.P. da Silva",
+            "A.D. Bue",
+            "J.P. Costeira"
+        ],
+        "venue": "In ECCV,",
+        "citeRegEx": "9",
+        "shortCiteRegEx": "9",
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Carneiro et al [9] also concluded that low-level texture and color features are not effective because of inconsistent color and texture patterns that describe the visual classes in paintings. ) Previous work [26, 9] used different resources and made smaller collections with limited variability in terms of style, genre and artists.",
+        "context": null
+    },
+    {
+        "title": "Histograms of oriented gradients for human detection",
+        "author": [
+            "N. Dalal",
+            "B. Triggs"
+        ],
+        "venue": "International Conference on Computer Vision & Pattern Recognition, volume 2, pages 886\u2013893, June",
+        "citeRegEx": "10",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Researchers also investigated the use of features based on local edge orientation histograms, such as SIFT [21] and HOG [10].",
+        "context": null
+    },
+    {
+        "title": "Information-theoretic metric learning",
+        "author": [
+            "J.V. Davis",
+            "B. Kulis",
+            "P. Jain",
+            "S. Sra",
+            "I.S. Dhillon"
+        ],
+        "venue": "ICML,",
+        "citeRegEx": "11",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Davis et al [11] introduce the measure of LogDet divergence regularization between two matrices M,M \u2032(can be interpreted as metrics).",
+        "context": null
+    },
+    {
+        "title": "Foundations of Art and Design",
+        "author": [
+            "L. Fichner-Rathus"
+        ],
+        "venue": "Clark Baxter,",
+        "citeRegEx": "13",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " To this might be added physical attributes, like brush strokes as well as subject matter and other descriptive concepts [13].",
+        "context": null
+    },
+    {
+        "title": "Neighbourhood components analysis",
+        "author": [
+            "J. Goldberger",
+            "S. Roweis",
+            "G. Hinton",
+            "R. Salakhutdinov"
+        ],
+        "venue": "NIPS,",
+        "citeRegEx": "14",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Neighborhood Component Analysis (NCA) The objective function of NCA [14] is related to analyzing the nearest neighbors.",
+        "context": null
+    },
+    {
+        "title": "Image processing for artist identification",
+        "author": [
+            "C.R. Johnson",
+            "E. Hendriks",
+            "I.J. Berezhnoy",
+            "E. Brevdo",
+            "S.M. Hughes",
+            "I. Daubechies",
+            "J. Li",
+            "E. Postma",
+            "J.Z. Wang"
+        ],
+        "venue": "Signal Processing Magazine, IEEE, 25(4):37\u201348,",
+        "citeRegEx": "15",
+        "shortCiteRegEx": null,
+        "year": 2008,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "Imagenet classification with deep convolutional neural networks",
+        "author": [
+            "A. Krizhevsky",
+            "I. Sutskever",
+            "G.E. Hinton"
+        ],
+        "venue": "Advances in neural information processing systems, pages 1097\u20131105,",
+        "citeRegEx": "16",
+        "shortCiteRegEx": null,
+        "year": 2012,
+        "abstract": "We trained a large, deep convolutional neural network to classify the 1.2 million high-resolution images in the ImageNet LSVRC-2010 contest into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 37.5% and 17.0%, respectively, which is considerably better than the previous state-of-the-art. The neural network, which has 60 million parameters and 650,000 neurons, consists of five convolutional layers, some of which are followed by max-pooling layers, and three fully connected layers with a final 1000-way softmax. To make training faster, we used non-saturating neurons and a very efficient GPU implementation of the convolution operation. To reduce overfitting in the fully connected layers we employed a recently developed regularization method called \"dropout\" that proved to be very effective. We also entered a variant of this model in the ILSVRC-2012 competition and achieved a winning top-5 test error rate of 15.3%, compared to 26.2% achieved by the second-best entry.",
+        "full_text": "",
+        "sentence": " Learned Semantic-level Features: On the other hand, for the purpose of semantic representation of the images, we extracted three object-based representation of the images: Classeme [29], Picodes [8], and CNN-based features [16]. Convolutional Neural Networks(CNN) [17] showed a remarkable performance for the task of large-scale image categorization [16]. Following this observation we used the last layer of a pre-trained CNN [16] (1000 dimensional real-valued vectors) as another feature vector.",
+        "context": null
+    },
+    {
+        "title": "Gradient-based learning applied to document recognition",
+        "author": [
+            "Y. LeCun",
+            "L. Bottou",
+            "Y. Bengio",
+            "P. Haffner"
+        ],
+        "venue": "Proceedings of the IEEE, 86(11):2278\u20132324,",
+        "citeRegEx": "17",
+        "shortCiteRegEx": null,
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Convolutional Neural Networks(CNN) [17] showed a remarkable performance for the task of large-scale image categorization [16].",
+        "context": null
+    },
+    {
+        "title": "Studying digital imagery of ancient paintings by mixtures of stochastic models",
+        "author": [
+            "J. Li",
+            "J.Z. Wang"
+        ],
+        "venue": "Image Processing, IEEE Transactions on, 13(3):340\u2013353,",
+        "citeRegEx": "18",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "Rhythmic brushstrokes distinguish van gogh from his contemporaries: Findings via automated brushstroke extraction",
+        "author": [
+            "J. Li",
+            "L. Yao",
+            "E. Hendriks",
+            "J.Z. Wang"
+        ],
+        "venue": "IEEE Trans. Pattern Anal. Mach. Intell.,",
+        "citeRegEx": "19",
+        "shortCiteRegEx": null,
+        "year": 2012,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [19, 20]). [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "The classification of style in fine-art painting",
+        "author": [
+            "T.E. Lombardi"
+        ],
+        "venue": "ETD Collection for Pace University. Paper AAI3189084.,",
+        "citeRegEx": "20",
+        "shortCiteRegEx": null,
+        "year": 2005,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " [19, 20]). For example Lombardi [20] has presented a study of the performance of these types of features for the task of artist classification among a small set of artists using several supervised and unsupervised learning methodologies.",
+        "context": null
+    },
+    {
+        "title": "Distinctive image features from scale-invariant keypoints",
+        "author": [
+            "D.G. Lowe"
+        ],
+        "venue": "Int. J. Comput. Vision,",
+        "citeRegEx": "21",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " Researchers also investigated the use of features based on local edge orientation histograms, such as SIFT [21] and HOG [10].",
+        "context": null
+    },
+    {
+        "title": "A digital technique for art authentication",
+        "author": [
+            "S. Lyu",
+            "D. Rockmore",
+            "H. Farid"
+        ],
+        "venue": "Proceedings of the National Academy of Sciences of the United States of America, 101(49):17006\u201317010,",
+        "citeRegEx": "22",
+        "shortCiteRegEx": null,
+        "year": 2004,
+        "abstract": "We describe a computational technique for authenticating works of art, specifically paintings and drawings, from high-resolution digital scans of the original works. This approach builds a statistical model of an artist from the scans of a set of authenticated works against which new works then are compared. The statistical model consists of first- and higher-order wavelet statistics. We show preliminary results from our analysis of 13 drawings that at various times have been attributed to Pieter Bruegel the Elder; these results confirm expert authentications. We also apply these techniques to the problem of determining the number of artists that may have contributed to a painting attributed to Pietro Perugino and again achieve an analysis agreeing with expert opinion.",
+        "full_text": "",
+        "sentence": " [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "Modeling the shape of the scene: A holistic representation of the spatial envelope",
+        "author": [
+            "A. Oliva",
+            "A. Torralba"
+        ],
+        "venue": "IJCV,",
+        "citeRegEx": "23",
+        "shortCiteRegEx": null,
+        "year": 2001,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " For this work, we investigated some state-of-the-art representatives of these two categories: Low-level Features: On one hand, in order to capture low-level visual information we extracted GIST features [23], which are holistic features that are designed for scene categorization. We followed the original implementation of Oliva and Torralba [23] to get a 512 dimensional feature vector.",
+        "context": null
+    },
+    {
+        "title": "Detection of forgery in paintings using supervised learning",
+        "author": [
+            "G. Polatkan",
+            "S. Jafarpour",
+            "A. Brasoveanu",
+            "S. Hughes",
+            "I. Daubechies"
+        ],
+        "venue": "16th IEEE International Conference on Image Processing (ICIP),",
+        "citeRegEx": "24",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [24].",
+        "context": null
+    },
+    {
+        "title": "Hierarchical classification of paintings using face- and brush stroke models",
+        "author": [
+            "R. Sablatnig",
+            "P. Kammerer",
+            "E. Zolda"
+        ],
+        "venue": null,
+        "citeRegEx": "25",
+        "shortCiteRegEx": "25",
+        "year": 1998,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [25, 18, 22, 15, 6, 19]).",
+        "context": null
+    },
+    {
+        "title": "Knowledge discovery of artistic influences: A metric learning approach",
+        "author": [
+            "B. Saleh",
+            "K. Abe",
+            "A. Elgammal"
+        ],
+        "venue": "ICCC,",
+        "citeRegEx": "26",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " More recently, Saleh et al [26] used metric learning approaches for finding influence paths between painters based on their paintings. Moreover, The dataset of [26] has only 1710 images from 66 artists, while we conducted our experiments on 81,449 images painted by 1119 artists. ) Previous work [26, 9] used different resources and made smaller collections with limited variability in terms of style, genre and artists.",
+        "context": null
+    },
+    {
+        "title": "Positive semidefinite metric learning using boosting-like algorithms",
+        "author": [
+            "C. Shen",
+            "J. Kim",
+            "L. Wang",
+            "A. van den Hengel"
+        ],
+        "venue": "Journal of Machine Learning Research,",
+        "citeRegEx": "27",
+        "shortCiteRegEx": "27",
+        "year": 2012,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Shen et al [27] use this fact and instead of learning M , finds a set of weaker metrics that can be combined and give the final metric. For the BoostMetric we slightly adjusted the implementation of [27].",
+        "context": null
+    },
+    {
+        "title": "Computer vision and computer graphics analysis of paintings and drawings: An introduction to the literature",
+        "author": [
+            "D.G. Stork"
+        ],
+        "venue": "Computer Analysis of Images and Patterns, pages 9\u201324. Springer,",
+        "citeRegEx": "28",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " We refer the reader to [28, 5] for comprehensive surveys on this subject.",
+        "context": null
+    },
+    {
+        "title": "Efficient object category recognition using classemes",
+        "author": [
+            "L. Torresani",
+            "M. Szummer",
+            "A. Fitzgibbon"
+        ],
+        "venue": "ECCV,",
+        "citeRegEx": "29",
+        "shortCiteRegEx": null,
+        "year": 2010,
+        "abstract": "Abstract n\u00e3o dispon\u00edvel",
+        "full_text": "",
+        "sentence": " [3] presented a comparative study for the task of style classification, which evaluated low-level features, such as SIFT and Color SIFT [1], versus semanticlevel features, namely Classemes [29], which encodes object presence in the image. Learned Semantic-level Features: On the other hand, for the purpose of semantic representation of the images, we extracted three object-based representation of the images: Classeme [29], Picodes [8], and CNN-based features [16]. For Classeme and Picodes we used the implementation of Bergamo et al [29], resulting in 2659 dimensional Classeme features and 2048 dimensional Picodes features.",
+        "context": null
+    },
+    {
+        "title": "Matconvnet \u2013 convolutional neural networks for matlab",
+        "author": [
+            "A. Vedaldi",
+            "K. Lenc"
+        ],
+        "venue": "CoRR, abs/1412.4564,",
+        "citeRegEx": "30",
+        "shortCiteRegEx": null,
+        "year": 2014,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " We used the implementation of Vedaldi and Lenc [30] to extract 1000 dimensional feature vectors of the last layer of CNN.",
+        "context": null
+    },
+    {
+        "title": "Metric learning for kernel regression",
+        "author": [
+            "K. Weinberger",
+            "G. Tesauro"
+        ],
+        "venue": "Eleventh international conference on artificial intelligence and statistics, pages 608\u2013615,",
+        "citeRegEx": "31",
+        "shortCiteRegEx": null,
+        "year": 2007,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Metric Learning for Kernel Regression (MLKR) Similar to NCA objective function, which minimizes the classification error; Weinberger and Tesauro [31] learn a metric by optimizing the leave-one-out error for the task of kernel regression.",
+        "context": null
+    },
+    {
+        "title": "Distance metric learning for large margin nearest neighbor classification",
+        "author": [
+            "K.Q. Weinberger",
+            "L.K. Saul"
+        ],
+        "venue": "JMLR,",
+        "citeRegEx": "32",
+        "shortCiteRegEx": null,
+        "year": 2009,
+        "abstract": "",
+        "full_text": "",
+        "sentence": " Large Margin Nearest Neighbors (LMNN) LMNN [32] is an approach for learning a Mahalanobis distance, which is widely used because of its global optimum solution and superior performance in practice. Due to the popularity of LMNN, different variations of it have been introduced, including a non-linear version called gb-LMNN [32] which we used in our experiments Metric Learning We used implementation of [32] to learn LMNN metric(both version of linear and non-linear) and MLKR 5.",
+        "context": null
+    }
+]

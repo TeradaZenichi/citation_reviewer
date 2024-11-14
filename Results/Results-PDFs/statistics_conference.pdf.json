@@ -1,0 +1,50 @@
+{
+    "faithfulness": {
+        "mean": 0.33749999999999997,
+        "median": 0.0,
+        "std_dev": 0.41773197148410846,
+        "non_none_percentage": 76.19047619047619
+    },
+    "precision": {
+        "mean": 0.3136601337259232,
+        "median": 0.34807692307692306,
+        "std_dev": 0.1551023977399682,
+        "non_none_percentage": 76.19047619047619
+    },
+    "recall": {
+        "mean": 0.0686151186530197,
+        "median": 0.06732566498921638,
+        "std_dev": 0.03377355913928851,
+        "non_none_percentage": 76.19047619047619
+    },
+    "semantic_similarity": {
+        "mean": 0.8114040588620112,
+        "median": 0.8167020245043108,
+        "std_dev": 0.05149529984177451,
+        "non_none_percentage": 76.19047619047619
+    },
+    "pdf-faithfulness": {
+        "mean": 0.6071428571428571,
+        "median": 0.6499999999999999,
+        "std_dev": 0.23026501693044477,
+        "non_none_percentage": 66.66666666666666
+    },
+    "pdf-precision": {
+        "mean": 0.31296795309953207,
+        "median": 0.2821969696969697,
+        "std_dev": 0.07460730721673649,
+        "non_none_percentage": 66.66666666666666
+    },
+    "pdf-recall": {
+        "mean": 0.11178332531880046,
+        "median": 0.1043123543123543,
+        "std_dev": 0.03798478736094831,
+        "non_none_percentage": 66.66666666666666
+    },
+    "pdf-semantic_similarity": {
+        "mean": 0.8721954964075903,
+        "median": 0.8672183859530189,
+        "std_dev": 0.019327752045968222,
+        "non_none_percentage": 66.66666666666666
+    }
+}
